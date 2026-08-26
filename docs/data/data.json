@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-26T16:04:17.638083+00:00",
-  "total": 77,
+  "updated_at": "2026-08-26T16:56:30.298920+00:00",
+  "total": 74,
   "highlight_count": 18,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 28,
+      "count": 26,
       "error": null
     },
     {
@@ -54,6 +54,50 @@
   ],
   "items": [
     {
+      "title": "Bhotekoshi flash flood: PM Shah says government's entire focus on rescue, search and relief efforts",
+      "link": "https://risingnepaldaily.com/news/85567",
+      "summary": "Kathmandu, Aug 26: Prime Minister Balendra Shah has said that saving lives of the injured persons, searching for the mis...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T16:54:29+00:00",
+      "published_ts": 1787763269.0
+    },
+    {
+      "title": "Rasuwa flood: RSP chair Lamichhane calls all-party meeting",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-rsp-chair-lamichhane-calls-all-party-meeting.html",
+      "summary": "Kathmandu, August 26 Rastriya Swatantra Party (RSP) Chair Rabi Lamichhane has called an all-party meeting to discuss the devastating damage caused by the Rasuwa flood. RSP Organisation Department Chief Pramod Neupane said the meeting has been called to discuss the disaster and the response to the extensive loss of life and property. The meeting will […] The post Rasuwa flood: RSP chair Lamichhane ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T16:18:00+00:00",
+      "published_ts": 1787761080.0
+    },
+    {
+      "title": "India sends 10 tonnes of humanitarian aid to Rasuwa flood victims",
+      "link": "https://english.onlinekhabar.com/india-aid-to-rasuwa-flood-victims.html",
+      "summary": "Kathmandu, August 26 India has sent 10 tonnes of humanitarian assistance and essential medicines to support rescue and relief efforts following the Rasuwa flood in Nepal. Indian External Affairs Minister S Jaishankar announced the assistance in a Facebook post, saying the supplies had been sent to support Nepal’s relief efforts in the flood-affected areas. India […] The post India sends 10 tonnes ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T16:13:01+00:00",
+      "published_ts": 1787760781.0
+    },
+    {
+      "title": "Rasuwa flood: Death toll reaches 95 as hundreds remain missing",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-aug-26.html",
+      "summary": "Kathmandu, August 26 The Rasuwa flood has killed at least 95 people and left hundrends missing after a sudden surge of water swept down from the Tibet side of the Nepal-China border on Wednesday morning. The flood struck the Timure area of Rasuwa at around 9am before surging downstream through Syaphrubesi, Mailung and Betrawati and […] The post Rasuwa flood: Death toll reaches 95 as hundreds remai",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T16:04:45+00:00",
+      "published_ts": 1787760285.0
+    },
+    {
       "title": "Which towns and settlements were worst affected by the Rasuwa flood?",
       "link": "https://english.onlinekhabar.com/rasuwa-flood-damage-places.html",
       "summary": "The Rasuwa flood has caused widespread destruction along the Bhote Koshi and Trishuli river corridors, affecting settlements, markets, roads, bridges and hydropower infrastructure across several districts. The flood entered Nepal from the Tibet side on Wednesday morning and swept downstream from the Timure area in Rasuwa towards Nuwakot and Dhading, with its impact extending further […] The post W",
@@ -63,6 +107,17 @@
       "highlight": false,
       "published": "2026-08-26T15:49:36+00:00",
       "published_ts": 1787759376.0
+    },
+    {
+      "title": "In pictures: Rasuwa flood leaves trail of destruction from Rasuwagadhi to Bidur",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-in-pictures.html",
+      "summary": "Kathmandu, August 26 Communities along the Bhotekoshi and Trishuli rivers were going about their normal routines on Wednesday morning when a sudden flood swept through the area, destroying structures that had taken decades to build within minutes. An aerial assessment by Onlinekhabar several hours after the flood showed widespread destruction across the affected areas, from […] The post In picture",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T15:45:06+00:00",
+      "published_ts": 1787759106.0
     },
     {
       "title": "Rasuwa flood survivor clings to hope as wife, four children remain missing",
@@ -96,17 +151,6 @@
       "highlight": true,
       "published": "2026-08-26T15:11:50+00:00",
       "published_ts": 1787757110.0
-    },
-    {
-      "title": "In pictures: Rasuwa flood leaves trail of destruction from Rasuwagadhi to Bidur",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-in-pictures.html",
-      "summary": "Kathmandu, August 26 Communities along the Bhotekoshi and Trishuli rivers were going about their normal routines on Wednesday morning when a sudden flood swept through the area, destroying structures that had taken decades to build within minutes. An aerial assessment by Onlinekhabar several hours after the flood showed widespread destruction across the affected areas, from […] The post In picture",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T15:05:06+00:00",
-      "published_ts": 1787756706.0
     },
     {
       "title": "Home Minister calls on private sector to support Rasuwa flood relief and rehabilitation",
@@ -549,17 +593,6 @@
       "published_ts": 1787746067.0
     },
     {
-      "title": "Indian PM Modi speaks to PM Balen, offers India’s support after Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/modi-balen-support-rasuwa-flood.html",
-      "summary": "Kathmandu, August 26 Indian Prime Minister Narendra Modi spoke with Nepal Prime Minister Balendra Shah on Wednesday and expressed condolences over the loss of life and property caused by the floods in Rasuwa. Modi said India stands in solidarity with the Nepali people during the difficult situation and is ready to provide all possible humanitarian […] The post Indian PM Modi speaks to PM Balen, of",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T11:57:40+00:00",
-      "published_ts": 1787745460.0
-    },
-    {
       "title": "두산·남동발전 \"네팔 파견직원 상황 파악중\"…대책본부 구성",
       "link": "https://www.yna.co.kr/view/AKR20260826181900003",
       "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 홍수로 현지에서 수력발전소를 건설하던 한국인 근로자들이 연락이 두절되거나 고립되면서 해당 기업들도...",
@@ -569,50 +602,6 @@
       "highlight": true,
       "published": "2026-08-26T11:48:17+00:00",
       "published_ts": 1787744897.0
-    },
-    {
-      "title": "Energy Minister directs immediate assessment of flood damage",
-      "link": "https://english.onlinekhabar.com/energy-minister-directs-immediate-assessment-of-flood-damage.html",
-      "summary": "Kathmandu, August 26 Energy, Water Resources and Irrigation Minister Biraj Bhakta Shrestha has directed officials to immediately collect details of the damage caused by the sudden flooding of the Bhotekoshi River in Rasuwa and surrounding areas and accelerate rescue, relief and rehabilitation efforts. Minister Shrestha convened a meeting of the ministry’s Senior Management Team (SMT) […] The post ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T11:46:49+00:00",
-      "published_ts": 1787744809.0
-    },
-    {
-      "title": "62 flood victims receiving treatment at hospitals in Kathmandu, Rasuwa and Nuwakot",
-      "link": "https://english.onlinekhabar.com/flood-victims-treatment-hospital.html",
-      "summary": "Kathmandu, August 26 At least 62 people injured in the Rasuwa floods are currently receiving treatment at hospitals in Kathmandu, Rasuwa and Nuwakot, authorities said. The injuries were reported after a devastating flood entered Rasuwa from the Tibetan side of China and swept through downstream areas, causing widespread destruction and casualties. According to Nepal Police, […] The post 62 flood v",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T11:43:43+00:00",
-      "published_ts": 1787744623.0
-    },
-    {
-      "title": "Flashflood crosses Narayanghat, no casualties so far",
-      "link": "https://risingnepaldaily.com/news/85555",
-      "summary": "By Shaligram Nepal, Chitwan, Aug. 26: The flashflood that occurred in Rasuwa and flew through the Trishuli and into the...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T11:28:27+00:00",
-      "published_ts": 1787743707.0
-    },
-    {
-      "title": "Bhotekoshi flash flood: 13 injured persons receiving treatment in Kathmandu",
-      "link": "https://risingnepaldaily.com/news/85554",
-      "summary": "Kathmandu, Aug 26: Thirteen among those who were rescued following the Bhoteskoshi flash flood in Rasuwa district this m...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T11:20:36+00:00",
-      "published_ts": 1787743236.0
     },
     {
       "title": "(LEAD) 8 S. Koreans missing, 10 stranded in flood in Nepal",
@@ -712,28 +701,6 @@
       "highlight": true,
       "published": "2026-08-26T10:15:25+00:00",
       "published_ts": 1787739325.0
-    },
-    {
-      "title": "[속보] 정부, 대통령 지시에 신속대응팀 네팔 파견 예정",
-      "link": "https://www.yna.co.kr/view/AKR20260826175900504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:12:50+00:00",
-      "published_ts": 1787739170.0
-    },
-    {
-      "title": "[속보] 네팔 정부, 구조팀 파견해 수색 중…헬기 파견",
-      "link": "https://www.yna.co.kr/view/AKR20260826175800504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:12:40+00:00",
-      "published_ts": 1787739160.0
     },
     {
       "title": "Ice avalanche, debris lake may have triggered Bhotekoshi flood",
