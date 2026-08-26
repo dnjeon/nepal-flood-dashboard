@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-26T16:56:30.298920+00:00",
-  "total": 74,
-  "highlight_count": 18,
+  "updated_at": "2026-08-26T19:05:27.641850+00:00",
+  "total": 42,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 15,
+      "count": 16,
       "error": null
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": true,
-      "count": 5,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "timed out"
     },
     {
       "name": "Yonhap 연합뉴스",
-      "ok": true,
-      "count": 26,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "timed out"
     },
     {
       "name": "Korea Herald",
@@ -48,11 +48,22 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "95 confirmed dead in Bhotekoshi flash flood",
+      "link": "https://risingnepaldaily.com/news/85568",
+      "summary": "Kathmandu, Aug 26: The death toll in the devastating flash flood occurred in Rasuwa district on Wednesday morning reache...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-26T17:00:59+00:00",
+      "published_ts": 1787763659.0
+    },
     {
       "title": "Bhotekoshi flash flood: PM Shah says government's entire focus on rescue, search and relief efforts",
       "link": "https://risingnepaldaily.com/news/85567",
@@ -142,17 +153,6 @@
       "published_ts": 1787757884.0
     },
     {
-      "title": "네팔서 큰홍수로 95명 사망·403명 실종…한국인 9명 연락두절(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826180153104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔 중북부의 히말라야 산악지대에서 대규모 홍수가 발생해 95명이 숨지고 외국인 340여명 등 400여명...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T15:11:50+00:00",
-      "published_ts": 1787757110.0
-    },
-    {
       "title": "Home Minister calls on private sector to support Rasuwa flood relief and rehabilitation",
       "link": "https://english.onlinekhabar.com/home-minister-private-sector-rasuwa.html",
       "summary": "Kathmandu, August 26 Home Minister Sudan Gurung has initiated coordination with the private sector to support relief and rehabilitation efforts for people affected by the devastating floods in Rasuwa. Gurung held discussions with the leadership of the Federation of Nepalese Chambers of Commerce and Industry (FNCCI), Confederation of Nepalese Industries (CNI), Nepal Chamber of Commerce, […] The pos",
@@ -162,28 +162,6 @@
       "highlight": false,
       "published": "2026-08-26T15:03:16+00:00",
       "published_ts": 1787756596.0
-    },
-    {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826189753504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T15:01:14+00:00",
-      "published_ts": 1787756474.0
-    },
-    {
-      "title": "연락두절 한국 근로자들이 건설하던 네팔 UT-1 수력발전소는",
-      "link": "https://www.yna.co.kr/view/AKR20260826192000003",
-      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 지역에서 26일 발생한 대홍수로 현재 연락이 두절된 두산에너빌리티와 한국남동발전 근로자들은 네팔 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:57:41+00:00",
-      "published_ts": 1787756261.0
     },
     {
       "title": "Rasuwa floods disrupt six transmission lines, 220 kV substation destroyed",
@@ -197,17 +175,6 @@
       "published_ts": 1787756215.0
     },
     {
-      "title": "中티베트 네팔접경 산사태로 3명 사망·265명 실종(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826156952083",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 티베트자치구 네팔 접경 지역에서의 산사태로 수백명이 실종되는 등 대규모 인명피해가 발생해 현지 당국이...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T14:53:06+00:00",
-      "published_ts": 1787755986.0
-    },
-    {
       "title": "Rasuwa floods: 95 bodies recovered, 63 injured receiving treatment",
       "link": "https://english.onlinekhabar.com/rasuwa-floods-death-toll.html",
       "summary": "Kathmandu, August 26 The death toll from the devastating floods in Rasuwa’s Bhote Koshi River has reached 95, according to the latest data provided by Nepal Police. The recovered bodies include 27 women, 37 men, six girls, five boys and 20 people whose identities have yet to be established. Of the 95 bodies, one man […] The post Rasuwa floods: 95 bodies recovered, 63 injured receiving treatment ap",
@@ -217,17 +184,6 @@
       "highlight": false,
       "published": "2026-08-26T14:47:00+00:00",
       "published_ts": 1787755620.0
-    },
-    {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826189752504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:43:27+00:00",
-      "published_ts": 1787755407.0
     },
     {
       "title": "PM Balen Shah assures flood victims of government support",
@@ -241,39 +197,6 @@
       "published_ts": 1787754730.0
     },
     {
-      "title": "(3rd LD) 9 S. Koreans missing in Nepal floods; 10 others confirmed safe",
-      "link": "https://en.yna.co.kr/view/AEN20260826009253320",
-      "summary": "SEOUL, Aug. 26 (Yonhap) -- Nine South Koreans were unaccounted for following a m...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:30:13+00:00",
-      "published_ts": 1787754613.0
-    },
-    {
-      "title": "두산·남동발전, 네팔 비상대책본부 가동…현장대응팀 급파(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826181952003",
-      "summary": "(서울·진주=연합뉴스) 장하나 신창용 박정헌 기자 = 네팔 홍수로 현지에서 수력발전소를 건설하던 한국인 근로자들이 연락이 두절되거나 고립되면서 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:25:01+00:00",
-      "published_ts": 1787754301.0
-    },
-    {
-      "title": "네팔 홍수로 한국인 9명 연락두절…고립된 10명은 안전 확인(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826176951504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 네팔에서 일어난 대홍수로 현지에서 일하던 한국인들의 연락이 끊겨 정부가 대응에 나섰다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:24:07+00:00",
-      "published_ts": 1787754247.0
-    },
-    {
       "title": "Rasuwa flood: 403 tourists remain unaccounted for, says NTB",
       "link": "https://english.onlinekhabar.com/rasuwa-flood-tourists-missing.html",
       "summary": "Kathmandu, August 26 A total of 403 tourists remain unaccounted for following the devastating Rasuwa floods, according to the Nepal Tourism Board. The board said 341 foreign tourists and 62 Nepali tourists are currently reported missing. Of the total, 203 are men and 200 are women. Indian nationals make up the largest group of foreign […] The post Rasuwa flood: 403 tourists remain unaccounted for,",
@@ -283,17 +206,6 @@
       "highlight": false,
       "published": "2026-08-26T14:18:43+00:00",
       "published_ts": 1787753923.0
-    },
-    {
-      "title": "[속보] 네팔 홍수 연락두절 한국인, 8명→9명으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260826190600504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:10:36+00:00",
-      "published_ts": 1787753436.0
     },
     {
       "title": "Rasuwa flood death toll reaches 72",
@@ -307,28 +219,6 @@
       "published_ts": 1787753413.0
     },
     {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826189751504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:04:27+00:00",
-      "published_ts": 1787753067.0
-    },
-    {
-      "title": "(URGENT) 10 S. Koreans stranded in Nepal's flood safely evacuated: foreign minister",
-      "link": "https://en.yna.co.kr/view/AEN20260826010500320",
-      "summary": "(END)",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T13:58:34+00:00",
-      "published_ts": 1787752714.0
-    },
-    {
       "title": "CAAN orders airlines not to raise fares amid flood disruption",
       "link": "https://english.onlinekhabar.com/caan-airlines-fares-flood.html",
       "summary": "Kathmandu, August 26 The Civil Aviation Authority of Nepal (CAAN) has directed domestic airlines to ensure ticket availability without increasing current airfares amid disruptions caused by the Rasuwa floods. The regulator instructed airlines to make tickets available at rates below the maximum permitted fare and not increase existing prices, taking into account the current emergency […] The post ",
@@ -340,28 +230,6 @@
       "published_ts": 1787752596.0
     },
     {
-      "title": "[속보] 조현 \"정부 합동 신속대응팀 내일 네팔 현지 파견\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826189900504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:55:57+00:00",
-      "published_ts": 1787752557.0
-    },
-    {
-      "title": "[속보] 조현 \"네팔 홍수 고립 국민 10명 안전 대피 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826189700504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:53:51+00:00",
-      "published_ts": 1787752431.0
-    },
-    {
       "title": "Rasuwa flood washes away three suspension bridges linking Gorkha",
       "link": "https://english.onlinekhabar.com/rasuwa-flood-washes-three-bridge.html",
       "summary": "Kathmandu, August 26 The Rasuwa flood has swept away three suspension bridges connecting Gorkha with neighbouring districts, according to police. The floodwaters of the Trishuli River washed away the suspension bridge linking Dhawadighat in Gandaki Rural Municipality-8, Gorkha, with Charoundi in Dhading. Another bridge connecting Buttar in Gandaki-7, Gorkha, with Chaukitar in Dhading was also […] ",
@@ -371,17 +239,6 @@
       "highlight": false,
       "published": "2026-08-26T13:36:27+00:00",
       "published_ts": 1787751387.0
-    },
-    {
-      "title": "中티베트 네팔접경 산사태로 인명피해…도로 끊기고 통신 두절(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826156951083",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 티베트자치구 네팔 접경 지역에서의 산사태로 대규모 인명피해가 발생해 현지 당국이 수백명의 구조인력을 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:27:05+00:00",
-      "published_ts": 1787750825.0
     },
     {
       "title": "After flashflood swept through Dhunge Bazar in Nuwakot (photo feature)",
@@ -404,39 +261,6 @@
       "highlight": false,
       "published": "2026-08-26T13:15:38+00:00",
       "published_ts": 1787750138.0
-    },
-    {
-      "title": "두산·남동발전, 네팔 사고에 비상대책본부…현장에 인력 급파(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826181951003",
-      "summary": "(서울·진주=연합뉴스) 장하나 신창용 박정헌 기자 = 네팔 홍수로 현지에서 수력발전소를 건설하던 한국인 근로자들이 연락이 두절되거나 고립되면서 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T13:12:35+00:00",
-      "published_ts": 1787749955.0
-    },
-    {
-      "title": "조현 \"네팔 실종 국민 소재 아직 파악 중…구조 최선 다하겠다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826187200504",
-      "summary": "(서울=연합뉴스) 김동현 기자 = 조현 외교부 장관은 26일 네팔에서 갑자기 발생한 홍수로 실종·고립된 한국 국민의 소재와 안전 여부를 아직 파...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:10:34+00:00",
-      "published_ts": 1787749834.0
-    },
-    {
-      "title": "네팔 한인회장 \"10년 동안 살면서 이런 규모 홍수는 처음\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826186400104",
-      "summary": "(하노이·자카르타=연합뉴스) 박진형 손현규 특파원 = \"네팔에서 10년가량 살고 있는데 이런 규모의 홍수는 처음입니다.\"",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:09:35+00:00",
-      "published_ts": 1787749775.0
     },
     {
       "title": "114 people airlifted, rescued from Bhotekoshi flashflood area",
@@ -494,61 +318,6 @@
       "published_ts": 1787748603.0
     },
     {
-      "title": "여야, 네팔 홍수로 18명 연락두절·고립에 \"정부 신속 대응해야\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826185300001",
-      "summary": "(서울=연합뉴스) 류미나 기자 = 여야는 26일 네팔에서 발생한 홍수로 현지에서 연락이 두절되거나 고립된 우리 국민 18명의 조속한 귀환을 위해...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T12:49:21+00:00",
-      "published_ts": 1787748561.0
-    },
-    {
-      "title": "Bhotekoshi flood: Rapid action teams formed, search and rescue efforts underway",
-      "link": "https://risingnepaldaily.com/news/85559",
-      "summary": "Kathmandu, Aug 26: Rapid Action Teams have continued facilitating search and rescue efforts in the areas affected by the...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:49:09+00:00",
-      "published_ts": 1787748549.0
-    },
-    {
-      "title": "Deadly flash floods sweep through northern Nepal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/deadly-flash-floods-sweep-through-northern-nepal?traffic_source=rss",
-      "summary": "Flash floods have swept through northern Nepal, killing at least eight people and washing away homes.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-08-26T12:44:14+00:00",
-      "published_ts": 1787748254.0
-    },
-    {
-      "title": "(2nd LD) 8 S. Koreans missing, 10 stranded in flood in Nepal",
-      "link": "https://en.yna.co.kr/view/AEN20260826009252320",
-      "summary": "SEOUL, Aug. 26 (Yonhap) -- Eight South Koreans were unaccounted for and 10 other...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T12:43:58+00:00",
-      "published_ts": 1787748238.0
-    },
-    {
-      "title": "[영상] 네팔 협곡 삼킨 '괴물 흙탕물'…발전소 건설 한국인들 연락두절",
-      "link": "https://www.yna.co.kr/view/AKR20260826184800704",
-      "summary": "(서울=연합뉴스) 네팔에서 홍수로 한국인들의 연락이 끊기는 일이 발생했습니다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T12:43:14+00:00",
-      "published_ts": 1787748194.0
-    },
-    {
       "title": "26 bank employees out of contact after Rasuwa floods",
       "link": "https://english.onlinekhabar.com/bank-staff-missing-rasuwa-floods.html",
       "summary": "Kathmandu, August 26 At least 26 employees of eight commercial banks remain out of contact following the devastating floods that swept through Rasuwa and surrounding areas, according to the Nepal Bankers’ Association. The employees were working at eight bank branches located around the Bhotekoshi and Trishuli river corridors, including in Timure and Syafrubesi, when the […] The post 26 bank employ",
@@ -571,136 +340,15 @@
       "published_ts": 1787747178.0
     },
     {
-      "title": "Photos: Avalanche floods kill 95, hundreds missing in Nepal’s Himalayas",
-      "link": "https://www.aljazeera.com/gallery/2026/8/26/photos-avalanche-floods-kill-eight-hundreds-missing-in-nepals-himalayas?traffic_source=rss",
-      "summary": "Flash floods devastate Nepal's Himalayas, washing away villages and infrastructure along the Bhotekoshi river.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
+      "title": "Nepal flash flood kills at least 157, leaves nearly 400 missing — including foreign tourists",
+      "link": "https://kathmandupost.com/national/2026/08/26/nepal-flash-flood-kills-at-least-95-leaves-nearly-400-missing-including-foreign-tourists",
+      "summary": "An avalanche on the Chinese side of the border triggered a wall of water with no warning, sweeping through trekking routes and towns along the Bhotekoshi river in one of Nepal’s deadliest disasters in decades.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-08-26T12:22:53+00:00",
-      "published_ts": 1787746973.0
-    },
-    {
-      "title": "네팔 홍수로 19명 사망…외국인 291명 포함 여행객 384명 실종(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826180152104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 히말라야 산악지대에 있는 네팔 중북부 지역에서 대규모 홍수가 발생해 19명이 숨지고 외국인 290여명을 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T12:07:47+00:00",
-      "published_ts": 1787746067.0
-    },
-    {
-      "title": "두산·남동발전 \"네팔 파견직원 상황 파악중\"…대책본부 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260826181900003",
-      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 홍수로 현지에서 수력발전소를 건설하던 한국인 근로자들이 연락이 두절되거나 고립되면서 해당 기업들도...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T11:48:17+00:00",
-      "published_ts": 1787744897.0
-    },
-    {
-      "title": "(LEAD) 8 S. Koreans missing, 10 stranded in flood in Nepal",
-      "link": "https://en.yna.co.kr/view/AEN20260826009251320",
-      "summary": "SEOUL, Aug. 26 (Yonhap) -- Eight South Koreans were unaccounted for and 10 other...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T11:09:49+00:00",
-      "published_ts": 1787742589.0
-    },
-    {
-      "title": "네팔 홍수로 9명 사망…외국인 291명 포함 여행객 384명 실종",
-      "link": "https://www.yna.co.kr/view/AKR20260826180151104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 히말라야 산악지대에 있는 네팔 중북부 지역에서 대규모 홍수가 발생해 9명이 숨지고 외국인 290여명을 포...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T11:06:12+00:00",
-      "published_ts": 1787742372.0
-    },
-    {
-      "title": "[속보] 외교부, 밤 10시30분 장관 주재 네팔 실종자 대책회의",
-      "link": "https://www.yna.co.kr/view/AKR20260826180400504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:53:37+00:00",
-      "published_ts": 1787741617.0
-    },
-    {
-      "title": "[속보] \"네팔 홍수로 외국인 291명 포함 여행객 384명 실종\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826180100104",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:51:23+00:00",
-      "published_ts": 1787741483.0
-    },
-    {
-      "title": "8 S. Koreans missing, 10 stranded in flood in Nepal",
-      "link": "https://en.yna.co.kr/view/AEN20260826009200320",
-      "summary": "SEOUL, Aug. 26 (Yonhap) -- Eight South Koreans were unaccounted for and 10 other...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T10:48:32+00:00",
-      "published_ts": 1787741312.0
-    },
-    {
-      "title": "네팔 홍수로 한국 국민 실종…李대통령 \"수색·구조에 총력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826174100001",
-      "summary": "(서울=연합뉴스) 설승은 기자 = 네팔 홍수로 현지 수력 발전소 건설에 참여 중인 우리 국민이 실종됐다고 청와대가 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:28:25+00:00",
-      "published_ts": 1787740105.0
-    },
-    {
-      "title": "네팔 홍수로 한국인 8명 연락두절·10명 고립…대응팀 파견예정",
-      "link": "https://www.yna.co.kr/view/AKR20260826176900504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 네팔에서 일어난 홍수로 한국인들의 연락이 끊기는 일이 발생했다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T10:17:41+00:00",
-      "published_ts": 1787739461.0
-    },
-    {
-      "title": "[속보] 靑 \"네팔 홍수로 韓국민 실종…李대통령 수색·구조 총력 지시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826176200001",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T10:15:40+00:00",
-      "published_ts": 1787739340.0
-    },
-    {
-      "title": "[속보] 네팔 연락두절 한국인은 남동발전·두산에너빌리티 직원",
-      "link": "https://www.yna.co.kr/view/AKR20260826176600504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T10:15:25+00:00",
-      "published_ts": 1787739325.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Ice avalanche, debris lake may have triggered Bhotekoshi flood",
