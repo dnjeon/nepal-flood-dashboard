@@ -1,0 +1,59 @@
+name: Collect news and deploy dashboard
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    # every 10 minutes (UTC). GitHub may delay scheduled runs under load.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+# Allow the workflow to commit refreshed data and publish Pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Avoid overlapping runs.
+concurrency:
+  group: "nepal-dashboard"
+  cancel-in-progress: false
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install certifi (for TLS roots)
+        run: python -m pip install --quiet certifi
+
+      - name: Collect latest news
+        run: python scripts/collect.py
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- docs/data/data.json; then
+            git add docs/data/data.json
+            git commit -m "chore: refresh news data [skip ci]"
+            git push
+          else
+            echo "No data change."
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

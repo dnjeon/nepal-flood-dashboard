@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# OMC state (local only)
+.omc/
