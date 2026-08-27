@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26T21:48:06.749216+00:00",
-  "total": 61,
-  "highlight_count": 14,
+  "updated_at": "2026-08-27T02:15:30.091174+00:00",
+  "total": 46,
+  "highlight_count": 7,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 20,
+      "count": 18,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 6,
+      "count": 4,
       "error": null
     },
     {
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 14,
+      "count": 2,
       "error": null
     },
     {
@@ -54,48 +54,158 @@
   ],
   "items": [
     {
-      "title": "네팔 대홍수 사망자 160명으로 늘어…\"지진 아닌 빙하붕괴 재앙\"",
-      "link": "https://www.yna.co.kr/view/AKR20260827005600091",
-      "summary": "(샌프란시스코=연합뉴스) 권영전 특파원 = 중국 국경과 맞닿은 네팔 중북부 히말라야 산악지대에서 발생한 대홍수로 인한 사망자가 최소 160명으로...",
+      "title": "Govt appeals for financial support for Rasuwa flood relief and rescue",
+      "link": "https://english.onlinekhabar.com/nepal-govt-flood-donation.html",
+      "summary": "Kathmandu, August 27 The government has appealed for financial assistance to support rescue and relief efforts following the devastating floods in Rasuwa. The Office of the Prime Minister and Council of Ministers has urged individuals and organisations to contribute to the Prime Minister’s Natural Disaster Relief Fund and the Prime Minister’s Relief Fund. The government […] The post Govt appeals f",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T02:05:45+00:00",
+      "published_ts": 1787796345.0
+    },
+    {
+      "title": "국제사회 네팔 대홍수에 긴급 지원…\"우리 국민 찾자\" 총력전",
+      "link": "https://www.yna.co.kr/view/AKR20260827071500009",
+      "summary": "(서울=연합뉴스) 신유리 기자 = 네팔을 덮친 대홍수로 사망자와 실종자가 눈덩이처럼 불어나면서 국제사회는 긴급히 인력과 자원을 투입해 피해 복구...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-08-26T19:52:25+00:00",
-      "published_ts": 1787773945.0
+      "published": "2026-08-27T02:01:41+00:00",
+      "published_ts": 1787796101.0
     },
     {
-      "title": "[속보] 네팔 홍수 사망자 160명으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260827004700091",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T18:01:31+00:00",
-      "published_ts": 1787767291.0
-    },
-    {
-      "title": "네팔 대홍수로 100명 사망·484명 실종…한국인 9명 연락 두절(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826180154104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 중국 국경 인근에 있는 네팔 중북부의 히말라야 산악지대에서 대규모 홍수가 발생해 100명이 숨지고 외국인...",
+      "title": "네팔 홍수에 직원 3명 연락두절…남동발전 본사 '적막 속 비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260827073400052",
+      "summary": "(진주=연합뉴스) 박정헌 기자 = 네팔 수력발전소 건설 현장을 덮친 홍수로 파견 직원 3명이 연락 두절된 한국남동발전은 팽팽한 긴장감 속 비상 ...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": true,
-      "published": "2026-08-26T17:56:11+00:00",
-      "published_ts": 1787766971.0
+      "published": "2026-08-27T02:01:24+00:00",
+      "published_ts": 1787796084.0
     },
     {
-      "title": "[속보] '네팔 대홍수' 사망자 100명으로 늘어…실종자는 403명",
-      "link": "https://www.yna.co.kr/view/AKR20260827004500104",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
+      "title": "Technical report details Bhotekoshi flood’s journey from Tibet to Devghat",
+      "link": "https://english.onlinekhabar.com/technical-report-rasuwa-flood.html",
+      "summary": "Kathmandu, August 27 The Flood Forecasting Division has released a detailed technical report on the devastating floods that swept through the Bhotekoshi, Trishuli and Narayani rivers on Wednesday. According to the report, a lake formed after the river was blocked in Tibet burst, sending a massive surge of water through the Bhotekoshi in Rasuwa and […] The post Technical report details Bhotekoshi f",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:47:56+00:00",
+      "published_ts": 1787795276.0
+    },
+    {
+      "title": "Flood damages hydropower projects, transmission lines in Rasuwa, Nuwakot",
+      "link": "https://risingnepaldaily.com/news/85574",
+      "summary": "Kathmandu, Aug. 27: A devastating flash flood in Rasuwa district on Wednesday has caused significant damage to hydropowe...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:43:39+00:00",
+      "published_ts": 1787795019.0
+    },
+    {
+      "title": "Helicopters to rescue flood-hit, injured people in Rasuwa from early morning",
+      "link": "https://english.onlinekhabar.com/helicopters-to-rescue-flood.html",
+      "summary": "Kathmandu, August 27 The Nepali Army and private helicopters will begin rescuing injured and at-risk people affected by the Bhotekoshi River flood in Rasuwa from early Thursday morning. A meeting of the National Disaster Risk Reduction and Management Authority held earlier Thursday decided to evacuate injured people from the affected areas and provide initial treatment […] The post Helicopters to ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:34:48+00:00",
+      "published_ts": 1787794488.0
+    },
+    {
+      "title": "IFRC releases nearly CHF 1 million for Nepal flood response",
+      "link": "https://english.onlinekhabar.com/red-cross-flood-response.html",
+      "summary": "Kathmandu, August 27 The International Federation of Red Cross and Red Crescent Societies (IFRC) is releasing nearly CHF 1 million (around Rs 189.5 million) in emergency funding to support the Nepal Red Cross Society’s response to severe flash floods in Nepal. The funding, provided through the IFRC’s Disaster Response Emergency Fund (DREF), will help the […] The post IFRC releases nearly CHF 1 mil",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:24:29+00:00",
+      "published_ts": 1787793869.0
+    },
+    {
+      "title": "Rasuwa flood: Rescuers push forward despite limited resources",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-rescuers-push-forward.html",
+      "summary": "Around 9 AM on Wednesday, a sudden, severe flood originating in the Tibetan region of China caused massive loss of life and property in Nepal’s northern districts, including Rasuwa and Nuwakot. The flood, which came down through Rasuwa’s Bhotekoshi River, wreaked havoc across Timure, Syaphrubesi, Melung, Betrawati, Trishuli Bazaar, Dhungebazaar, and other areas. The flood […] The post Rasuwa flood",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:22:00+00:00",
+      "published_ts": 1787793720.0
+    },
+    {
+      "title": "Nepal Army sends 8 tonnes of relief supplies to flood-hit Rasuwa",
+      "link": "https://english.onlinekhabar.com/nepal-army-send-flood-relief.html",
+      "summary": "Kathmandu, August 27 Around eight tonnes of relief supplies have been sent to flood-affected areas of Rasuwa through eight trucks operated by the Nepali Army. The trucks carrying the relief materials were dispatched to the affected areas on Wednesday night. The supplies include 500 mosquito nets, 1,000 dignity kits for children, 220 sleeping bags, 500 […] The post Nepal Army sends 8 tonnes of reli",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:17:05+00:00",
+      "published_ts": 1787793425.0
+    },
+    {
+      "title": "No basis for reports of another major flood in Rasuwa, Nuwakot",
+      "link": "https://english.onlinekhabar.com/rasuwa-not-another-flood.html",
+      "summary": "Kathmandu, August 27 The Flood Forecasting Division under the Department of Hydrology and Meteorology has dismissed reports circulating about another major flood about to hit Rasuwa and Nuwakot, saying there is no official basis for such claims. The division said its information and preliminary analysis so far do not indicate any credible possibility of another […] The post No basis for reports of",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T01:00:42+00:00",
+      "published_ts": 1787792442.0
+    },
+    {
+      "title": "Bhotekoshi floods cause massive human losses and billions in material damage across three districts",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-floods-massive-losses.html",
+      "summary": "The flood in Rasuwa’s Bhotekoshi River has caused massive human and material losses. According to the latest Nepal Police update, 157 bodies have been recovered so far. Riverside settlements in Rasuwa, Dhading, and Nuwakot districts have suffered major damage, with some settlements swept away entirely. With whole settlements washed away, it is still not clear […] The post Bhotekoshi floods cause m",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T00:45:00+00:00",
+      "published_ts": 1787791500.0
+    },
+    {
+      "title": "Ravaging flood leaves trail of destruction",
+      "link": "https://risingnepaldaily.com/news/85572",
+      "summary": "Nuwakot (Dhunge Bazaar), Aug. 27: When 32-year-old Suraj Shrestha left the construction site of the Trishuli-3B hydropow...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T00:41:46+00:00",
+      "published_ts": 1787791306.0
+    },
+    {
+      "title": "Catastrophic Bhotekoshi flood claims 157 lives, several hundred missing",
+      "link": "https://risingnepaldaily.com/news/85570",
+      "summary": "Kathmandu, Aug. 27: At least 157 people have died and 75 others have been injured as of 11 pm after a massive flash floo...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-27T00:38:02+00:00",
+      "published_ts": 1787791082.0
+    },
+    {
+      "title": "9 S. Koreans remain missing in Nepal floods; gov't team to be dispatched",
+      "link": "https://en.yna.co.kr/view/AEN20260827001000315",
+      "summary": "SEOUL, Aug. 27 (Yonhap) -- Nine South Koreans remain unaccounted for following m...",
+      "source": "Yonhap (EN)",
       "flag": "🇰🇷",
       "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T17:44:28+00:00",
-      "published_ts": 1787766268.0
+      "highlight": true,
+      "published": "2026-08-26T22:20:40+00:00",
+      "published_ts": 1787782840.0
     },
     {
       "title": "95 confirmed dead in Bhotekoshi flash flood",
@@ -107,17 +217,6 @@
       "highlight": false,
       "published": "2026-08-26T17:00:59+00:00",
       "published_ts": 1787763659.0
-    },
-    {
-      "title": "Bhotekoshi flash flood: PM Shah says government's entire focus on rescue, search and relief efforts",
-      "link": "https://risingnepaldaily.com/news/85567",
-      "summary": "Kathmandu, Aug 26: Prime Minister Balendra Shah has said that saving lives of the injured persons, searching for the mis...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T16:54:29+00:00",
-      "published_ts": 1787763269.0
     },
     {
       "title": "Rasuwa flood: RSP chair Lamichhane calls all-party meeting",
@@ -197,17 +296,6 @@
       "published_ts": 1787757884.0
     },
     {
-      "title": "네팔서 큰홍수로 95명 사망·403명 실종…한국인 9명 연락두절(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826180153104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔 중북부의 히말라야 산악지대에서 대규모 홍수가 발생해 95명이 숨지고 외국인 340여명 등 400여명...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T15:11:50+00:00",
-      "published_ts": 1787757110.0
-    },
-    {
       "title": "Home Minister calls on private sector to support Rasuwa flood relief and rehabilitation",
       "link": "https://english.onlinekhabar.com/home-minister-private-sector-rasuwa.html",
       "summary": "Kathmandu, August 26 Home Minister Sudan Gurung has initiated coordination with the private sector to support relief and rehabilitation efforts for people affected by the devastating floods in Rasuwa. Gurung held discussions with the leadership of the Federation of Nepalese Chambers of Commerce and Industry (FNCCI), Confederation of Nepalese Industries (CNI), Nepal Chamber of Commerce, […] The pos",
@@ -217,28 +305,6 @@
       "highlight": false,
       "published": "2026-08-26T15:03:16+00:00",
       "published_ts": 1787756596.0
-    },
-    {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826189753504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T15:01:14+00:00",
-      "published_ts": 1787756474.0
-    },
-    {
-      "title": "연락두절 한국 근로자들이 건설하던 네팔 UT-1 수력발전소는",
-      "link": "https://www.yna.co.kr/view/AKR20260826192000003",
-      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 지역에서 26일 발생한 대홍수로 현재 연락이 두절된 두산에너빌리티와 한국남동발전 근로자들은 네팔 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:57:41+00:00",
-      "published_ts": 1787756261.0
     },
     {
       "title": "Rasuwa floods disrupt six transmission lines, 220 kV substation destroyed",
@@ -252,17 +318,6 @@
       "published_ts": 1787756215.0
     },
     {
-      "title": "中티베트 네팔접경 산사태로 3명 사망·265명 실종(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826156952083",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 티베트자치구 네팔 접경 지역에서의 산사태로 수백명이 실종되는 등 대규모 인명피해가 발생해 현지 당국이...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T14:53:06+00:00",
-      "published_ts": 1787755986.0
-    },
-    {
       "title": "Rasuwa floods: 95 bodies recovered, 63 injured receiving treatment",
       "link": "https://english.onlinekhabar.com/rasuwa-floods-death-toll.html",
       "summary": "Kathmandu, August 26 The death toll from the devastating floods in Rasuwa’s Bhote Koshi River has reached 95, according to the latest data provided by Nepal Police. The recovered bodies include 27 women, 37 men, six girls, five boys and 20 people whose identities have yet to be established. Of the 95 bodies, one man […] The post Rasuwa floods: 95 bodies recovered, 63 injured receiving treatment ap",
@@ -272,28 +327,6 @@
       "highlight": false,
       "published": "2026-08-26T14:47:00+00:00",
       "published_ts": 1787755620.0
-    },
-    {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826189752504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:43:27+00:00",
-      "published_ts": 1787755407.0
-    },
-    {
-      "title": "PM Balen Shah assures flood victims of government support",
-      "link": "https://english.onlinekhabar.com/balen-shah-flood-victim-support.html",
-      "summary": "Kathmandu, August 26 Prime Minister Balen Shah has expressed grief over the deaths and devastation caused by the Rasuwa floods, assuring affected families that the government stands with them during the crisis. In a statement posted on Facebook, Shah said the scale of the human and physical damage had left the country shocked. He offered […] The post PM Balen Shah assures flood victims of governme",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T14:32:10+00:00",
-      "published_ts": 1787754730.0
     },
     {
       "title": "(3rd LD) 9 S. Koreans missing in Nepal floods; 10 others confirmed safe",
@@ -307,72 +340,6 @@
       "published_ts": 1787754613.0
     },
     {
-      "title": "두산·남동발전, 네팔 비상대책본부 가동…현장대응팀 급파(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260826181952003",
-      "summary": "(서울·진주=연합뉴스) 장하나 신창용 박정헌 기자 = 네팔 홍수로 현지에서 수력발전소를 건설하던 한국인 근로자들이 연락이 두절되거나 고립되면서 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:25:01+00:00",
-      "published_ts": 1787754301.0
-    },
-    {
-      "title": "네팔 홍수로 한국인 9명 연락두절…고립된 10명은 안전 확인(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260826176951504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 네팔에서 일어난 대홍수로 현지에서 일하던 한국인들의 연락이 끊겨 정부가 대응에 나섰다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:24:07+00:00",
-      "published_ts": 1787754247.0
-    },
-    {
-      "title": "Rasuwa flood: 403 tourists remain unaccounted for, says NTB",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-tourists-missing.html",
-      "summary": "Kathmandu, August 26 A total of 403 tourists remain unaccounted for following the devastating Rasuwa floods, according to the Nepal Tourism Board. The board said 341 foreign tourists and 62 Nepali tourists are currently reported missing. Of the total, 203 are men and 200 are women. Indian nationals make up the largest group of foreign […] The post Rasuwa flood: 403 tourists remain unaccounted for,",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T14:18:43+00:00",
-      "published_ts": 1787753923.0
-    },
-    {
-      "title": "[속보] 네팔 홍수 연락두절 한국인, 8명→9명으로 늘어",
-      "link": "https://www.yna.co.kr/view/AKR20260826190600504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:10:36+00:00",
-      "published_ts": 1787753436.0
-    },
-    {
-      "title": "Rasuwa flood death toll reaches 72",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-death-toll.html",
-      "summary": "Kathmandu, August 26 The death toll from the devastating Rasuwa flood has reached 72, according to the Armed Police Force Nepal. The bodies have been recovered across several districts downstream of the Trishuli River. Chitwan has recorded the highest number of deaths, with 28 bodies recovered — five women, 13 men and 10 people whose […] The post Rasuwa flood death toll reaches 72 appeared first o",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T14:10:13+00:00",
-      "published_ts": 1787753413.0
-    },
-    {
-      "title": "조현 \"네팔 홍수 고립된 국민 10명은 안전대피 확인\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826189751504",
-      "summary": "(서울=연합뉴스) 김동현 김지헌 기자 = 조현 외교부 장관은 네팔 홍수로 고립됐던 한국인 10명의 안전을 확인했다고 26일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-26T14:04:27+00:00",
-      "published_ts": 1787753067.0
-    },
-    {
       "title": "(URGENT) 10 S. Koreans stranded in Nepal's flood safely evacuated: foreign minister",
       "link": "https://en.yna.co.kr/view/AEN20260826010500320",
       "summary": "(END)",
@@ -384,116 +351,6 @@
       "published_ts": 1787752714.0
     },
     {
-      "title": "CAAN orders airlines not to raise fares amid flood disruption",
-      "link": "https://english.onlinekhabar.com/caan-airlines-fares-flood.html",
-      "summary": "Kathmandu, August 26 The Civil Aviation Authority of Nepal (CAAN) has directed domestic airlines to ensure ticket availability without increasing current airfares amid disruptions caused by the Rasuwa floods. The regulator instructed airlines to make tickets available at rates below the maximum permitted fare and not increase existing prices, taking into account the current emergency […] The post ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:56:36+00:00",
-      "published_ts": 1787752596.0
-    },
-    {
-      "title": "[속보] 조현 \"정부 합동 신속대응팀 내일 네팔 현지 파견\"",
-      "link": "https://www.yna.co.kr/view/AKR20260826189900504",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-26T13:55:57+00:00",
-      "published_ts": 1787752557.0
-    },
-    {
-      "title": "Rasuwa flood washes away three suspension bridges linking Gorkha",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-washes-three-bridge.html",
-      "summary": "Kathmandu, August 26 The Rasuwa flood has swept away three suspension bridges connecting Gorkha with neighbouring districts, according to police. The floodwaters of the Trishuli River washed away the suspension bridge linking Dhawadighat in Gandaki Rural Municipality-8, Gorkha, with Charoundi in Dhading. Another bridge connecting Buttar in Gandaki-7, Gorkha, with Chaukitar in Dhading was also […] ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:36:27+00:00",
-      "published_ts": 1787751387.0
-    },
-    {
-      "title": "After flashflood swept through Dhunge Bazar in Nuwakot (photo feature)",
-      "link": "https://risingnepaldaily.com/news/85563",
-      "summary": "By TRN Online, Aug. 26: Dhunge Bazar, a marketplace at the Trishuli river bank in Nuwakot, has been damaged by the flash...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:19:16+00:00",
-      "published_ts": 1787750356.0
-    },
-    {
-      "title": "Bhotekoshi Flashflood: 18 dead bodies found in Trishuli and Narayani",
-      "link": "https://risingnepaldaily.com/news/85562",
-      "summary": "By TRN Online, Kathmandu, Aug. 26: 18 bodies have been found in the Trishuli and Narayani rivers following the the flash...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:15:38+00:00",
-      "published_ts": 1787750138.0
-    },
-    {
-      "title": "114 people airlifted, rescued from Bhotekoshi flashflood area",
-      "link": "https://risingnepaldaily.com/news/85561",
-      "summary": "By TRN Online, Kathmandu, Aug 26: Some 114 injured people have been airlifted and rescued from the flashflood affected a...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:06:34+00:00",
-      "published_ts": 1787749594.0
-    },
-    {
-      "title": "Rasuwa flood: Devastation along riverbanks in Rasuwa and Nuwakot (VIDEO)",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-video.html",
-      "summary": "Kathmandu, August 26 A massive flash flood in the Bhote Koshi River has caused extensive physical and human damage across Rasuwa, Nuwakot and Dhading. The flood, which entered Nepal from the Chinese side, swept away settlements along the Bhote Koshi and Trishuli rivers, damaging roads, bridges and major hydropower projects. The government has declared the […] The post Rasuwa flood: Devastation alo",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T13:03:02+00:00",
-      "published_ts": 1787749382.0
-    },
-    {
-      "title": "Rasuwa flood victims’ bodies found in Gorkha",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-victims-bodies-found-in-gorkha.html",
-      "summary": "Kathmandu, August 26 Bodies believed to be of people swept away by the Rasuwa floods have been recovered at several locations along the Trishuli River in Gorkha, police said. According to the District Police Office, at least seven bodies have been recovered from different locations in Gorkha district. Three male bodies were found together along […] The post Rasuwa flood victims’ bodies found in Go",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:55:39+00:00",
-      "published_ts": 1787748939.0
-    },
-    {
-      "title": "30 injured in Bhotekoshi flashflood undergoing treatment at TUTH",
-      "link": "https://risingnepaldaily.com/news/85560",
-      "summary": "By TRN Online, Kathmandu, Aug. 26: Some 30 people injured in Bhotekoshi flashflood are undergoing treatment at the TU Te...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:54:34+00:00",
-      "published_ts": 1787748874.0
-    },
-    {
-      "title": "Rasuwa flood: Here’s what the government has done so far",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-govt-done.html",
-      "summary": "Kathmandu, August 26 The government has stepped up search, rescue, medical response and relief operations following the massive flash flood in Rasuwa’s Bhote Koshi River that caused widespread damage across Rasuwa, Nuwakot and Dhading on Wednesday. Here is what the government has done so far: 13 helicopters deployed for rescue The government has deployed 13 […] The post Rasuwa flood: Here’s what t",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:50:03+00:00",
-      "published_ts": 1787748603.0
-    },
-    {
       "title": "(2nd LD) 8 S. Koreans missing, 10 stranded in flood in Nepal",
       "link": "https://en.yna.co.kr/view/AEN20260826009252320",
       "summary": "SEOUL, Aug. 26 (Yonhap) -- Eight South Koreans were unaccounted for and 10 other...",
@@ -503,28 +360,6 @@
       "highlight": true,
       "published": "2026-08-26T12:43:58+00:00",
       "published_ts": 1787748238.0
-    },
-    {
-      "title": "26 bank employees out of contact after Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/bank-staff-missing-rasuwa-floods.html",
-      "summary": "Kathmandu, August 26 At least 26 employees of eight commercial banks remain out of contact following the devastating floods that swept through Rasuwa and surrounding areas, according to the Nepal Bankers’ Association. The employees were working at eight bank branches located around the Bhotekoshi and Trishuli river corridors, including in Timure and Syafrubesi, when the […] The post 26 bank employ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:37:58+00:00",
-      "published_ts": 1787747878.0
-    },
-    {
-      "title": "Rasuwa flood cause remains unclear as Nepal, China investigate possible quake-triggered landslide",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-cause-unclear.html",
-      "summary": "Kathmandu, August 26 The cause of the devastating flood in the Bhotekoshi River in Rasuwa remains unclear, with Nepal and China investigating preliminary reports that an earthquake may have triggered a landslide or avalanche that caused the sudden surge. The flood struck the Bhotekoshi area at around 8:40 am on Wednesday, causing extensive damage in […] The post Rasuwa flood cause remains unclear ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-26T12:26:18+00:00",
-      "published_ts": 1787747178.0
     },
     {
       "title": "(LEAD) 8 S. Koreans missing, 10 stranded in flood in Nepal",
