@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-29T14:13:16.608739+00:00",
-  "total": 57,
+  "updated_at": "2026-08-29T17:44:46.509703+00:00",
+  "total": 60,
   "highlight_count": 13,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 19,
+      "count": 20,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 14,
+      "count": 15,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 12,
+      "count": 14,
       "error": null
     },
     {
@@ -53,6 +53,94 @@
     }
   ],
   "items": [
+    {
+      "title": "Four days after flash flood, 7-year-old girl rescued alive from Timure",
+      "link": "https://risingnepaldaily.com/news/85771",
+      "summary": "Rasuwa, Aug 29: Four days after the catastrophic flash flood that ravaged the Bhotekoshi and Trishulli River corridors,...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-29T17:01:49+00:00",
+      "published_ts": 1788022909.0
+    },
+    {
+      "title": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260830001000004",
+      "summary": "(서울=연합뉴스) 정윤주 기자 = 네팔 대규모 홍수로 실종된 한국인 9명을 수색하기 위해 정부 합동 신속대응팀이 임차한 민간 헬기가 29일(현지...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-29T16:25:50+00:00",
+      "published_ts": 1788020750.0
+    },
+    {
+      "title": "Over Rs 5 billion deposited in PM’s relief fund for Bhotekoshi flood response",
+      "link": "https://english.onlinekhabar.com/pm-disaster-relief-fund-2.html",
+      "summary": "Kathmandu, August 29 More than Rs 5 billion has been deposited into the Prime Minister’s Relief Fund for the rescue and relief of people affected by the devastating Bhotekoshi floods. Prime Minister Balen Shah said Rs 5.04 billion has been deposited into accounts maintained at nine commercial banks. According to Shah, an additional US$1.8 million […] The post Over Rs 5 billion deposited in PM’s re",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-29T15:19:13+00:00",
+      "published_ts": 1788016753.0
+    },
+    {
+      "title": "Risk of lake burst in Rasuwa remains low, experts urge caution",
+      "link": "https://english.onlinekhabar.com/risk-lake-burst-rasuwa-low.html",
+      "summary": "Kathmandu, August 29 The immediate risk of a lake burst from a water body formed after an ice-rock avalanche in Rasuwa has decreased, according to technical experts. The Department of Hydrology and Meteorology said the possibility of the lake suddenly bursting has reduced after water began flowing out naturally. Experts have also warned that rumours […] The post Risk of lake burst in Rasuwa remain",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-29T15:09:29+00:00",
+      "published_ts": 1788016169.0
+    },
+    {
+      "title": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829052200004",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-08-29T14:58:24+00:00",
+      "published_ts": 1788015504.0
+    },
+    {
+      "title": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829052100004",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-29T14:56:26+00:00",
+      "published_ts": 1788015386.0
+    },
+    {
+      "title": "[속보] 네팔 대응팀 \"영상 자료 확보·평가했지만 생존자 확인못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829052000004",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-08-29T14:53:41+00:00",
+      "published_ts": 1788015221.0
+    },
+    {
+      "title": "[속보] 네팔 신속대응팀 \"두 차례 헬기 수색했지만 성과 없어\"",
+      "link": "https://www.yna.co.kr/view/AKR20260829051900004",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-08-29T14:51:11+00:00",
+      "published_ts": 1788015071.0
+    },
     {
       "title": "898 people still missing from hydropower projects affected by Bhotekoshi floods",
       "link": "https://english.onlinekhabar.com/people-missing-hydropower.html",
@@ -120,17 +208,6 @@
       "published_ts": 1788007631.0
     },
     {
-      "title": "208 including 43 foreigners trapped in Trishuli-III tunnel rescued alive",
-      "link": "https://risingnepaldaily.com/news/85758",
-      "summary": "Kathmandu, Aug 29: The Nepali Army on Saturday rescued alive 208 persons including 43 foreigners who were trapped inside...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-29T12:06:46+00:00",
-      "published_ts": 1788005206.0
-    },
-    {
       "title": "[네팔 대홍수] 韓 헬기 2대 수색 개시…정부대응팀 9명 추가파견(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260829029252504",
       "summary": "(서울=연합뉴스) 이은정 김지헌 기자 = 한국 정부가 운용하는 헬기가 네팔 대홍수 현장 수색을 개시했다.",
@@ -162,17 +239,6 @@
       "highlight": true,
       "published": "2026-08-29T11:25:03+00:00",
       "published_ts": 1788002703.0
-    },
-    {
-      "title": "Nepal Telecom resumes service at Trishuli 3A site",
-      "link": "https://risingnepaldaily.com/news/85757",
-      "summary": "By A Staff Reporter, Kathmandu, Aug. 29: Nepal Telecom has resumed services through a tower located near the Trishuli 3A...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-29T11:04:01+00:00",
-      "published_ts": 1788001441.0
     },
     {
       "title": "[네팔 대홍수 르포] 수마 할퀴고 간 마을 가보니…온세상이 잿빛 진흙밭",
@@ -274,28 +340,6 @@
       "published_ts": 1787986567.0
     },
     {
-      "title": "'네팔·중국 대홍수' 사망자 633명으로 늘어…실종자 3천명 육박",
-      "link": "https://www.yna.co.kr/view/AKR20260829033300104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔·중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 나흘째인 29일(현지시간) 양국에서 파악...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T06:09:08+00:00",
-      "published_ts": 1787983748.0
-    },
-    {
-      "title": "[네팔 대홍수] 두산·남동발전팀, 현장 헬기수색 시작했지만 기상여건 난항(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260829026051003",
-      "summary": "(성남·서울=연합뉴스) 김윤구 장보인 기자 = 네팔 대홍수로 실종된 한국인 9명을 수색·구조하기 위한 한국남동발전과 두산에너빌리티 현지 대응팀의...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T05:59:48+00:00",
-      "published_ts": 1787983188.0
-    },
-    {
       "title": "616 bodies recovered from Rasuwa flood, 2,301 rescued",
       "link": "https://english.onlinekhabar.com/flood-death-toll-nepal.html",
       "summary": "Kathmandu, August 29 The bodies of 616 people reported missing after the devastating flood in Rasuwa’s Bhotekoshi River on August 26 have been recovered, Nepal Police said. As of 7 am Saturday, 616 bodies had been recovered from various locations, according to police. Of the recovered bodies, 13 were found in Rasuwa, 41 in Nuwakot, […] The post 616 bodies recovered from Rasuwa flood, 2,301 rescued",
@@ -316,17 +360,6 @@
       "highlight": false,
       "published": "2026-08-29T05:36:37+00:00",
       "published_ts": 1787981797.0
-    },
-    {
-      "title": "[네팔 대홍수] 박정원 두산 회장, 네팔행…실종직원 수색현장 직접 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260829032200003",
-      "summary": "(성남=연합뉴스) 김윤구 기자 = 두산에너빌리티 직원 6명이 네팔에서 대홍수로 연락이 끊긴 가운데 박정원 두산그룹 회장이 29일 네팔로 출국한다...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T05:12:35+00:00",
-      "published_ts": 1787980355.0
     },
     {
       "title": "(2nd LD) S. Korean response teams continue search for 9 missing in Nepal floods",
@@ -417,17 +450,6 @@
       "published_ts": 1787922211.0
     },
     {
-      "title": "More than 400 container trucks, 1,000 people unaccounted for after Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/truck-driver-missing-rasuwa-flood.html",
-      "summary": "Kathmandu, August 28 The devastating floods in the Bhotekoshi River have caused unprecedented losses to the cargo container trucking business operating along the Rasuwa-Gyirong border and Trishuli corridor, transport operators said. More than 400 container trucks and over 1,000 people working with them — including drivers, helpers, labourers and traders — are reportedly out of […] The post More th",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-28T12:59:15+00:00",
-      "published_ts": 1787921955.0
-    },
-    {
       "title": "(LEAD) S. Korean rescue teams struggling to reach Nepal flood site as 9 remain missing",
       "link": "https://en.yna.co.kr/view/AEN20260828011151315",
       "summary": "SEOUL, Aug. 28 (Yonhap) -- South Korean government and corporate response teams ...",
@@ -470,6 +492,17 @@
       "highlight": false,
       "published": "2026-08-28T04:47:30+00:00",
       "published_ts": 1787892450.0
+    },
+    {
+      "title": "Nepal flood rescuers battle treacherous terrain and shortages to find the missing",
+      "link": "https://kathmandupost.com/national/2026/08/29/nepal-flood-rescuers-battle-treacherous-terrain-and-shortages-to-find-the-missing",
+      "summary": "Soldiers, police and specialist teams search buried tunnels, collapsed structures and debris three days after the Bhotekoshi disaster, battling treacherous terrain and equipment shortages.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "2,362 people still missing after Bhotekoshi floods, police say",
