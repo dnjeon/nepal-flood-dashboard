@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T20:00:07.953409+00:00",
-  "total": 60,
-  "highlight_count": 13,
+  "updated_at": "2026-08-29T22:35:56.263708+00:00",
+  "total": 50,
+  "highlight_count": 12,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 13,
+      "count": 3,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 기후 리스크에 국내 발전사 해외 수력사업 '비상'",
+      "link": "https://www.yna.co.kr/view/AKR20260829045300003",
+      "summary": "(서울=연합뉴스) 신창용 기자 = 네팔 대홍수로 수력발전소를 건설하던 한국인 근로자 9명이 실종된 가운데 유사한 자연재해가 언제든 되풀이될 수 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-29T20:55:20+00:00",
+      "published_ts": 1788036920.0
+    },
+    {
+      "title": "[네팔 대홍수] \"홍수·산사태에 매우 취약\"…4개월 전 보고서 '경고'",
+      "link": "https://www.yna.co.kr/view/AKR20260829044300003",
+      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 짓던 네팔 어퍼트리슐리(UT)-1 수력발전소가 대홍수로 대부분 소실된 가운데 해...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-29T20:55:10+00:00",
+      "published_ts": 1788036910.0
+    },
     {
       "title": "Rescue team starts supplying oxygen inside Trishuli-III 'A' tunnel",
       "link": "https://risingnepaldaily.com/news/85772",
@@ -109,50 +131,6 @@
       "published_ts": 1788016169.0
     },
     {
-      "title": "[속보] 네팔 신속대응팀 \"민간 헬기 동원해 다른 지점도 수색 계획\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829052200004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T14:58:24+00:00",
-      "published_ts": 1788015504.0
-    },
-    {
-      "title": "[속보] 네팔 신속대응팀 \"당국에 한국인 실종 추정 지역 수색 독려\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829052100004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T14:56:26+00:00",
-      "published_ts": 1788015386.0
-    },
-    {
-      "title": "[속보] 네팔 대응팀 \"영상 자료 확보·평가했지만 생존자 확인못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829052000004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T14:53:41+00:00",
-      "published_ts": 1788015221.0
-    },
-    {
-      "title": "[속보] 네팔 신속대응팀 \"두 차례 헬기 수색했지만 성과 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829051900004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T14:51:11+00:00",
-      "published_ts": 1788015071.0
-    },
-    {
       "title": "898 people still missing from hydropower projects affected by Bhotekoshi floods",
       "link": "https://english.onlinekhabar.com/people-missing-hydropower.html",
       "summary": "Kathmandu, August 29 At least 898 people remain unaccounted for after devastating floods in the Bhotekoshi River swept through hydropower project areas in Rasuwa and Nuwakot. According to data provided by the Independent Power Producers’ Association, Nepal (IPPAN), 11 hydropower projects in the two districts have been affected by the floods. Rescue teams have so […] The post 898 people still missi",
@@ -173,17 +151,6 @@
       "highlight": false,
       "published": "2026-08-29T13:50:10+00:00",
       "published_ts": 1788011410.0
-    },
-    {
-      "title": "'네팔·중국 대홍수' 사망자 682명으로 늘어…실종자 3천명 육박(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260829033351104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔·중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 나흘째인 29일(현지시간) 양국에서 파악...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T12:57:30+00:00",
-      "published_ts": 1788008250.0
     },
     {
       "title": "(4th LD) S. Korean response team heads to flood site in Nepal in search of 9 missing",
@@ -208,39 +175,6 @@
       "published_ts": 1788007854.0
     },
     {
-      "title": "[네팔 대홍수] 박정원 두산 회장, 카트만두 도착…직원 수색현장 직접 지원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260829032251003",
-      "summary": "(성남=연합뉴스) 김윤구 기자 = 두산에너빌리티 직원 6명이 네팔에서 대홍수로 연락이 끊긴 가운데 박정원 두산그룹 회장이 29일 네팔에 도착했다...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T12:47:11+00:00",
-      "published_ts": 1788007631.0
-    },
-    {
-      "title": "[네팔 대홍수] 韓 헬기 2대 수색 개시…정부대응팀 9명 추가파견(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260829029252504",
-      "summary": "(서울=연합뉴스) 이은정 김지헌 기자 = 한국 정부가 운용하는 헬기가 네팔 대홍수 현장 수색을 개시했다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T11:57:12+00:00",
-      "published_ts": 1788004632.0
-    },
-    {
-      "title": "[네팔 대홍수] 中, 네팔 수력발전소 터널 구조에 전문가 급파",
-      "link": "https://www.yna.co.kr/view/AKR20260829048100083",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 정부가 네팔의 대홍수 피해 구조작업을 지원하기 위해 중국인 터널 전문가들을 급파했다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T11:46:09+00:00",
-      "published_ts": 1788003969.0
-    },
-    {
       "title": "Chinese expert team deployed for rescue operation at Trishuli 3 ‘B’ tunnel",
       "link": "https://english.onlinekhabar.com/chinese-team-trishuli-tunnel.html",
       "summary": "Kathmandu, August 29 A six-member Chinese expert team has been deployed to rescue people trapped inside the tunnel of the flood-hit Upper Trishuli 3 ‘B’ Hydropower Project in Rasuwa. The Office of the Prime Minister and Council of Ministers said the team arrived in the Trishuli area by a Chinese helicopter after receiving approval from […] The post Chinese expert team deployed for rescue operation",
@@ -250,28 +184,6 @@
       "highlight": true,
       "published": "2026-08-29T11:25:03+00:00",
       "published_ts": 1788002703.0
-    },
-    {
-      "title": "[네팔 대홍수 르포] 수마 할퀴고 간 마을 가보니…온세상이 잿빛 진흙밭",
-      "link": "https://www.yna.co.kr/view/AKR20260829045200004",
-      "summary": "(다딩[네팔]=연합뉴스) 정윤주 기자 = 집도, 차도, 도로도 온 세상이 잿빛 진흙밭에 파묻혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T10:55:03+00:00",
-      "published_ts": 1788000903.0
-    },
-    {
-      "title": "[네팔 대홍수] 두산·남동발전팀, 악천후·운항불허로 헬기수색 '난항'(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260829026053003",
-      "summary": "(성남·서울=연합뉴스) 김윤구 장보인 기자 = 네팔 대홍수로 실종된 한국인 9명을 수색·구조하기 위해 급파된 두산에너빌리티와 한국남동발전 대응팀...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T10:30:36+00:00",
-      "published_ts": 1787999436.0
     },
     {
       "title": "Rasuwa flood death toll reaches 626, over 2,300 rescued",
@@ -285,17 +197,6 @@
       "published_ts": 1787998922.0
     },
     {
-      "title": "[네팔 대홍수] 아시아 산악 빙하 9만5천개…\"온난화 속 시한폭탄\"",
-      "link": "https://www.yna.co.kr/view/AKR20260829044700009",
-      "summary": "(서울=연합뉴스) 이신영 기자 = 네팔에서 발생한 대규모 홍수의 원인이 기후변화에 따른 빙하 붕괴로 지목되고 있는 가운데 아시아 산악지역에 이처...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T10:10:19+00:00",
-      "published_ts": 1787998219.0
-    },
-    {
       "title": "187 tourists rescued or accounted for after Rasuwa floods",
       "link": "https://english.onlinekhabar.com/tourists-rescued-flood.html",
       "summary": "Kathmandu, August 29 The number of tourists rescued from flood-affected areas or brought back into contact has reached 187, according to the Nepal Tourism Board. The board said in its latest update that 184 tourists have been rescued, while three others have been accounted for after previously being out of contact. However, 420 tourists remain […] The post 187 tourists rescued or accounted for aft",
@@ -305,17 +206,6 @@
       "highlight": false,
       "published": "2026-08-29T08:59:56+00:00",
       "published_ts": 1787993996.0
-    },
-    {
-      "title": "[네팔 대홍수] 복구 비용 최대 7조원 추정…네팔 전체 경제 규모의 10%",
-      "link": "https://www.yna.co.kr/view/AKR20260829042700104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔과 중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 인한 피해 복구에 최대 약 7조원의 비용이...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-29T08:52:48+00:00",
-      "published_ts": 1787993568.0
     },
     {
       "title": "Nepal weighs foreign rescue offers as over 12 countries pledge Rasuwa flood aid",
