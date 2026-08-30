@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-30T18:43:32.792753+00:00",
-  "total": 53,
-  "highlight_count": 17,
+  "updated_at": "2026-08-30T21:37:24.405325+00:00",
+  "total": 48,
+  "highlight_count": 16,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 11,
+      "count": 7,
       "error": null
     },
     {
@@ -48,7 +48,7 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
@@ -85,17 +85,6 @@
       "highlight": true,
       "published": "2026-08-30T15:44:49+00:00",
       "published_ts": 1788104689.0
-    },
-    {
-      "title": "Nepal flood victims fear more bodies are buried under mud",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-nepal-dispatch-dhading-jessica-fm?traffic_source=rss",
-      "summary": "Residents in Dhading, Nepal devastated by flooding say they believe more bodies remain buried beneath thick mud.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-08-30T15:31:36+00:00",
-      "published_ts": 1788103896.0
     },
     {
       "title": "[네팔 대홍수] 구조된 현장소장 \"사방이 물보라…3시간 지나서야 현장 보여\"",
@@ -197,17 +186,6 @@
       "published_ts": 1788094087.0
     },
     {
-      "title": "[네팔 대홍수 르포] 남편 찾아 수백킬로 헤매…\"시신만이라도 찾았으면\"",
-      "link": "https://www.yna.co.kr/view/AKR20260830064500004",
-      "summary": "(치트완[네팔]=연합뉴스) 정윤주 기자 = \"카트만두에 있는 병원, 트리슐리 군사기지, 둔체 군부대 등 수백㎞를 헤맸지만, 소용이 없었어요. 제...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-30T11:41:28+00:00",
-      "published_ts": 1788090088.0
-    },
-    {
       "title": "Flood death toll reaches 788, most bodies recovered in Chitwan",
       "link": "https://english.onlinekhabar.com/flood-death-toll.html",
       "summary": "Kathmandu, August 30 The number of confirmed deaths from the floods originating in Rasuwa has reached 788, according to Nepal Police. As of 3 pm on Sunday, police said 788 bodies had been recovered from flood-affected areas. The highest number of bodies has been recovered in Chitwan, where 264 bodies have been found. Similarly, 194 […] The post Flood death toll reaches 788, most bodies recovered i",
@@ -217,17 +195,6 @@
       "highlight": false,
       "published": "2026-08-30T11:15:34+00:00",
       "published_ts": 1788088534.0
-    },
-    {
-      "title": "[네팔 대홍수] 실종자 가족들 \"생존 가능성 꺼져간다\" 눈물",
-      "link": "https://www.yna.co.kr/view/AKR20260830062800084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 초토화한 대규모 홍수로부터 닷새째인 30일(현지시간) 실종자들의 생존...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-30T11:11:17+00:00",
-      "published_ts": 1788088277.0
     },
     {
       "title": "Man survives flood by jumping from bus, but wife and fellow villagers missing",
@@ -305,28 +272,6 @@
       "highlight": false,
       "published": "2026-08-30T09:41:05+00:00",
       "published_ts": 1788082865.0
-    },
-    {
-      "title": "[네팔 대홍수] 中·네팔, 물 데이터 공유 확대…中구호물자 50t 도착(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260830016951009",
-      "summary": "(서울·상하이=연합뉴스) 권숙희 기자 차병섭 특파원 = 왕이 중국공산당 중앙외사판공실 주임(외교부장 겸임)과 시시르 카날 네팔 외교장관이 29일...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-30T09:37:38+00:00",
-      "published_ts": 1788082658.0
-    },
-    {
-      "title": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동'(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260830026951003",
-      "summary": "(서울·성남=연합뉴스) 장하나 장보인 기자 = 두산에너빌리티와 한국남동발전이 네팔 대홍수로 실종된 직원들을 찾기 위해 다각도로 수색·구조 작업을...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-30T08:44:23+00:00",
-      "published_ts": 1788079463.0
     },
     {
       "title": "(4th LD) S. Korean response team heads to flood site in Nepal in search of 9 missing",
