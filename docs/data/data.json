@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-29T22:35:56.263708+00:00",
+  "updated_at": "2026-08-30T00:40:37.638262+00:00",
   "total": 50,
-  "highlight_count": 12,
+  "highlight_count": 9,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
@@ -54,26 +54,37 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 기후 리스크에 국내 발전사 해외 수력사업 '비상'",
-      "link": "https://www.yna.co.kr/view/AKR20260829045300003",
-      "summary": "(서울=연합뉴스) 신창용 기자 = 네팔 대홍수로 수력발전소를 건설하던 한국인 근로자 9명이 실종된 가운데 유사한 자연재해가 언제든 되풀이될 수 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T20:55:20+00:00",
-      "published_ts": 1788036920.0
+      "title": "Ground Zero: Bhotekoshi, a raging river, a warning, and minutes to escape",
+      "link": "https://risingnepaldaily.com/news/85776",
+      "summary": "Kathmandu, Aug. 30: For many citizens, August 26, 2026 began as an ordinary day.At around 8:45 am on Wednesday, life in...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-30T00:14:02+00:00",
+      "published_ts": 1788048842.0
     },
     {
-      "title": "[네팔 대홍수] \"홍수·산사태에 매우 취약\"…4개월 전 보고서 '경고'",
-      "link": "https://www.yna.co.kr/view/AKR20260829044300003",
-      "summary": "(서울=연합뉴스) 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 짓던 네팔 어퍼트리슐리(UT)-1 수력발전소가 대홍수로 대부분 소실된 가운데 해...",
+      "title": "Families hop from hospital to hospital in search of missing relatives",
+      "link": "https://risingnepaldaily.com/news/85775",
+      "summary": "By Raman PaudelKathmandu, Aug. 30: On Saturday afternoon, a rescue team transported an injured person from Rasuwa to TU...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-30T00:11:22+00:00",
+      "published_ts": 1788048682.0
+    },
+    {
+      "title": "수출입은행, 네팔 대홍수 피해 구호에 2억원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260829033800002",
+      "summary": "(서울=연합뉴스) 임지우 기자 = 한국수출입은행은 네팔에서 발생한 대홍수 피해 이재민 구호를 위해 대한적십자사에 2억원을 후원했다고 30일 밝혔...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T20:55:10+00:00",
-      "published_ts": 1788036910.0
+      "highlight": false,
+      "published": "2026-08-29T23:00:01+00:00",
+      "published_ts": 1788044401.0
     },
     {
       "title": "Rescue team starts supplying oxygen inside Trishuli-III 'A' tunnel",
@@ -96,17 +107,6 @@
       "highlight": false,
       "published": "2026-08-29T17:01:49+00:00",
       "published_ts": 1788022909.0
-    },
-    {
-      "title": "네팔 신속대응팀 \"두차례 헬기 수색, 실종자 관련 성과 없어\"",
-      "link": "https://www.yna.co.kr/view/AKR20260830001000004",
-      "summary": "(서울=연합뉴스) 정윤주 기자 = 네팔 대규모 홍수로 실종된 한국인 9명을 수색하기 위해 정부 합동 신속대응팀이 임차한 민간 헬기가 29일(현지...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-29T16:25:50+00:00",
-      "published_ts": 1788020750.0
     },
     {
       "title": "Over Rs 5 billion deposited in PM’s relief fund for Bhotekoshi flood response",
