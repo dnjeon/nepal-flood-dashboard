@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-30T15:22:42.617983+00:00",
-  "total": 54,
-  "highlight_count": 16,
+  "updated_at": "2026-08-30T18:43:32.792753+00:00",
+  "total": 53,
+  "highlight_count": 17,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 9,
+      "count": 11,
       "error": null
     },
     {
@@ -53,6 +53,50 @@
     }
   ],
   "items": [
+    {
+      "title": "대홍수 사망자 800명 넘겨…네팔·中, 3천여 실종자 구조 '사력'(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260830043652084",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 휩쓴 대규모 홍수 발생 닷새째인 30일(현지시간) 양국 당국이 3천 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-08-30T17:45:30+00:00",
+      "published_ts": 1788111930.0
+    },
+    {
+      "title": "Let us all help the government respond better to this Himalayan tsunami",
+      "link": "https://english.onlinekhabar.com/himalayan-tsunami-rasuwa-flood.html",
+      "summary": "I am writing this after taking a short break from the campaign to support the government in this disaster. What began in Rasuwa is not the kind of ordinary landslide or flood Nepal sees every year. It is something much bigger—a Himalayan tsunami that has shaken an entire region. The disaster struck last Wednesday and […] The post Let us all help the government respond better to this Himalayan tsun",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-08-30T15:55:09+00:00",
+      "published_ts": 1788105309.0
+    },
+    {
+      "title": "[네팔 대홍수] 신속대응팀 \"헬기 이륙허가 변수에 육로 수색 시도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260831000800004",
+      "summary": "(카트만두=연합뉴스) 정윤주 기자 = 네팔 대규모 홍수로 실종된 한국인 9명을 수색하기 위해 파견된 정부 합동 신속대응팀이 헬기 운행에 난항을 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-30T15:44:49+00:00",
+      "published_ts": 1788104689.0
+    },
+    {
+      "title": "Nepal flood victims fear more bodies are buried under mud",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-nepal-dispatch-dhading-jessica-fm?traffic_source=rss",
+      "summary": "Residents in Dhading, Nepal devastated by flooding say they believe more bodies remain buried beneath thick mud.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-08-30T15:31:36+00:00",
+      "published_ts": 1788103896.0
+    },
     {
       "title": "[네팔 대홍수] 구조된 현장소장 \"사방이 물보라…3시간 지나서야 현장 보여\"",
       "link": "https://www.yna.co.kr/view/AKR20260830072400004",
@@ -153,28 +197,6 @@
       "published_ts": 1788094087.0
     },
     {
-      "title": "Road collapses in Nepal landslide four days after floods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss",
-      "summary": "A vital highway weakened by Nepal’s floodwaters has collapsed four days after the catastrophic glacial outburst.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-08-30T12:14:53+00:00",
-      "published_ts": 1788092093.0
-    },
-    {
-      "title": "Bhotekoshi floods: 2,715 people rescued, 1321 still missing",
-      "link": "https://risingnepaldaily.com/news/85817",
-      "summary": "Kathmandu, Aug 30: A total of 2,715 people have been rescued from Rasuwa, Nuwakot, Dhading and other areas affected by t...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-30T12:09:16+00:00",
-      "published_ts": 1788091756.0
-    },
-    {
       "title": "[네팔 대홍수 르포] 남편 찾아 수백킬로 헤매…\"시신만이라도 찾았으면\"",
       "link": "https://www.yna.co.kr/view/AKR20260830064500004",
       "summary": "(치트완[네팔]=연합뉴스) 정윤주 기자 = \"카트만두에 있는 병원, 트리슐리 군사기지, 둔체 군부대 등 수백㎞를 헤맸지만, 소용이 없었어요. 제...",
@@ -206,28 +228,6 @@
       "highlight": false,
       "published": "2026-08-30T11:11:17+00:00",
       "published_ts": 1788088277.0
-    },
-    {
-      "title": "Fresh flood in Trishuli sweeps away suspension bridge",
-      "link": "https://risingnepaldaily.com/news/85816",
-      "summary": "Gorkha, Aug 30: A fresh flood in the Trishuli River swept away a suspension bridge today. The bridge connects Ghyalchowk...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-30T11:10:37+00:00",
-      "published_ts": 1788088237.0
-    },
-    {
-      "title": "NRNA distributes relief materials in Rasuwa",
-      "link": "https://risingnepaldaily.com/news/85815",
-      "summary": "By A Staff Reporter, Kathmandu, Aug. 30: The Non-Resident Nepali Association (NRNA) has distributed 3000 items of clothi...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-30T11:00:36+00:00",
-      "published_ts": 1788087636.0
     },
     {
       "title": "Man survives flood by jumping from bus, but wife and fellow villagers missing",
@@ -316,17 +316,6 @@
       "highlight": false,
       "published": "2026-08-30T09:37:38+00:00",
       "published_ts": 1788082658.0
-    },
-    {
-      "title": "Rasuwa flood death toll reaches 768; 160 injured discharged",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-death-toll-reaches-768-160-injured-discharged.html",
-      "summary": "Kathmandu, August 30 The bodies of 768 people who died in the floods triggered by the Bhotekoshi River in Rasuwa have been recovered. According to Nepal Police, 768 bodies had been recovered as of 2 pm Sunday. The highest number of bodies, 264, were recovered in Chitwan. Similarly, 194 were recovered in East Nawalparasi, 100 […] The post Rasuwa flood death toll reaches 768; 160 injured discharged ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-30T09:20:52+00:00",
-      "published_ts": 1788081652.0
     },
     {
       "title": "[네팔 대홍수] \"실종좌표 더 수색해야\"…기업대응팀, 헬기 못띄워 '발동동'(종합)",
@@ -448,6 +437,17 @@
       "highlight": false,
       "published": "2026-08-28T04:47:30+00:00",
       "published_ts": 1787892450.0
+    },
+    {
+      "title": "The ‘all-weather’ Rasuwa-Kerung route is no more",
+      "link": "https://kathmandupost.com/national/2026/08/30/the-all-weather-rasuwa-kerung-route-is-no-more",
+      "summary": "With the main gateway to China destroyed and alternatives vulnerable to floods, landslides and harsh weather, traders face another uncertain festival season.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Upper Trishuli tunnel crown found, but no response from inside",
@@ -629,17 +629,6 @@
       "title": "Updates: Bhotekoshi flood toll reaches 626 as 2,426 remain unaccounted for",
       "link": "https://kathmandupost.com/national/2026/08/29/updates-bhotekoshi-flood-death-toll-reaches-616-hundreds-still-missing",
       "summary": "Three days after the disaster, search teams continue looking for missing people across northern and central Nepal.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal brings new rules for foreign journalists covering Bhotekoshi flooding",
-      "link": "https://kathmandupost.com/national/2026/08/29/nepal-brings-new-rules-for-foreign-journalists-covering-bhotekoshi-flooding",
-      "summary": "Correspondents must submit passports and visas, identity cards issued by their organisation, details of pay and perks, among other things.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
