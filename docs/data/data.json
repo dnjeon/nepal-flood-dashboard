@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-31T17:36:22.253438+00:00",
-  "total": 58,
-  "highlight_count": 15,
+  "updated_at": "2026-08-31T22:02:05.357023+00:00",
+  "total": 50,
+  "highlight_count": 10,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 17,
+      "count": 8,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "(3rd LD) Despite helicopter, drone searches, no meaningful progress in finding missing Koreans in Nepal: official",
+      "link": "https://en.yna.co.kr/view/AEN20260831006053315",
+      "summary": "SEOUL, Sept. 1 (Yonhap) -- A South Korean government rapid response team has sea...",
+      "source": "Yonhap (EN)",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-08-31T17:49:29+00:00",
+      "published_ts": 1788198569.0
+    },
     {
       "title": "네팔, 발전소 6곳에 '고립 추정' 실종자 900여명 구조 총력전(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260831126352084",
@@ -285,17 +296,6 @@
       "published_ts": 1788178829.0
     },
     {
-      "title": "[네팔 대홍수] '실종 한국인 9명 근무' 수력발전소 터널서 시신1구 발견(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260831166352084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 실종된 한국인 9명이 근무했던 네팔 수력발전소의 터널에서 시신 한 구가 발견됐다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T12:08:38+00:00",
-      "published_ts": 1788178118.0
-    },
-    {
       "title": "Nine S. Koreans rescued from Nepal floods return home",
       "link": "https://en.yna.co.kr/view/AEN20260831010300320",
       "summary": "SEOUL, Aug. 31 (Yonhap) -- Nine out of the 10 South Koreans who were safely resc...",
@@ -329,50 +329,6 @@
       "published_ts": 1788174668.0
     },
     {
-      "title": "[네팔 대홍수 르포] 참사 엿새째 복구 분주…\"살 사람은 어떻게든 살아야죠\"",
-      "link": "https://www.yna.co.kr/view/AKR20260831169100004",
-      "summary": "(비두르[네팔]=연합뉴스) 정윤주 기자 = 네팔 북부 바그마티주 라수와 지역을 덮친 대규모 홍수가 발생한 지 엿새째인 31일(현지시간).",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T11:08:33+00:00",
-      "published_ts": 1788174513.0
-    },
-    {
-      "title": "[네팔 대홍수] '실종 한국인 9명 근무' 수력발전소 터널서 시신1구 발견(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831166351084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 실종된 한국인 9명이 근무했던 네팔 수력발전소의 터널에서 시신 한 구가 발견됐다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T11:03:51+00:00",
-      "published_ts": 1788174231.0
-    },
-    {
-      "title": "[네팔 대홍수] 빠른 대피 지시로 학생 900명 구한 교장…6세 소녀도 극적 구조",
-      "link": "https://www.yna.co.kr/view/AKR20260831173600073",
-      "summary": "(도쿄=연합뉴스) 조성미 특파원 = 네팔의 한 중학교 교장이 홍수 사태 당시 물이 들이닥치기 불과 10분 전에 학생과 교직원 900여명을 신속히...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T11:03:12+00:00",
-      "published_ts": 1788174192.0
-    },
-    {
-      "title": "[네팔 대홍수] 고립됐던 한국인 9명 무사귀국…현장소장은 잔류",
-      "link": "https://www.yna.co.kr/view/AKR20260831173700003",
-      "summary": "(성남=연합뉴스) 홍규빈 기자 = 네팔 대홍수로 한때 피해지역에 고립됐던 한국인 10명 중 9명이 무사히 귀국했다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T10:59:04+00:00",
-      "published_ts": 1788173944.0
-    },
-    {
       "title": "Relief distribution facing problems as government acts alone: Janamat General Secretary Singh",
       "link": "https://english.onlinekhabar.com/relief-distribution-facing-problems-as-government-acts-alone-janamat-general-secretary-singh.html",
       "summary": "Kathmandu, August 31 Janamat Party General Secretary Chandan Singh, who recently returned to Kathmandu after visiting areas affected by the Rasuwa floods, has said that major challenges remain in search and rescue operations, relief distribution and the management of displaced people. Singh, who travelled to the affected areas with relief supplies, said there were also […] The post Relief distribu",
@@ -382,17 +338,6 @@
       "highlight": false,
       "published": "2026-08-31T10:51:24+00:00",
       "published_ts": 1788173484.0
-    },
-    {
-      "title": "[속보] 네팔 홍수로 고립됐던 근로자 9명 귀국…현장소장은 잔류",
-      "link": "https://www.yna.co.kr/view/AKR20260831172800003",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T10:50:00+00:00",
-      "published_ts": 1788173400.0
     },
     {
       "title": "From cooking to collecting donations, celebrities join flood relief effort",
@@ -417,28 +362,6 @@
       "published_ts": 1788172761.0
     },
     {
-      "title": "[네팔 대홍수] 두산에너빌 헬기, 사무동·상부댐 수색…모든 수단 강구(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260831051152003",
-      "summary": "(서울·성남=연합뉴스) 장하나 홍규빈 장보인 기자 = 네팔 대홍수로 실종된 두산에너빌리티와 한국남동발전 직원 9명을 찾기 위한 헬기 수색 작업이...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T10:15:29+00:00",
-      "published_ts": 1788171329.0
-    },
-    {
-      "title": "[네팔 대홍수] '실종 한국인 9명 근무' 수력발전소 터널서 시신 1구 발견",
-      "link": "https://www.yna.co.kr/view/AKR20260831166300084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 실종된 한국인 9명이 근무했던 네팔 수력발전소의 터널에서 시신 한 구가 발견됐다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T09:39:56+00:00",
-      "published_ts": 1788169196.0
-    },
-    {
       "title": "(LEAD) Gov't team begins ground search for 9 missing Koreans in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260831006051315",
       "summary": "SEOUL, Aug. 31 (Yonhap) -- A government joint rapid response team on Monday bega...",
@@ -448,17 +371,6 @@
       "highlight": true,
       "published": "2026-08-31T09:17:55+00:00",
       "published_ts": 1788167875.0
-    },
-    {
-      "title": "[네팔 대홍수] 신속대응팀, 사고현장 인근 접근해 숙영계획…헬기수색도(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831089551504",
-      "summary": "(서울=연합뉴스) 김지헌 민선희 기자 = 네팔 대홍수로 실종된 한국인 9명을 찾기 위해 정부 신속대응팀이 육상을 통해 현장 접근을 시도한다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T09:15:08+00:00",
-      "published_ts": 1788167708.0
     },
     {
       "title": "Gov't team begins ground search for 9 missing Koreans in Nepal floods",
