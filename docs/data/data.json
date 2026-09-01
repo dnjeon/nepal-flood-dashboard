@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-31T22:02:05.357023+00:00",
-  "total": 50,
-  "highlight_count": 10,
+  "updated_at": "2026-09-01T01:15:52.383602+00:00",
+  "total": 44,
+  "highlight_count": 8,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 8,
+      "count": 3,
       "error": null
     },
     {
@@ -54,6 +54,72 @@
   ],
   "items": [
     {
+      "title": "When the Home Minister becomes a rescuer, who leads the disaster response?",
+      "link": "https://english.onlinekhabar.com/home-minister-disaster-response-issue.html",
+      "summary": "Nepal’s disaster response is facing growing questions over command and coordination after Home Minister Sudan Gurung personally joined the search for missing people inside a tunnel in the Trishuli area, despite the Home Ministry’s broader responsibility for coordinating the country’s disaster response. Under the Government of Nepal (Allocation of Business) Rules, 2026, the Home Minister […] The po",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-01T01:15:00+00:00",
+      "published_ts": 1788225300.0
+    },
+    {
+      "title": "韓긴급구호대, 오늘 밤 네팔로 출발…44명 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260901054151504",
+      "summary": "(서울=연합뉴스) 김지헌 기자 = 대홍수가 발생한 네팔에 대한민국 해외긴급구호대(KDRT)가 파견된다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-01T00:51:31+00:00",
+      "published_ts": 1788223891.0
+    },
+    {
+      "title": "Global warming is real: Manisha Koirala",
+      "link": "https://risingnepaldaily.com/news/85889",
+      "summary": "Kathmandu, Sept.1: As Nepal is still under the grip of widespread devastation and losses caused by the recent Bhotekoshi...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-01T00:38:10+00:00",
+      "published_ts": 1788223090.0
+    },
+    {
+      "title": "[속보] 韓긴급구호대, 오늘 네팔로 출발…44명 규모",
+      "link": "https://www.yna.co.kr/view/AKR20260901054100504",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-01T00:37:26+00:00",
+      "published_ts": 1788223046.0
+    },
+    {
+      "title": "[네팔 대홍수] 인천공항공사, 긴급구호금 1억원 기탁",
+      "link": "https://www.yna.co.kr/view/AKR20260901049500065",
+      "summary": "(인천=연합뉴스) 천정인 기자 = 인천국제공항공사는 네팔 히말라야 산악지대에서 발생한 대홍수로 피해를 본 이재민을 위해 긴급구호금 1억원을 전달...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-01T00:31:57+00:00",
+      "published_ts": 1788222717.0
+    },
+    {
+      "title": "Relentless Rescue Efforts",
+      "link": "https://risingnepaldaily.com/news/85885",
+      "summary": "Nepal is passing through a moment of crisis triggered by the Bhotekoshi flash flood that caused huge damage to lives and...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-01T00:13:37+00:00",
+      "published_ts": 1788221617.0
+    },
+    {
       "title": "(3rd LD) Despite helicopter, drone searches, no meaningful progress in finding missing Koreans in Nepal: official",
       "link": "https://en.yna.co.kr/view/AEN20260831006053315",
       "summary": "SEOUL, Sept. 1 (Yonhap) -- A South Korean government rapid response team has sea...",
@@ -65,39 +131,6 @@
       "published_ts": 1788198569.0
     },
     {
-      "title": "네팔, 발전소 6곳에 '고립 추정' 실종자 900여명 구조 총력전(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260831126352084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대규모 홍수 발생 엿새째인 31일(현지시간) 네팔 당국이 피해...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T17:13:37+00:00",
-      "published_ts": 1788196417.0
-    },
-    {
-      "title": "Bhotekoshi flood: DNA testing process begins to identify bodies",
-      "link": "https://risingnepaldaily.com/news/85875",
-      "summary": "Kathmandu, Aug 31: A process has been forwarded to allow the relatives of Nepali and foreign nationals reported missing...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-31T16:04:16+00:00",
-      "published_ts": 1788192256.0
-    },
-    {
-      "title": "Prime Minister's Disaster Relief Fund continues to receive donations",
-      "link": "https://risingnepaldaily.com/news/85874",
-      "summary": "Kathmandu, Aug 31: The number of people contributing financial aid for the August 26 Bhotekoshi flood survivors is incre...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-31T16:00:54+00:00",
-      "published_ts": 1788192054.0
-    },
-    {
       "title": "Rescue team still unable to enter Trishuli-3A tunnel as mud, water block access",
       "link": "https://english.onlinekhabar.com/rescue-trishuli-3a-tunnel.html",
       "summary": "Dhunche, August 31 A rescue team working at the Trishuli-3A hydropower project has been unable to enter the tunnel leading to its underground powerhouse, with mud and water continuing to block the way. The team discovered a cable access tunnel on Sunday and had hoped to reach the powerhouse from there. But Nepal Electricity Authority […] The post Rescue team still unable to enter Trishuli-3A tunne",
@@ -107,17 +140,6 @@
       "highlight": false,
       "published": "2026-08-31T15:48:54+00:00",
       "published_ts": 1788191334.0
-    },
-    {
-      "title": "[네팔 대홍수] 신속대응팀 \"헬기·드론 수색, 육로 이동도…성과 아직\"",
-      "link": "https://www.yna.co.kr/view/AKR20260901001500004",
-      "summary": "(카트만두=연합뉴스) 정윤주 기자 = 네팔에 파견된 정부 합동 신속대응팀이 대홍수 발생 엿새째인 31일(현지시간) 사고 지역에 헬기와 드론을 투...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T15:46:59+00:00",
-      "published_ts": 1788191219.0
     },
     {
       "title": "198 still missing from Upper Trishuli-3B hydropower project after Bhotekoshi flood",
@@ -153,17 +175,6 @@
       "published_ts": 1788188165.0
     },
     {
-      "title": "[속보] 신속대응팀 \"네팔군과 수색 협의…드론 활용 수색도 했다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260831184500004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T14:33:44+00:00",
-      "published_ts": 1788186824.0
-    },
-    {
       "title": "Nepal Police warns against eating fish, drinking water from Bhotekoshi and Trishuli",
       "link": "https://english.onlinekhabar.com/dont-eat-fish-trishuli-river.html",
       "summary": "Kathmandu, August 31 Nepal Police has urged people not to eat fish or other food products taken from the Bhotekoshi and Trishuli rivers following the devastating floods in Rasuwa. Police said floodwaters carried bodies, dead animals, waste and other contaminated materials into the rivers, potentially introducing harmful pathogens into the water. People have also been […] The post Nepal Police warn",
@@ -173,28 +184,6 @@
       "highlight": false,
       "published": "2026-08-31T14:33:12+00:00",
       "published_ts": 1788186792.0
-    },
-    {
-      "title": "[속보] 네팔 신속대응팀 \"둔체까지 육로로 도착…활동 시작\"",
-      "link": "https://www.yna.co.kr/view/AKR20260831184400004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T14:30:40+00:00",
-      "published_ts": 1788186640.0
-    },
-    {
-      "title": "[속보] 박재경 주네팔 신임대사 \"국민 수색·구조에 최선의 노력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260831184000004",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T14:23:40+00:00",
-      "published_ts": 1788186220.0
     },
     {
       "title": "Bhotekoshi flood death toll reaches 939",
@@ -217,28 +206,6 @@
       "highlight": false,
       "published": "2026-08-31T14:15:55+00:00",
       "published_ts": 1788185755.0
-    },
-    {
-      "title": "네팔, 발전소 6곳에 '고립 추정' 실종자 900여명 구조 총력전(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831126351084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대규모 홍수 발생 엿새째인 31일(현지시간) 네팔 당국이 피해...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T14:02:24+00:00",
-      "published_ts": 1788184944.0
-    },
-    {
-      "title": "[네팔 대홍수] 두산에너빌, 사무동·상부댐 헬기수색…현장 착륙도(종합3보)",
-      "link": "https://www.yna.co.kr/view/AKR20260831051153003",
-      "summary": "(서울·성남=연합뉴스) 장하나 홍규빈 장보인 기자 = 네팔 대홍수로 실종된 두산에너빌리티와 한국남동발전 직원 9명을 찾기 위한 헬기 수색 작업이...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-31T13:52:16+00:00",
-      "published_ts": 1788184336.0
     },
     {
       "title": "NEA plans to operate Sanjen hydropower plant in isolated mode to restore power in Rasuwa",
@@ -272,17 +239,6 @@
       "highlight": false,
       "published": "2026-08-31T13:13:10+00:00",
       "published_ts": 1788181990.0
-    },
-    {
-      "title": "[네팔 대홍수] 中당국 \"사흘간 또 비 예보…호수 위험 가중 가능성\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260831130551089",
-      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 히말라야 산사태로 대규모 인명 피해가 발생한 네팔 접경 중국 측 지역에 31일(현지시간)부터 사흘간 또다시...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-08-31T12:39:56+00:00",
-      "published_ts": 1788179996.0
     },
     {
       "title": "Floods damage water supply systems in Rasuwa, Nuwakot, leaving thousands without drinking water",
@@ -351,17 +307,6 @@
       "published_ts": 1788173259.0
     },
     {
-      "title": "Agni Group donates Rs 10 million to Prime Minister’s Disaster Relief Fund",
-      "link": "https://english.onlinekhabar.com/agni-group-donates-rs-10-million-to-prime-ministers-disaster-relief-fund.html",
-      "summary": "Kathmandu, August 31 At a time when corporate social initiatives are often widely publicised, Agni Group has taken a notably simple and understated approach to disaster assistance. To support relief and rescue efforts for people affected by the recent devastating floods in Rasuwa, Agni Group Chairperson Cabinet Shrestha deposited Rs 10 million into the Prime […] The post Agni Group donates Rs 10 m",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-08-31T10:39:21+00:00",
-      "published_ts": 1788172761.0
-    },
-    {
       "title": "(LEAD) Gov't team begins ground search for 9 missing Koreans in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260831006051315",
       "summary": "SEOUL, Aug. 31 (Yonhap) -- A government joint rapid response team on Monday bega...",
@@ -382,17 +327,6 @@
       "highlight": true,
       "published": "2026-08-31T03:43:55+00:00",
       "published_ts": 1788147835.0
-    },
-    {
-      "title": "(LEAD) S. Korean helicopter search canceled for 9 missing in Nepal floods",
-      "link": "https://en.yna.co.kr/view/AEN20260830002751315",
-      "summary": "SEOUL, Aug. 30 (Yonhap) -- The government and Doosan Enerbility Co. canceled pla...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-08-30T13:49:29+00:00",
-      "published_ts": 1788097769.0
     },
     {
       "title": "RSP chair Lamichhane briefs President Paudel on Bhotekoshi flood response",
