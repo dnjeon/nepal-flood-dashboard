@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01T15:34:35.050535+00:00",
-  "total": 47,
-  "highlight_count": 7,
+  "updated_at": "2026-09-01T18:48:24.466779+00:00",
+  "total": 50,
+  "highlight_count": 8,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -54,9 +54,53 @@
   ],
   "items": [
     {
-      "title": "Seven days on, tunnel rescue efforts still struggling to reach workers trapped in Rasuwa hydropower projects",
+      "title": "(3rd LD) S. Korea dispatches disaster relief team to Nepal to support flood recovery efforts",
+      "link": "https://en.yna.co.kr/view/AEN20260901003554315",
+      "summary": "SEOUL, Sept. 2 (Yonhap) -- A South Korean disaster relief team has left for Nepa...",
+      "source": "Yonhap (EN)",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-01T16:51:04+00:00",
+      "published_ts": 1788281464.0
+    },
+    {
+      "title": "Prime Minister's Relief Fund receives over Rs 6 billion",
+      "link": "https://risingnepaldaily.com/news/85944",
+      "summary": "Kathmandu, Sept 1: Fund raising for the August 26 Bhotekoshi flood survivors continues. According to the Office of the P...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-01T16:22:06+00:00",
+      "published_ts": 1788279726.0
+    },
+    {
+      "title": "[네팔 대홍수] 韓 긴급구호대 태운 군수송기 네팔로 출발…실종자 수색 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260902001200504",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 네팔 대홍수 피해 현장에서 수색·구조 활동을 지원하기 위한 대한민국 해외긴급구호대(KDRT)가 2일 네팔로 출...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-01T16:11:32+00:00",
+      "published_ts": 1788279092.0
+    },
+    {
+      "title": "Flash flood a climate change-induced disaster, response a global responsibility: PM Shah",
+      "link": "https://risingnepaldaily.com/news/85940",
+      "summary": "Kathmandu, Sept 1: Prime Minister Balendra Shah has said that the floods that occurred in the Bhotekoshi River in Rasuwa...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-01T16:06:20+00:00",
+      "published_ts": 1788278780.0
+    },
+    {
+      "title": "Foreign rescue teams join efforts, but trapped Rasuwa workers remain out of reach after a week",
       "link": "https://english.onlinekhabar.com/hydropower-project-tunnel-rescue.html",
-      "summary": "Kathmandu, September 1 Seven days after a devastating flood swept through the Bhotekoshi–Trishuli corridor, rescue teams are still struggling to reach workers believed to be trapped inside tunnels at several hydropower projects in Rasuwa and Nuwakot. Families and project officials say rescue efforts have been slowed by difficult terrain, mud and debris inside the tunnels, […] The post Seven days o",
+      "summary": "Kathmandu, September 1 Seven days after a devastating flood swept through the Bhotekoshi–Trishuli corridor, rescue teams are still struggling to reach workers believed to be trapped inside tunnels at several hydropower projects in Rasuwa and Nuwakot. Families and project officials say rescue efforts have been slowed by difficult terrain, mud and debris inside the tunnels, […] The post Foreign resc",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
@@ -250,17 +294,6 @@
       "highlight": false,
       "published": "2026-09-01T11:29:37+00:00",
       "published_ts": 1788262177.0
-    },
-    {
-      "title": "Nine bodies found in India handed over to Nepal",
-      "link": "https://risingnepaldaily.com/news/85930",
-      "summary": "By Bom Lal Giri, Nawalpur, Sept 1: Nine bodies of the victims of Bhotekoshi flash flood found in the Gandak area in Indi...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-01T11:15:40+00:00",
-      "published_ts": 1788261340.0
     },
     {
       "title": "Salyan families caught between hope and grief after Bhotekoshi flood",
