@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-01T23:28:26.153311+00:00",
+  "updated_at": "2026-09-02T01:17:08.992122+00:00",
   "total": 45,
-  "highlight_count": 5,
+  "highlight_count": 4,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -54,26 +54,59 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수 르포] \"살아도 사는게 아냐\"…생존자도 진흙더미 속 고통",
-      "link": "https://www.yna.co.kr/view/AKR20260901193000104",
-      "summary": "(누와코트[네팔]=연합뉴스) 손현규 특파원 = 네팔 수도 카트만두에서 대홍수가 난 트리슐리강 쪽으로 가는 길부터 험난했다.",
+      "title": "[네팔 대홍수] 적십자사, 긴급구호대응단 파견…각국 적십자와 협력",
+      "link": "https://www.yna.co.kr/view/AKR20260902057700504",
+      "summary": "(서울=연합뉴스) 하채림 기자 = 대한적십자사(이하 적십자사)는 네팔 북부 홍수 피해 상황 조사와 향후 지원 계획을 수립하기 위해 현지로 '긴급...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-01T22:11:00+00:00",
-      "published_ts": 1788300660.0
+      "published": "2026-09-02T01:07:42+00:00",
+      "published_ts": 1788311262.0
     },
     {
-      "title": "\"네팔 대홍수 남일 아냐\"…남미 안데스 빙하도 붕괴 공포",
-      "link": "https://www.yna.co.kr/view/AKR20260902004900087",
-      "summary": "(멕시코시티=연합뉴스) 송광호 특파원 = 최근 히말라야산맥에서 발생한 네팔 대홍수를 계기로 남미 안데스산맥 일대 국가들에서도 기후변화에 따른 대...",
+      "title": "[네팔 대홍수] 韓 해외긴급구호대 44명 탄 군수송기, 카트만두 도착",
+      "link": "https://www.yna.co.kr/view/AKR20260902002551104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 한국 해외긴급구호대(KDRT)가 네팔 대홍수 피해 현장에서 수색·구조 활동을 지원하기 위해 2일(현지시간...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-01T19:12:22+00:00",
-      "published_ts": 1788289942.0
+      "published": "2026-09-02T00:45:52+00:00",
+      "published_ts": 1788309952.0
+    },
+    {
+      "title": "[속보] 韓 긴급구호대 44명 탑승 군수송기, 네팔 카트만두 도착",
+      "link": "https://www.yna.co.kr/view/AKR20260902002500104",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-02T00:43:35+00:00",
+      "published_ts": 1788309815.0
+    },
+    {
+      "title": "Bhotekoshi flood was caused by climate change: PM",
+      "link": "https://risingnepaldaily.com/news/85950",
+      "summary": "By A Staff Reporter, Kathmandu, Sept. 2: Prime Minister Balendra Shah has said that the flood in the Bhotekoshi River in...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T00:36:36+00:00",
+      "published_ts": 1788309396.0
+    },
+    {
+      "title": "Bhotekoshi flood survivors fear loss of culture",
+      "link": "https://risingnepaldaily.com/news/85948",
+      "summary": "Kathmandu, Sept. 2: In the days since Tsering Gelbu Lama’s wife was swept away by devastating floods along the Nepal-Tib...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T00:10:59+00:00",
+      "published_ts": 1788307859.0
     },
     {
       "title": "(3rd LD) S. Korea dispatches disaster relief team to Nepal to support flood recovery efforts",
@@ -96,17 +129,6 @@
       "highlight": false,
       "published": "2026-09-01T16:22:06+00:00",
       "published_ts": 1788279726.0
-    },
-    {
-      "title": "Flash flood a climate change-induced disaster, response a global responsibility: PM Shah",
-      "link": "https://risingnepaldaily.com/news/85940",
-      "summary": "Kathmandu, Sept 1: Prime Minister Balendra Shah has said that the floods that occurred in the Bhotekoshi River in Rasuwa...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-01T16:06:20+00:00",
-      "published_ts": 1788278780.0
     },
     {
       "title": "Foreign rescue teams join efforts, but trapped Rasuwa workers remain out of reach after a week",
@@ -173,17 +195,6 @@
       "highlight": false,
       "published": "2026-09-01T13:16:02+00:00",
       "published_ts": 1788268562.0
-    },
-    {
-      "title": "Tunnel rescue teams from India, China, RoK, Singapore working",
-      "link": "https://risingnepaldaily.com/news/85938",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 1: On the seventh day since the catastrophic floods in the Bhotekoshi River, which...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-01T13:08:37+00:00",
-      "published_ts": 1788268117.0
     },
     {
       "title": "Govt explores drilling from above to reach people trapped in hydropower tunnels",
@@ -327,17 +338,6 @@
       "highlight": true,
       "published": "2026-09-01T02:18:55+00:00",
       "published_ts": 1788229135.0
-    },
-    {
-      "title": "(LEAD) S. Korea to dispatch disaster relief team to Nepal to support flood recovery efforts",
-      "link": "https://en.yna.co.kr/view/AEN20260901003551315",
-      "summary": "SEOUL, Sept. 1 (Yonhap) -- A South Korean disaster relief team was set to leave ...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-01T01:10:23+00:00",
-      "published_ts": 1788225023.0
     },
     {
       "title": "1.6 million affected by Bhotekoshi floods, says government report",
