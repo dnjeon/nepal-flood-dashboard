@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T14:44:19.214400+00:00",
-  "total": 53,
+  "updated_at": "2026-09-02T18:08:09.243461+00:00",
+  "total": 54,
   "highlight_count": 4,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -53,6 +53,50 @@
     }
   ],
   "items": [
+    {
+      "title": "Bhotekoshi flood: 1,204 bodies retrieved",
+      "link": "https://risingnepaldaily.com/news/86004",
+      "summary": "Kathmandu, Sept 2: A total of 1,204 bodies have been retrieved so far following the devastating flash floods in the Bhot...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T17:34:28+00:00",
+      "published_ts": 1788370468.0
+    },
+    {
+      "title": "Nine bodies swept away with flood taken to Nepal from India",
+      "link": "https://risingnepaldaily.com/news/86003",
+      "summary": "Rupandehi, Sept 2: The bodies of nine people who were swept away by the flood in the Bhotekoshi River and ended up in In...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T17:27:10+00:00",
+      "published_ts": 1788370030.0
+    },
+    {
+      "title": "Search, rescue intensified in Rasuwa's Timure",
+      "link": "https://risingnepaldaily.com/news/86001",
+      "summary": "By TRN Online, Kathmandu, Sept 2: Timure, a market place in Gosaikund Rural Municipality-2 along the side of the Bhoteko...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T16:05:38+00:00",
+      "published_ts": 1788365138.0
+    },
+    {
+      "title": "Bhotekoshi flood leaves 1,204 dead; 4,216 still unaccounted for",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-death-toll-5.html",
+      "summary": "Kathmandu, September 2 At least 1,204 bodies have been recovered following the devastating floods in Rasuwa, according to the National Disaster Risk Reduction and Management Authority (NDRRMA). The authority said 4,216 people were still unaccounted for as of 6 pm Wednesday. The post Bhotekoshi flood leaves 1,204 dead; 4,216 still unaccounted for appeared first on OnlineKhabar English News.",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-02T15:14:29+00:00",
+      "published_ts": 1788362069.0
+    },
     {
       "title": "Buddha Air freezes fares as Rasuwa disaster disrupts road travel",
       "link": "https://english.onlinekhabar.com/buddha-air-freezes-fares-rasuwa.html",
@@ -109,17 +153,6 @@
       "published_ts": 1788351696.0
     },
     {
-      "title": "HoR passes special motion on loss of lives in Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/85991",
-      "summary": "Kathmandu, Sept 2: A meeting of the House of Representatives (HoR) has passed a special motion on the Bhotekoshi flash f...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T12:01:21+00:00",
-      "published_ts": 1788350481.0
-    },
-    {
       "title": "[네팔 대홍수] 정부, 네팔에 DNA분석기·담요 등 지원(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260902167151504",
       "summary": "(서울=연합뉴스) 김지헌 박수윤 기자 = 대홍수 피해를 겪고 있는 네팔에 정부가 각종 물자를 지원한다.",
@@ -151,17 +184,6 @@
       "highlight": false,
       "published": "2026-09-02T11:38:00+00:00",
       "published_ts": 1788349080.0
-    },
-    {
-      "title": "Tourism sector suffers over Rs 50 billion losses from Bhotekoshi flooding: Minister Paudel",
-      "link": "https://risingnepaldaily.com/news/85989",
-      "summary": "Kathmandu, Sept 2: Minister for Culture, Tourism and Civil Aviation, Khadak Raj Paudel, has stated that a preliminary es...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T11:13:04+00:00",
-      "published_ts": 1788347584.0
     },
     {
       "title": "네팔·中 대홍수 사망자 1천130명…韓긴급구호대 현지 도착(종합)",
@@ -307,17 +329,6 @@
       "published_ts": 1788338725.0
     },
     {
-      "title": "New rules introduced as cooking gas supply is disrupted",
-      "link": "https://english.onlinekhabar.com/new-rules-cooking-gas-supply.html",
-      "summary": "Kathmandu, September 2 Nepal Oil Corporation has introduced new rules for LPG gas distribution after the Trishuli River eroded a section of the Prithvi Highway at Krishnabhir, disrupting supplies to Kathmandu Valley and surrounding districts. Under the new rules, LPG distribution for commercial purposes — including hotels, restaurants and canteens — has been suspended for […] The post New rules in",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T08:24:58+00:00",
-      "published_ts": 1788337498.0
-    },
-    {
       "title": "Intensive search under way for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260902004900315",
       "summary": "SEOUL, Sept. 2 (Yonhap) -- A South Korean disaster relief team arrived in Nepal ...",
@@ -338,6 +349,39 @@
       "highlight": true,
       "published": "2026-09-01T16:51:04+00:00",
       "published_ts": 1788281464.0
+    },
+    {
+      "title": "Bhotekoshi floods halt Nepal’s electricity exports to Bangladesh",
+      "link": "https://kathmandupost.com/money/2026/09/02/bhotekoshi-floods-halt-nepal-s-electricity-exports-to-bangladesh",
+      "summary": "Nepal had been exporting an average of about 1,000 MW of electricity during the wet season. That has now fallen to around 650 MW.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "In Bhotekoshi’s wake, experts and activists question environmental cost of AI",
+      "link": "https://kathmandupost.com/national/2026/09/02/in-bhotekoshi-s-wake-experts-and-activists-question-environmental-cost-of-ai",
+      "summary": "As Nepal considers setting up data centres of its own, experts say the country must assess their energy, water and environmental costs before breaking ground.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Oft-battered Langtang Valley cut off after Rasuwa floods",
+      "link": "https://kathmandupost.com/national/2026/09/02/oft-battered-langtang-valley-cut-off-after-rasuwa-floods",
+      "summary": "The Bhotekoshi floods swept away roads and bridges linking Langtang with Dhunche, leaving tourists dependent on helicopters and raising concerns over supplies and the future of the trekking season.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "147 local representatives, government staff, teachers and security personnel missing after Bhotekoshi floods",
@@ -596,39 +640,6 @@
       "title": "Nepal seeks urgent climate finance after Bhotekoshi flood",
       "link": "https://kathmandupost.com/national/2026/09/01/nepal-seeks-urgent-climate-finance-after-bhotekoshi-flood",
       "summary": "Government asks global loss-and-damage fund for immediate support, saying the scale of destruction exceeds the country’s capacity to respond.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Hundreds missing, billions in goods feared lost in Bhotekoshi flood",
-      "link": "https://kathmandupost.com/national/2026/09/01/hundreds-missing-billions-in-goods-feared-lost-in-bhotekoshi-flood",
-      "summary": "Traders, drivers and customs workers remain unaccounted for six days after the flood swept through the Rasuwa border area, while officials struggle to determine how many cargo containers and how much merchandise were lost.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Fourteen minutes before the flood hit, a warning sent 900 students running for safety",
-      "link": "https://kathmandupost.com/national/2026/09/01/fourteen-minutes-before-the-flood-hit-a-warning-sent-900-students-running-for-safety",
-      "summary": "A frantic warning from a school accountant, relayed by relatives in flood-hit Rasuwa, gave teachers just minutes to evacuate Tribhuvan Trishuli Secondary School before a wall of mud and water tore through Bidur, destroying the school and sweeping away homes and bridges.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood rescue enters critical days, anxious families hope missing loved ones are alive",
-      "link": "https://kathmandupost.com/national/2026/09/01/flood-rescue-enters-critical-days-anxious-families-hope-missing-loved-ones-are-alive",
-      "summary": "Hundreds of hydropower workers and staff remain missing across projects in Rasuwa and Nuwakot after the August 26 Bhotekoshi flood.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
