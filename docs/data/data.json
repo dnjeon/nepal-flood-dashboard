@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-02T21:00:21.645912+00:00",
-  "total": 54,
-  "highlight_count": 4,
+  "updated_at": "2026-09-02T23:17:00.148734+00:00",
+  "total": 49,
+  "highlight_count": 3,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 7,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수 르포] 살았는지 죽었는지 몰라도…슬픔속 시신없는 합동장례식",
+      "link": "https://www.yna.co.kr/view/AKR20260903001800104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔 수도 카트만두에 있는 한 불교 사찰의 대법당 입구에 남성 19명의 얼굴 사진이 한꺼번에 붙었다. 사...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-02T22:47:10+00:00",
+      "published_ts": 1788389230.0
+    },
+    {
+      "title": "아르헨 관료 \"네팔 대홍수는 中공산당 탓\"…中 \"악의적 비방\"",
+      "link": "https://www.yna.co.kr/view/AKR20260903007900009",
+      "summary": "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 관료가 최근 네팔에서 발생한 대홍수의 책임을 중국 공산당에 돌리면서 양국 간 외교 갈등...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-02T21:01:19+00:00",
+      "published_ts": 1788382879.0
+    },
     {
       "title": "Bhotekoshi flood: 1,204 bodies retrieved",
       "link": "https://risingnepaldaily.com/news/86004",
@@ -109,17 +131,6 @@
       "published_ts": 1788359806.0
     },
     {
-      "title": "[네팔 대홍수] 네팔 정부 \"히말라야 관광 많이 와달라\" 호소",
-      "link": "https://www.yna.co.kr/view/AKR20260902179000084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수 발생으로부터 8일째를 맞아 네팔 정부가 해외 여행객들에게 재건을 위해 히말라야 관광을 많이 와...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T13:31:14+00:00",
-      "published_ts": 1788355874.0
-    },
-    {
       "title": "Seven months pregnant, flood survivor has lost her home, livelihood and access to healthcare",
       "link": "https://english.onlinekhabar.com/pregnant-flood-survivor.html",
       "summary": "Bidur, September 2 Srijana Nagarkoti, 27, is seven months pregnant. Since the Bhotekoshi flood swept through her home, she has been living in a cold classroom at a school in Nuwakot, unsure of where she will live or how she will manage when her delivery approaches. Srijana was at home when the flood struck. After […] The post Seven months pregnant, flood survivor has lost her home, livelihood and ",
@@ -153,17 +164,6 @@
       "published_ts": 1788351696.0
     },
     {
-      "title": "[네팔 대홍수] 정부, 네팔에 DNA분석기·담요 등 지원(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902167151504",
-      "summary": "(서울=연합뉴스) 김지헌 박수윤 기자 = 대홍수 피해를 겪고 있는 네팔에 정부가 각종 물자를 지원한다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T11:39:33+00:00",
-      "published_ts": 1788349173.0
-    },
-    {
       "title": "Speaker urges government to ensure safety of women and children",
       "link": "https://english.onlinekhabar.com/speaker-urges-government-to-ensure-safety-of-women-and-children.html",
       "summary": "Kathmandu, September 2 Speaker Dol Prasad Aryal (DP) has delivered a special address at a meeting of the House of Representatives, drawing the government’s attention to the need to ensure the safety and protection of women and children affected by the devastating Bhotekoshi floods. The floods, which struck on August 26, caused extensive human and […] The post Speaker urges government to ensure saf",
@@ -186,17 +186,6 @@
       "published_ts": 1788349080.0
     },
     {
-      "title": "네팔·中 대홍수 사망자 1천130명…韓긴급구호대 현지 도착(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260902091951084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 휩쓴 대홍수가 발생한 지 1주일이 지난 2일(현지시간...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T10:55:58+00:00",
-      "published_ts": 1788346558.0
-    },
-    {
       "title": "Opposition slams government over Rasuwa flood response",
       "link": "https://english.onlinekhabar.com/opposition-slams-government.html",
       "summary": "During Wednesday’s House of Representatives session, opposition parties sharply criticised the government’s handling of the Rasuwa flood disaster, even as search and rescue operations continued for thousands of citizens who remained uncontactable. Congress: Government chased publicity, not rescue Nepali Congress parliamentary party leader Bhishma Raj Angdembe accused the government of getting “tan",
@@ -206,17 +195,6 @@
       "highlight": false,
       "published": "2026-09-02T10:39:17+00:00",
       "published_ts": 1788345557.0
-    },
-    {
-      "title": "[네팔 대홍수] 기업대응팀, 헬기·드론·수색견으로 저인망 수색(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260902059252003",
-      "summary": "(서울·성남=연합뉴스) 신창용 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 직원 9명을 찾고자 헬기와 드론, 수색견까지 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-02T10:38:17+00:00",
-      "published_ts": 1788345497.0
     },
     {
       "title": "UML calls for special task forces for disaster reconstruction, international coordination",
@@ -239,17 +217,6 @@
       "highlight": false,
       "published": "2026-09-02T10:29:39+00:00",
       "published_ts": 1788344979.0
-    },
-    {
-      "title": "[네팔 대홍수] 韓긴급구호대, 하루 당겨 오늘 '수색 숙영지'로 이동",
-      "link": "https://www.yna.co.kr/view/AKR20260902167651104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 대홍수가 발생한 네팔에 한국 정부가 파견한 해외긴급구호대(KDRT)가 계획보다 하루 앞당겨 2일(현지시간...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T10:21:23+00:00",
-      "published_ts": 1788344483.0
     },
     {
       "title": "Rescuers hopeful as blocked tunnel is cleared at Trishuli 3A",
@@ -283,28 +250,6 @@
       "highlight": false,
       "published": "2026-09-02T09:50:25+00:00",
       "published_ts": 1788342625.0
-    },
-    {
-      "title": "[속보] '네팔 파견' 한국구호대, 오늘 수색 숙영지로 출발",
-      "link": "https://www.yna.co.kr/view/AKR20260902167600104",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T09:30:35+00:00",
-      "published_ts": 1788341435.0
-    },
-    {
-      "title": "[네팔 대홍수] 정부, 네팔에 DNA분석기·담요 등 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260902167100504",
-      "summary": "(서울=연합뉴스) 김지헌 박수윤 기자 = 대홍수 피해를 겪고 있는 네팔에 정부가 각종 물자를 지원한다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-02T09:27:12+00:00",
-      "published_ts": 1788341232.0
     },
     {
       "title": "Schools closed indefinitely in flood-hit Nuwakot",
