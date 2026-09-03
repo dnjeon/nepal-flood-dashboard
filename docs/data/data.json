@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T14:44:37.106715+00:00",
+  "updated_at": "2026-09-03T18:07:12.272876+00:00",
   "total": 19,
   "highlight_count": 4,
   "sources": [
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -48,11 +48,33 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "\"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260903095752084",
+      "summary": "(카트만두 하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대홍수 발생 9일째를 맞은 3일(현지시간) 구...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-03T17:02:44+00:00",
+      "published_ts": 1788454964.0
+    },
+    {
+      "title": "[네팔 대홍수] 韓구호대 \"네팔군이 헬기 2대 제공\"…날씨 탓에 회항",
+      "link": "https://www.yna.co.kr/view/AKR20260903186151104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 대규모 홍수가 발생한 네팔에 한국 정부가 파견한 해외긴급구호대(KDRT)가 3일(현지시간) 네팔군의 헬기...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-03T15:30:18+00:00",
+      "published_ts": 1788449418.0
+    },
     {
       "title": "[속보] 한국구호대 \"네팔군이 헬기 2대 제공\"…수색 시도했으나 실패",
       "link": "https://www.yna.co.kr/view/AKR20260903186100104",
@@ -118,17 +140,6 @@
       "highlight": true,
       "published": "2026-09-03T12:58:50+00:00",
       "published_ts": 1788440330.0
-    },
-    {
-      "title": "Families perform symbolic funerals for missing Nepal flood victims",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/families-perform-symbolic-funerals-for-missing-nepal-flood-victims?traffic_source=rss",
-      "summary": "Families in Nepal are performing symbolic funerals for loved ones still missing a week after the devastating floods.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-03T11:58:26+00:00",
-      "published_ts": 1788436706.0
     },
     {
       "title": "Indian ambassador visits flood-hit hydropower project in Rasuwa",
@@ -239,17 +250,6 @@
       "highlight": true,
       "published": "2026-09-03T09:51:38+00:00",
       "published_ts": 1788429098.0
-    },
-    {
-      "title": "[네팔 대홍수] \"60년간 中티베트고원 빙하 24%↓…온난화로 재해 빈발 가능성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903157600089",
-      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 중국·네팔 접경 히말라야 산사태로 대규모 인명 피해가 발생하자, 중국 칭짱(칭하이·티베트)고원 등에서 향후...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-03T08:40:47+00:00",
-      "published_ts": 1788424847.0
     },
     {
       "title": "(LEAD) Intensive search under way for 9 S. Koreans missing in Nepal floods",
