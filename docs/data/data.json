@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T23:17:00.148734+00:00",
-  "total": 49,
+  "updated_at": "2026-09-03T01:11:08.452909+00:00",
+  "total": 48,
   "highlight_count": 3,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,26 +54,26 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수 르포] 살았는지 죽었는지 몰라도…슬픔속 시신없는 합동장례식",
-      "link": "https://www.yna.co.kr/view/AKR20260903001800104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔 수도 카트만두에 있는 한 불교 사찰의 대법당 입구에 남성 19명의 얼굴 사진이 한꺼번에 붙었다. 사...",
+      "title": "[네팔 대홍수] 中, 티베트 피해지역 육상통로 확보…실종 541명 집중 수색",
+      "link": "https://www.yna.co.kr/view/AKR20260903050900083",
+      "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국과 네팔 국경 히말라야 산악지대에서 발생한 대홍수로 엄청난 규모의 토석류(土石流)가 덮친 중국 측 핵심...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-02T22:47:10+00:00",
-      "published_ts": 1788389230.0
+      "published": "2026-09-03T00:59:50+00:00",
+      "published_ts": 1788397190.0
     },
     {
-      "title": "아르헨 관료 \"네팔 대홍수는 中공산당 탓\"…中 \"악의적 비방\"",
-      "link": "https://www.yna.co.kr/view/AKR20260903007900009",
-      "summary": "(부에노스아이레스=연합뉴스) 김선정 통신원 = 아르헨티나 관료가 최근 네팔에서 발생한 대홍수의 책임을 중국 공산당에 돌리면서 양국 간 외교 갈등...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Climate change gives rise to disasters in Himalayas: PM",
+      "link": "https://risingnepaldaily.com/news/86007",
+      "summary": "By Pallav Bhusal, Kathmandu, Sept. 3: Prime Minister Balendra Shah has described the devastating Bhotekoshi River flash...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-02T21:01:19+00:00",
-      "published_ts": 1788382879.0
+      "published": "2026-09-03T00:25:54+00:00",
+      "published_ts": 1788395154.0
     },
     {
       "title": "Bhotekoshi flood: 1,204 bodies retrieved",
@@ -96,17 +96,6 @@
       "highlight": false,
       "published": "2026-09-02T17:27:10+00:00",
       "published_ts": 1788370030.0
-    },
-    {
-      "title": "Search, rescue intensified in Rasuwa's Timure",
-      "link": "https://risingnepaldaily.com/news/86001",
-      "summary": "By TRN Online, Kathmandu, Sept 2: Timure, a market place in Gosaikund Rural Municipality-2 along the side of the Bhoteko...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T16:05:38+00:00",
-      "published_ts": 1788365138.0
     },
     {
       "title": "Bhotekoshi flood leaves 1,204 dead; 4,216 still unaccounted for",
