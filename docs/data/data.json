@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T20:59:04.674923+00:00",
-  "total": 20,
+  "updated_at": "2026-09-03T23:12:14.109980+00:00",
+  "total": 21,
   "highlight_count": 4,
   "sources": [
     {
@@ -48,11 +48,44 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+      "link": "https://www.yna.co.kr/view/AKR20260904014300011",
+      "summary": "■ \"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-03T22:30:00+00:00",
+      "published_ts": 1788474600.0
+    },
+    {
+      "title": "[네팔 대홍수 르포] \"옛동료 실종 마음찢어져\"…두산서 3년 일한 네팔인 '울먹'",
+      "link": "https://www.yna.co.kr/view/AKR20260903170800104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = \"올해 3월까지 3년 동안 두산에너빌리티에서 근무했습니다. 그때 같이 일한 네팔인 동료들이 이번 대홍수로...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-03T22:11:01+00:00",
+      "published_ts": 1788473461.0
+    },
+    {
+      "title": "Nepal flood victims to be identified through DNA",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
+      "summary": "Nepal flood victims to be identified through DNA",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-03T21:11:18+00:00",
+      "published_ts": 1788469878.0
+    },
     {
       "title": "Stranded survivors in Nepal cross raging Trishuli River using zip line",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss",
@@ -186,17 +219,6 @@
       "published_ts": 1788435240.0
     },
     {
-      "title": "\"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260903095751084",
-      "summary": "(카트만두 하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대홍수 발생 9일째를 맞은 3일(현지시간) 구...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-03T11:21:27+00:00",
-      "published_ts": 1788434487.0
-    },
-    {
       "title": "Government to provide risk allowance, Rs 1 million relief to rescue personnel",
       "link": "https://english.onlinekhabar.com/government-to-provide-risk-allowance-rs-1-million-relief-to-rescue-personnel.html",
       "summary": "Kathmandu, September 3 The government has decided to provide risk allowances and meal expenses to security personnel and government employees deployed for search and rescue operations following the flooding of the Bhotekoshi River in Rasuwa. Government spokesperson and Education Minister Sasmit Pokharel said the Cabinet meeting held Thursday afternoon made the decision. The government has […] The ",
@@ -250,17 +272,6 @@
       "highlight": false,
       "published": "2026-09-03T10:15:00+00:00",
       "published_ts": 1788430500.0
-    },
-    {
-      "title": "[네팔 대홍수] 두산에너빌, 강 하류로 수색 확대…남동발전 드론 투입(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260903161551003",
-      "summary": "(서울·성남=연합뉴스) 신창용 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 직원 9명을 찾고자 현장 수색의 끈을 놓지 않...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-03T09:51:38+00:00",
-      "published_ts": 1788429098.0
     },
     {
       "title": "(LEAD) Intensive search under way for 9 S. Koreans missing in Nepal floods",
