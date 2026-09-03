@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-03T01:11:08.452909+00:00",
-  "total": 48,
-  "highlight_count": 3,
+  "updated_at": "2026-09-03T05:53:59.540466+00:00",
+  "total": 43,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 27,
+      "count": 25,
       "error": null
     },
     {
@@ -17,9 +17,9 @@
     },
     {
       "name": "The Rising Nepal",
-      "ok": true,
-      "count": 3,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Nepal News",
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -48,54 +48,120 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 中, 티베트 피해지역 육상통로 확보…실종 541명 집중 수색",
-      "link": "https://www.yna.co.kr/view/AKR20260903050900083",
-      "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국과 네팔 국경 히말라야 산악지대에서 발생한 대홍수로 엄청난 규모의 토석류(土石流)가 덮친 중국 측 핵심...",
+      "title": "Gagan Thapa urges public to help Rasuwa flood victims, avoid harsh words",
+      "link": "https://english.onlinekhabar.com/gagan-thapa-urges-public-to-help-rasuwa-flood-victims-avoid-harsh-words.html",
+      "summary": "Kathmandu, September 3 Nepali Congress President Gagan Thapa has urged those who are able to help to come forward and support the victims of the Rasuwa floods. In a video message posted on Facebook on Thursday, he also appealed to people not to use harsh words if they are unable to provide assistance. “I have […] The post Gagan Thapa urges public to help Rasuwa flood victims, avoid harsh words app",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-03T05:41:00+00:00",
+      "published_ts": 1788414060.0
+    },
+    {
+      "title": "With no bodies found, flood-hit families begin last rites for missing loved ones",
+      "link": "https://english.onlinekhabar.com/with-no-bodies-found-flood-hit-families-begin-last-rites-for-missing-loved-ones.html",
+      "summary": "Photos: Chandra Bahadur Ale/Kamal Prasai Rasuwa, September 3 For eight days, they waited and watched the roads, hoping their missing relatives would return. Whenever they heard that search teams had reached a particular area, a glimmer of hope emerged—perhaps their loved ones had been found. But seven nights passed without any news. Now, many flood […] The post With no bodies found, flood-hit fami",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-03T05:20:59+00:00",
+      "published_ts": 1788412859.0
+    },
+    {
+      "title": "Missing flood victims’ families called for DNA testing",
+      "link": "https://english.onlinekhabar.com/families-called-for-dna.html",
+      "summary": "September 3, Kathmandu Nepal Police has begun a DNA testing process to search for citizens who went missing in the Bhotekoshi River flood in Rasuwa, and to identify unclaimed bodies and human remains that have been recovered. Following the devastating flood on August 26, Nepal Police issued a notice asking blood relatives of the deceased […] The post Missing flood victims’ families called for DNA ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-03T05:03:06+00:00",
+      "published_ts": 1788411786.0
+    },
+    {
+      "title": "The photo of his missing daughter that Suchit cannot bear to look at",
+      "link": "https://english.onlinekhabar.com/missing-daughter-flood-bhotekoshi.html",
+      "summary": "Rasuwa, September 3 Suchit Joshi of Bidur Municipality-1 was at work as usual on August 26. A staff member at Tribhuvan Trishuli Multiple Campus, Joshi was busy helping enrol undergraduate students when he received a phone call from an elder relative warning him about a flood. “A huge flood has come. Syabrubesi is about to […] The post The photo of his missing daughter that Suchit cannot bear to l",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-03T04:15:00+00:00",
+      "published_ts": 1788408900.0
+    },
+    {
+      "title": "Electricity supply restored in 90% of Nuwakot after Rasuwa flood",
+      "link": "https://english.onlinekhabar.com/electricity-supply-nuwakot.html",
+      "summary": "Kathmandu, September 3 Electricity supply in Nuwakot, which was disrupted following the devastating Bhotekoshi flood in Rasuwa, has been restored in around 90 percent of the district. The Ministry of Energy, Water Resources and Irrigation said electricity supply has resumed in most parts of Nuwakot. According to the ministry, additional areas were brought back onto […] The post Electricity supply ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-03T04:12:41+00:00",
+      "published_ts": 1788408761.0
+    },
+    {
+      "title": "네팔, 수력발전소 터널속 '생존 가능성 수십명' 구조 집중",
+      "link": "https://www.yna.co.kr/view/AKR20260903095700084",
+      "summary": "(카트만두 하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대홍수 발생 8일째를 맞은 3일(현지시간) 구...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-03T00:59:50+00:00",
-      "published_ts": 1788397190.0
+      "published": "2026-09-03T04:00:03+00:00",
+      "published_ts": 1788408003.0
     },
     {
-      "title": "Climate change gives rise to disasters in Himalayas: PM",
-      "link": "https://risingnepaldaily.com/news/86007",
-      "summary": "By Pallav Bhusal, Kathmandu, Sept. 3: Prime Minister Balendra Shah has described the devastating Bhotekoshi River flash...",
-      "source": "The Rising Nepal",
+      "title": "The Bhotekoshi swept away Syabrubesi. Those left behind are still counting their losses",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-swept-syabrubesi.html",
+      "summary": "Syabrubesi, September 3 Dawa Finjo Tamang is 91 and needs support to walk. Yet since the Bhotekoshi flood swept through Syabrubesi, he has been going from house to house in his neighbourhood, trying to comfort families who have lost loved ones. When Onlinekhabar’s team reached the small village of Bharkhu in Gosainkunda Rural Municipality-5 on […] The post The Bhotekoshi swept away Syabrubesi. Tho",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-03T00:25:54+00:00",
-      "published_ts": 1788395154.0
+      "published": "2026-09-03T03:45:00+00:00",
+      "published_ts": 1788407100.0
     },
     {
-      "title": "Bhotekoshi flood: 1,204 bodies retrieved",
-      "link": "https://risingnepaldaily.com/news/86004",
-      "summary": "Kathmandu, Sept 2: A total of 1,204 bodies have been retrieved so far following the devastating flash floods in the Bhot...",
-      "source": "The Rising Nepal",
+      "title": "Trishuli-3A cable duct cleared of 20,000 cubic metres of debris after Bhotekoshi flood",
+      "link": "https://english.onlinekhabar.com/trishuli-3a-cable-duct-cleared.html",
+      "summary": "Kathmandu, September 3 Efforts to clear the entrance to the 160-metre-long cable duct tunnel of the Trishuli-3A Hydropower Project have been intensified following the devastating Bhotekoshi flood in Rasuwa on August 26. More than two dozen large boulders have so far been blasted away from the portal area as engineers and rescue teams work to […] The post Trishuli-3A cable duct cleared of 20,000 cu",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-02T17:34:28+00:00",
-      "published_ts": 1788370468.0
+      "published": "2026-09-03T03:03:53+00:00",
+      "published_ts": 1788404633.0
     },
     {
-      "title": "Nine bodies swept away with flood taken to Nepal from India",
-      "link": "https://risingnepaldaily.com/news/86003",
-      "summary": "Rupandehi, Sept 2: The bodies of nine people who were swept away by the flood in the Bhotekoshi River and ended up in In...",
-      "source": "The Rising Nepal",
+      "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
+      "summary": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-03T01:53:40+00:00",
+      "published_ts": 1788400420.0
+    },
+    {
+      "title": "Langtang Lirung glacier was moving unusually fast before Bhotekoshi flood, Chinese study finds",
+      "link": "https://english.onlinekhabar.com/langtang-lirung-glacier-moving.html",
+      "summary": "Kathmandu, September 3 A glacier on the northern face of Langtang Lirung had been moving at an unusually high rate in recent years, according to a preliminary study by a Chinese research institute. The Institute of Tibetan Plateau Research under the Chinese Academy of Sciences in Beijing found that the upper and middle sections of […] The post Langtang Lirung glacier was moving unusually fast befo",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-02T17:27:10+00:00",
-      "published_ts": 1788370030.0
+      "published": "2026-09-03T01:15:00+00:00",
+      "published_ts": 1788398100.0
     },
     {
       "title": "Bhotekoshi flood leaves 1,204 dead; 4,216 still unaccounted for",
@@ -175,94 +241,6 @@
       "published_ts": 1788349080.0
     },
     {
-      "title": "Opposition slams government over Rasuwa flood response",
-      "link": "https://english.onlinekhabar.com/opposition-slams-government.html",
-      "summary": "During Wednesday’s House of Representatives session, opposition parties sharply criticised the government’s handling of the Rasuwa flood disaster, even as search and rescue operations continued for thousands of citizens who remained uncontactable. Congress: Government chased publicity, not rescue Nepali Congress parliamentary party leader Bhishma Raj Angdembe accused the government of getting “tan",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T10:39:17+00:00",
-      "published_ts": 1788345557.0
-    },
-    {
-      "title": "UML calls for special task forces for disaster reconstruction, international coordination",
-      "link": "https://english.onlinekhabar.com/uml-task-disaster-reconstruction.html",
-      "summary": "Kathmandu, September 2 CPN-UML parliamentary party leader Ram Bahadur Thapa has called on the government to form special task forces to coordinate international assistance and compensation and lead reconstruction efforts following the Bhotekoshi flood on August 26. Speaking at the House of Representatives meeting on Wednesday, Thapa said the government should form a special task […] The post UML c",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T10:34:48+00:00",
-      "published_ts": 1788345288.0
-    },
-    {
-      "title": "House of Representatives passes special resolution on Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/house-of-representatives-passes-special-resolution-on-rasuwa-floods.html",
-      "summary": "Kathmandu, September 2 The House of Representatives has unanimously passed a special resolution concerning the Rasuwa floods. At Wednesday’s meeting of the House, Speaker DP Aryal presented the special resolution, which was unanimously endorsed by the lawmakers. A devastating flood struck the Bhotekoshi and Trishuli rivers on August 26. The disaster affected Timure, Syafrubesi and […] The post Hou",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T10:29:39+00:00",
-      "published_ts": 1788344979.0
-    },
-    {
-      "title": "Rescuers hopeful as blocked tunnel is cleared at Trishuli 3A",
-      "link": "https://english.onlinekhabar.com/rescuers-tunnel-trishuli-3a.html",
-      "summary": "Kathmandu, September 2 Rescue efforts are continuing at the Trishuli 3A Hydropower Project, where a large number of people are believed to be trapped following the massive flood that entered the Trishuli River through the Bhotekoshi on August 26. A joint team of Nepali experts and security personnel is working to rescue those believed to […] The post Rescuers hopeful as blocked tunnel is cleared a",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T10:02:23+00:00",
-      "published_ts": 1788343343.0
-    },
-    {
-      "title": "Families hold mass cremations for missing Rasuwa flood victims (Photos)",
-      "link": "https://english.onlinekhabar.com/families-hold-mass-cremations-for-missing-rasuwa-flood-victims-photos.html",
-      "summary": "Kathmandu, September 2 Families who have lost hope of finding relatives missing in the Rasuwa floods are creating funeral effigies using kaas-kush (sacred grass) and performing their final rites. On Wednesday, dozens of such effigies were cremated in a mass funeral at Pashupati Aryaghat. The cremation was carried out according to Hindu traditions by the […] The post Families hold mass cremations f",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T09:53:51+00:00",
-      "published_ts": 1788342831.0
-    },
-    {
-      "title": "Insurance companies to make advance payments for Bhotekoshi flood damage",
-      "link": "https://english.onlinekhabar.com/insurance-advance-payments.html",
-      "summary": "Kathmandu, September 1 Insurance companies will provide advance payments to those affected by the August 26 Bhotekoshi flood, as full damage assessments for large losses like hydropower projects and major infrastructure will take time to complete. The Finance Ministry announced the decision after discussions involving the ministry, the Nepal Insurance Authority, reinsurance companies, insurance co",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T09:50:25+00:00",
-      "published_ts": 1788342625.0
-    },
-    {
-      "title": "Schools closed indefinitely in flood-hit Nuwakot",
-      "link": "https://english.onlinekhabar.com/schools-closed-indefinitely-in-flood-hit-nuwakot.html",
-      "summary": "Trishuli (Nuwakot), September 2 Schools affected by flooding in the Trishuli River following the Bhotekoshi flash flood have been closed indefinitely in Nuwakot district. All schools in the worst-hit areas of Bidur Municipality and Kispang Rural Municipality have remained closed, while it remains uncertain when teaching and learning activities will resume in other flood-affected areas. […] The pos",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T09:14:40+00:00",
-      "published_ts": 1788340480.0
-    },
-    {
-      "title": "200 trucks to transport LPG to Kathmandu via alternative routes",
-      "link": "https://english.onlinekhabar.com/200-trucks-to-transport-lpg-to-kathmandu-via-alternative-routes.html",
-      "summary": "Kathmandu, September 2 The government and transport entrepreneurs have reached a new agreement to facilitate the transportation of liquefied petroleum gas (LPG) and other petroleum products after the Prithvi Highway was disrupted when the Trishuli River eroded the road at Krishnabhir in Dhading. A meeting chaired by Makwanpur Chief District Officer Basanta Adhikari, with representatives […] The po",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-02T08:45:25+00:00",
-      "published_ts": 1788338725.0
-    },
-    {
       "title": "Intensive search under way for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260902004900315",
       "summary": "SEOUL, Sept. 2 (Yonhap) -- A South Korean disaster relief team arrived in Nepal ...",
@@ -274,15 +252,48 @@
       "published_ts": 1788317172.0
     },
     {
-      "title": "(3rd LD) S. Korea dispatches disaster relief team to Nepal to support flood recovery efforts",
-      "link": "https://en.yna.co.kr/view/AEN20260901003554315",
-      "summary": "SEOUL, Sept. 2 (Yonhap) -- A South Korean disaster relief team has left for Nepa...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-01T16:51:04+00:00",
-      "published_ts": 1788281464.0
+      "title": "Bhotekoshi floods expose gaps in Nepal’s emergency communications",
+      "link": "https://kathmandupost.com/national/2026/09/03/bhotekoshi-floods-expose-gaps-in-nepal-s-emergency-communications",
+      "summary": "Most mobile services have been restored, but damaged towers and fibre have forced operators onto slower backup systems as experts call for the implementation of a disaster communications plan drafted after the 2015 earthquake.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "School students cut snack money to help Bhotekoshi flood victims",
+      "link": "https://kathmandupost.com/national/2026/09/03/school-students-cut-snack-money-to-help-bhotekoshi-flood-victims",
+      "summary": "The contributions, meant for flood-affected children, demonstrate that even small gestures can provide meaningful relief in times of disaster, teachers say.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal flood survivors lack space even to mourn their dead",
+      "link": "https://kathmandupost.com/national/2026/09/03/nepal-flood-survivors-lack-space-even-to-mourn-their-dead",
+      "summary": "Families perform funeral rites using effigies, mourners struggle to find cooking gas.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "They escaped the 2015 earthquake. They couldn’t escape the Bhotekoshi flood",
+      "link": "https://kathmandupost.com/national/2026/09/03/they-escaped-the-2015-earthquake-they-couldn-t-escape-the-bhotekoshi-flood",
+      "summary": "After years of unfulfilled government promises to move them to safe ground, dozens of quake-affected families in Rasuwa and Nuwakot have now been swept away by the catastrophic Bhotekoshi flood.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Bhotekoshi floods halt Nepal’s electricity exports to Bangladesh",
@@ -508,72 +519,6 @@
       "title": "The case for transparency in Nepal flood rescue flights",
       "link": "https://kathmandupost.com/columns/2026/09/01/the-case-for-transparency-in-nepal-flood-rescue-flights",
       "summary": "When the flood washed away the roads, helicopters were the only way out. So why were politicians and camera crews hogging them?",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Local governments take charge of flood relief after criticism of centralised response",
-      "link": "https://kathmandupost.com/national/2026/09/01/local-governments-take-charge-of-flood-relief-after-criticism-of-centralised-response",
-      "summary": "Six-party committees have been formed in Rasuwa and Nuwakot to coordinate relief distribution as the government faces criticism over its initial reliance on security agencies.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal Prime Minister: Bhotekoshi flood was one of region’s largest disasters",
-      "link": "https://kathmandupost.com/national/2026/09/01/nepal-prime-minister-bhote-koshi-flood-was-one-of-region-s-largest-disasters",
-      "summary": "The incident indicates that the risks Nepal face in the Himalayan region are increasing alongside climate change.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "What is the progress in the search for workers trapped in Nepal’s flooded hydropowers?",
-      "link": "https://kathmandupost.com/national/2026/09/01/what-is-the-progress-in-the-search-for-workers-trapped-in-nepal-s-flooded-hydropower-tunnels",
-      "summary": "Rescue teams have located tunnel entrances and advanced hundreds of metres into several hydropower projects along the Bhotekoshi-Trishuli corridor as the search for missing workers continues.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "They survived the flood. Their families did not.",
-      "link": "https://kathmandupost.com/national/2026/09/01/they-survived-the-flood-their-families-did-not",
-      "summary": "From a Rasuwa holding centre, survivors recount desperate escapes, relatives swept away and the loss of homes, villages and entire families in the Bhotekoshi disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal flood death toll rises to 987, nearly 4,000 still missing",
-      "link": "https://kathmandupost.com/national/2026/09/01/nepal-flood-death-toll-rises-to-987-nearly-4-000-still-missing",
-      "summary": "The latest toll comes as search teams recover bodies from Rasuwa and downstream districts, while hundreds of workers at hydropower projects remain unaccounted for.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal seeks urgent climate finance after Bhotekoshi flood",
-      "link": "https://kathmandupost.com/national/2026/09/01/nepal-seeks-urgent-climate-finance-after-bhotekoshi-flood",
-      "summary": "Government asks global loss-and-damage fund for immediate support, saying the scale of destruction exceeds the country’s capacity to respond.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
