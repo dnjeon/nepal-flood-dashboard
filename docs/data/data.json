@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T18:07:12.272876+00:00",
-  "total": 19,
+  "updated_at": "2026-09-03T20:59:04.674923+00:00",
+  "total": 20,
   "highlight_count": 4,
   "sources": [
     {
@@ -48,11 +48,22 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "Stranded survivors in Nepal cross raging Trishuli River using zip line",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss",
+      "summary": "Survivors in relief camps in Nepal are struggling to get basic commodities like food and medicine",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-03T18:23:38+00:00",
+      "published_ts": 1788459818.0
+    },
     {
       "title": "\"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력(종합2보)",
       "link": "https://www.yna.co.kr/view/AKR20260903095752084",
