@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04T14:11:41.626687+00:00",
-  "total": 21,
-  "highlight_count": 4,
+  "updated_at": "2026-09-04T17:38:44.552482+00:00",
+  "total": 23,
+  "highlight_count": 7,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 11,
+      "count": 12,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -48,11 +48,88 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "PM Shah's message on Shree Krishna Janmastami, dedicating children affected by Bhotekoshi flood",
+      "link": "https://risingnepaldaily.com/news/86118",
+      "summary": "Kathmandu, Sept 4: Prime Minister Balendra Shah on Friday extended a message on the occasion of the Shree Krishna Janmas...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T16:53:02+00:00",
+      "published_ts": 1788540782.0
+    },
+    {
+      "title": "Bhotekoshi flood: Search and rescue continuous in Trishuli-3 'A'",
+      "link": "https://risingnepaldaily.com/news/86117",
+      "summary": "Kathmandu, Sept 4: Search and rescue operations have been continued in the Trishuli-3 'A' Hydropower Project following t...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T16:48:50+00:00",
+      "published_ts": 1788540530.0
+    },
+    {
+      "title": "Govt continues search and rescue operations on tenth day of devastating Bhotekoshi flood",
+      "link": "https://risingnepaldaily.com/news/86116",
+      "summary": "Kathmandu, Sept 4: The government has said search and rescue operations were continuous on Friday, tenth day of the cala...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T16:46:47+00:00",
+      "published_ts": 1788540407.0
+    },
+    {
+      "title": "[네팔 대홍수] 한국인 9명 실종지역 도보수색 불허…네팔군 \"위험\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904181651104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔군이 위험하다는 이유로 대홍수 당시 한국인 9명이 실종된 지역에서 한국 해외긴급구호대(KDRT)의 도...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-04T15:28:00+00:00",
+      "published_ts": 1788535680.0
+    },
+    {
+      "title": "[속보] 네팔군, 韓구호대에 한국인 9명 실종 지역 도보 수색 불허",
+      "link": "https://www.yna.co.kr/view/AKR20260904181600104",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-04T14:44:25+00:00",
+      "published_ts": 1788533065.0
+    },
+    {
+      "title": "A miracle from the tunnel gives Nepal hope after 10 days",
+      "link": "https://english.onlinekhabar.com/miracle-tunnel-nepal-hope.html",
+      "summary": "Rasuwa, September 4 For 10 days, there had been no word from the people believed to be trapped inside the Upper Trishuli-3A hydropower project tunnel. Then, somewhere deep inside the darkness, a rescuer called out. “Hello.” A voice answered. “Hajur.” It was an ordinary Nepali response to an ordinary greeting. But after 10 days without […] The post A miracle from the tunnel gives Nepal hope after 1",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-04T14:28:58+00:00",
+      "published_ts": 1788532138.0
+    },
+    {
+      "title": "Rasuwa flood death toll reaches 1,294",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-death-toll-8.html",
+      "summary": "Kathmandu, September 4 The death toll from the devastating Rasuwa flood on August 26 has reached 1,294, according to the National Disaster Risk Reduction and Management Authority (NDRRMA). The authority confirmed the recovery of 1,294 bodies during a press briefing on Friday evening. NDRRMA spokesperson Shanti Maharjan said 5,053 people are still missing, while 13,095 […] The post Rasuwa flood dea",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T14:14:09+00:00",
+      "published_ts": 1788531249.0
+    },
     {
       "title": "Rasuwa floods: What has the government done in the last 10 days?",
       "link": "https://english.onlinekhabar.com/rasuwa-floods-govt-response-10-days.html",
@@ -98,17 +175,6 @@
       "published_ts": 1788524721.0
     },
     {
-      "title": "Body pulled from Trishuli-3 'A' tunnel",
-      "link": "https://risingnepaldaily.com/news/86109",
-      "summary": "Rasuwa, Sept 4: A Nepali Army squad mobilized for the rescue of those trapped inside the tunnel of Trishuli-3 'A' hydrop...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T11:58:29+00:00",
-      "published_ts": 1788523109.0
-    },
-    {
       "title": "Nepal receives emergency relief and financial aid from 29 countries",
       "link": "https://english.onlinekhabar.com/nepal-receives-emergency-relief-and-financial-aid-from-29-countries.html",
       "summary": "Kathmandu, September 4 Nepal has received support from 29 countries and major international organisations following the disaster caused by the Bhotekoshi flood. While some countries have provided essential humanitarian assistance, others have sent financial aid as well as relief supplies. According to a press briefing by the Ministry of Foreign Affairs on Friday afternoon, the […] The post Nepal r",
@@ -129,17 +195,6 @@
       "highlight": false,
       "published": "2026-09-04T11:13:51+00:00",
       "published_ts": 1788520431.0
-    },
-    {
-      "title": "Minister Dr. Timilsina visits Bhotekoshi flood victims in hospital",
-      "link": "https://risingnepaldaily.com/news/86108",
-      "summary": "By TRN Online, Kathmandu, Sept 4: Minister for Information and Communication Dr Bikram Timilsina today visited T.U Teach...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T11:09:32+00:00",
-      "published_ts": 1788520172.0
     },
     {
       "title": "NEA technicians enter Trishuli 3A tunnel to aid search for trapped workers",
@@ -228,39 +283,6 @@
       "highlight": true,
       "published": "2026-09-04T09:09:42+00:00",
       "published_ts": 1788512982.0
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260904149800011",
-      "summary": "■ [네팔 대홍수] '9일만의 기적' 구조 생존자 \"다른 사람들 대피 돕다 갇혀\"",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-04T09:00:00+00:00",
-      "published_ts": 1788512400.0
-    },
-    {
-      "title": "Death toll from Bhotekoshi floods reaches 1,287, economic losses estimated at Rs 387.54 billion",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-death-toll-sept4.html",
-      "summary": "Kathmandu, September 4 The death toll from the devastating floods in the Bhotekoshi River in Rasuwa and the wider disaster has reached 1,287, according to the National Disaster Risk Reduction and Management Authority. The authority’s latest update, released at noon on Friday, puts the preliminary estimate of economic damage and losses from the disaster at […] The post Death toll from Bhotekoshi fl",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T08:41:51+00:00",
-      "published_ts": 1788511311.0
-    },
-    {
-      "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
-      "summary": "Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-04T07:46:48+00:00",
-      "published_ts": 1788508008.0
     },
     {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
