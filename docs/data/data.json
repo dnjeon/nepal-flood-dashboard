@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04T05:49:35.402859+00:00",
-  "total": 19,
-  "highlight_count": 1,
+  "updated_at": "2026-09-04T09:59:19.205507+00:00",
+  "total": 27,
+  "highlight_count": 4,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 10,
+      "count": 15,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "error": null
     },
     {
@@ -48,131 +48,285 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "252 containers pass through Korola border point in a week",
-      "link": "https://english.onlinekhabar.com/252-containers-pass-through-korola-border-point-in-a-week.html",
-      "summary": "Mustang, September 4 Nepal-China trade through the Korola border point in Mustang has increased following the closure of the Rasuwagadhi-Kerung border crossing after the devastating Bhotekoshi flood on August 26. Before the disaster, an average of 8-10 containers passed through Korola daily. However, the number of containers using the route has increased since the disaster. […] The post 252 contai",
+      "title": "Chinese foundation brings 27 tons of relief supplies for Rasuwa flood victims",
+      "link": "https://english.onlinekhabar.com/chinese-foundation-brings-27-tons-of-relief-supplies-for-rasuwa-flood-victims.html",
+      "summary": "Kathmandu, September 4 The China Foundation for Rural Development (CFRD) has arrived in Kathmandu with 27 tons of relief supplies for people affected by the devastating flood in the Bhotekoshi River in Rasuwa on August 26. The first phase of relief supplies arrived at Tribhuvan International Airport under CFRD’s “8.26 Nepal Mudslide Rescue Operation.” After […] The post Chinese foundation brings 2",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-04T05:35:48+00:00",
-      "published_ts": 1788500148.0
+      "published": "2026-09-04T09:47:00+00:00",
+      "published_ts": 1788515220.0
     },
     {
-      "title": "NDRRMA estimates Rs 387.54 billion in losses from Bhotekoshi flood",
-      "link": "https://english.onlinekhabar.com/ndrrma-estimates-rs-387-54-billion-in-losses-from-bhotekoshi-flood.html",
-      "summary": "Kathmandu, September 4 The government has estimated losses of around Rs 400 billion from the Bhotekoshi flash flood that struck Nepal on August 26. At a regular briefing organised by the National Disaster Risk Reduction and Management Authority (NDRRMA) on Thursday, its Executive Director, Dr Dharma Raj Upreti, said the authority had made a preliminary […] The post NDRRMA estimates Rs 387.54 billi",
+      "title": "Rasuwa Flood: 180 people from Madhes still missing, 2 confirmed dead",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-180-people-from-madhes-still-missing-2-confirmed-dead.html",
+      "summary": "Janakpurdham, September 4 As days pass since the devastating flood, despair is growing among families of people who remain unaccounted for. Meanwhile, more people have been reported missing by relatives in various districts of Madhes Province. According to the Madhes Province Police Office in Janakpurdham, the number of people reported missing in the Rasuwa flood […] The post Rasuwa Flood: 180 peo",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-04T05:28:21+00:00",
-      "published_ts": 1788499701.0
+      "published": "2026-09-04T09:38:38+00:00",
+      "published_ts": 1788514718.0
     },
     {
-      "title": "Feeling their homeland’s pain, Nepalis in the UK raise relief funds",
-      "link": "https://english.onlinekhabar.com/nepalis-in-uk-raise-relief-funds.html",
-      "summary": "London: Whether it was the massive earthquake a decade ago, the Covid pandemic, or now the devastation of the Bhotekoshi flood, once again it has been proven that the Nepali diaspora in the UK cannot remain untouched by the pain their homeland faces during disasters. On the morning of August 26, a massive flood in […] The post Feeling their homeland’s pain, Nepalis in the UK raise relief funds app",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T05:09:10+00:00",
-      "published_ts": 1788498550.0
-    },
-    {
-      "title": "Health condition of Sah, rescued from tunnel after 10 days, is normal",
-      "link": "https://english.onlinekhabar.com/health-condition-of-sah.html",
-      "summary": "Kathmandu, September 4 The health condition of Sanjay Sah, who was rescued alive from the Trishuli Three “A” tunnel, is normal. After the rescue, the Nepal Army had him medically examined and found his condition to be normal. The Nepal Army shared this information, confirming his condition is stable. Meanwhile, the other person rescued alongside […] The post Health condition of Sah, rescued from t",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T04:53:01+00:00",
-      "published_ts": 1788497581.0
-    },
-    {
-      "title": "Two persons rescued from tunnel under treatment in hospitals",
-      "link": "https://risingnepaldaily.com/news/86089",
-      "summary": "By TRN Online, Kathmandu, Sept 4: Two persons rescued from the tunnel of the Trishuli III A hydro power project are unde...",
+      "title": "Death toll from Bhotekoshi flood climbs to 1,290 so far",
+      "link": "https://risingnepaldaily.com/news/86103",
+      "summary": "Kathmandu, Sept 4: The bodies of 1,290 people, out of those killed in Bhotekoshi flash flood, have been recovered so far...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-04T04:42:45+00:00",
-      "published_ts": 1788496965.0
+      "published": "2026-09-04T09:37:58+00:00",
+      "published_ts": 1788514678.0
     },
     {
-      "title": "네팔 대홍수 9일만의 기적…발전소 터널서 네팔인 2명 구조(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904087651084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔 대홍수 발생 9일 만인 4일(현지시간) 홍수 피해를 입은 수력발전소 터널에서 네팔인 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-04T04:39:48+00:00",
-      "published_ts": 1788496788.0
-    },
-    {
-      "title": "168 from Madhes still missing after Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86080",
-      "summary": "By Dhirendraprasad Sah/ Bomlal Giri, Rajbiraj/Nawalpur, Sept. 4: A total of 168 people from eight districts of Madhes Pr...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T04:13:37+00:00",
-      "published_ts": 1788495217.0
-    },
-    {
-      "title": "네팔, 대홍수 9일만에 발전소 네팔인 직원 2명 구조",
-      "link": "https://www.yna.co.kr/view/AKR20260904087600084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔 대홍수 발생 9일 만인 4일(현지시간) 구조대가 수력발전소 터널에서 생존 직원 2명을...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-04T04:11:02+00:00",
-      "published_ts": 1788495062.0
-    },
-    {
-      "title": "[네팔 대홍수] '히말라야 하류' 강물 이어진 인도도 홍수 위험 경고음",
-      "link": "https://www.yna.co.kr/view/AKR20260904085400084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔이 대홍수로 국가적 위기에 처한 상황에서 네팔의 여러 강물이 흘러드는 인도에서도 향후 홍수가 발생할 수...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-04T04:10:33+00:00",
-      "published_ts": 1788495033.0
-    },
-    {
-      "title": "Two persons rescued alive from Trishuli 3A tunnel",
-      "link": "https://risingnepaldaily.com/news/86084",
-      "summary": "By TRN Online, Kathmandu, Sept 4: Two persons have been rescued alive from the tunnel of Trishuli III A hydro power proj...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T04:05:51+00:00",
-      "published_ts": 1788494751.0
-    },
-    {
-      "title": "UPDATE: Two rescued alive from Trishuli-3A tunnel after Bhotekoshi flood",
-      "link": "https://english.onlinekhabar.com/rescued-alive-trishuli-3a-tunnel.html",
-      "summary": "Rasuwa, September 4 Two people trapped inside a tunnel of the Trishuli-3A Hydropower Project in Rasuwa have been rescued alive, according to an engineer involved in the search and rescue operation. The two were rescued by a joint team of the Nepali Army and Armed Police Force, the engineer said. The rescue comes hours after […] The post UPDATE: Two rescued alive from Trishuli-3A tunnel after Bhote",
+      "title": "Family celebrates Kabir Maharjan’s rescue after 10 days inside Trishuli 3A tunnel",
+      "link": "https://english.onlinekhabar.com/kabir-maharjan-rescue-family.html",
+      "summary": "Kathmandu, September 4 For 10 days, Bidya Dangol did not know whether she would see her brother Kabir Maharjan again. Maharjan, from Lalitpur, was trapped inside the Trishuli 3A hydropower project tunnel after the devastating flood in Rasuwa on August 26 blocked the tunnel entrance. On Friday, 10 days after the flood, he was finally […] The post Family celebrates Kabir Maharjan’s rescue after 10 d",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-04T03:41:30+00:00",
-      "published_ts": 1788493290.0
+      "published": "2026-09-04T09:30:43+00:00",
+      "published_ts": 1788514243.0
+    },
+    {
+      "title": "[네팔 대홍수] 기업대응팀, 수색 인력·범위 확대…구조 총력(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260904078951003",
+      "summary": "(서울·성남=연합뉴스) 신창용 홍규빈 기자 = 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 한국남동발전과 두산에너빌리티가 현장 수색 인력...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-04T09:09:42+00:00",
+      "published_ts": 1788512982.0
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260904149800011",
+      "summary": "■ [네팔 대홍수] '9일만의 기적' 구조 생존자 \"다른 사람들 대피 돕다 갇혀\"",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-04T09:00:00+00:00",
+      "published_ts": 1788512400.0
+    },
+    {
+      "title": "Bangladesh aids one million USD for Bhotekoshi flood affected",
+      "link": "https://risingnepaldaily.com/news/86099",
+      "summary": "Kathmandu, Sept 4: The Government of Bangladesh has aided one million USD to the Nepal's Prime Minister Disaster Relief...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T08:43:49+00:00",
+      "published_ts": 1788511429.0
+    },
+    {
+      "title": "Death toll from Bhotekoshi floods reaches 1,287, economic losses estimated at Rs 387.54 billion",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-death-toll-sept4.html",
+      "summary": "Kathmandu, September 4 The death toll from the devastating floods in the Bhotekoshi River in Rasuwa and the wider disaster has reached 1,287, according to the National Disaster Risk Reduction and Management Authority. The authority’s latest update, released at noon on Friday, puts the preliminary estimate of economic damage and losses from the disaster at […] The post Death toll from Bhotekoshi fl",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T08:41:51+00:00",
+      "published_ts": 1788511311.0
+    },
+    {
+      "title": "NRCS marking 64th anniversary; mobilizes 5,000 volunteers in Bhotekoshi flood-hit area",
+      "link": "https://risingnepaldaily.com/news/86098",
+      "summary": "Kathmandu, Sept 4: The 64th establishment day of the Nepal Red Cross Society is being observed today with the slogan 'So...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T08:33:31+00:00",
+      "published_ts": 1788510811.0
+    },
+    {
+      "title": "Body recovered from Trishuli 3-A Hydropower Project tunnel",
+      "link": "https://english.onlinekhabar.com/body-recovered-from-trishuli-3-a-hydropower-project-tunnel.html",
+      "summary": "Kathmandu, September 4 Rescue workers have recovered a body from the tunnel of the Upper Trishuli 3-A Hydropower Project, where two people were rescued alive. According to Project Chief Awas Ojha, security personnel recovered one body from the tunnel. The identity of the deceased has yet to be established. A rescue team comprising personnel from […] The post Body recovered from Trishuli 3-A Hydrop",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-04T08:20:17+00:00",
+      "published_ts": 1788510017.0
+    },
+    {
+      "title": "‘Nepalis can do it too’: Nepal Army team pulls two survivors from Trishuli 3A",
+      "link": "https://english.onlinekhabar.com/nepal-army-pulls-survivors-tunnel.html",
+      "summary": "Kathmandu, September 4 Ten days after the Bhotekoshi flood blocked the entrance to a tunnel at the Trishuli 3A hydropower project, two people trapped inside were rescued alive on Friday. The successful rescue has renewed hopes that others reported missing from the project may also be found. A rescue team led by the Nepali Army, […] The post ‘Nepalis can do it too’: Nepal Army team pulls two surviv",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T08:14:58+00:00",
+      "published_ts": 1788509698.0
+    },
+    {
+      "title": "Rasuwa Flood: What is the rescue progress in each tunnel?",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-what-is-the-rescue-progress-in-each-tunnel.html",
+      "summary": "Kathmandu, September 4 The devastating flood that swept through the Bhotekoshi River into the Trishuli River in Rasuwa on August 26 caused extensive loss of life and property. Search and rescue operations are still underway. People working at various hydropower projects in Rasuwa were also trapped by the flood. While the bodies of some have […] The post Rasuwa Flood: What is the rescue progress in",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T08:13:46+00:00",
+      "published_ts": 1788509626.0
+    },
+    {
+      "title": "[네팔 대홍수] '9일만의 기적' 구조 생존자 \"다른 사람들 대피 돕다 갇혀\"",
+      "link": "https://www.yna.co.kr/view/AKR20260904141100084",
+      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔 대홍수 발생 9일 만인 4일(현지시간) 수력발전소 터널에서 극적으로 구조된 네팔인 산...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-04T07:55:59+00:00",
+      "published_ts": 1788508559.0
+    },
+    {
+      "title": "한국장애인개발원, 네팔·방글라데시에 'K-장애정책' 전수한다",
+      "link": "https://www.yna.co.kr/view/AKR20260904143300371",
+      "summary": "(서울=연합뉴스) 강성철 기자 = 한국장애인개발원(원장 이경혜)은 유엔장애인권리협약(UNCRPD) 채택 20주년을 맞아 네팔과 방글라데시 장애정...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-04T07:49:55+00:00",
+      "published_ts": 1788508195.0
+    },
+    {
+      "title": "Video: Workers rescued from hydro tunnel nine days after Nepal flooding",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/video-workers-rescued-from-hydro-tunnel-nine-days-after-nepal-flooding?traffic_source=rss",
+      "summary": "Two workers have been pulled alive from a hydropower tunnel nine days after deadly flash flooding hit Nepal.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-04T07:46:48+00:00",
+      "published_ts": 1788508008.0
+    },
+    {
+      "title": "[영상] \"터널 안에서 목소리 들려\"…네팔 대홍수 9일만에 '기적의 생존'",
+      "link": "https://www.yna.co.kr/view/AKR20260904139200704",
+      "summary": "(서울=연합뉴스) 네팔 대홍수 발생 9일 만인 4일(현지시간) 홍수 피해를 입은 수력발전소 터널에서 네팔인 직원 2명이 구조됐습니다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-04T07:37:58+00:00",
+      "published_ts": 1788507478.0
+    },
+    {
+      "title": "Oli prioritises direct relief to flood victims, questions ‘Green Army’ activities",
+      "link": "https://english.onlinekhabar.com/oli-direct-relief-flood-victims.html",
+      "summary": "Kathmandu, September 4 CPN-UML chair and former prime minister KP Sharma Oli has said providing immediate relief directly to flood and landslide victims is his party’s top priority, arguing that government procedures can delay assistance reaching those affected. Speaking on Friday while handing over relief materials collected by the party for flood victims in Rasuwa […] The post Oli prioritises di",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T07:21:46+00:00",
+      "published_ts": 1788506506.0
+    },
+    {
+      "title": "Nepal floods: How DNA identification of bodies works",
+      "link": "https://www.aljazeera.com/news/2026/9/4/nepal-floods-how-does-dna-identification-of-bodies-work?traffic_source=rss",
+      "summary": "DNA testing helps identify bodies that may be unrecognisable due to mutilation and decomposition.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-04T06:56:11+00:00",
+      "published_ts": 1788504971.0
+    },
+    {
+      "title": "Australian PM Albanese expresses condolences over Nepal floods, assures support",
+      "link": "https://english.onlinekhabar.com/australian-pm-albanese-nepal-support.html",
+      "summary": "Kathmandu, September 4 Australian Prime Minister Anthony Albanese has expressed deep sorrow over the loss of life and destruction caused by the devastating floods in Nepal during a telephone conversation with Nepali Prime Minister Balendra Shah. Describing the disaster and its destruction as “tsunami-like”, Albanese said Australia stands with Nepal during the difficult period and […] The post Aust",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T06:54:50+00:00",
+      "published_ts": 1788504890.0
+    },
+    {
+      "title": "Gagan Thapa visits flood-hit Rasuwa with team of experts",
+      "link": "https://english.onlinekhabar.com/gagan-thapa-visits-flood-hit-rasuwa-with-team-of-experts.html",
+      "summary": "Kathmandu, September 4 Nepali Congress President Gagan Thapa has visited flood-hit Rasuwa with a team of experts. He travelled to Rasuwa on Friday to assess the loss of life and property caused by the devastating flood in the Bhotekoshi River. According to his secretariat, Thapa reached Ghicheth in Ward No. 3 of Naukunda Rural Municipality […] The post Gagan Thapa visits flood-hit Rasuwa with team",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T06:45:48+00:00",
+      "published_ts": 1788504348.0
+    },
+    {
+      "title": "Across the Trishuli, an information vacuum leaves people at the mercy of rumours",
+      "link": "https://english.onlinekhabar.com/trishuli-information-vacuum-flood.html",
+      "summary": "Trishuli, September 4 At the banks of the Trishuli, 86-year-old Bhuwan Prasad Ghimire leaned on his walking stick and stared across the river. He has spent his entire life beside the Trishuli. He has watched it rise and fall through the seasons, lived through its quieter days and its angry ones. But what he saw […] The post Across the Trishuli, an information vacuum leaves people at the mercy of r",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T06:15:00+00:00",
+      "published_ts": 1788502500.0
+    },
+    {
+      "title": "Sanjay’s brother says his rescue was ‘Happiness we never expected’",
+      "link": "https://english.onlinekhabar.com/sanjays-brother-says-his-rescue-was-happiness-we-never-expected.html",
+      "summary": "Kathmandu, September 4 Thirty-year-old Sanjay Sah, who had been trapped inside a tunnel at the Upper Trishuli 3-A Hydropower Project following the Bhotekoshi flood in Rasuwa, was rescued alive after 10 days. A joint team of the Nepal Army and Armed Police Force rescued him safely on Friday morning, turning 10 days of anguish for […] The post Sanjay’s brother says his rescue was ‘Happiness we never",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-04T06:11:31+00:00",
+      "published_ts": 1788502291.0
+    },
+    {
+      "title": "Rescued alive after 10 days, Kabir’s brother says, ‘There are no words to describe our happiness’",
+      "link": "https://english.onlinekhabar.com/rescued-alive-after-10-days-kabirs-brother-says-there-are-no-words-to-describe-our-happiness.html",
+      "summary": "Kathmandu, September 4 Amir, the younger brother of Kabir Maharjan, who was rescued alive from a tunnel at the Trishuli 3-A Hydropower Project, said the family’s happiness knew no bounds after Kabir was rescued safely following 10 days trapped inside the tunnel. Kabir had been trapped inside the tunnel after the devastating flood in the […] The post Rescued alive after 10 days, Kabir’s brother say",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T05:59:51+00:00",
+      "published_ts": 1788501591.0
+    },
+    {
+      "title": "Inside the tunnel search-and-rescue operation (Photos)",
+      "link": "https://english.onlinekhabar.com/inside-the-tunnel.html",
+      "summary": "Kathmandu, September 4 Two people trapped inside the tunnel of the Trishuli-3 ‘A’ hydropower project, following the devastating flood that struck Bhotekoshi in Rasuwa on August 26, have been rescued alive. Sanjay Sah, a mechanical foreman with the Electricity Authority, and Kabir Maharjan, a supervisor, were rescued alive from the tunnel this morning. Amid concerns […] The post Inside the tunnel s",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T05:55:50+00:00",
+      "published_ts": 1788501350.0
+    },
+    {
+      "title": "2 rescued alive from Trishuli 3-A tunnel; how many remain inside?",
+      "link": "https://english.onlinekhabar.com/2-rescued-alive-from-trishuli-3-a-tunnel-how-many-remain-inside.html",
+      "summary": "Kathmandu, September 4 Rescue teams have rescued two people alive from a tunnel of the Nepal Electricity Authority’s Trishuli 3-A Hydropower Project. Mechanical foreman Sanjay Sah and supervisor Kabir Maharjan were rescued alive from the tunnel this morning, 10 days after they became trapped. According to Trishuli 3-A Project Chief Awas Ojha, the two were […] The post 2 rescued alive from Trishuli",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-04T05:51:18+00:00",
+      "published_ts": 1788501078.0
     },
     {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
@@ -186,17 +340,6 @@
       "published_ts": 1788492270.0
     },
     {
-      "title": "Why DNA testing matters when disaster victims cannot be identified",
-      "link": "https://english.onlinekhabar.com/dna-testing-matters-nepal-flood.html",
-      "summary": "Kathmandu, September 4 Of the 1,290 bodies recovered so far after the devastating floods in Rasuwa, fewer than 100 have been identified and handed over to their families. The figures underline one of the most difficult tasks that follows a major disaster: identifying the dead. In floods, landslides and other disasters, bodies can be severely […] The post Why DNA testing matters when disaster victi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T03:17:15+00:00",
-      "published_ts": 1788491835.0
-    },
-    {
       "title": "Multipronged search continues for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260904006800315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- Despite bad weather and rugged terrain, South Korea c...",
@@ -206,61 +349,6 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
-    },
-    {
-      "title": "APF’s Timure team lost 13 of its own. It never left the post",
-      "link": "https://english.onlinekhabar.com/apfs-timure-working-hard.html",
-      "summary": "Dhunche, September 4 At around 8:30 am on August 26, the Bhotekoshi came rushing into Timure with mud, rocks and debris. The China-Nepal border settlement was among the first places in the path of the devastating flood. Within minutes, homes, offices and infrastructure were swept away. The Armed Police Force (APF) also suffered its biggest […] The post APF’s Timure team lost 13 of its own. It neve",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T03:15:00+00:00",
-      "published_ts": 1788491700.0
-    },
-    {
-      "title": "Voices heard from inside Trishuli-3A tunnel, rescue operation intensified",
-      "link": "https://english.onlinekhabar.com/voices-heard-trishuli-3a-tunnel.html",
-      "summary": "Rasuwa, September 4 Search and rescue efforts have been intensified at the Trishuli-3A Hydropower Project in Rasuwa after the devastating Bhotekoshi flood on August 26 left people trapped inside the project’s tunnel. Engineer Shriram Neupane, citing the Nepali Army involved in the rescue operation, said rescuers received information that voices of people were heard from […] The post Voices heard f",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T01:49:19+00:00",
-      "published_ts": 1788486559.0
-    },
-    {
-      "title": "Nepal flood victims to be identified through DNA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/nepal-flood-victims-to-be-identified-through-dna?traffic_source=rss",
-      "summary": "Nepal flood victims to be identified through DNA",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-03T21:11:18+00:00",
-      "published_ts": 1788469878.0
-    },
-    {
-      "title": "217 students, 15 teachers remain unaccounted for after Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/student-teacher-bhotekoshi-floods.html",
-      "summary": "Kathmandu, September 3 At least 217 students and 15 teachers remain out of contact following the floods in Rasuwa, according to preliminary data collected by the Department of Education. Nilkantha Dhakal, director at the department, said the initial assessment showed that 217 students and 15 teachers associated with educational institutions in Rasuwa, Nuwakot and Dhading […] The post 217 students,",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-03T13:47:36+00:00",
-      "published_ts": 1788443256.0
-    },
-    {
-      "title": "Govt announces recovery package for businesses hit by Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/govt-recovery-package-flood-business.html",
-      "summary": "Kathmandu, September 3 The government has announced a business recovery package for businesses affected by the Bhotekoshi floods, offering customs duty waivers, tax relief and other concessions to help them resume operations. A Cabinet meeting held on Thursday approved the package proposed by the Ministry of Finance. Under the decision, businesses whose commercial vehicles or […] The post Govt ann",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-03T13:38:38+00:00",
-      "published_ts": 1788442718.0
     }
   ]
 }
