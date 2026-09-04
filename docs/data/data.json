@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-04T17:38:44.552482+00:00",
-  "total": 23,
-  "highlight_count": 7,
+  "updated_at": "2026-09-04T19:51:22.488852+00:00",
+  "total": 22,
+  "highlight_count": 6,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -272,17 +272,6 @@
       "highlight": false,
       "published": "2026-09-04T09:30:43+00:00",
       "published_ts": 1788514243.0
-    },
-    {
-      "title": "[네팔 대홍수] 기업대응팀, 수색 인력·범위 확대…구조 총력(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260904078951003",
-      "summary": "(서울·성남=연합뉴스) 신창용 홍규빈 기자 = 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 한국남동발전과 두산에너빌리티가 현장 수색 인력...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-04T09:09:42+00:00",
-      "published_ts": 1788512982.0
     },
     {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
