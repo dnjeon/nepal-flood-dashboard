@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-03T23:12:14.109980+00:00",
-  "total": 21,
-  "highlight_count": 4,
+  "updated_at": "2026-09-04T01:03:11.473947+00:00",
+  "total": 14,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -19,7 +19,7 @@
       "name": "The Rising Nepal",
       "ok": false,
       "count": 0,
-      "error": "[Errno 111] Connection refused"
+      "error": "timed out"
     },
     {
       "name": "Nepal News",
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 6,
+      "count": 1,
       "error": null
     },
     {
@@ -48,32 +48,21 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-      "link": "https://www.yna.co.kr/view/AKR20260904014300011",
-      "summary": "■ \"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력",
+      "title": "[네팔 대홍수] 정부, 네팔 이재민에 담요 등 긴급 구호품 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260904040700504",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 정부는 네팔 홍수 피해 지역 이재민을 돕기 위해 1억3천만원 상당의 긴급 구호 물품을 추가 지원한다고 4일 밝...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-03T22:30:00+00:00",
-      "published_ts": 1788474600.0
-    },
-    {
-      "title": "[네팔 대홍수 르포] \"옛동료 실종 마음찢어져\"…두산서 3년 일한 네팔인 '울먹'",
-      "link": "https://www.yna.co.kr/view/AKR20260903170800104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = \"올해 3월까지 3년 동안 두산에너빌리티에서 근무했습니다. 그때 같이 일한 네팔인 동료들이 이번 대홍수로...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-03T22:11:01+00:00",
-      "published_ts": 1788473461.0
+      "published": "2026-09-04T00:29:55+00:00",
+      "published_ts": 1788481795.0
     },
     {
       "title": "Nepal flood victims to be identified through DNA",
@@ -85,61 +74,6 @@
       "highlight": false,
       "published": "2026-09-03T21:11:18+00:00",
       "published_ts": 1788469878.0
-    },
-    {
-      "title": "Stranded survivors in Nepal cross raging Trishuli River using zip line",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/stranded-survivors-in-nepal-cross-raging-trishuli-river-using-zip-line?traffic_source=rss",
-      "summary": "Survivors in relief camps in Nepal are struggling to get basic commodities like food and medicine",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-03T18:23:38+00:00",
-      "published_ts": 1788459818.0
-    },
-    {
-      "title": "\"공기·식량 있을 듯\"…네팔, 발전소 터널 생존자 수색 총력(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260903095752084",
-      "summary": "(카트만두 하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경의 히말라야 산악지대를 강타한 대홍수 발생 9일째를 맞은 3일(현지시간) 구...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-03T17:02:44+00:00",
-      "published_ts": 1788454964.0
-    },
-    {
-      "title": "[네팔 대홍수] 韓구호대 \"네팔군이 헬기 2대 제공\"…날씨 탓에 회항",
-      "link": "https://www.yna.co.kr/view/AKR20260903186151104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 대규모 홍수가 발생한 네팔에 한국 정부가 파견한 해외긴급구호대(KDRT)가 3일(현지시간) 네팔군의 헬기...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-03T15:30:18+00:00",
-      "published_ts": 1788449418.0
-    },
-    {
-      "title": "[속보] 한국구호대 \"네팔군이 헬기 2대 제공\"…수색 시도했으나 실패",
-      "link": "https://www.yna.co.kr/view/AKR20260903186100104",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-03T14:30:32+00:00",
-      "published_ts": 1788445832.0
-    },
-    {
-      "title": "네팔 홍수로 한국인 9명 실종 9일째…정부, 수색 상황 점검",
-      "link": "https://www.yna.co.kr/view/AKR20260903185600504",
-      "summary": "(서울=연합뉴스) 민선희 기자 = 네팔 대홍수로 한국인 9명이 실종된 지 9일째인 3일, 정부가 수색·구조 활동 추진 상황을 점검했다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-03T14:09:34+00:00",
-      "published_ts": 1788444574.0
     },
     {
       "title": "217 students, 15 teachers remain unaccounted for after Bhotekoshi floods",
@@ -272,17 +206,6 @@
       "highlight": false,
       "published": "2026-09-03T10:15:00+00:00",
       "published_ts": 1788430500.0
-    },
-    {
-      "title": "(LEAD) Intensive search under way for 9 S. Koreans missing in Nepal floods",
-      "link": "https://en.yna.co.kr/view/AEN20260902004951315",
-      "summary": "SEOUL, Sept. 2 (Yonhap) -- A South Korean disaster relief team arrived in Nepal ...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-02T12:21:36+00:00",
-      "published_ts": 1788351696.0
     }
   ]
 }
