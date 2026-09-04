@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T19:51:22.488852+00:00",
-  "total": 22,
+  "updated_at": "2026-09-04T22:06:53.874920+00:00",
+  "total": 21,
   "highlight_count": 6,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -228,17 +228,6 @@
       "highlight": false,
       "published": "2026-09-04T10:31:38+00:00",
       "published_ts": 1788517898.0
-    },
-    {
-      "title": "네팔 대홍수 9일만의 기적…수력발전소 터널서 네팔인 2명 극적 구조(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260904087652084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 휩쓴 대홍수 발생 9일 만인 4일(현지시간) 홍수 피해...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-04T10:02:54+00:00",
-      "published_ts": 1788516174.0
     },
     {
       "title": "Chinese foundation brings 27 tons of relief supplies for Rasuwa flood victims",
