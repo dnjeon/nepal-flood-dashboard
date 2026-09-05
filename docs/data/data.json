@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-05T00:01:06.948496+00:00",
-  "total": 18,
-  "highlight_count": 4,
+  "updated_at": "2026-09-05T04:19:03.240901+00:00",
+  "total": 34,
+  "highlight_count": 5,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 18,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 12,
+      "count": 13,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 0,
       "error": null
     },
     {
@@ -54,48 +54,48 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] \"2015년 강진 땐 구호에 3년…이번엔 예상조차 불가능\"",
-      "link": "https://www.yna.co.kr/view/AKR20260904168600104",
-      "summary": "(랄릿푸르[네팔]=연합뉴스) 손현규 특파원 = \"9천명 가까이 사망한 2015년 네팔 강진 때와는 구호 상황이 다릅니다. 그때는 많은 주택이 원...",
+      "title": "Nepal needs the world. But Nepal must build Nepal.",
+      "link": "https://english.onlinekhabar.com/nepal-must-build-nepal.html",
+      "summary": "The recent floods in Rasuwa have once again reminded us how vulnerable Nepal remains to disasters. Families have lost homes and livelihoods. Infrastructure has been damaged. Communities are waiting for relief and, beyond that, the long and difficult process of recovery and reconstruction. At a time like this, the generosity of people, organisations and countries […] The post Nepal needs the world.",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T03:15:00+00:00",
+      "published_ts": 1788578100.0
+    },
+    {
+      "title": "The flood was natural, but was the disaster?",
+      "link": "https://english.onlinekhabar.com/flood-disaster-nepal.html",
+      "summary": "The Bhotekoshi flash flood in Nepal cannot simply be called a natural disaster. Extreme floods are commonly described using annual exceedance probabilities or return periods—such as 50-, 100- or 500-year events, or even rarer ones. These terms do not tell us when a flood will occur; they describe its estimated probability and magnitude. Even rare […] The post The flood was natural, but was the dis",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T02:15:00+00:00",
+      "published_ts": 1788574500.0
+    },
+    {
+      "title": "The morning Betrawati disappeared",
+      "link": "https://english.onlinekhabar.com/morning-betrawati-disappeared.html",
+      "summary": "On the morning of August 26, Yogesh Dangol took one last walk around Betrawati without knowing it would become the last time he would see the town as he knew it. He went to Uttargaya Dham, crossed the suspension bridge connecting Trishuli with Tupche, visited Maranghat Pati and watched the Lakhey. He also stopped by […] The post The morning Betrawati disappeared appeared first on OnlineKhabar Engl",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T01:15:00+00:00",
+      "published_ts": 1788570900.0
+    },
+    {
+      "title": "[네팔 대홍수] 조현, 네팔 방문해 외교장관 회담…실종자 가족 면담",
+      "link": "https://www.yna.co.kr/view/AKR20260905019400504",
+      "summary": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 대홍수가 발생한 네팔을 방문한다고 외교부가 5일 밝혔다.",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-04T22:35:01+00:00",
-      "published_ts": 1788561301.0
-    },
-    {
-      "title": "PM Shah's message on Shree Krishna Janmastami, dedicating children affected by Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86118",
-      "summary": "Kathmandu, Sept 4: Prime Minister Balendra Shah on Friday extended a message on the occasion of the Shree Krishna Janmas...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T16:53:02+00:00",
-      "published_ts": 1788540782.0
-    },
-    {
-      "title": "Bhotekoshi flood: Search and rescue continuous in Trishuli-3 'A'",
-      "link": "https://risingnepaldaily.com/news/86117",
-      "summary": "Kathmandu, Sept 4: Search and rescue operations have been continued in the Trishuli-3 'A' Hydropower Project following t...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T16:48:50+00:00",
-      "published_ts": 1788540530.0
-    },
-    {
-      "title": "Govt continues search and rescue operations on tenth day of devastating Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86116",
-      "summary": "Kathmandu, Sept 4: The government has said search and rescue operations were continuous on Friday, tenth day of the cala...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T16:46:47+00:00",
-      "published_ts": 1788540407.0
+      "published": "2026-09-05T00:34:21+00:00",
+      "published_ts": 1788568461.0
     },
     {
       "title": "A miracle from the tunnel gives Nepal hope after 10 days",
@@ -208,28 +208,6 @@
       "published_ts": 1788515220.0
     },
     {
-      "title": "Rasuwa Flood: 180 people from Madhes still missing, 2 confirmed dead",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-180-people-from-madhes-still-missing-2-confirmed-dead.html",
-      "summary": "Janakpurdham, September 4 As days pass since the devastating flood, despair is growing among families of people who remain unaccounted for. Meanwhile, more people have been reported missing by relatives in various districts of Madhes Province. According to the Madhes Province Police Office in Janakpurdham, the number of people reported missing in the Rasuwa flood […] The post Rasuwa Flood: 180 peo",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T09:38:38+00:00",
-      "published_ts": 1788514718.0
-    },
-    {
-      "title": "Family celebrates Kabir Maharjan’s rescue after 10 days inside Trishuli 3A tunnel",
-      "link": "https://english.onlinekhabar.com/kabir-maharjan-rescue-family.html",
-      "summary": "Kathmandu, September 4 For 10 days, Bidya Dangol did not know whether she would see her brother Kabir Maharjan again. Maharjan, from Lalitpur, was trapped inside the Trishuli 3A hydropower project tunnel after the devastating flood in Rasuwa on August 26 blocked the tunnel entrance. On Friday, 10 days after the flood, he was finally […] The post Family celebrates Kabir Maharjan’s rescue after 10 d",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T09:30:43+00:00",
-      "published_ts": 1788514243.0
-    },
-    {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
       "link": "https://en.yna.co.kr/view/AEN20260904006900315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- South Korea will provide additional emergency relief ...",
@@ -250,6 +228,204 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
+    },
+    {
+      "title": "They stopped hoping to find him alive. Then they found a hand",
+      "link": "https://kathmandupost.com/national/2026/09/05/they-stopped-hoping-to-find-him-alive-then-they-found-a-hand",
+      "summary": "Raj Kumar Diyali went missing with his wife and four-year-old son in Nepal’s Bhotekoshi flood. His family is now waiting for DNA confirmation.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Barely saved, he cuts mourning short to help flood survivors",
+      "link": "https://kathmandupost.com/national/2026/09/05/barely-saved-he-cuts-mourning-short-to-help-flood-survivors",
+      "summary": "Sudip Kumar Neupane watched a raging Trishuli swallow his younger brother and a close colleague, then came out of grief after two days.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Can Nepal turn Himalayan vulnerability into a case for compensation?",
+      "link": "https://kathmandupost.com/national/2026/09/05/can-nepal-turn-himalayan-vulnerability-into-a-case-for-compensation",
+      "summary": "The Bhotekoshi disaster highlights rising climate risks in the Himalayas, but experts say Nepal needs stronger evidence, sharper diplomacy and a clear strategy to secure international grants.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "After nine days in darkness, two men walked back into the light",
+      "link": "https://kathmandupost.com/national/2026/09/04/ten-days-in-darkness-then-two-men-walked-back-into-the-light",
+      "summary": "Rescuers pulled Sanjay Sah and Kabir Maharjan alive from the Trishuli 3A hydropower tunnel after more than 72 hours of painstaking search, but dozens of people remain unaccounted for.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Search and rescue team says ‘no more survivors in Upper Trishuli 3A tunnel’",
+      "link": "https://kathmandupost.com/national/2026/09/04/search-and-rescue-team-says-no-more-survivors-in-upper-trishuli-3a-tunnel",
+      "summary": "After rescuing two survivors and finding a dead body, rescuers say they could not locate any more survivors or bodies.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal flood death toll reaches 1,287",
+      "link": "https://kathmandupost.com/national/2026/09/04/nepal-flood-death-toll-reaches-1-287",
+      "summary": "Bodies have been recovered across eight districts, with Chitwan reporting the highest number of bodies at 359, followed by Nawalparasi East and Nawalparasi West.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Rescued tunnel worker says he stayed behind to save others",
+      "link": "https://kathmandupost.com/national/2026/09/04/rescued-tunnel-worker-says-he-stayed-behind-to-save-others",
+      "summary": "Sanjay Sah told rescuers he delayed his escape to help others flee after the flood struck the Trishuli 3A tunnel, leaving him trapped inside for nine days.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Wife says rescued husband has ‘a second life’ after nine days trapped in Nepal tunnel",
+      "link": "https://kathmandupost.com/national/2026/09/04/wife-says-rescued-husband-has-a-second-life-after-nine-days-trapped-in-nepal-tunnel",
+      "summary": "Hira Shobha said her family spent nine agonising days believing Kabir Maharjan was still alive inside the Trishuli 3A tunnel before rescuers pulled him out on Friday.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal flood survivors pulled alive from hydropower tunnel nine days later",
+      "link": "https://kathmandupost.com/national/2026/09/04/voices-heard-from-inside-trishuli-3a-hydropower-tunnel-says-lawmaker",
+      "summary": "The rescue of two men came after rescuers heard voices from inside the Trishuli 3A tunnel, raising hopes that others trapped since the August 26 disaster may still be alive.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal unveils relief package to help flood-hit businesses recover",
+      "link": "https://kathmandupost.com/money/2026/09/04/nepal-unveils-relief-package-to-help-flood-hit-businesses-recover",
+      "summary": "Customs and tax breaks, loan restructuring and cheaper credit offered to businesses affected by Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "600 children unaccounted for in Rasuwa and Nuwakot. Verification hampered by crippled communication",
+      "link": "https://kathmandupost.com/national/2026/09/04/600-children-unaccounted-for-in-rasuwa-and-nuwakot-verification-hampered-by-crippled-communication",
+      "summary": "12 schools—four in Rasuwa and eight in Nuwakot—were completely destroyed in the August 26 mid-morning disaster.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "The priest leading his people from grief to acceptance",
+      "link": "https://kathmandupost.com/national/2026/09/04/the-priest-leading-his-people-from-grief-to-acceptance",
+      "summary": "In a Rasuwa village, grieving families have begun performing Buddhist funeral rites without waiting for bodies, following the lead of chief priest Singi Lama, who lost his son and daughters-in-law in the disaster.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal weighing options to relocate Bhotekoshi flood survivors",
+      "link": "https://kathmandupost.com/national/2026/09/03/nepal-weighing-options-to-relocate-bhotekoshi-flood-survivors",
+      "summary": "Authorities are mapping unsafe settlements and considering safer locations, but past disasters show that moving communities away from their land and livelihoods can be unsuitable.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Prime Minister Balendra Shah to lead Nepali delegation to UN General Assembly",
+      "link": "https://kathmandupost.com/national/2026/09/03/prime-minister-balendra-shah-to-lead-nepali-delegation-to-un-general-assembly",
+      "summary": "Shah will take a small delegation to New York and make Nepal’s case on the Bhotekoshi disaster.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "New bypass track to be built above collapsed Krishnabhir stretch",
+      "link": "https://kathmandupost.com/national/2026/09/03/new-bypass-track-to-be-built-above-collapsed-stretch-of-prithvi-highway",
+      "summary": "Authorities race to restore Kathmandu’s main supply route as a 70-metre stretch plunged into the Trishuli river on Sunday. Engineers are also exploring long-term alternatives.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Bhotekoshi flood leaves Syafrubesi in ruins, cuts off road access",
+      "link": "https://kathmandupost.com/visual-stories/2026/09/03/bhotekoshi-flood-leaves-syafrubesi-in-ruins-cuts-off-road-access",
+      "summary": "Much of the settlement was swept away by the flood, while damaged roads have hampered relief, rescue and the search for people still missing.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "EU provides additional Rs89 million in aid for Nepal flood victims",
+      "link": "https://kathmandupost.com/national/2026/09/03/eu-provides-additional-rs89-million-in-aid-for-nepal-flood-victims",
+      "summary": "The new funding will support up to 20,000 people in Bagmati Province with shelter, cash assistance, healthcare, water and sanitation services, and other emergency aid.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "114 Nepalis stranded in China return through Tatopani border",
+      "link": "https://kathmandupost.com/province-no-3/2026/09/03/114-nepalis-stranded-in-china-return-through-tatopani-border",
+      "summary": "The returnees were among 147 Nepali citizens stranded in China after devastating flood in the Bhotekoshi river on August 26, with more expected to cross the border in the coming days.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
