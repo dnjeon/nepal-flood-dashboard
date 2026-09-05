@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-05T14:37:25.513447+00:00",
-  "total": 45,
-  "highlight_count": 9,
+  "updated_at": "2026-09-05T16:56:24.153168+00:00",
+  "total": 44,
+  "highlight_count": 10,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 17,
+      "count": 16,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"",
+      "link": "https://www.yna.co.kr/view/AKR20260906000300104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔을 덮친 대규모 홍수로 한국인 9명이 실종된 지역에 갇혔다가 10일 만에 구조된 중국인 생존자가 인근...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-05T15:20:06+00:00",
+      "published_ts": 1788621606.0
+    },
     {
       "title": "[네팔 대홍수] 조현, 카트만두 도착…\"6일 네팔 외교장관과 회담\"",
       "link": "https://www.yna.co.kr/view/AKR20260905052700104",
@@ -195,17 +206,6 @@
       "highlight": false,
       "published": "2026-09-05T05:15:00+00:00",
       "published_ts": 1788585300.0
-    },
-    {
-      "title": "[네팔 대홍수] 조현, 네팔 방문해 외교장관 회담…실종자 가족 면담(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905019451504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 대홍수가 발생한 네팔을 방문한다고 외교부가 5일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T05:10:26+00:00",
-      "published_ts": 1788585026.0
     },
     {
       "title": "Nepal needs the world. But Nepal must build Nepal.",
@@ -360,6 +360,17 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
+    },
+    {
+      "title": "Late rescues renew hope for survivors in deadly Nepal floods",
+      "link": "https://kathmandupost.com/national/2026/09/05/miraculous-rescues-offer-renewed-hope-after-nepal-floods",
+      "summary": "A 64-year-old woman was rescued alive from beneath her buried home as her family performed her death rites, while three others—including a Chinese national—were pulled alive from hydropower tunnels in Rasuwa.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Security personnel install Nepali flag on the border with China in Rasuwagadhi",
@@ -519,28 +530,6 @@
       "title": "600 children unaccounted for in Rasuwa and Nuwakot. Verification hampered by crippled communication",
       "link": "https://kathmandupost.com/national/2026/09/04/600-children-unaccounted-for-in-rasuwa-and-nuwakot-verification-hampered-by-crippled-communication",
       "summary": "12 schools—four in Rasuwa and eight in Nuwakot—were completely destroyed in the August 26 mid-morning disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "The priest leading his people from grief to acceptance",
-      "link": "https://kathmandupost.com/national/2026/09/04/the-priest-leading-his-people-from-grief-to-acceptance",
-      "summary": "In a Rasuwa village, grieving families have begun performing Buddhist funeral rites without waiting for bodies, following the lead of chief priest Singi Lama, who lost his son and daughters-in-law in the disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal weighing options to relocate Bhotekoshi flood survivors",
-      "link": "https://kathmandupost.com/national/2026/09/03/nepal-weighing-options-to-relocate-bhotekoshi-flood-survivors",
-      "summary": "Authorities are mapping unsafe settlements and considering safer locations, but past disasters show that moving communities away from their land and livelihoods can be unsuitable.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
