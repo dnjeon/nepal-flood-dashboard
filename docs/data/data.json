@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T11:55:22.122582+00:00",
-  "total": 44,
-  "highlight_count": 8,
+  "updated_at": "2026-09-05T14:37:25.513447+00:00",
+  "total": 45,
+  "highlight_count": 9,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 5,
+      "count": 8,
       "error": null
     },
     {
@@ -53,6 +53,50 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 조현, 카트만두 도착…\"6일 네팔 외교장관과 회담\"",
+      "link": "https://www.yna.co.kr/view/AKR20260905052700104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 조현 외교부 장관이 네팔 대홍수로 실종된 한국인 9명의 수색 등 관련 현안을 네팔 당국과 협의하기 위해 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-05T13:19:56+00:00",
+      "published_ts": 1788614396.0
+    },
+    {
+      "title": "[영상] 네팔·韓구호대, 중국인 1명 구조…한국인 근무 발전소서 발견",
+      "link": "https://www.yna.co.kr/view/AKR20260905052600704",
+      "summary": "(서울=연합뉴스) 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소 공사 현장 터널에서 중국인 1명이 구조됐습니다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-05T13:00:00+00:00",
+      "published_ts": 1788613200.0
+    },
+    {
+      "title": "10 days since Bhotekoshi floods, woman rescued alive from house wreckage at Betrawati",
+      "link": "https://risingnepaldaily.com/news/86157",
+      "summary": "Kathmandu, Sept 5: It is the eleventh day of the deadly flood that struck Nepal from the northern border of Rasuwa. The...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T12:29:36+00:00",
+      "published_ts": 1788611376.0
+    },
+    {
+      "title": "네팔·韓구호대, 중국인 1명 구조…韓실종자 근무 발전소서 발견(종합2보)",
+      "link": "https://www.yna.co.kr/view/AKR20260905042752084",
+      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T11:53:39+00:00",
+      "published_ts": 1788609219.0
+    },
     {
       "title": "Rasuwa flood: 41 kilometres road and eight hydropower projects completely damaged",
       "link": "https://risingnepaldaily.com/news/86154",
@@ -87,17 +131,6 @@
       "published_ts": 1788598831.0
     },
     {
-      "title": "Chinese national rescued alive from Upper Trishuli-1 Hydel tunnel",
-      "link": "https://risingnepaldaily.com/news/86148",
-      "summary": "Nuwakot, Sept 5: A Chinese citizen has been rescued alive from the Upper Trishuli-1 Hydropower Project. The Nepali Army...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": "2026-09-05T08:38:10+00:00",
-      "published_ts": 1788597490.0
-    },
-    {
       "title": "[네팔 대홍수] \"건물만 아니라 땅까지 사라졌다\"…재건도 첩첩산중",
       "link": "https://www.yna.co.kr/view/AKR20260905042000084",
       "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 수많은 주택과 건물은 물론 강가와 계곡의 땅까지 두꺼운 진흙과 물에 뒤덮여 사라졌다.",
@@ -120,17 +153,6 @@
       "published_ts": 1788596487.0
     },
     {
-      "title": "Over 11 billion funds collected in PM Disaster Relief Fund",
-      "link": "https://risingnepaldaily.com/news/86147",
-      "summary": "Kathmandu, Sept 5: The flow of financial support for the Bhotekoshi and Trishuli flood victims is increasing. The Prime...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-05T08:19:25+00:00",
-      "published_ts": 1788596365.0
-    },
-    {
       "title": "[네팔 대홍수] 한국 구호대, 위어댐 인근 터널 등 수색 지속",
       "link": "https://www.yna.co.kr/view/AKR20260905041200504",
       "summary": "(서울=연합뉴스) 김지헌 기자 = 대한민국 해외긴급구호대(KDRT)가 네팔 대홍수로 실종된 한국인들을 찾아 수색을 이어가고 있다.",
@@ -140,17 +162,6 @@
       "highlight": true,
       "published": "2026-09-05T08:06:00+00:00",
       "published_ts": 1788595560.0
-    },
-    {
-      "title": "DNA sample collection center in operation in flood-hit area",
-      "link": "https://risingnepaldaily.com/news/86145",
-      "summary": "Trishuli (Nuwakot), Sept 5: The Nepal Police have set up a collection centre in Nuwakot to take samples for deoxyribonuc...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-05T07:58:17+00:00",
-      "published_ts": 1788595097.0
     },
     {
       "title": "ANNFSU continues humanitarian campaign, distributes relief to flood-affected families in Rasuwa",
@@ -351,6 +362,17 @@
       "published_ts": 1788491786.0
     },
     {
+      "title": "Security personnel install Nepali flag on the border with China in Rasuwagadhi",
+      "link": "https://kathmandupost.com/national/2026/09/05/security-personnel-install-nepali-flag-on-the-border-with-china-in-rasuwagadhi",
+      "summary": "With the entire settlement at the bordering town swept away by last week’s devastating floods, there was nothing that separated the Nepali territory from that of China in Rasuwagadhi.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
       "title": "Two people rescued alive on 11th day after floods",
       "link": "https://kathmandupost.com/national/2026/09/05/two-people-rescued-alive-on-11th-day-after-floods",
       "summary": "A Chinese national was pulled from a hydropower tunnel in Rasuwa, while a 64-year-old woman was rescued from the upper floor of a house in Nuwakot.",
@@ -519,17 +541,6 @@
       "title": "Nepal weighing options to relocate Bhotekoshi flood survivors",
       "link": "https://kathmandupost.com/national/2026/09/03/nepal-weighing-options-to-relocate-bhotekoshi-flood-survivors",
       "summary": "Authorities are mapping unsafe settlements and considering safer locations, but past disasters show that moving communities away from their land and livelihoods can be unsuitable.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Prime Minister Balendra Shah to lead Nepali delegation to UN General Assembly",
-      "link": "https://kathmandupost.com/national/2026/09/03/prime-minister-balendra-shah-to-lead-nepali-delegation-to-un-general-assembly",
-      "summary": "Shah will take a small delegation to New York and make Nepal’s case on the Bhotekoshi disaster.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
