@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-05T04:19:03.240901+00:00",
-  "total": 34,
-  "highlight_count": 5,
+  "updated_at": "2026-09-05T08:25:35.512059+00:00",
+  "total": 39,
+  "highlight_count": 6,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 18,
+      "count": 17,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 13,
+      "count": 15,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,94 @@
     }
   ],
   "items": [
+    {
+      "title": "Over 11 billion funds collected in PM Disaster Relief Fund",
+      "link": "https://risingnepaldaily.com/news/86147",
+      "summary": "Kathmandu, Sept 5: The flow of financial support for the Bhotekoshi and Trishuli flood victims is increasing. The Prime...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T08:19:25+00:00",
+      "published_ts": 1788596365.0
+    },
+    {
+      "title": "[네팔 대홍수] 한국 구호대, 위어댐 인근 터널 등 수색 지속",
+      "link": "https://www.yna.co.kr/view/AKR20260905041200504",
+      "summary": "(서울=연합뉴스) 김지헌 기자 = 대한민국 해외긴급구호대(KDRT)가 네팔 대홍수로 실종된 한국인들을 찾아 수색을 이어가고 있다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-05T08:06:00+00:00",
+      "published_ts": 1788595560.0
+    },
+    {
+      "title": "DNA sample collection center in operation in flood-hit area",
+      "link": "https://risingnepaldaily.com/news/86145",
+      "summary": "Trishuli (Nuwakot), Sept 5: The Nepal Police have set up a collection centre in Nuwakot to take samples for deoxyribonuc...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T07:58:17+00:00",
+      "published_ts": 1788595097.0
+    },
+    {
+      "title": "ANNFSU continues humanitarian campaign, distributes relief to flood-affected families in Rasuwa",
+      "link": "https://english.onlinekhabar.com/annfsu-humanitarian-campaign.html",
+      "summary": "Kathmandu, September 5 The All Nepal National Free Students’ Union (ANNFSU) has continued its Humanitarian Assistance Campaign to support citizens affected by floods and landslides. As part of the campaign, ANNFSU reached several disaster-affected areas of Rasuwa, distributing relief materials to affected families and handing over essential supplies to local authorities. A team led by […] The post",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T06:45:41+00:00",
+      "published_ts": 1788590741.0
+    },
+    {
+      "title": "Himalayan hazards are becoming more complex. Our warning systems need to catch up",
+      "link": "https://english.onlinekhabar.com/need-better-himalayan-warning-systems.html",
+      "summary": "The exact timeline of the recent Nepal flooding disaster is becoming clearer. At 8:37 am, instruments recorded what was initially interpreted as an earthquake near Nepal’s border with China. Seven minutes later, CCTV recorded the Gyirong Port border post being destroyed by a massive debris flow and flood. Nepal’s flood authorities learned about the incident […] The post Himalayan hazards are becom",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T06:15:00+00:00",
+      "published_ts": 1788588900.0
+    },
+    {
+      "title": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing",
+      "link": "https://risingnepaldaily.com/news/86143",
+      "summary": "Kathmandu, Sept 5: In the aftermath of the catastrophic flood that struck the Bhotekoshi River in Rasuwa on August 26, a...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T05:36:20+00:00",
+      "published_ts": 1788586580.0
+    },
+    {
+      "title": "The geotechnical trap inside Nepal’s hydropower tunnels",
+      "link": "https://english.onlinekhabar.com/geotechnical-trap-hydropower-nepal.html",
+      "summary": "On August 26, catastrophic debris flows swept down the Bhotekoshi and Trishuli river corridors, exposing severe vulnerabilities in Himalayan hydropower infrastructure. Several projects remain inundated, with workers still missing or trapped deep inside underground headrace tunnels and powerhouses. Public frustration has understandably focused on how long rescue is taking—whether enough equipment i",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T05:15:00+00:00",
+      "published_ts": 1788585300.0
+    },
+    {
+      "title": "[네팔 대홍수] 조현, 네팔 방문해 외교장관 회담…실종자 가족 면담(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260905019451504",
+      "summary": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 대홍수가 발생한 네팔을 방문한다고 외교부가 5일 밝혔다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T05:10:26+00:00",
+      "published_ts": 1788585026.0
+    },
     {
       "title": "Nepal needs the world. But Nepal must build Nepal.",
       "link": "https://english.onlinekhabar.com/nepal-must-build-nepal.html",
@@ -85,17 +173,6 @@
       "highlight": false,
       "published": "2026-09-05T01:15:00+00:00",
       "published_ts": 1788570900.0
-    },
-    {
-      "title": "[네팔 대홍수] 조현, 네팔 방문해 외교장관 회담…실종자 가족 면담",
-      "link": "https://www.yna.co.kr/view/AKR20260905019400504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 대홍수가 발생한 네팔을 방문한다고 외교부가 5일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T00:34:21+00:00",
-      "published_ts": 1788568461.0
     },
     {
       "title": "A miracle from the tunnel gives Nepal hope after 10 days",
@@ -197,17 +274,6 @@
       "published_ts": 1788517898.0
     },
     {
-      "title": "Chinese foundation brings 27 tons of relief supplies for Rasuwa flood victims",
-      "link": "https://english.onlinekhabar.com/chinese-foundation-brings-27-tons-of-relief-supplies-for-rasuwa-flood-victims.html",
-      "summary": "Kathmandu, September 4 The China Foundation for Rural Development (CFRD) has arrived in Kathmandu with 27 tons of relief supplies for people affected by the devastating flood in the Bhotekoshi River in Rasuwa on August 26. The first phase of relief supplies arrived at Tribhuvan International Airport under CFRD’s “8.26 Nepal Mudslide Rescue Operation.” After […] The post Chinese foundation brings 2",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T09:47:00+00:00",
-      "published_ts": 1788515220.0
-    },
-    {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
       "link": "https://en.yna.co.kr/view/AEN20260904006900315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- South Korea will provide additional emergency relief ...",
@@ -228,6 +294,17 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
+    },
+    {
+      "title": "Nepal flood death toll reaches 1,342",
+      "link": "https://kathmandupost.com/national/2026/09/05/nepal-flood-death-toll-reaches-1-342",
+      "summary": "Police say 4,886 people remain missing and 1,030 bodies have been buried as search operations continue.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "They stopped hoping to find him alive. Then they found a hand",
@@ -398,28 +475,6 @@
       "title": "Bhotekoshi flood leaves Syafrubesi in ruins, cuts off road access",
       "link": "https://kathmandupost.com/visual-stories/2026/09/03/bhotekoshi-flood-leaves-syafrubesi-in-ruins-cuts-off-road-access",
       "summary": "Much of the settlement was swept away by the flood, while damaged roads have hampered relief, rescue and the search for people still missing.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "EU provides additional Rs89 million in aid for Nepal flood victims",
-      "link": "https://kathmandupost.com/national/2026/09/03/eu-provides-additional-rs89-million-in-aid-for-nepal-flood-victims",
-      "summary": "The new funding will support up to 20,000 people in Bagmati Province with shelter, cash assistance, healthcare, water and sanitation services, and other emergency aid.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "114 Nepalis stranded in China return through Tatopani border",
-      "link": "https://kathmandupost.com/province-no-3/2026/09/03/114-nepalis-stranded-in-china-return-through-tatopani-border",
-      "summary": "The returnees were among 147 Nepali citizens stranded in China after devastating flood in the Bhotekoshi river on August 26, with more expected to cross the border in the coming days.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
