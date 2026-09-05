@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T20:45:13.735446+00:00",
-  "total": 45,
-  "highlight_count": 11,
+  "updated_at": "2026-09-05T22:21:23.860503+00:00",
+  "total": 41,
+  "highlight_count": 10,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 9,
+      "count": 5,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[인터뷰] \"네팔 남일 아냐, 기후변화로 복합재난 위험\"…서울대 교수 경고",
+      "link": "https://www.yna.co.kr/view/AKR20260905051900004",
+      "summary": "(서울=연합뉴스) 양수연 기자 = \"네팔 대홍수 사태를 두고 '한국은 빙하도 없고 그렇게 높은 산도 없으니 그런 일은 없을 거야'라고들 하지만,...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T20:55:00+00:00",
+      "published_ts": 1788641700.0
+    },
     {
       "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260906000351104",
@@ -109,17 +120,6 @@
       "published_ts": 1788611376.0
     },
     {
-      "title": "네팔·韓구호대, 중국인 1명 구조…韓실종자 근무 발전소서 발견(종합2보)",
-      "link": "https://www.yna.co.kr/view/AKR20260905042752084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T11:53:39+00:00",
-      "published_ts": 1788609219.0
-    },
-    {
       "title": "Rasuwa flood: 41 kilometres road and eight hydropower projects completely damaged",
       "link": "https://risingnepaldaily.com/news/86154",
       "summary": "Rasuwa, Sept 5: The flood in Bhotekoshi has caused massive damage to both private and public property in the district. T...",
@@ -140,50 +140,6 @@
       "highlight": false,
       "published": "2026-09-05T09:56:34+00:00",
       "published_ts": 1788602194.0
-    },
-    {
-      "title": "네팔·韓구호대, 중국인 1명 구조…韓실종자 근무 발전소서 발견(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260905042751084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T09:00:31+00:00",
-      "published_ts": 1788598831.0
-    },
-    {
-      "title": "[네팔 대홍수] \"건물만 아니라 땅까지 사라졌다\"…재건도 첩첩산중",
-      "link": "https://www.yna.co.kr/view/AKR20260905042000084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 수많은 주택과 건물은 물론 강가와 계곡의 땅까지 두꺼운 진흙과 물에 뒤덮여 사라졌다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T08:23:42+00:00",
-      "published_ts": 1788596622.0
-    },
-    {
-      "title": "네팔, 발전소 터널서 중국인 1명도 구조…대홍수 10일만",
-      "link": "https://www.yna.co.kr/view/AKR20260905042700084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔 구조당국이 5일(현지시간) 한 수력발전소 터널에서 중국인 1명을 구조했다고 네팔 총리...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-05T08:21:27+00:00",
-      "published_ts": 1788596487.0
-    },
-    {
-      "title": "[네팔 대홍수] 한국 구호대, 위어댐 인근 터널 등 수색 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260905041200504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 대한민국 해외긴급구호대(KDRT)가 네팔 대홍수로 실종된 한국인들을 찾아 수색을 이어가고 있다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-05T08:06:00+00:00",
-      "published_ts": 1788595560.0
     },
     {
       "title": "ANNFSU continues humanitarian campaign, distributes relief to flood-affected families in Rasuwa",
