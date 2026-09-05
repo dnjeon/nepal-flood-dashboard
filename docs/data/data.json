@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T16:56:24.153168+00:00",
-  "total": 44,
-  "highlight_count": 10,
+  "updated_at": "2026-09-05T18:49:45.451694+00:00",
+  "total": 45,
+  "highlight_count": 11,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260906000351104",
+      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔을 덮친 대규모 홍수로 한국인 9명이 실종된 지역에 갇혔다가 10일 만에 구조된 중국인...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-05T18:39:59+00:00",
+      "published_ts": 1788633599.0
+    },
     {
       "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"",
       "link": "https://www.yna.co.kr/view/AKR20260906000300104",
