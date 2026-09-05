@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T08:25:35.512059+00:00",
-  "total": 39,
-  "highlight_count": 6,
+  "updated_at": "2026-09-05T11:55:22.122582+00:00",
+  "total": 44,
+  "highlight_count": 8,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 5,
       "error": null
     },
     {
@@ -53,6 +53,72 @@
     }
   ],
   "items": [
+    {
+      "title": "Rasuwa flood: 41 kilometres road and eight hydropower projects completely damaged",
+      "link": "https://risingnepaldaily.com/news/86154",
+      "summary": "Rasuwa, Sept 5: The flood in Bhotekoshi has caused massive damage to both private and public property in the district. T...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T11:35:57+00:00",
+      "published_ts": 1788608157.0
+    },
+    {
+      "title": "Four Australian nationals of Indian origin, missing in Bhotekoshi flood",
+      "link": "https://risingnepaldaily.com/news/86151",
+      "summary": "Kathmandu, Sept 5: Four Australian nationals of Indian origin have gone missing in the Bhotekoshi flood on August 16. Th...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T09:56:34+00:00",
+      "published_ts": 1788602194.0
+    },
+    {
+      "title": "네팔·韓구호대, 중국인 1명 구조…韓실종자 근무 발전소서 발견(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260905042751084",
+      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T09:00:31+00:00",
+      "published_ts": 1788598831.0
+    },
+    {
+      "title": "Chinese national rescued alive from Upper Trishuli-1 Hydel tunnel",
+      "link": "https://risingnepaldaily.com/news/86148",
+      "summary": "Nuwakot, Sept 5: A Chinese citizen has been rescued alive from the Upper Trishuli-1 Hydropower Project. The Nepali Army...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-05T08:38:10+00:00",
+      "published_ts": 1788597490.0
+    },
+    {
+      "title": "[네팔 대홍수] \"건물만 아니라 땅까지 사라졌다\"…재건도 첩첩산중",
+      "link": "https://www.yna.co.kr/view/AKR20260905042000084",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수로 수많은 주택과 건물은 물론 강가와 계곡의 땅까지 두꺼운 진흙과 물에 뒤덮여 사라졌다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T08:23:42+00:00",
+      "published_ts": 1788596622.0
+    },
+    {
+      "title": "네팔, 발전소 터널서 중국인 1명도 구조…대홍수 10일만",
+      "link": "https://www.yna.co.kr/view/AKR20260905042700084",
+      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔 구조당국이 5일(현지시간) 한 수력발전소 터널에서 중국인 1명을 구조했다고 네팔 총리...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-05T08:21:27+00:00",
+      "published_ts": 1788596487.0
+    },
     {
       "title": "Over 11 billion funds collected in PM Disaster Relief Fund",
       "link": "https://risingnepaldaily.com/news/86147",
@@ -107,17 +173,6 @@
       "highlight": false,
       "published": "2026-09-05T06:15:00+00:00",
       "published_ts": 1788588900.0
-    },
-    {
-      "title": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing",
-      "link": "https://risingnepaldaily.com/news/86143",
-      "summary": "Kathmandu, Sept 5: In the aftermath of the catastrophic flood that struck the Bhotekoshi River in Rasuwa on August 26, a...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-05T05:36:20+00:00",
-      "published_ts": 1788586580.0
     },
     {
       "title": "The geotechnical trap inside Nepal’s hydropower tunnels",
@@ -296,6 +351,28 @@
       "published_ts": 1788491786.0
     },
     {
+      "title": "Two people rescued alive on 11th day after floods",
+      "link": "https://kathmandupost.com/national/2026/09/05/two-people-rescued-alive-on-11th-day-after-floods",
+      "summary": "A Chinese national was pulled from a hydropower tunnel in Rasuwa, while a 64-year-old woman was rescued from the upper floor of a house in Nuwakot.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Chinese national pulled alive from hydropower tunnel in Nepal after 10 days",
+      "link": "https://kathmandupost.com/national/2026/09/05/chinese-national-rescued-alive-after-10-days-trapped-in-hydropower-tunnel",
+      "summary": "Luhaitao was found about 225 metres inside the Upper Trishuli-1 tunnel as Nepali and foreign rescuers continued searching the site.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": null,
+      "published_ts": 0
+    },
+    {
       "title": "Nepal flood death toll reaches 1,342",
       "link": "https://kathmandupost.com/national/2026/09/05/nepal-flood-death-toll-reaches-1-342",
       "summary": "Police say 4,886 people remain missing and 1,030 bodies have been buried as search operations continue.",
@@ -453,28 +530,6 @@
       "title": "Prime Minister Balendra Shah to lead Nepali delegation to UN General Assembly",
       "link": "https://kathmandupost.com/national/2026/09/03/prime-minister-balendra-shah-to-lead-nepali-delegation-to-un-general-assembly",
       "summary": "Shah will take a small delegation to New York and make Nepal’s case on the Bhotekoshi disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "New bypass track to be built above collapsed Krishnabhir stretch",
-      "link": "https://kathmandupost.com/national/2026/09/03/new-bypass-track-to-be-built-above-collapsed-stretch-of-prithvi-highway",
-      "summary": "Authorities race to restore Kathmandu’s main supply route as a 70-metre stretch plunged into the Trishuli river on Sunday. Engineers are also exploring long-term alternatives.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bhotekoshi flood leaves Syafrubesi in ruins, cuts off road access",
-      "link": "https://kathmandupost.com/visual-stories/2026/09/03/bhotekoshi-flood-leaves-syafrubesi-in-ruins-cuts-off-road-access",
-      "summary": "Much of the settlement was swept away by the flood, while damaged roads have hampered relief, rescue and the search for people still missing.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
