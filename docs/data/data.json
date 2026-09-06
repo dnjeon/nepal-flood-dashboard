@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T17:44:49.522699+00:00",
-  "total": 35,
+  "updated_at": "2026-09-06T19:35:18.194903+00:00",
+  "total": 36,
   "highlight_count": 11,
   "sources": [
     {
@@ -48,11 +48,22 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+      "summary": "UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-06T17:50:17+00:00",
+      "published_ts": 1788717017.0
+    },
     {
       "title": "Bhotekoshi flash flood: 21 injured being treated at TUTH",
       "link": "https://risingnepaldaily.com/news/86199",
