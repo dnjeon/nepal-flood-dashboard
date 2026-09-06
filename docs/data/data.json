@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-06T15:45:17.110094+00:00",
-  "total": 37,
+  "updated_at": "2026-09-06T17:44:49.522699+00:00",
+  "total": 35,
   "highlight_count": 11,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 13,
+      "count": 12,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -285,17 +285,6 @@
       "published_ts": 1788675988.0
     },
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 15:00",
-      "link": "https://www.yna.co.kr/view/AKR20260906029000011",
-      "summary": "■ [네팔 대홍수] 캄캄한 터널서 \"찾았어\"…'韓구호대 촬영' 中생존자 발견순간",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-06T06:00:00+00:00",
-      "published_ts": 1788674400.0
-    },
-    {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
       "link": "https://en.yna.co.kr/view/AEN20260904006900315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- South Korea will provide additional emergency relief ...",
@@ -442,17 +431,6 @@
       "title": "They stopped hoping to find him alive. Then they found a hand",
       "link": "https://kathmandupost.com/national/2026/09/05/they-stopped-hoping-to-find-him-alive-then-they-found-a-hand",
       "summary": "Raj Kumar Diyali went missing with his wife and four-year-old son in Nepal’s Bhotekoshi flood. His family is now waiting for DNA confirmation.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Barely saved, he cuts mourning short to help flood survivors",
-      "link": "https://kathmandupost.com/national/2026/09/05/barely-saved-he-cuts-mourning-short-to-help-flood-survivors",
-      "summary": "Sudip Kumar Neupane watched a raging Trishuli swallow his younger brother and a close colleague, then came out of grief after two days.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
