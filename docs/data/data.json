@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T21:41:29.363207+00:00",
-  "total": 33,
-  "highlight_count": 8,
+  "updated_at": "2026-09-06T23:14:21.897195+00:00",
+  "total": 31,
+  "highlight_count": 7,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수 르포] 시위로 정권 바꾼 Z세대…절망 속 희망을 품다",
+      "link": "https://www.yna.co.kr/view/AKR20260906037200104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 지난해 9월 네팔에서는 대규모 반정부 시위가 벌어졌다. 가짜 뉴스가 확산한다며 정부가 등록되지 않은 소셜...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-06T22:12:01+00:00",
+      "published_ts": 1788732721.0
+    },
     {
       "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
       "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
@@ -197,17 +208,6 @@
       "published_ts": 1788691012.0
     },
     {
-      "title": "[네팔 대홍수] 中티베트 지역 사망자 43명으로 늘어…실종자 519명",
-      "link": "https://www.yna.co.kr/view/AKR20260906044200083",
-      "summary": "(베이징=연합뉴스) 김현정 특파원 = 네팔·중국 국경인 히말라야 산악지대에서 발생한 대홍수·토석류(土石流)로 인한 중국 티베트(시짱) 지역 사망...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-06T10:11:01+00:00",
-      "published_ts": 1788689461.0
-    },
-    {
       "title": "(LEAD) Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260906003151315",
       "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
@@ -230,17 +230,6 @@
       "published_ts": 1788688796.0
     },
     {
-      "title": "대홍수 발생 12일째…구호대, '실종 한인 근무' 발전소 수색 지속",
-      "link": "https://www.yna.co.kr/view/AKR20260906042200084",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔·중국 국경 히말라야 산악지대를 강타한 대홍수가 발생한 지 12일째인 6일(현지시간) ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-06T09:35:48+00:00",
-      "published_ts": 1788687348.0
-    },
-    {
       "title": "Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260906003100315",
       "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
@@ -250,17 +239,6 @@
       "highlight": true,
       "published": "2026-09-06T08:49:14+00:00",
       "published_ts": 1788684554.0
-    },
-    {
-      "title": "[네팔 대홍수] 조현, 네팔 외교장관 만나 한국인 수색 지원 요청",
-      "link": "https://www.yna.co.kr/view/AKR20260906041200504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 조현 외교부 장관이 시시르 커날 네팔 외교장관에게 한국인 실종자에 대한 수색이 가능하도록 네팔 측이 각별한 관...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T08:46:24+00:00",
-      "published_ts": 1788684384.0
     },
     {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
