@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-06T19:35:18.194903+00:00",
-  "total": 36,
-  "highlight_count": 11,
+  "updated_at": "2026-09-06T21:41:29.363207+00:00",
+  "total": 33,
+  "highlight_count": 8,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 6,
+      "count": 3,
       "error": null
     },
     {
@@ -261,39 +261,6 @@
       "highlight": true,
       "published": "2026-09-06T08:46:24+00:00",
       "published_ts": 1788684384.0
-    },
-    {
-      "title": "[네팔 대홍수] 기업대응팀, 46명 투입해 육상수색…헬기·드론도",
-      "link": "https://www.yna.co.kr/view/AKR20260906036200003",
-      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위해 한국남동발전과 두산에너빌리티가 현장 수색을 이어가고...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T07:23:45+00:00",
-      "published_ts": 1788679425.0
-    },
-    {
-      "title": "[쇼츠] \"찾았다!\" 생존자 발견 순간…진흙밭 기어들어가 구조",
-      "link": "https://www.yna.co.kr/view/AKR20260906033600704",
-      "summary": "(서울=연합뉴스) 대홍수 열흘 만인 5일(현지시간) 한국인이 근무하던 수력발전소 터널에서 기적적으로 중국인 1명을 발견한 순간이 담긴 영상이 6...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T06:39:24+00:00",
-      "published_ts": 1788676764.0
-    },
-    {
-      "title": "[영상] 캄캄한 터널서 \"찾았다\"…중국인 생존자 발견 순간",
-      "link": "https://www.yna.co.kr/view/AKR20260906032900704",
-      "summary": "(서울=연합뉴스) 대홍수 열흘 만인 5일(현지시간) 한국인이 근무하던 수력발전소 터널에서 기적적으로 중국인 1명을 발견한 순간이 담긴 영상이 6...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T06:26:28+00:00",
-      "published_ts": 1788675988.0
     },
     {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
