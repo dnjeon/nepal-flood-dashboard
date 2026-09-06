@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-06T00:07:05.009184+00:00",
-  "total": 38,
-  "highlight_count": 6,
+  "updated_at": "2026-09-06T04:32:34.127762+00:00",
+  "total": 31,
+  "highlight_count": 5,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 16,
+      "count": 12,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 5,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,59 +54,59 @@
   ],
   "items": [
     {
-      "title": "DNA collection drive under way to identify flood victims",
-      "link": "https://risingnepaldaily.com/news/86160",
-      "summary": "Kathmandu, Sept. 6: Authorities have collected 1,012 DNA samples from relatives of people missing in the Bhotekoshi floo...",
-      "source": "The Rising Nepal",
+      "title": "A voice in the rubble led rescuers to a woman trapped for 11 days",
+      "link": "https://english.onlinekhabar.com/women-rescued-bhotekoshi-flood.html",
+      "summary": "Nuwakot, September 6 An armed police and Nepal Police team rescued a woman alive from a mud-filled house in Betrawati on Saturday, 11 days after the devastating flood in the Bhotekoshi River. The woman, identified as Chandika Shrestha, was found trapped inside a four-storey house that had been swept away by the flood and deposited […] The post A voice in the rubble led rescuers to a woman trapped ",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-05T23:58:10+00:00",
-      "published_ts": 1788652690.0
+      "published": "2026-09-06T03:52:09+00:00",
+      "published_ts": 1788666729.0
     },
     {
-      "title": "Bhotekoshi torrent affects 32,933 people, 7,570 houses",
-      "link": "https://risingnepaldaily.com/news/86159",
-      "summary": "Kathmandu, Sept. 6: A preliminary assessment conducted under the Rapid Damage and Needs Assessment (RDNA) has indicated...",
-      "source": "The Rising Nepal",
+      "title": "Flood damages 55 drinking water projects in four districts",
+      "link": "https://english.onlinekhabar.com/flood-damage-drinking-water-projects.html",
+      "summary": "Kathmandu, September 6 The devastating flood in the Bhote Koshi River in Rasuwa on August 26 has affected 55 drinking water projects across Rasuwa, Nuwakot, Dhading and Gorkha districts. According to the preliminary assessment of damage to drinking water projects, losses are estimated at around Rs 640 million. The Department of Water Supply and Sewerage […] The post Flood damages 55 drinking water",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-05T23:56:19+00:00",
-      "published_ts": 1788652579.0
+      "published": "2026-09-06T03:31:05+00:00",
+      "published_ts": 1788665465.0
     },
     {
-      "title": "10 days since Bhotekoshi floods, woman rescued alive from house wreckage at Betrawati",
-      "link": "https://risingnepaldaily.com/news/86157",
-      "summary": "Kathmandu, Sept 5: It is the eleventh day of the deadly flood that struck Nepal from the northern border of Rasuwa. The...",
-      "source": "The Rising Nepal",
+      "title": "Prithvi Highway section in Dhading to remain fully closed for repairs",
+      "link": "https://english.onlinekhabar.com/prithvi-highway-parewabhir.html",
+      "summary": "Dhading, September 6 The Parewabhir section of the Prithvi Highway in Gajuri Rural Municipality-2 of Dhading will remain fully closed for two hours on Sunday as authorities continue repair work on the flood-damaged road. The road section was damaged by the devastating flood in the Bhotekoshi River in Rasuwa on August 26. Following the damage, […] The post Prithvi Highway section in Dhading to rema",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-05T12:29:36+00:00",
-      "published_ts": 1788611376.0
+      "published": "2026-09-06T03:22:12+00:00",
+      "published_ts": 1788664932.0
     },
     {
-      "title": "Rasuwa flood: 41 kilometres road and eight hydropower projects completely damaged",
-      "link": "https://risingnepaldaily.com/news/86154",
-      "summary": "Rasuwa, Sept 5: The flood in Bhotekoshi has caused massive damage to both private and public property in the district. T...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "[네팔 대홍수] 캄캄한 터널서 \"찾았어\"…'韓구호대 촬영' 中생존자 발견순간",
+      "link": "https://www.yna.co.kr/view/AKR20260906024500104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔 수력발전소 터널 안은 손전등과 헤드램프 불빛이 닿는 곳만 뿌옇게 보일 정도로 캄캄했다. 온통 진흙으...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-05T11:35:57+00:00",
-      "published_ts": 1788608157.0
+      "published": "2026-09-06T03:19:20+00:00",
+      "published_ts": 1788664760.0
     },
     {
-      "title": "Four Australian nationals of Indian origin, missing in Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86151",
-      "summary": "Kathmandu, Sept 5: Four Australian nationals of Indian origin have gone missing in the Bhotekoshi flood on August 16. Th...",
+      "title": "We are constantly with people",
+      "link": "https://risingnepaldaily.com/news/86177",
+      "summary": "Since the Bhotekoshi River flood on August 26, Minister for Information and Communications Dr. Bikram Timilsina has been...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-05T09:56:34+00:00",
-      "published_ts": 1788602194.0
+      "published": "2026-09-06T02:47:20+00:00",
+      "published_ts": 1788662840.0
     },
     {
       "title": "ANNFSU continues humanitarian campaign, distributes relief to flood-affected families in Rasuwa",
@@ -241,39 +241,6 @@
       "published_ts": 1788520431.0
     },
     {
-      "title": "NEA technicians enter Trishuli 3A tunnel to aid search for trapped workers",
-      "link": "https://english.onlinekhabar.com/nea-trishuli-3a-tunnel-aid-search.html",
-      "summary": "Raswa, September 4 Technicians from the Nepal Electricity Authority have entered the Upper Trishuli 3A hydropower project tunnel alongside the Nepali Army to help search for people who may still be trapped inside. The NEA technicians entered the underground powerhouse with the Army team to identify possible locations where workers and engineers could be trapped […] The post NEA technicians enter T",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": "2026-09-04T10:58:53+00:00",
-      "published_ts": 1788519533.0
-    },
-    {
-      "title": "2 injured in Rasuwa floods die while undergoing treatment",
-      "link": "https://english.onlinekhabar.com/2-injured-in-rasuwa-floods-die-while-undergoing-treatment.html",
-      "summary": "Kathmandu, September 4 Two people injured in the Rasuwa floods have died while undergoing treatment. According to Nepal Police, one person died while receiving treatment at Tribhuvan University Teaching Hospital, while another died at the National Trauma Center. Police have not released the identities of the deceased. The post 2 injured in Rasuwa floods die while undergoing treatment appeared firs",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T10:37:11+00:00",
-      "published_ts": 1788518231.0
-    },
-    {
-      "title": "155 more Nepalis stranded in China return home through Tatopani Border",
-      "link": "https://english.onlinekhabar.com/155-more-nepalis-stranded-in-china-return-home-through-tatopani-border.html",
-      "summary": "Sindhupalchok, September 4 Another 155 Nepali nationals who had been stranded in China following the devastating floods in Rasuwa returned home through the Tatopani border point on Friday. The Chinese side safely brought them to the Liping area of the Tatopani border point and handed them over to Nepali authorities. As part of the ongoing […] The post 155 more Nepalis stranded in China return home",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-04T10:31:38+00:00",
-      "published_ts": 1788517898.0
-    },
-    {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
       "link": "https://en.yna.co.kr/view/AEN20260904006900315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- South Korea will provide additional emergency relief ...",
@@ -294,6 +261,17 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
+    },
+    {
+      "title": "Reporter’s Diary: I went back to Rasuwa. The river had changed everything",
+      "link": "https://kathmandupost.com/national/2026/09/06/reporter-s-diary-i-went-back-to-rasuwa-the-river-had-changed-everything",
+      "summary": "Fourteen months after covering the first Lhende Khola flood, I returned to the same disaster zone. This time, roads and homes were gone, families were searching for their loved ones, and the places I remembered were barely recognisable.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Late rescues renew hope for survivors in deadly Nepal floods",
@@ -409,61 +387,6 @@
       "title": "Nepal flood death toll reaches 1,287",
       "link": "https://kathmandupost.com/national/2026/09/04/nepal-flood-death-toll-reaches-1-287",
       "summary": "Bodies have been recovered across eight districts, with Chitwan reporting the highest number of bodies at 359, followed by Nawalparasi East and Nawalparasi West.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Rescued tunnel worker says he stayed behind to save others",
-      "link": "https://kathmandupost.com/national/2026/09/04/rescued-tunnel-worker-says-he-stayed-behind-to-save-others",
-      "summary": "Sanjay Sah told rescuers he delayed his escape to help others flee after the flood struck the Trishuli 3A tunnel, leaving him trapped inside for nine days.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Wife says rescued husband has ‘a second life’ after nine days trapped in Nepal tunnel",
-      "link": "https://kathmandupost.com/national/2026/09/04/wife-says-rescued-husband-has-a-second-life-after-nine-days-trapped-in-nepal-tunnel",
-      "summary": "Hira Shobha said her family spent nine agonising days believing Kabir Maharjan was still alive inside the Trishuli 3A tunnel before rescuers pulled him out on Friday.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal flood survivors pulled alive from hydropower tunnel nine days later",
-      "link": "https://kathmandupost.com/national/2026/09/04/voices-heard-from-inside-trishuli-3a-hydropower-tunnel-says-lawmaker",
-      "summary": "The rescue of two men came after rescuers heard voices from inside the Trishuli 3A tunnel, raising hopes that others trapped since the August 26 disaster may still be alive.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal unveils relief package to help flood-hit businesses recover",
-      "link": "https://kathmandupost.com/money/2026/09/04/nepal-unveils-relief-package-to-help-flood-hit-businesses-recover",
-      "summary": "Customs and tax breaks, loan restructuring and cheaper credit offered to businesses affected by Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "600 children unaccounted for in Rasuwa and Nuwakot. Verification hampered by crippled communication",
-      "link": "https://kathmandupost.com/national/2026/09/04/600-children-unaccounted-for-in-rasuwa-and-nuwakot-verification-hampered-by-crippled-communication",
-      "summary": "12 schools—four in Rasuwa and eight in Nuwakot—were completely destroyed in the August 26 mid-morning disaster.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
