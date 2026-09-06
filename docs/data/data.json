@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-05T22:21:23.860503+00:00",
-  "total": 41,
-  "highlight_count": 10,
+  "updated_at": "2026-09-06T00:07:05.009184+00:00",
+  "total": 38,
+  "highlight_count": 6,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 5,
+      "count": 0,
       "error": null
     },
     {
@@ -54,59 +54,26 @@
   ],
   "items": [
     {
-      "title": "[인터뷰] \"네팔 남일 아냐, 기후변화로 복합재난 위험\"…서울대 교수 경고",
-      "link": "https://www.yna.co.kr/view/AKR20260905051900004",
-      "summary": "(서울=연합뉴스) 양수연 기자 = \"네팔 대홍수 사태를 두고 '한국은 빙하도 없고 그렇게 높은 산도 없으니 그런 일은 없을 거야'라고들 하지만,...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "DNA collection drive under way to identify flood victims",
+      "link": "https://risingnepaldaily.com/news/86160",
+      "summary": "Kathmandu, Sept. 6: Authorities have collected 1,012 DNA samples from relatives of people missing in the Bhotekoshi floo...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-05T20:55:00+00:00",
-      "published_ts": 1788641700.0
+      "published": "2026-09-05T23:58:10+00:00",
+      "published_ts": 1788652690.0
     },
     {
-      "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260906000351104",
-      "summary": "(카트만두·하노이=연합뉴스) 손현규 박진형 특파원 = 네팔을 덮친 대규모 홍수로 한국인 9명이 실종된 지역에 갇혔다가 10일 만에 구조된 중국인...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-05T18:39:59+00:00",
-      "published_ts": 1788633599.0
-    },
-    {
-      "title": "[네팔 대홍수] 10일 만에 구조된 중국인 \"근처에 1명 더 있었다\"",
-      "link": "https://www.yna.co.kr/view/AKR20260906000300104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔을 덮친 대규모 홍수로 한국인 9명이 실종된 지역에 갇혔다가 10일 만에 구조된 중국인 생존자가 인근...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-05T15:20:06+00:00",
-      "published_ts": 1788621606.0
-    },
-    {
-      "title": "[네팔 대홍수] 조현, 카트만두 도착…\"6일 네팔 외교장관과 회담\"",
-      "link": "https://www.yna.co.kr/view/AKR20260905052700104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 조현 외교부 장관이 네팔 대홍수로 실종된 한국인 9명의 수색 등 관련 현안을 네팔 당국과 협의하기 위해 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-05T13:19:56+00:00",
-      "published_ts": 1788614396.0
-    },
-    {
-      "title": "[영상] 네팔·韓구호대, 중국인 1명 구조…한국인 근무 발전소서 발견",
-      "link": "https://www.yna.co.kr/view/AKR20260905052600704",
-      "summary": "(서울=연합뉴스) 히말라야 산악지대를 휩쓴 대홍수 발생 열흘 만인 5일(현지시간) 수력발전소 공사 현장 터널에서 중국인 1명이 구조됐습니다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-05T13:00:00+00:00",
-      "published_ts": 1788613200.0
+      "title": "Bhotekoshi torrent affects 32,933 people, 7,570 houses",
+      "link": "https://risingnepaldaily.com/news/86159",
+      "summary": "Kathmandu, Sept. 6: A preliminary assessment conducted under the Rapid Damage and Needs Assessment (RDNA) has indicated...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-05T23:56:19+00:00",
+      "published_ts": 1788652579.0
     },
     {
       "title": "10 days since Bhotekoshi floods, woman rescued alive from house wreckage at Betrawati",
