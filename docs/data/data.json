@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-06T12:37:25.048094+00:00",
-  "total": 35,
-  "highlight_count": 10,
+  "updated_at": "2026-09-06T15:45:17.110094+00:00",
+  "total": 37,
+  "highlight_count": 11,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 12,
+      "count": 13,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 10,
+      "count": 12,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
@@ -53,6 +53,61 @@
     }
   ],
   "items": [
+    {
+      "title": "Bhotekoshi flash flood: 21 injured being treated at TUTH",
+      "link": "https://risingnepaldaily.com/news/86199",
+      "summary": "Kathmandu, Sept 6: Twenty-one persons among those injured in the flood that hit Rasuwa's Bhotekoshi River on August 26 a...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-06T15:27:27+00:00",
+      "published_ts": 1788708447.0
+    },
+    {
+      "title": "Two bodies found inside Upper Trishuli-1 hydropower tunnel",
+      "link": "https://english.onlinekhabar.com/bodies-found-upper-trishuli-1.html",
+      "summary": "Kathmandu, September 6 Two bodies have been found inside the tunnel of the Upper Trishuli-1 Hydropower Project in Rasuwa, on the 12th day since the devastating Bhotekoshi flood. Project chief executive officer Giriraj Adhikari confirmed the discovery on Sunday, saying the bodies were recovered from the inner section of the tunnel. The identities of the […] The post Two bodies found inside Upper Tr",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-06T15:21:10+00:00",
+      "published_ts": 1788708070.0
+    },
+    {
+      "title": "PM Balen Shah thanks security forces for tireless flood response",
+      "link": "https://english.onlinekhabar.com/balen-shah-thanks-security-force-flood-response.html",
+      "summary": "Kathmandu, September 6 Prime Minister Balendra Shah has praised the security forces deployed in the response to the Rasuwa floods, saying their contribution during the crisis will be highly valued and that the government will not compromise on their safety, service and welfare. In a message addressed to security personnel on Sunday evening, Shah thanked […] The post PM Balen Shah thanks security f",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-06T15:10:27+00:00",
+      "published_ts": 1788707427.0
+    },
+    {
+      "title": "Search ends with 39 workers still unaccounted for at Langtang Khola hydropower",
+      "link": "https://english.onlinekhabar.com/langtang-khola-hydro-search-end.html",
+      "summary": "Kathmandu, September 6 The search for workers missing from the Langtang Khola Hydropower Project following the Bhotekoshi flood has been called off after rescue teams found only two bodies inside the project’s tunnel. A joint team of the Nepali Army, Nepal Police and Armed Police Force stopped the search after determining that further efforts inside […] The post Search ends with 39 workers still u",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-06T14:49:04+00:00",
+      "published_ts": 1788706144.0
+    },
+    {
+      "title": "Govt forms committee to find land for resettling flood victims",
+      "link": "https://english.onlinekhabar.com/govt-committee-resettle-flood-victims.html",
+      "summary": "Kathmandu, September 6 The government has formed a committee to identify land for the resettlement of people displaced or left at risk by the devastating flood that swept through the Bhotekoshi and Trishuli rivers on August 26. The 13-member committee, led by Survey Department Director General Prakash Joshi, has been tasked with finding suitable land […] The post Govt forms committee to find land ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-06T14:06:04+00:00",
+      "published_ts": 1788703564.0
+    },
     {
       "title": "Energy Ministry runs rescue, power restoration and reconstruction efforts in parallel after Rasuwa flood",
       "link": "https://english.onlinekhabar.com/energy-ministry-flood-response.html",
@@ -175,39 +230,6 @@
       "published_ts": 1788687348.0
     },
     {
-      "title": "Cholera vaccines dispatched to Rasuwa",
-      "link": "https://risingnepaldaily.com/news/86190",
-      "summary": "Kathmandu, Sept 6: Bearing in mind of an increasing risk for water-borne diseases in the floods-affected areas, the gove...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-06T09:34:51+00:00",
-      "published_ts": 1788687291.0
-    },
-    {
-      "title": "Nuwakot to hold meeting on management of Rasuwa flood holding centres",
-      "link": "https://english.onlinekhabar.com/holding-centre-management-meeting.html",
-      "summary": "Nuwakot, September 6 Authorities in Nuwakot will hold discussions with government and non-governmental organisations on the management of holding centres accommodating people rescued after the devastating Rasuwa floods. The District Administration Office, Nuwakot has called a meeting for Monday at 4 pm to discuss the management of holding centres and other related issues. Representatives of […] Th",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-06T09:25:54+00:00",
-      "published_ts": 1788686754.0
-    },
-    {
-      "title": "Search for 93 missing Rasuwagadhi hydropower workers expands into forest",
-      "link": "https://english.onlinekhabar.com/search-rasuwagadhi-hydropower-continue.html",
-      "summary": "Rasuwa, September 6 The search for 93 employees and workers missing from the Rasuwagadhi Hydropower Project has been expanded beyond the project’s powerhouse to nearby forests and difficult mountain terrain. An eight-member team of experienced rock climbers has been deployed to search areas where workers may have fled to escape the flood, including forests around […] The post Search for 93 missing",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-06T09:08:22+00:00",
-      "published_ts": 1788685702.0
-    },
-    {
       "title": "Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260906003100315",
       "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
@@ -274,17 +296,6 @@
       "published_ts": 1788674400.0
     },
     {
-      "title": "네팔 대홍수 서쪽 100㎞서 산사태·홍수…수력발전소서 2명 사망",
-      "link": "https://www.yna.co.kr/view/AKR20260906029500084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 최소 6천여 명의 사망·실종자가 발생한 네팔 대홍수 핵심 피해지에서 서쪽으로 약 100㎞가량 떨어진 곳에서...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-06T05:49:18+00:00",
-      "published_ts": 1788673758.0
-    },
-    {
       "title": "S. Korea to provide blankets, other emergency relief supplies to Nepal flood victims",
       "link": "https://en.yna.co.kr/view/AEN20260904006900315",
       "summary": "SEOUL, Sept. 4 (Yonhap) -- South Korea will provide additional emergency relief ...",
@@ -305,6 +316,39 @@
       "highlight": true,
       "published": "2026-09-04T03:16:26+00:00",
       "published_ts": 1788491786.0
+    },
+    {
+      "title": "Power restored in much of flood-hit Rasuwa and Nuwakot, but pockets remain dark",
+      "link": "https://kathmandupost.com/national/2026/09/06/power-restored-in-much-of-flood-hit-rasuwa-and-nuwakot-but-pockets-remain-dark",
+      "summary": "The restoration is helping rescue and relief efforts. Solar units to reach settlements off-grid.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Kulman Ghising on the lessons Nepal must learn from the hydropower disaster",
+      "link": "https://kathmandupost.com/interviews/2026/09/06/kulman-ghising-on-the-lessons-nepal-must-learn-from-the-hydropower-disaster",
+      "summary": "The former NEA chief discusses the damage to hydropower projects, lessons from the rescue operations and the design and safety reforms Nepal’s hydropower sector needs after the Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Eleven days without a call: Three Kanchanpur families wait for news of men missing in the flood",
+      "link": "https://kathmandupost.com/national/2026/09/06/eleven-days-without-a-call-three-kanchanpur-families-wait-for-news-of-men-missing-in-the-flood",
+      "summary": "In Kanchanpur, wives, children and elderly parents are still waiting for relatives swept away or out of contact after the Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal, South Korea discuss flood rescue, disaster recovery and climate finance",
@@ -409,28 +453,6 @@
       "title": "Barely saved, he cuts mourning short to help flood survivors",
       "link": "https://kathmandupost.com/national/2026/09/05/barely-saved-he-cuts-mourning-short-to-help-flood-survivors",
       "summary": "Sudip Kumar Neupane watched a raging Trishuli swallow his younger brother and a close colleague, then came out of grief after two days.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Can Nepal turn Himalayan vulnerability into a case for compensation?",
-      "link": "https://kathmandupost.com/national/2026/09/05/can-nepal-turn-himalayan-vulnerability-into-a-case-for-compensation",
-      "summary": "The Bhotekoshi disaster highlights rising climate risks in the Himalayas, but experts say Nepal needs stronger evidence, sharper diplomacy and a clear strategy to secure international grants.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "After nine days in darkness, two men walked back into the light",
-      "link": "https://kathmandupost.com/national/2026/09/04/ten-days-in-darkness-then-two-men-walked-back-into-the-light",
-      "summary": "Rescuers pulled Sanjay Sah and Kabir Maharjan alive from the Trishuli 3A hydropower tunnel after more than 72 hours of painstaking search, but dozens of people remain unaccounted for.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
