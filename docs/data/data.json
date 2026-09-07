@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-07T12:22:33.549665+00:00",
-  "total": 26,
-  "highlight_count": 4,
+  "updated_at": "2026-09-07T17:50:08.695576+00:00",
+  "total": 30,
+  "highlight_count": 5,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 7,
+      "count": 9,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -53,6 +53,83 @@
     }
   ],
   "items": [
+    {
+      "title": "네팔 대홍수 13일째 애도의 날…관공서에 조기·촛불 추모식(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260907150451104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔과 중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 13일째인 7일(현지시간) 네팔에서는 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-07T15:59:25+00:00",
+      "published_ts": 1788796765.0
+    },
+    {
+      "title": "Bhotekoshi flash flood: 587 tourists from 34 countries missing",
+      "link": "https://risingnepaldaily.com/news/86249",
+      "summary": "Kathmandu, Sept 7: Five hundred and eighty-seven foreign tourists from 34 countries have gone missing due to the floods...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-07T15:44:58+00:00",
+      "published_ts": 1788795898.0
+    },
+    {
+      "title": "[네팔 대홍수] 네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\"",
+      "link": "https://www.yna.co.kr/view/AKR20260908000400104",
+      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔 정부가 대홍수 당시 한국인 9명이 실종된 지역에서 한국 해외긴급구호대(KDRT)의 도보 수색에 협조...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-07T15:30:16+00:00",
+      "published_ts": 1788795016.0
+    },
+    {
+      "title": "[속보] 韓구호대 \"한국인들 실종지역 도보수색 네팔 협조 확보\"",
+      "link": "https://www.yna.co.kr/view/AKR20260907163300104",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-07T14:31:44+00:00",
+      "published_ts": 1788791504.0
+    },
+    {
+      "title": "Trade pressure shifts to Korala as Rasuwagadhi and Tatopani border points remain disrupted",
+      "link": "https://english.onlinekhabar.com/trade-pressure-shifts-to-korala.html",
+      "summary": "Kathmandu, September 7 Trade pressure between Nepal and China has shifted to the Korala border point in Mustang after the Rasuwagadhi border crossing suffered extensive damage in floods and the Tatopani border point was temporarily closed from the Chinese side. According to officials, Korala, which previously handled relatively little commercial activity, is now bearing much […] The post Trade pre",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-07T14:20:32+00:00",
+      "published_ts": 1788790832.0
+    },
+    {
+      "title": "Disaster victims need state support and reassurance: President Ram Chandra Paudel",
+      "link": "https://english.onlinekhabar.com/disaster-victims-need-state-support-and-reassurance-president-ram-chandra-paudel.html",
+      "summary": "Kathmandu, September 7 President Ram Chandra Paudel has said people affected by the devastating Bhotekoshi floods in Rasuwa are in deep pain after losing their homes, relatives, livelihoods and being displaced, and that they now need support and reassurance from the state. Paudel made the remarks in an address to the nation on Monday after […] The post Disaster victims need state support and reass",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-07T13:10:41+00:00",
+      "published_ts": 1788786641.0
+    },
+    {
+      "title": "Indian team continues rescue efforts at Chilime hydropower project: Ambassador Srivastava",
+      "link": "https://english.onlinekhabar.com/indian-team-chilime-hydropower.html",
+      "summary": "Kathmandu, September 7 Indian Ambassador to Nepal Naveen Srivastava has said rescue efforts are continuing at the Chilime Hydropower Project in Rasuwa in coordination with an Indian technical team. Srivastava said through social media that efforts to advance the rescue operation were continuing in coordination with the Indian team. According to the ambassador, a joint […] The post Indian team cont",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-07T13:00:02+00:00",
+      "published_ts": 1788786002.0
+    },
     {
       "title": "Nepal seeks advanced rescue equipment from international community after Bhotekoshi floods",
       "link": "https://english.onlinekhabar.com/nepal-asks-rescue-equipment-as-aid.html",
@@ -85,17 +162,6 @@
       "highlight": false,
       "published": "2026-09-07T10:44:46+00:00",
       "published_ts": 1788777886.0
-    },
-    {
-      "title": "UT-1 contractor providing relief to flood-affected workers",
-      "link": "https://risingnepaldaily.com/news/86237",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 7: All three contractor companies working on the 216-MW Upper Trishuli-1 Hydropowe...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": "2026-09-07T09:50:01+00:00",
-      "published_ts": 1788774601.0
     },
     {
       "title": "Army estimates 121 people trapped in hydropower tunnels",
@@ -142,28 +208,6 @@
       "published_ts": 1788771744.0
     },
     {
-      "title": "[네팔 대홍수 르포] 조기 걸린 카트만두…슬픔 삼킨 '애도의 날'",
-      "link": "https://www.yna.co.kr/view/AKR20260907142200104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = \"슬프지만 다들 감정을 억누르고 있어요. 슬프다고 계속 울고 있을 수만은 없잖아요.\"",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-07T08:28:03+00:00",
-      "published_ts": 1788769683.0
-    },
-    {
-      "title": "President Paudel visits flood-affected areas in Nuwakot",
-      "link": "https://english.onlinekhabar.com/president-paudel-visits-flood-affected-areas-in-nuwakot.html",
-      "summary": "Nuwakot, September 7 President Ram Chandra Paudel on Monday conducted an on-site inspection of various areas of Nuwakot affected by the devastating floods in the Bhotekoshi River in Rasuwa. During the visit, he met with flood-affected residents and listened to their concerns. President Paudel received a briefing from the District Security Committee on ongoing efforts […] The post President Paudel ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T07:16:28+00:00",
-      "published_ts": 1788765388.0
-    },
-    {
       "title": "(LEAD) Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
       "link": "https://en.yna.co.kr/view/AEN20260906003151315",
       "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
@@ -186,6 +230,17 @@
       "published_ts": 1788684554.0
     },
     {
+      "title": "576 Nepalis stranded in China after Bhotekoshi floods repatriated",
+      "link": "https://kathmandupost.com/national/2026/09/07/576-nepalis-stranded-in-china-after-bhotekoshi-floods-repatriated",
+      "summary": "The citizens were brought back through the Kodari border crossing with assistance from China and coordination by Nepal’s Armed Police Force.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
       "title": "Nepal flood death toll rises to 1,355, nearly 5,000 unaccounted for",
       "link": "https://kathmandupost.com/national/2026/09/07/nepal-flood-death-toll-rises-to-1-355-nearly-5-000-unaccounted-for",
       "summary": "More than 21,000 security personnel remain deployed as rescue teams continue operations across eight flood-hit districts.",
@@ -197,9 +252,9 @@
       "published_ts": 0
     },
     {
-      "title": "Nuwakot schools to reopen 14 days after Bhotekoshi floods",
+      "title": "65 schools in Bidur to reopen on Wednesday after August 26 floods",
       "link": "https://kathmandupost.com/national/2026/09/07/nuwakot-schools-to-reopen-14-days-after-bhotekoshi-floods",
-      "summary": "Bidur Municipality will resume classes at 65 schools on Wednesday, while those destroyed or being used as holding centres will remain closed.",
+      "summary": "Flood-affected children can attend any nearby school without uniforms as Bidur authorities work to restore classes after the Bhotekoshi disaster.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
@@ -321,17 +376,6 @@
       "title": "Prithvi Highway collapse leaves Pokhara’s tourist buses idle as air traffic soars",
       "link": "https://kathmandupost.com/gandaki-province/2026/09/06/prithvi-highway-collapse-leaves-pokhara-s-tourist-buses-idle-as-air-traffic-soars",
       "summary": "The Krishnabhir landslide has disrupted 150 tourist buses on the Pokhara-Kathmandu route, pushing daily air passenger numbers towards 3,500 and prompting tourism operators to explore an alternative route across the Trishuli.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Reporter’s Diary: I went back to Rasuwa. The river had changed everything",
-      "link": "https://kathmandupost.com/national/2026/09/06/reporter-s-diary-i-went-back-to-rasuwa-the-river-had-changed-everything",
-      "summary": "Fourteen months after covering the first Lhende Khola flood, I returned to the same disaster zone. This time, roads and homes were gone, families were searching for their loved ones, and the places I remembered were barely recognisable.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
