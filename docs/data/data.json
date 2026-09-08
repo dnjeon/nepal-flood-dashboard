@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T10:55:00.565189+00:00",
-  "total": 6,
-  "highlight_count": 1,
+  "updated_at": "2026-09-08T14:53:17.798823+00:00",
+  "total": 9,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,61 @@
     }
   ],
   "items": [
+    {
+      "title": "Bhotekoshi flash flood: 13,583 people rescued",
+      "link": "https://risingnepaldaily.com/news/86288",
+      "summary": "Kathmandu, Sept 8: So far 1,357 bodies have been found in the areas affected by the Bhotekoshi flood, the National Disas...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-08T14:40:28+00:00",
+      "published_ts": 1788878428.0
+    },
+    {
+      "title": "네팔韓구호대, 실종자가족 요청지역 도보·드론수색…성과 없어(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260908164351084",
+      "summary": "(바타르·카트만두=연합뉴스) 박진형 손현규 특파원 = 네팔 대홍수 현장에서 수색·구조 활동을 벌이는 대한민국 해외긴급구호대(KDRT)가 8일(현...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-08T14:20:25+00:00",
+      "published_ts": 1788877225.0
+    },
+    {
+      "title": "What rescue teams found and how far they searched in hydropower tunnels today",
+      "link": "https://english.onlinekhabar.com/what-rescue-teams-found-and-how-far-they-searched-in-hydropower-tunnels-today.html",
+      "summary": "Kathmandu, September 8 Search and rescue operations are continuing for people who remain unaccounted for at various hydropower projects following floods in the Bhotekoshi River. According to the Nepal Army, joint teams were deployed on Tuesday to several hydropower projects in Rasuwa and Nuwakot to search for missing workers. At the Rasuwagadhi Hydropower Project, a […] The post What rescue teams ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-08T14:14:30+00:00",
+      "published_ts": 1788876870.0
+    },
+    {
+      "title": "Researcher claims exceptional heat preceded glacier collapse that triggered deadly Rasuwa floods",
+      "link": "https://english.onlinekhabar.com/berkleyearth-heat-glacier-collapse-nepal.html",
+      "summary": "Kathmandu, September 8 The mountain glacier whose collapse triggered deadly floods in Nepal and China on August 26 experienced exceptionally high temperatures in the days before the disaster, according to an analysis of meteorological data by a researcher. Average temperatures at the glacier, located at an altitude of 5,200 metres, were estimated at around 5°C […] The post Researcher claims except",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-08T12:06:00+00:00",
+      "published_ts": 1788869160.0
+    },
+    {
+      "title": "네팔韓구호대, 실종자가족 요청지역 도보·드론수색…성과는 없어",
+      "link": "https://www.yna.co.kr/view/AKR20260908164300084",
+      "summary": "(바타르·카트만두=연합뉴스) 박진형 손현규 특파원 = 네팔 대홍수 현장에서 수색·구조 활동을 벌이는 대한민국 해외긴급구호대(KDRT)가 8일(현...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-08T11:35:27+00:00",
+      "published_ts": 1788867327.0
+    },
     {
       "title": "Norway contributes to Nepal flood relief through the EU Civil Protection Mechanism",
       "link": "https://english.onlinekhabar.com/norway-contributes-to-nepal.html",
@@ -96,28 +151,6 @@
       "highlight": false,
       "published": "2026-09-08T08:49:06+00:00",
       "published_ts": 1788857346.0
-    },
-    {
-      "title": "Search intensified at Upper Trishuli-3 B with arrival of heavy excavators",
-      "link": "https://english.onlinekhabar.com/search-intensified-at-upper-trishuli-3-b-with-arrival-of-heavy-excavators.html",
-      "summary": "Kathmandu, September 8 Search efforts for people missing after the Bhotekoshi-Trishuli floods have intensified at the 37 MW Upper Trishuli-3 B Hydropower Project following the arrival of three large excavators and a backhoe loader. Of the 191 people working at the project who went missing in the flood on August 26, 13 employees of construction […] The post Search intensified at Upper Trishuli-3 B ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": "2026-09-08T07:34:36+00:00",
-      "published_ts": 1788852876.0
-    },
-    {
-      "title": "Prisoners contribute relief supplies to Bhotekoshi flood victims",
-      "link": "https://english.onlinekhabar.com/prisoners-contribute-relief-supplies-to-bhotekoshi-flood-victims.html",
-      "summary": "Chitwan, September 8 Prisoners at the local correctional facility have provided assistance to families affected by the Bhotekoshi floods. The inmates raised money and contributed their labour to prepare relief materials, which they handed over to Chief District Officer Ganesh Aryal at the prison premises on Monday. They provided 125 sets of relief items, including […] The post Prisoners contribute",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T07:22:45+00:00",
-      "published_ts": 1788852165.0
     }
   ]
 }
