@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T01:09:10.768812+00:00",
-  "total": 14,
-  "highlight_count": 2,
+  "updated_at": "2026-09-08T05:57:20.332719+00:00",
+  "total": 7,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 10,
+      "count": 7,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -63,28 +63,6 @@
       "highlight": false,
       "published": "2026-09-08T00:15:00+00:00",
       "published_ts": 1788826500.0
-    },
-    {
-      "title": "Candlelight vigil held to honour lives lost in Bhotekoshi disaster",
-      "link": "https://risingnepaldaily.com/news/86252",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 8: Tributes have been paid at temples, public places and other locations across th...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T00:05:44+00:00",
-      "published_ts": 1788825944.0
-    },
-    {
-      "title": "Bhotekoshi flash flood: 587 tourists from 34 countries missing",
-      "link": "https://risingnepaldaily.com/news/86249",
-      "summary": "Kathmandu, Sept 7: Five hundred and eighty-seven foreign tourists from 34 countries have gone missing due to the floods...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T15:44:58+00:00",
-      "published_ts": 1788795898.0
     },
     {
       "title": "Trade pressure shifts to Korala as Rasuwagadhi and Tatopani border points remain disrupted",
@@ -151,61 +129,6 @@
       "highlight": false,
       "published": "2026-09-07T10:44:46+00:00",
       "published_ts": 1788777886.0
-    },
-    {
-      "title": "Army estimates 121 people trapped in hydropower tunnels",
-      "link": "https://english.onlinekhabar.com/army-estimates-121-people-trapped-in-hydropower-tunnels.html",
-      "summary": "Kathmandu, September 7 The Nepali Army has estimated that 121 people are trapped inside tunnels of various hydropower projects affected by the Rasuwa floods on August 26. Speaking at a press conference organised by the National Disaster Risk Reduction and Management Authority on Monday, Brigadier General Subash Jung Thapa said the Army’s assessment showed that […] The post Army estimates 121 peopl",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T09:43:35+00:00",
-      "published_ts": 1788774215.0
-    },
-    {
-      "title": "Flood-Hit areas see restoration of most internet services",
-      "link": "https://english.onlinekhabar.com/flood-hit-areas-see-restoration-of-most-internet-services.html",
-      "summary": "Kathmandu, September 7 Internet and telecommunications services disrupted by the recent floods in Rasuwa and surrounding areas have been restored in most affected locations, with service providers including WorldLink, Ncell and Nepal Telecom accelerating repair and restoration work. WorldLink CEO Keshav Nepal said internet services had resumed in major areas including Betrawati and Dhunche. Around",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T09:09:24+00:00",
-      "published_ts": 1788772164.0
-    },
-    {
-      "title": "President Paudel to address the nation at 3:30 pm",
-      "link": "https://english.onlinekhabar.com/president-paudel-to-address-the-nation-at-330-pm.html",
-      "summary": "Kathmandu, September 7 President Ram Chandra Paudel is scheduled to address the nation at 3:30 pm today. According to his press adviser, Kiran Pokharel, the president will address the nation after returning from a visit to flood- and landslide-affected areas of Rasuwa and Nuwakot. His address will be broadcast live on Nepal Television. President Paudel […] The post President Paudel to address the ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T09:02:24+00:00",
-      "published_ts": 1788771744.0
-    },
-    {
-      "title": "(LEAD) Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
-      "link": "https://en.yna.co.kr/view/AEN20260906003151315",
-      "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T10:09:05+00:00",
-      "published_ts": 1788689345.0
-    },
-    {
-      "title": "Corporate response team continues search for 9 S. Koreans missing in Nepal floods",
-      "link": "https://en.yna.co.kr/view/AEN20260906003100315",
-      "summary": "SEOUL, Sept. 6 (Yonhap) -- A South Korean corporate response team continued thei...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-06T08:49:14+00:00",
-      "published_ts": 1788684554.0
     }
   ]
 }
