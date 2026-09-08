@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:15:51.510187+00:00",
+  "updated_at": "2026-09-08T23:26:46.374741+00:00",
   "total": 7,
   "highlight_count": 0,
   "sources": [
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "[네팔 대홍수 르포] 韓구호대캠프, 사명감 속 '초고난도' 수색…긴장·피로 누적",
+      "link": "https://www.yna.co.kr/view/AKR20260909005100084",
+      "summary": "(바타르[네팔]=연합뉴스) 박진형 특파원 = 한국 해외긴급구호대(KDRT)의 네팔 파견 7일째인 지난 8일(현지시간) 네팔 누와코트 바타르 지역...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-08T22:51:38+00:00",
+      "published_ts": 1788907898.0
+    },
+    {
       "title": "Norway provides emergency supplies for flood victims",
       "link": "https://risingnepaldaily.com/news/86290",
       "summary": "By TRN Online, Kathmandu, Sept 8: Norway has contributed to Nepal flood relief through the EU Civil Protection Mechanism...",
@@ -74,17 +85,6 @@
       "highlight": false,
       "published": "2026-09-08T14:40:28+00:00",
       "published_ts": 1788878428.0
-    },
-    {
-      "title": "네팔韓구호대, 실종자가족 요청지역 도보·드론수색…성과 없어(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260908164351084",
-      "summary": "(바타르·카트만두=연합뉴스) 박진형 손현규 특파원 = 네팔 대홍수 현장에서 수색·구조 활동을 벌이는 대한민국 해외긴급구호대(KDRT)가 8일(현...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-08T14:20:25+00:00",
-      "published_ts": 1788877225.0
     },
     {
       "title": "What rescue teams found and how far they searched in hydropower tunnels today",
