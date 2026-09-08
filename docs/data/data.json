@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T14:53:17.798823+00:00",
-  "total": 9,
+  "updated_at": "2026-09-08T18:18:54.354465+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 6,
+      "count": 4,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Norway provides emergency supplies for flood victims",
+      "link": "https://risingnepaldaily.com/news/86290",
+      "summary": "By TRN Online, Kathmandu, Sept 8: Norway has contributed to Nepal flood relief through the EU Civil Protection Mechanism...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-08T16:25:00+00:00",
+      "published_ts": 1788884700.0
+    },
     {
       "title": "Bhotekoshi flash flood: 13,583 people rescued",
       "link": "https://risingnepaldaily.com/news/86288",
@@ -129,28 +140,6 @@
       "highlight": false,
       "published": "2026-09-08T09:42:11+00:00",
       "published_ts": 1788860531.0
-    },
-    {
-      "title": "WorldLink Communications Limited provides Rs 10.1 million for flood victims",
-      "link": "https://english.onlinekhabar.com/worldlink-communications-limited-provides-rs-10-1-million-for-flood-victims.html",
-      "summary": "Kathmandu, September 8 WorldLink Communications Limited has provided Rs 10.1 million in aid for those affected by the Bhotekoshi flash floods on August 26. The internet service provider has deposited the amount into the Prime Minister Disaster Relief Fund. WorldLink’s CEO Keshav Nepal handed over the said aid amount to Finance Minister Dr Swarnim Wagle […] The post WorldLink Communications Limited",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T09:09:29+00:00",
-      "published_ts": 1788858569.0
-    },
-    {
-      "title": "Rasuwa flood: 1,357 bodies found, 5,326 still missing",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-1357-bodies.html",
-      "summary": "Kathmandu, September 8 Among those who went missing in the Bhotekoshi flood, 1,357 bodies have been found. This latest data on the Bhotekoshi flood centred on Rasuwa, and the subsequent search, rescue and relief operations, was released by the National Disaster Risk Reduction and Management Authority under the Ministry of Home Affairs. According to updated […] The post Rasuwa flood: 1,357 bodies f",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T08:49:06+00:00",
-      "published_ts": 1788857346.0
     }
   ]
 }
