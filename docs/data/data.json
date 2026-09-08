@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-08T05:57:20.332719+00:00",
-  "total": 7,
-  "highlight_count": 0,
+  "updated_at": "2026-09-08T10:55:00.565189+00:00",
+  "total": 6,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -54,81 +54,70 @@
   ],
   "items": [
     {
-      "title": "Mega dam is not a crazy idea. Nepal should debate it.",
-      "link": "https://english.onlinekhabar.com/should-nepal-think-mega-dam.html",
-      "summary": "In view of the massive Bhotekoshi flash flood and the immense suffering caused by the loss of life and property, a country like Nepal, situated in such a precarious position, has been compelled to ask itself a difficult question. Can Nepal afford to rebuild everything there, in the same place and in the same way, […] The post Mega dam is not a crazy idea. Nepal should debate it. appeared first on ",
+      "title": "Norway contributes to Nepal flood relief through the EU Civil Protection Mechanism",
+      "link": "https://english.onlinekhabar.com/norway-contributes-to-nepal.html",
+      "summary": "Kathmandu, September 8 On Monday, Norway, through the EU Civil Protection Mechanism, handed over medical, energy and technical equipment to Nepal as relief for Bhote Koshi flood victims. EU ECHO‘s Rapid Response Coordinator Asia and Pacific, Isabelle D’Haudt, formally handed over the shipment to Mahabir Pun, Minister of Science, Technology and Innovation. “The arrival of […] The post Norway contri",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-08T00:15:00+00:00",
-      "published_ts": 1788826500.0
+      "published": "2026-09-08T10:38:33+00:00",
+      "published_ts": 1788863913.0
     },
     {
-      "title": "Trade pressure shifts to Korala as Rasuwagadhi and Tatopani border points remain disrupted",
-      "link": "https://english.onlinekhabar.com/trade-pressure-shifts-to-korala.html",
-      "summary": "Kathmandu, September 7 Trade pressure between Nepal and China has shifted to the Korala border point in Mustang after the Rasuwagadhi border crossing suffered extensive damage in floods and the Tatopani border point was temporarily closed from the Chinese side. According to officials, Korala, which previously handled relatively little commercial activity, is now bearing much […] The post Trade pre",
+      "title": "Brother searches for missing family after Rasuwa flood, still hopes they are alive",
+      "link": "https://english.onlinekhabar.com/brother-searches-for-missing-family-after-rasuwa-flood-still-hopes-they-are-alive.html",
+      "summary": "Rolpa, September 8 Four members of a family from Rolpa have been missing since the Bhotekoshi River flood in Rasuwa. The family of 40-year-old Kul Prasad Budha Magar of Thanekot, Ward 6 of Paribartan Rural Municipality, has been out of contact since the flood. Kul Prasad, his 36-year-old wife Meena Gharti Magar, 21-year-old son Deep […] The post Brother searches for missing family after Rasuwa flo",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-07T14:20:32+00:00",
-      "published_ts": 1788790832.0
+      "published": "2026-09-08T09:42:11+00:00",
+      "published_ts": 1788860531.0
     },
     {
-      "title": "Disaster victims need state support and reassurance: President Ram Chandra Paudel",
-      "link": "https://english.onlinekhabar.com/disaster-victims-need-state-support-and-reassurance-president-ram-chandra-paudel.html",
-      "summary": "Kathmandu, September 7 President Ram Chandra Paudel has said people affected by the devastating Bhotekoshi floods in Rasuwa are in deep pain after losing their homes, relatives, livelihoods and being displaced, and that they now need support and reassurance from the state. Paudel made the remarks in an address to the nation on Monday after […] The post Disaster victims need state support and reass",
+      "title": "WorldLink Communications Limited provides Rs 10.1 million for flood victims",
+      "link": "https://english.onlinekhabar.com/worldlink-communications-limited-provides-rs-10-1-million-for-flood-victims.html",
+      "summary": "Kathmandu, September 8 WorldLink Communications Limited has provided Rs 10.1 million in aid for those affected by the Bhotekoshi flash floods on August 26. The internet service provider has deposited the amount into the Prime Minister Disaster Relief Fund. WorldLink’s CEO Keshav Nepal handed over the said aid amount to Finance Minister Dr Swarnim Wagle […] The post WorldLink Communications Limited",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-07T13:10:41+00:00",
-      "published_ts": 1788786641.0
+      "published": "2026-09-08T09:09:29+00:00",
+      "published_ts": 1788858569.0
     },
     {
-      "title": "Indian team continues rescue efforts at Chilime hydropower project: Ambassador Srivastava",
-      "link": "https://english.onlinekhabar.com/indian-team-chilime-hydropower.html",
-      "summary": "Kathmandu, September 7 Indian Ambassador to Nepal Naveen Srivastava has said rescue efforts are continuing at the Chilime Hydropower Project in Rasuwa in coordination with an Indian technical team. Srivastava said through social media that efforts to advance the rescue operation were continuing in coordination with the Indian team. According to the ambassador, a joint […] The post Indian team cont",
+      "title": "Rasuwa flood: 1,357 bodies found, 5,326 still missing",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-1357-bodies.html",
+      "summary": "Kathmandu, September 8 Among those who went missing in the Bhotekoshi flood, 1,357 bodies have been found. This latest data on the Bhotekoshi flood centred on Rasuwa, and the subsequent search, rescue and relief operations, was released by the National Disaster Risk Reduction and Management Authority under the Ministry of Home Affairs. According to updated […] The post Rasuwa flood: 1,357 bodies f",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-07T13:00:02+00:00",
-      "published_ts": 1788786002.0
+      "published": "2026-09-08T08:49:06+00:00",
+      "published_ts": 1788857346.0
     },
     {
-      "title": "Nepal seeks advanced rescue equipment from international community after Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/nepal-asks-rescue-equipment-as-aid.html",
-      "summary": "Kathmandu, September 7 Nepal has asked the international community for advanced rescue equipment and specialised materials after technical difficulties intensified search and rescue operations following the devastating floods in the Bhotekoshi River. According to the latest update issued by the Ministry of Foreign Affairs on Monday, the government has prepared a list of high-tech rescue […] The po",
+      "title": "Search intensified at Upper Trishuli-3 B with arrival of heavy excavators",
+      "link": "https://english.onlinekhabar.com/search-intensified-at-upper-trishuli-3-b-with-arrival-of-heavy-excavators.html",
+      "summary": "Kathmandu, September 8 Search efforts for people missing after the Bhotekoshi-Trishuli floods have intensified at the 37 MW Upper Trishuli-3 B Hydropower Project following the arrival of three large excavators and a backhoe loader. Of the 191 people working at the project who went missing in the flood on August 26, 13 employees of construction […] The post Search intensified at Upper Trishuli-3 B ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T11:28:38+00:00",
-      "published_ts": 1788780518.0
+      "highlight": true,
+      "published": "2026-09-08T07:34:36+00:00",
+      "published_ts": 1788852876.0
     },
     {
-      "title": "Police intensify crackdown on social media misinformation and rumours",
-      "link": "https://english.onlinekhabar.com/police-intensify-crackdown-on-social-media-misinformation-and-rumours.html",
-      "summary": "Kathmandu, September 7 Police have intensified monitoring of social media platforms to curb misinformation, rumours and misleading content that could undermine social harmony, particularly amid the ongoing crisis caused by the Bhotekoshi floods. Police arrested 24-year-old Birendra Madai of Surnaya Rural Municipality-7, Baitadi, currently residing in Balambu, Chandragiri Municipality-12, Kathmandu",
+      "title": "Prisoners contribute relief supplies to Bhotekoshi flood victims",
+      "link": "https://english.onlinekhabar.com/prisoners-contribute-relief-supplies-to-bhotekoshi-flood-victims.html",
+      "summary": "Chitwan, September 8 Prisoners at the local correctional facility have provided assistance to families affected by the Bhotekoshi floods. The inmates raised money and contributed their labour to prepare relief materials, which they handed over to Chief District Officer Ganesh Aryal at the prison premises on Monday. They provided 125 sets of relief items, including […] The post Prisoners contribute",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-07T10:55:58+00:00",
-      "published_ts": 1788778558.0
-    },
-    {
-      "title": "Chinese Embassy lowers flag to half-mast in solidarity with Nepal flood victims",
-      "link": "https://english.onlinekhabar.com/chinese-embassy-mourn-flood-victims.html",
-      "summary": "Kathmandu, September 7 The Chinese Embassy in Nepal has organised a memorial event on the occasion of Nepal’s national day of mourning for those who lost their lives in Bhotekoshi floods. The Chinese national flag at the embassy has been flown at half-mast in memory of the victims. The embassy said China and Nepal would […] The post Chinese Embassy lowers flag to half-mast in solidarity with Nepal",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-07T10:44:46+00:00",
-      "published_ts": 1788777886.0
+      "published": "2026-09-08T07:22:45+00:00",
+      "published_ts": 1788852165.0
     }
   ]
 }
