@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T18:18:54.354465+00:00",
-  "total": 8,
+  "updated_at": "2026-09-08T21:15:51.510187+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -107,17 +107,6 @@
       "highlight": false,
       "published": "2026-09-08T12:06:00+00:00",
       "published_ts": 1788869160.0
-    },
-    {
-      "title": "네팔韓구호대, 실종자가족 요청지역 도보·드론수색…성과는 없어",
-      "link": "https://www.yna.co.kr/view/AKR20260908164300084",
-      "summary": "(바타르·카트만두=연합뉴스) 박진형 손현규 특파원 = 네팔 대홍수 현장에서 수색·구조 활동을 벌이는 대한민국 해외긴급구호대(KDRT)가 8일(현...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-08T11:35:27+00:00",
-      "published_ts": 1788867327.0
     },
     {
       "title": "Norway contributes to Nepal flood relief through the EU Civil Protection Mechanism",
