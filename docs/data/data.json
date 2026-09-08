@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-07T23:02:50.474746+00:00",
-  "total": 29,
-  "highlight_count": 5,
+  "updated_at": "2026-09-08T01:09:10.768812+00:00",
+  "total": 14,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 14,
+      "count": 0,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,26 @@
   ],
   "items": [
     {
-      "title": "네팔 대홍수 13일째 애도의 날…관공서에 조기·촛불 추모식(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260907150451104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔과 중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 13일째인 7일(현지시간) 네팔에서는 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Mega dam is not a crazy idea. Nepal should debate it.",
+      "link": "https://english.onlinekhabar.com/should-nepal-think-mega-dam.html",
+      "summary": "In view of the massive Bhotekoshi flash flood and the immense suffering caused by the loss of life and property, a country like Nepal, situated in such a precarious position, has been compelled to ask itself a difficult question. Can Nepal afford to rebuild everything there, in the same place and in the same way, […] The post Mega dam is not a crazy idea. Nepal should debate it. appeared first on ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-07T15:59:25+00:00",
-      "published_ts": 1788796765.0
+      "published": "2026-09-08T00:15:00+00:00",
+      "published_ts": 1788826500.0
+    },
+    {
+      "title": "Candlelight vigil held to honour lives lost in Bhotekoshi disaster",
+      "link": "https://risingnepaldaily.com/news/86252",
+      "summary": "By A Staff Reporter, Kathmandu, Sept. 8: Tributes have been paid at temples, public places and other locations across th...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-08T00:05:44+00:00",
+      "published_ts": 1788825944.0
     },
     {
       "title": "Bhotekoshi flash flood: 587 tourists from 34 countries missing",
@@ -74,28 +85,6 @@
       "highlight": false,
       "published": "2026-09-07T15:44:58+00:00",
       "published_ts": 1788795898.0
-    },
-    {
-      "title": "[네팔 대홍수] 네팔 입장 바꿔 \"한국인 9명 실종 지역 도보수색 협조\"",
-      "link": "https://www.yna.co.kr/view/AKR20260908000400104",
-      "summary": "(카트만두=연합뉴스) 손현규 특파원 = 네팔 정부가 대홍수 당시 한국인 9명이 실종된 지역에서 한국 해외긴급구호대(KDRT)의 도보 수색에 협조...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-07T15:30:16+00:00",
-      "published_ts": 1788795016.0
-    },
-    {
-      "title": "[속보] 韓구호대 \"한국인들 실종지역 도보수색 네팔 협조 확보\"",
-      "link": "https://www.yna.co.kr/view/AKR20260907163300104",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-07T14:31:44+00:00",
-      "published_ts": 1788791504.0
     },
     {
       "title": "Trade pressure shifts to Korala as Rasuwagadhi and Tatopani border points remain disrupted",
@@ -217,160 +206,6 @@
       "highlight": true,
       "published": "2026-09-06T08:49:14+00:00",
       "published_ts": 1788684554.0
-    },
-    {
-      "title": "576 Nepalis stranded in China after Bhotekoshi floods repatriated",
-      "link": "https://kathmandupost.com/national/2026/09/07/576-nepalis-stranded-in-china-after-bhotekoshi-floods-repatriated",
-      "summary": "The citizens were brought back through the Kodari border crossing with assistance from China and coordination by Nepal’s Armed Police Force.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal flood death toll rises to 1,355, nearly 5,000 unaccounted for",
-      "link": "https://kathmandupost.com/national/2026/09/07/nepal-flood-death-toll-rises-to-1-355-nearly-5-000-unaccounted-for",
-      "summary": "More than 21,000 security personnel remain deployed as rescue teams continue operations across eight flood-hit districts.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "65 schools in Bidur to reopen on Wednesday after August 26 floods",
-      "link": "https://kathmandupost.com/national/2026/09/07/nuwakot-schools-to-reopen-14-days-after-bhotekoshi-floods",
-      "summary": "Flood-affected children can attend any nearby school without uniforms as Bidur authorities work to restore classes after the Bhotekoshi disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Families demand answers for missing hydropower workers",
-      "link": "https://kathmandupost.com/valley/2026/09/07/families-demand-answers-for-missing-hydropower-workers",
-      "summary": "Relatives of workers missing after the Rasuwa floods say delays in the search are deepening their anguish as they demand a faster, better-equipped rescue effort.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Rubio calls Rabi Lamichhane, offers additional support after Bhotekoshi floods",
-      "link": "https://kathmandupost.com/national/2026/09/07/rubio-calls-rabi-lamichhane-offers-us-additional-support-after-bhotekoshi-floods",
-      "summary": "US Secretary of State expresses condolences over loss of lives and says Washington is ready to provide additional assistance as Nepal continues search, rescue, and relief operations.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Floods wash away 1,806 hectares of farmland, threaten food supplies",
-      "link": "https://kathmandupost.com/national/2026/09/07/floods-wash-away-1-806-hectares-of-farmland-threaten-food-supplies",
-      "summary": "Bhotekoshi floods are expected to cut food production by 7,686 tonnes in affected areas.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal moves against online abuse targeting flood survivors",
-      "link": "https://kathmandupost.com/national/2026/09/07/nepal-moves-against-online-abuse-targeting-flood-victims",
-      "summary": "Cyber Bureau forms 10-member team to identify users posting hateful and demeaning comments about people affected by the Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "People in flood-hit Rasuwa villages call for help after supplies run out",
-      "link": "https://kathmandupost.com/province-no-3/2026/09/07/people-in-flood-hit-rasuwa-villages-call-for-help-after-supplies-run-out",
-      "summary": "Residents of Aamachhodingmo Rural Municipality who have lost family members look up for help when they hear a helicopter fly. Their prayers mostly go unanswered.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood sends hydropower shares tumbling, but damage is uneven",
-      "link": "https://kathmandupost.com/money/2026/09/07/flood-sends-hydropower-shares-tumbling-but-damage-is-uneven",
-      "summary": "The Bhotekoshi floods have hit a handful of listed hydropower projects, yet shares across the sector, and in insurance, have fallen as investors grapple with uncertainty over losses, claims and reconstruction.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Power restored in much of flood-hit Rasuwa and Nuwakot, but pockets remain dark",
-      "link": "https://kathmandupost.com/national/2026/09/06/power-restored-in-much-of-flood-hit-rasuwa-and-nuwakot-but-pockets-remain-dark",
-      "summary": "The restoration is helping rescue and relief efforts. Solar units to reach settlements off-grid.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Kulman Ghising on the lessons Nepal must learn from the hydropower disaster",
-      "link": "https://kathmandupost.com/interviews/2026/09/06/kulman-ghising-on-the-lessons-nepal-must-learn-from-the-hydropower-disaster",
-      "summary": "The former NEA chief discusses the damage to hydropower projects, lessons from the rescue operations and the design and safety reforms Nepal’s hydropower sector needs after the Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Eleven days without a call: Three Kanchanpur families wait for news of men missing in the flood",
-      "link": "https://kathmandupost.com/national/2026/09/06/eleven-days-without-a-call-three-kanchanpur-families-wait-for-news-of-men-missing-in-the-flood",
-      "summary": "In Kanchanpur, wives, children and elderly parents are still waiting for relatives swept away or out of contact after the Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal, South Korea discuss flood rescue, disaster recovery and climate finance",
-      "link": "https://kathmandupost.com/national/2026/09/06/nepal-south-korea-discuss-flood-rescue-disaster-recovery-and-climate-finance",
-      "summary": "Nepal seeks continued South Korean support for flood recovery as the two countries call for greater international action on climate-related losses.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Prithvi Highway collapse leaves Pokhara’s tourist buses idle as air traffic soars",
-      "link": "https://kathmandupost.com/gandaki-province/2026/09/06/prithvi-highway-collapse-leaves-pokhara-s-tourist-buses-idle-as-air-traffic-soars",
-      "summary": "The Krishnabhir landslide has disrupted 150 tourist buses on the Pokhara-Kathmandu route, pushing daily air passenger numbers towards 3,500 and prompting tourism operators to explore an alternative route across the Trishuli.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
     }
   ]
 }
