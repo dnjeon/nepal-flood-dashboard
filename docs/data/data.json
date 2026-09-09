@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T15:20:39.535697+00:00",
+  "updated_at": "2026-09-09T18:46:07.954735+00:00",
   "total": 7,
   "highlight_count": 0,
   "sources": [
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Nepal Telecom's damaged fibre network restored in Rasuwagadhi, Betrawati",
+      "link": "https://risingnepaldaily.com/news/86331",
+      "summary": "Kathmandu, Sept 9: Nepal Telecom has restored its fibre network in Rasuwagadhi and Betrawati which was damaged by the Au...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-09T15:41:41+00:00",
+      "published_ts": 1788968501.0
+    },
+    {
       "title": "네팔 파견 韓구호대 11일 귀국 예정…\"2진 파견 준비 중\"",
       "link": "https://www.yna.co.kr/view/AKR20260909183700084",
       "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 발생 15일째인 9일(현지시간) 대한민국 해외긴급구호대(KDRT)가 네팔에서 수색 활동을 마...",
@@ -96,17 +107,6 @@
       "highlight": false,
       "published": "2026-09-09T09:36:03+00:00",
       "published_ts": 1788946563.0
-    },
-    {
-      "title": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage",
-      "link": "https://risingnepaldaily.com/news/86320",
-      "summary": "Kathmandu, Sept 9: Finance Minister Dr. Swarnim Wagle has instructed the bodies concerned to make the details of the Rap...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-09T09:00:11+00:00",
-      "published_ts": 1788944411.0
     },
     {
       "title": "Rasuwa floods, Krishnabhir road collapse hit customs revenue and supply",
