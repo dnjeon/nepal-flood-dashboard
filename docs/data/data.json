@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T11:42:06.638666+00:00",
-  "total": 11,
+  "updated_at": "2026-09-09T15:20:39.535697+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 4,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "네팔 파견 韓구호대 11일 귀국 예정…\"2진 파견 준비 중\"",
+      "link": "https://www.yna.co.kr/view/AKR20260909183700084",
+      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 발생 15일째인 9일(현지시간) 대한민국 해외긴급구호대(KDRT)가 네팔에서 수색 활동을 마...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-09T11:59:07+00:00",
+      "published_ts": 1788955147.0
+    },
     {
       "title": "Nepal should go to the UN to demand fairness, not sympathy",
       "link": "https://english.onlinekhabar.com/nepal-should-go-to-un.html",
@@ -98,28 +109,6 @@
       "published_ts": 1788944411.0
     },
     {
-      "title": "Bhotekoshi floods: PM begins discussions with chiefs of all security agencies",
-      "link": "https://risingnepaldaily.com/news/86319",
-      "summary": "Kathmandu, Sept 9: Prime Minister Balendra Shah has begun a high-level discussion with the chiefs of all three security...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-09T08:52:10+00:00",
-      "published_ts": 1788943930.0
-    },
-    {
-      "title": "Bhotekoshi flood: 1,367 bodies recovered so far",
-      "link": "https://risingnepaldaily.com/news/86318",
-      "summary": "Kathmandu, Sept 9: A total of 1,367 bodies have been retrieved so far following the devastating flash floods that struck...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-09T08:46:03+00:00",
-      "published_ts": 1788943563.0
-    },
-    {
       "title": "Rasuwa floods, Krishnabhir road collapse hit customs revenue and supply",
       "link": "https://english.onlinekhabar.com/rasuwa-floods-krishnabhir-road-collapse-hit-customs-revenue-and-supply.html",
       "summary": "Kathmandu, September 9 The devastating floods in Rasuwa and the collapse of the road at Krishnabhir have disrupted supplies from the northern border, causing a significant impact on customs revenue, the Ministry of Finance has said. Finance Secretary Dr Ghanshyam Upadhyaya said the flooding at the Rasuwagadhi border point brought supplies from China to a […] The post Rasuwa floods, Krishnabhir roa",
@@ -129,39 +118,6 @@
       "highlight": false,
       "published": "2026-09-09T08:40:37+00:00",
       "published_ts": 1788943237.0
-    },
-    {
-      "title": "정부 \"네팔 파견 해외긴급구호대 귀국 준비…2진 파견 준비 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909164900084",
-      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 실종자 수색 등을 위해 지난 2일 현지에 파견된 대한민국 해외긴급구호대(KDRT)가 귀국 준...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-09T08:28:05+00:00",
-      "published_ts": 1788942485.0
-    },
-    {
-      "title": "[속보] 정부 \"해외긴급구호대 네팔 2진 파견 준비 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909162300084",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-09T08:15:01+00:00",
-      "published_ts": 1788941701.0
-    },
-    {
-      "title": "Sub-committee formed to study about Rasuwa flood impacts",
-      "link": "https://risingnepaldaily.com/news/86316",
-      "summary": "Kathmandu, Sept 9: The Finance Committee under the House of Representatives is to conduct a study and analysis about the...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-09T07:47:01+00:00",
-      "published_ts": 1788940021.0
     },
     {
       "title": "PM continues talks with security chiefs today",
