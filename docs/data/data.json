@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T23:26:46.374741+00:00",
-  "total": 7,
+  "updated_at": "2026-09-09T01:23:56.783073+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -54,15 +54,26 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수 르포] 韓구호대캠프, 사명감 속 '초고난도' 수색…긴장·피로 누적",
-      "link": "https://www.yna.co.kr/view/AKR20260909005100084",
-      "summary": "(바타르[네팔]=연합뉴스) 박진형 특파원 = 한국 해외긴급구호대(KDRT)의 네팔 파견 7일째인 지난 8일(현지시간) 네팔 누와코트 바타르 지역...",
+      "title": "[네팔 대홍수] 현대차그룹, 피해복구 성금 50만달러 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260909039800003",
+      "summary": "(서울=연합뉴스) 장하나 기자 = 현대차그룹은 최근 홍수로 큰 피해를 본 네팔과 티베트 지역에 총 50만달러 규모의 구호 성금을 지원한다고 9일...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-08T22:51:38+00:00",
-      "published_ts": 1788907898.0
+      "published": "2026-09-09T01:02:23+00:00",
+      "published_ts": 1788915743.0
+    },
+    {
+      "title": "Bhotekoshi flood disrupts China trade route, festival supplies at risk",
+      "link": "https://risingnepaldaily.com/news/86294",
+      "summary": "Kathmandu, Sept. 9: The devastating flash flood in the Bhotekoshi River in Rasuwa has severely disrupted Nepal-China tra...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-09T00:37:41+00:00",
+      "published_ts": 1788914261.0
     },
     {
       "title": "Norway provides emergency supplies for flood victims",
