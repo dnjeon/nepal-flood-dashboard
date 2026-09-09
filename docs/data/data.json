@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T01:23:56.783073+00:00",
-  "total": 8,
+  "updated_at": "2026-09-09T06:22:37.686466+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,48 +54,70 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 현대차그룹, 피해복구 성금 50만달러 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260909039800003",
-      "summary": "(서울=연합뉴스) 장하나 기자 = 현대차그룹은 최근 홍수로 큰 피해를 본 네팔과 티베트 지역에 총 50만달러 규모의 구호 성금을 지원한다고 9일...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Electricity restored in Bidur Wards 10 and 11 of Nuwakot",
+      "link": "https://english.onlinekhabar.com/electricity-restored-in-bidur-wards-10-and-11-of-nuwakot.html",
+      "summary": "Kathmandu, September 9 Electricity service has been restored in wards 10 and 11 of Bidur Municipality in flood-affected Nuwakot district. The Ministry of Energy, Water Resources and Irrigation said the government has stepped up efforts to restore electricity services disrupted by the floods in Rasuwa. According to the secretariat of Energy Minister Biraj Bhakta Shrestha, […] The post Electricity r",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T01:02:23+00:00",
-      "published_ts": 1788915743.0
+      "published": "2026-09-09T05:48:16+00:00",
+      "published_ts": 1788932896.0
     },
     {
-      "title": "Bhotekoshi flood disrupts China trade route, festival supplies at risk",
-      "link": "https://risingnepaldaily.com/news/86294",
-      "summary": "Kathmandu, Sept. 9: The devastating flash flood in the Bhotekoshi River in Rasuwa has severely disrupted Nepal-China tra...",
+      "title": "Rabi Lamichhane to address Parliament on Bhotekoshi flood response",
+      "link": "https://english.onlinekhabar.com/lamichhane-house-flood-response.html",
+      "summary": "Kathmandu, September 9 Rastriya Swatantra Party (RSP) chair Rabi Lamichhane is set to address the House of Representatives on Wednesday, focusing on the response to the devastating flood in Rasuwa. According to an RSP lawmaker, Lamichhane will speak about the search for people affected by the flood, rescue operations, relief distribution and rehabilitation efforts. The […] The post Rabi Lamichhane",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-09T03:39:13+00:00",
+      "published_ts": 1788925153.0
+    },
+    {
+      "title": "Gorkha road upgrade begins to bypass Krishnabhir landslide",
+      "link": "https://risingnepaldaily.com/news/86307",
+      "summary": "By Guna Bahadur Roka, Gorkha, Sept. 9: Work has begun to upgrade a 19-kilometre road on the Gorkha side of the Trishuli...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T00:37:41+00:00",
-      "published_ts": 1788914261.0
+      "published": "2026-09-09T03:03:28+00:00",
+      "published_ts": 1788923008.0
     },
     {
-      "title": "Norway provides emergency supplies for flood victims",
-      "link": "https://risingnepaldaily.com/news/86290",
-      "summary": "By TRN Online, Kathmandu, Sept 8: Norway has contributed to Nepal flood relief through the EU Civil Protection Mechanism...",
+      "title": "Dimensions Of Mountain Disaster",
+      "link": "https://risingnepaldaily.com/news/86305",
+      "summary": "The catastrophic Bhotekoshi flash flood of August 26 proves that the threat of disasters in the Himalayas amid global wa...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-08T16:25:00+00:00",
-      "published_ts": 1788884700.0
+      "published": "2026-09-09T02:55:23+00:00",
+      "published_ts": 1788922523.0
     },
     {
-      "title": "Bhotekoshi flash flood: 13,583 people rescued",
-      "link": "https://risingnepaldaily.com/news/86288",
-      "summary": "Kathmandu, Sept 8: So far 1,357 bodies have been found in the areas affected by the Bhotekoshi flood, the National Disas...",
+      "title": "Beyond Disaster, Facts And Accountability",
+      "link": "https://risingnepaldaily.com/news/86304",
+      "summary": "“I am a single woman, living next to the school from where children were saved by the headmaster in Trishuli Bazaar. My...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-08T14:40:28+00:00",
-      "published_ts": 1788878428.0
+      "published": "2026-09-09T02:48:00+00:00",
+      "published_ts": 1788922080.0
+    },
+    {
+      "title": "Climate justice is still far away for Nepal",
+      "link": "https://english.onlinekhabar.com/climate-justice-far-away-nepal.html",
+      "summary": "By Surabhi Sharma The Bhotekoshi flood has left Nepal confronting one of its harshest human tragedies. A massive rock-and-ice avalanche unleashed a devastating surge through the Bhotekoshi–Trishuli river system, destroying lives, homes and critical infrastructure within minutes. The catastrophe has become a powerful symbol of the new and unequal climate risks confronting Himalayan countries. But [",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-09T02:37:59+00:00",
+      "published_ts": 1788921479.0
     },
     {
       "title": "What rescue teams found and how far they searched in hydropower tunnels today",
@@ -107,39 +129,6 @@
       "highlight": false,
       "published": "2026-09-08T14:14:30+00:00",
       "published_ts": 1788876870.0
-    },
-    {
-      "title": "Researcher claims exceptional heat preceded glacier collapse that triggered deadly Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/berkleyearth-heat-glacier-collapse-nepal.html",
-      "summary": "Kathmandu, September 8 The mountain glacier whose collapse triggered deadly floods in Nepal and China on August 26 experienced exceptionally high temperatures in the days before the disaster, according to an analysis of meteorological data by a researcher. Average temperatures at the glacier, located at an altitude of 5,200 metres, were estimated at around 5°C […] The post Researcher claims except",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T12:06:00+00:00",
-      "published_ts": 1788869160.0
-    },
-    {
-      "title": "Norway contributes to Nepal flood relief through the EU Civil Protection Mechanism",
-      "link": "https://english.onlinekhabar.com/norway-contributes-to-nepal.html",
-      "summary": "Kathmandu, September 8 On Monday, Norway, through the EU Civil Protection Mechanism, handed over medical, energy and technical equipment to Nepal as relief for Bhote Koshi flood victims. EU ECHO‘s Rapid Response Coordinator Asia and Pacific, Isabelle D’Haudt, formally handed over the shipment to Mahabir Pun, Minister of Science, Technology and Innovation. “The arrival of […] The post Norway contri",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T10:38:33+00:00",
-      "published_ts": 1788863913.0
-    },
-    {
-      "title": "Brother searches for missing family after Rasuwa flood, still hopes they are alive",
-      "link": "https://english.onlinekhabar.com/brother-searches-for-missing-family-after-rasuwa-flood-still-hopes-they-are-alive.html",
-      "summary": "Rolpa, September 8 Four members of a family from Rolpa have been missing since the Bhotekoshi River flood in Rasuwa. The family of 40-year-old Kul Prasad Budha Magar of Thanekot, Ward 6 of Paribartan Rural Municipality, has been out of contact since the flood. Kul Prasad, his 36-year-old wife Meena Gharti Magar, 21-year-old son Deep […] The post Brother searches for missing family after Rasuwa flo",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-08T09:42:11+00:00",
-      "published_ts": 1788860531.0
     }
   ]
 }
