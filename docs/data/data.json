@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T18:46:07.954735+00:00",
-  "total": 7,
+  "updated_at": "2026-09-09T21:16:01.271500+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -96,17 +96,6 @@
       "highlight": false,
       "published": "2026-09-09T09:40:27+00:00",
       "published_ts": 1788946827.0
-    },
-    {
-      "title": "정부 \"네팔 파견 해외긴급구호대 귀국 준비…2진 파견 준비 중\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260909164951084",
-      "summary": "(카트만두·서울=연합뉴스) 박진형 특파원 김지헌 기자 = 네팔 대홍수 실종자 수색 등을 위해 지난 2일 현지에 파견된 대한민국 해외긴급구호대(K...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-09T09:36:03+00:00",
-      "published_ts": 1788946563.0
     },
     {
       "title": "Rasuwa floods, Krishnabhir road collapse hit customs revenue and supply",
