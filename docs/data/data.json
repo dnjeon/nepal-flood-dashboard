@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T21:16:01.271500+00:00",
-  "total": 6,
+  "updated_at": "2026-09-09T23:19:55.760611+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-09-09T15:41:41+00:00",
       "published_ts": 1788968501.0
-    },
-    {
-      "title": "네팔 파견 韓구호대 11일 귀국 예정…\"2진 파견 준비 중\"",
-      "link": "https://www.yna.co.kr/view/AKR20260909183700084",
-      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 발생 15일째인 9일(현지시간) 대한민국 해외긴급구호대(KDRT)가 네팔에서 수색 활동을 마...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-09T11:59:07+00:00",
-      "published_ts": 1788955147.0
     },
     {
       "title": "Nepal should go to the UN to demand fairness, not sympathy",
