@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T11:11:58.684584+00:00",
-  "total": 24,
+  "updated_at": "2026-09-10T15:01:15.454808+00:00",
+  "total": 23,
   "highlight_count": 2,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -48,11 +48,44 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "A 100-metre gap has cut Kathmandu off from one of Nepal’s most important roads",
+      "link": "https://english.onlinekhabar.com/krishnabhir-cut-prithvi-highway.html",
+      "summary": "Kathmandu, September 10 For 12 days, a roughly 100-metre stretch of one of Nepal’s most important highways has been missing. At Krishnabhir, the Prithvi Highway has slipped into the Trishuli River, severing a crucial road connection between Kathmandu and much of the country. The collapse has stranded a highway that carries passengers, food, fuel and […] The post A 100-metre gap has cut Kathmandu o",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T14:57:03+00:00",
+      "published_ts": 1789052223.0
+    },
+    {
+      "title": "Rebuilding flood-damaged energy sector to cost Rs 390 billion",
+      "link": "https://english.onlinekhabar.com/rebuilding-flood-damaged-energy-sector-to-cost-rs-390-billion.html",
+      "summary": "Kathmandu, September 10 The reconstruction of the energy sector damaged by the devastating floods in the Bhotekoshi and Trishuli rivers is estimated to cost Rs 390 billion, according to a rapid damage and needs assessment. The Rapid Damage and Needs Assessment (RDNA) report prepared by a joint technical team comprising the National Planning Commission and […] The post Rebuilding flood-damaged ener",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T11:30:11+00:00",
+      "published_ts": 1789039811.0
+    },
+    {
+      "title": "Nepal estimates Rs 723 billion needed to rebuild after Rasuwa floods",
+      "link": "https://english.onlinekhabar.com/nepal-rebuild-rasuwa-floods.html",
+      "summary": "Kathmandu, September 10 The Nepal government has estimated that Rs 723.31 billion will be required for reconstruction and recovery following the devastating floods in the Bhotekoshi River in Rasuwa on August 26. According to a Rapid Damage and Needs Assessment report prepared by a joint technical team involving the National Planning Commission and the National […] The post Nepal estimates Rs 723 b",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T11:15:37+00:00",
+      "published_ts": 1789038937.0
+    },
     {
       "title": "Germany provides EUR 8.05 million to Nepal after Bhotekoshi Floods",
       "link": "https://english.onlinekhabar.com/germany-provides-eur-8-05-million-to-nepal-after-bhotekoshi-floods.html",
@@ -131,28 +164,6 @@
       "published_ts": 1789034525.0
     },
     {
-      "title": "Lawmaker Awal says rescue teams in Rasuwa lack essential equipment",
-      "link": "https://english.onlinekhabar.com/lawmaker-awal-says-rescue-teams-in-rasuwa-lack-essential-equipment.html",
-      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Gangalakshmi Awal has said rescue teams deployed in the flood-affected areas of Rasuwa are facing a shortage of essential rescue equipment. Speaking during the emergency session of the House of Representatives on Thursday, Awal said the teams involved in rescue operations lacked basic equipment. She told the House that […] The post Lawmaker Awal say",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T09:13:13+00:00",
-      "published_ts": 1789031593.0
-    },
-    {
-      "title": "Loss and Damage Fund responds to Nepal’s request for emergency assistance",
-      "link": "https://english.onlinekhabar.com/loss-and-damage-fund-responds.html",
-      "summary": "Kathmandu, September 10 The Fund for Responding to Loss and Damage has responded to Nepal’s request for emergency financial assistance following the devastating floods in Rasuwa. Nepal had written to the board of the UN climate change-related fund on September 1, arguing that climate change had contributed to the floods that struck Rasuwa on August […] The post Loss and Damage Fund responds to Nep",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T09:09:41+00:00",
-      "published_ts": 1789031381.0
-    },
-    {
       "title": "[네팔 대홍수] \"더 늦기 전에\"…기업대응팀, 육상수색 91명까지 확대(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260910083651003",
       "summary": "(서울=연합뉴스) 신창용 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위한 자체 수색작업을 확대...",
@@ -175,28 +186,6 @@
       "published_ts": 1789030200.0
     },
     {
-      "title": "Germany provides 8 million euros in assistance to Nepal after Bhotekoshi floods",
-      "link": "https://risingnepaldaily.com/news/86360",
-      "summary": "Kathmandu, Sept 10: Germany has provided monetary assistance to Nepal to help communities affected by the recent floods...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T08:17:04+00:00",
-      "published_ts": 1789028224.0
-    },
-    {
-      "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
-      "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
-      "summary": "The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-10T07:57:23+00:00",
-      "published_ts": 1789027043.0
-    },
-    {
       "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
       "link": "https://en.yna.co.kr/view/AEN20260910005300315",
       "summary": "SEOUL, Sept. 10 (Yonhap) -- President Lee Jae Myung instructed the government Th...",
@@ -206,6 +195,28 @@
       "highlight": true,
       "published": "2026-09-10T06:00:39+00:00",
       "published_ts": 1789020039.0
+    },
+    {
+      "title": "A helicopter finally reaches flood-isolated Tiru of Rasuwa, 15 days after the devastating deluge",
+      "link": "https://kathmandupost.com/province-no-3/2026/09/10/a-helicopter-finally-reaches-flood-isolated-tiru-of-rasuwa-15-days-after-the-devastating-deluge",
+      "summary": "With all roads and bridges washed away by the catastrophic August 26 floods, the village has been effectively cut off from the outside world.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Rapid assessment puts Bhotekoshi recovery needs at Rs723 billion",
+      "link": "https://kathmandupost.com/national/2026/09/10/rs723-billion-needed-to-rebuild-flood-hit-areas-government-assessment-finds",
+      "summary": "Three-quarters of the bill is tied to infrastructure, with hydropower, roads, homes, and essential services among the hardest hit.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Climate loss and damage fund moves to consider urgent support for Nepal",
@@ -288,28 +299,6 @@
       "title": "Global backing grows for Nepal’s climate aid appeal",
       "link": "https://kathmandupost.com/national/2026/09/09/global-backing-grows-for-nepal-s-climate-aid-appeal",
       "summary": "More than a dozen members of the UN-backed Loss and Damage Fund are pushing for an emergency board meeting to consider Nepal’s request for support after the Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Floods disrupt access to healthcare in Rasuwa and Nuwakot",
-      "link": "https://kathmandupost.com/health/2026/09/09/floods-disrupt-access-to-healthcare-in-rasuwa-and-nuwakot",
-      "summary": "Damaged roads have made hospitals difficult to reach for the affected, including pregnant women.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Dhunche has relief supplies. Getting aid to flood-hit Rasuwa villages is the problem",
-      "link": "https://kathmandupost.com/national/2026/09/08/dhunche-has-relief-supplies-getting-aid-to-flood-hit-rasuwa-villages-is-the-problem",
-      "summary": "Destroyed roads have left communities in Rasuwa and Nuwakot districts reliant on helicopters, drones and temporary crossings.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
