@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T23:19:55.760611+00:00",
-  "total": 5,
+  "updated_at": "2026-09-10T01:11:43.692097+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 4,
       "error": null
     },
     {
@@ -53,6 +53,39 @@
     }
   ],
   "items": [
+    {
+      "title": "Rasuwa flood unlike any other disaster: Prof. Dix",
+      "link": "https://risingnepaldaily.com/news/86336",
+      "summary": "By A Staff Reporter, Kathmandu, Sept. 10: International tunnel and underground infrastructure expert Professor Arnold Di...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T00:20:44+00:00",
+      "published_ts": 1788999644.0
+    },
+    {
+      "title": "Flood-hit children at risk of abuse, trafficking",
+      "link": "https://risingnepaldaily.com/news/86335",
+      "summary": "Kathmandu, Sept. 10: The catastrophic Bhotekoshi flood that struck on August 26, caused extensive loss of life and prope...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T00:08:36+00:00",
+      "published_ts": 1788998916.0
+    },
+    {
+      "title": "'Nepal must voice for climate justice over Rasuwa flood havoc'",
+      "link": "https://risingnepaldaily.com/news/86334",
+      "summary": "By A Staff Reporter, Kathmandu, Sept. 10: Ruling Rastriya Swatantra Party (RSP) president and lawmaker Rabi Lamichhane h...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T00:06:28+00:00",
+      "published_ts": 1788998788.0
+    },
     {
       "title": "Nepal Telecom's damaged fibre network restored in Rasuwagadhi, Betrawati",
       "link": "https://risingnepaldaily.com/news/86331",
