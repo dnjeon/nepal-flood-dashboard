@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T01:11:43.692097+00:00",
-  "total": 8,
+  "updated_at": "2026-09-10T06:03:19.518984+00:00",
+  "total": 9,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 4,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 4,
       "error": null
     },
     {
@@ -54,92 +54,103 @@
   ],
   "items": [
     {
-      "title": "Rasuwa flood unlike any other disaster: Prof. Dix",
-      "link": "https://risingnepaldaily.com/news/86336",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 10: International tunnel and underground infrastructure expert Professor Arnold Di...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "한국마사회, 네팔 지원 성금 5천만원 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260910116400007",
+      "summary": "(서울=연합뉴스) 김경윤 기자 = 한국마사회는 10일 네팔 지역 복구와 이재민 지원을 위해 대한적십자사에 긴급 구호 성금 5천만원을 전달했다고 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-10T00:20:44+00:00",
-      "published_ts": 1788999644.0
+      "published": "2026-09-10T05:55:08+00:00",
+      "published_ts": 1789019708.0
     },
     {
-      "title": "Flood-hit children at risk of abuse, trafficking",
-      "link": "https://risingnepaldaily.com/news/86335",
-      "summary": "Kathmandu, Sept. 10: The catastrophic Bhotekoshi flood that struck on August 26, caused extensive loss of life and prope...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "[네팔 대홍수] 외교부 \"긴급구호대 2진은 8명…재건복구팀으로 구성\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910114900504",
+      "summary": "(서울=연합뉴스) 김지헌 민선희 기자 = 네팔 대홍수 현장에 파견되는 대한민국 해외긴급구호대(KDRT) 2진은 재건 및 복구 활동에 투입될 예정...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-10T00:08:36+00:00",
-      "published_ts": 1788998916.0
+      "published": "2026-09-10T05:52:56+00:00",
+      "published_ts": 1789019576.0
     },
     {
-      "title": "'Nepal must voice for climate justice over Rasuwa flood havoc'",
-      "link": "https://risingnepaldaily.com/news/86334",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 10: Ruling Rastriya Swatantra Party (RSP) president and lawmaker Rabi Lamichhane h...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "靑 \"李대통령, 네팔 실종자 가족 애로에 필요조치 검토 지시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910106400001",
+      "summary": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 10일 네팔 대홍수 피해로 우리 국민이 실종된 것과 관련, 실종자 가족의 의사를 반영해 필요한...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-10T00:06:28+00:00",
-      "published_ts": 1788998788.0
+      "published": "2026-09-10T05:20:17+00:00",
+      "published_ts": 1789017617.0
     },
     {
-      "title": "Nepal Telecom's damaged fibre network restored in Rasuwagadhi, Betrawati",
-      "link": "https://risingnepaldaily.com/news/86331",
-      "summary": "Kathmandu, Sept 9: Nepal Telecom has restored its fibre network in Rasuwagadhi and Betrawati which was damaged by the Au...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "[속보] 靑 \"李대통령, 네팔 실종자 가족 애로에 필요조치 검토 지시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260910104400001",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-09T15:41:41+00:00",
-      "published_ts": 1788968501.0
+      "published": "2026-09-10T05:04:38+00:00",
+      "published_ts": 1789016678.0
     },
     {
-      "title": "Nepal should go to the UN to demand fairness, not sympathy",
-      "link": "https://english.onlinekhabar.com/nepal-should-go-to-un.html",
-      "summary": "The devastating flood in the Bhotekoshi-Trishuli river system on August 26 was beyond just another natural disaster. Within hours, settlements, roads, bridges, hydropower projects, and other infrastructure were damaged or swept away. Many people lost their lives, while thousands were displaced and exposed to serious risks. This tragedy is a stark reminder that climate change […] The post Nepal sho",
+      "title": "Rasuwa flood shows why Nepal must rethink development in hazard-prone areas",
+      "link": "https://english.onlinekhabar.com/nepal-rethink-development-hazard-areas.html",
+      "summary": "We have often heard, and repeatedly experienced, that Nepal is highly susceptible to natural hazards. The reasons are largely clear. Geologically, the Himalaya is a relatively young mountain system, and its mountain-building process remains active. The continuing convergence of the Indian and Eurasian tectonic plates produces uplift, seismic activity and ongoing changes in the terrain. […] The pos",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T11:15:00+00:00",
-      "published_ts": 1788952500.0
+      "published": "2026-09-10T04:15:00+00:00",
+      "published_ts": 1789013700.0
     },
     {
-      "title": "Lamichhane defends state response, says anger of flood victims is a cry for help",
-      "link": "https://english.onlinekhabar.com/lamichhane-defends-state-response-says-anger-of-flood-victims-is-a-cry-for-help.html",
-      "summary": "Kathmandu, September 9 Rastriya Swatantra Party (RSP) chair Rabi Lamichhane has defended the government’s response to the Rasuwa floods, saying the state mobilised its resources quickly for rescue, treatment and relief. But speaking in the House of Representatives on Wednesday, Lamichhane also urged the government and his own party to be patient with flood victims […] The post Lamichhane defends s",
+      "title": "Govt surveys flood-hit families to determine need for temporary housing",
+      "link": "https://english.onlinekhabar.com/govt-surveys-flood-hit-families.html",
+      "summary": "Kathmandu, September 10 The government has begun surveying people displaced by the Bhotekoshi–Trishuli floods to determine how many actually need temporary housing, as thousands remain in emergency holding centres across the affected districts. Not everyone currently staying in a holding centre may require a separate temporary shelter, according to Prakash Aryal, deputy director general of […] The",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T09:40:27+00:00",
-      "published_ts": 1788946827.0
+      "published": "2026-09-10T04:11:03+00:00",
+      "published_ts": 1789013463.0
     },
     {
-      "title": "Rasuwa floods, Krishnabhir road collapse hit customs revenue and supply",
-      "link": "https://english.onlinekhabar.com/rasuwa-floods-krishnabhir-road-collapse-hit-customs-revenue-and-supply.html",
-      "summary": "Kathmandu, September 9 The devastating floods in Rasuwa and the collapse of the road at Krishnabhir have disrupted supplies from the northern border, causing a significant impact on customs revenue, the Ministry of Finance has said. Finance Secretary Dr Ghanshyam Upadhyaya said the flooding at the Rasuwagadhi border point brought supplies from China to a […] The post Rasuwa floods, Krishnabhir roa",
+      "title": "The Project Beyond performs in Australia for Nepal flood relief",
+      "link": "https://english.onlinekhabar.com/the-project-beyond-performs.html",
+      "summary": "Kathmandu, September 10 A Nepali music group, The Project Beyond, took the stage in New South Wales on Sunday, September 6, dedicating a special performance to Nepal in solidarity with communities affected by the country’s recent devastating floods. The band performed as part of the Monsoon Mela event at FunHaus Factory, using the show to […] The post The Project Beyond performs in Australia for N",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T08:40:37+00:00",
-      "published_ts": 1788943237.0
+      "published": "2026-09-10T04:10:40+00:00",
+      "published_ts": 1789013440.0
     },
     {
-      "title": "PM continues talks with security chiefs today",
-      "link": "https://english.onlinekhabar.com/pm-talks-security-chiefs.html",
-      "summary": "Kathmandu, September 9 Prime Minister Balen Shah has begun high-level discussions with the chiefs of all three security agencies. According to his secretariat, PM Shah initiated the discussions with the aim of receiving a detailed briefing on the situation created by the flood in the Bhotekoshi River in Rasuwa on August 26, as well as […] The post PM continues talks with security chiefs today appe",
+      "title": "Rasuwa flood survivors face hidden health risks even after rescue",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-survivors-health-risks.html",
+      "summary": "Kathmandu, September 10 When the first patients from the Rasuwa flood began arriving at the National Trauma Centre, some appeared to have survived the worst. But one patient brought to the hospital in the early hours of the morning was in far more serious condition than initially apparent. Dr. Saroj Kumar Gohiwar, an MDGP and […] The post Rasuwa flood survivors face hidden health risks even after ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-09T07:16:24+00:00",
-      "published_ts": 1788938184.0
+      "published": "2026-09-10T02:54:16+00:00",
+      "published_ts": 1789008856.0
+    },
+    {
+      "title": "Nepal seeks $20 million from loss and damage fund over Rasuwa floods",
+      "link": "https://english.onlinekhabar.com/nepal-loss-damage-rasuwa-floods.html",
+      "summary": "Kathmandu, September 10 Nepal has sought more than Rs 3 billion ($20 million) in compensation from the international Loss and Damage Fund, arguing that the devastating Rasuwa floods were linked to climate change. Nepal sent a letter to the Fund for Responding to Loss and Damage under the UN climate change framework last week. Finance […] The post Nepal seeks $20 million from loss and damage fund o",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T02:40:49+00:00",
+      "published_ts": 1789008049.0
     }
   ]
 }
