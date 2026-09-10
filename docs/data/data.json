@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T21:03:46.348074+00:00",
-  "total": 20,
+  "updated_at": "2026-09-10T23:06:57.526881+00:00",
+  "total": 21,
   "highlight_count": 1,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 韓구호대 2진 네팔로 출발…재건복구팀으로 구성",
+      "link": "https://www.yna.co.kr/view/AKR20260911016700504",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일 구호물자를 싣고 네팔로 출발했다...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-10T22:50:02+00:00",
+      "published_ts": 1789080602.0
+    },
     {
       "title": "A 100-metre gap has cut Kathmandu off from one of Nepal’s most important roads",
       "link": "https://english.onlinekhabar.com/krishnabhir-cut-prithvi-highway.html",
