@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T15:01:15.454808+00:00",
-  "total": 23,
+  "updated_at": "2026-09-10T18:23:01.259002+00:00",
+  "total": 22,
   "highlight_count": 2,
   "sources": [
     {
@@ -48,7 +48,7 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
@@ -151,17 +151,6 @@
       "highlight": false,
       "published": "2026-09-10T10:09:27+00:00",
       "published_ts": 1789034967.0
-    },
-    {
-      "title": "Roma to support Nepal flood victims through Champions League match shirt",
-      "link": "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss",
-      "summary": "Italian club to auction special 'Together for Nepal' shirts to be worn in the match against Fenerbahce.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-10T10:02:05+00:00",
-      "published_ts": 1789034525.0
     },
     {
       "title": "[네팔 대홍수] \"더 늦기 전에\"…기업대응팀, 육상수색 91명까지 확대(종합)",
