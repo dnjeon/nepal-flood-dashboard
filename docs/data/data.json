@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-10T06:03:19.518984+00:00",
-  "total": 9,
-  "highlight_count": 0,
+  "updated_at": "2026-09-10T11:11:58.684584+00:00",
+  "total": 24,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 10,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
@@ -30,13 +30,13 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 4,
+      "count": 2,
       "error": null
     },
     {
@@ -48,109 +48,274 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "한국마사회, 네팔 지원 성금 5천만원 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260910116400007",
-      "summary": "(서울=연합뉴스) 김경윤 기자 = 한국마사회는 10일 네팔 지역 복구와 이재민 지원을 위해 대한적십자사에 긴급 구호 성금 5천만원을 전달했다고 ...",
+      "title": "Germany provides EUR 8.05 million to Nepal after Bhotekoshi Floods",
+      "link": "https://english.onlinekhabar.com/germany-provides-eur-8-05-million-to-nepal-after-bhotekoshi-floods.html",
+      "summary": "Kathmandu, September 10 Germany has pledged EUR 8.05 million in assistance to Nepal to support communities affected by the recent Bhotekoshi floods and contribute to recovery and disaster-resilience efforts. The Embassy of the Federal Republic of Germany in Kathmandu said in a statement that the assistance combines emergency humanitarian aid, development cooperation and support channelled […] The ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:53:06+00:00",
+      "published_ts": 1789037586.0
+    },
+    {
+      "title": "NA meeting: Stress on fact-based advocacy for climate justice at int'l forums",
+      "link": "https://risingnepaldaily.com/news/86368",
+      "summary": "Kathmandu, Sept 10: Members of the National Assembly (NA) have voiced their concern over the devastating Bhotekoshi floo...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:51:06+00:00",
+      "published_ts": 1789037466.0
+    },
+    {
+      "title": "NNJS contributes Rs 14.14 million to Prime Minister’s Disaster Relief Fund",
+      "link": "https://english.onlinekhabar.com/nnjs-contributes-rs-14-14-million-to-prime-ministers-disaster-relief-fund.html",
+      "summary": "Kathmandu, September 10 Nepal Netra Jyoti Sangh (NNJS) has contributed Rs 14.14 million to the Prime Minister’s Disaster Relief Fund to support the rescue, relief and rehabilitation of people affected by the recent Bhotekoshi River floods in Rasuwa. NNJS General Secretary Bharat Bahadur Chand handed over the cheque to Finance Minister Dr Swarnim Wagle on […] The post NNJS contributes Rs 14.14 mill",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:44:22+00:00",
+      "published_ts": 1789037062.0
+    },
+    {
+      "title": "Nepali community of Singapore provides Rs 17 lakh to flood victims",
+      "link": "https://risingnepaldaily.com/news/86366",
+      "summary": "By TRN Online, Kathmandu, Sept 10: Nepalese Society, Singapore provided Rs 17 lakh for the Bhotekoshi flood victims. Nep...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:34:09+00:00",
+      "published_ts": 1789036449.0
+    },
+    {
+      "title": "Lawmaker Thapa calls for early warning system linking mountains and glaciers",
+      "link": "https://english.onlinekhabar.com/lawmaker-thapa-calls-for-early-warning-system-linking-mountains-and-glaciers.html",
+      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Sunil Bahadur Thapa has urged the government to develop an effective disaster early warning system that takes into account not only monsoon rainfall but also mountains and glaciers. Speaking at the National Assembly meeting on Thursday, Thapa said the devastating Bhotekoshi floods in Rasuwa had raised serious questions about […] The post Lawmaker Th",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:32:29+00:00",
+      "published_ts": 1789036349.0
+    },
+    {
+      "title": "Lawmaker Acharya calls for special education package for flood-affected children",
+      "link": "https://english.onlinekhabar.com/lawmaker-acharya-calls-for-special-education-package-for-flood-affected-children.html",
+      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Mohan Acharya, who represents Rasuwa in the House of Representatives, has urged the government to introduce a special education package for children affected by the Bhotekoshi floods. Speaking at the House meeting on Thursday, Acharya said many children who had lost their parents faced an uncertain future, while those […] The post Lawmaker Acharya c",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T10:09:27+00:00",
+      "published_ts": 1789034967.0
+    },
+    {
+      "title": "Roma to support Nepal flood victims through Champions League match shirt",
+      "link": "https://www.aljazeera.com/sports/2026/9/10/roma-to-support-nepal-flood-victims-through-champions-league-match-shirt?traffic_source=rss",
+      "summary": "Italian club to auction special 'Together for Nepal' shirts to be worn in the match against Fenerbahce.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-10T10:02:05+00:00",
+      "published_ts": 1789034525.0
+    },
+    {
+      "title": "Lawmaker Awal says rescue teams in Rasuwa lack essential equipment",
+      "link": "https://english.onlinekhabar.com/lawmaker-awal-says-rescue-teams-in-rasuwa-lack-essential-equipment.html",
+      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Gangalakshmi Awal has said rescue teams deployed in the flood-affected areas of Rasuwa are facing a shortage of essential rescue equipment. Speaking during the emergency session of the House of Representatives on Thursday, Awal said the teams involved in rescue operations lacked basic equipment. She told the House that […] The post Lawmaker Awal say",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T09:13:13+00:00",
+      "published_ts": 1789031593.0
+    },
+    {
+      "title": "Loss and Damage Fund responds to Nepal’s request for emergency assistance",
+      "link": "https://english.onlinekhabar.com/loss-and-damage-fund-responds.html",
+      "summary": "Kathmandu, September 10 The Fund for Responding to Loss and Damage has responded to Nepal’s request for emergency financial assistance following the devastating floods in Rasuwa. Nepal had written to the board of the UN climate change-related fund on September 1, arguing that climate change had contributed to the floods that struck Rasuwa on August […] The post Loss and Damage Fund responds to Nep",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T09:09:41+00:00",
+      "published_ts": 1789031381.0
+    },
+    {
+      "title": "[네팔 대홍수] \"더 늦기 전에\"…기업대응팀, 육상수색 91명까지 확대(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260910083651003",
+      "summary": "(서울=연합뉴스) 신창용 홍규빈 기자 = 한국남동발전과 두산에너빌리티가 네팔 대홍수로 실종된 한국인 직원 9명을 찾기 위한 자체 수색작업을 확대...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-10T08:54:37+00:00",
+      "published_ts": 1789030477.0
+    },
+    {
+      "title": "울산과학대, 네팔 재난 구호 기금 마련 '한 잔의 희망' 행사",
+      "link": "https://www.yna.co.kr/view/AKR20260910150300057",
+      "summary": "(울산=연합뉴스) 김용태 기자 = 울산과학대학교는 10일 서부캠퍼스 청운국제관 앞 광장에서 네팔 재난 구호 기금 마련을 위한 '네팔을 위한 한 ...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-10T05:55:08+00:00",
-      "published_ts": 1789019708.0
+      "published": "2026-09-10T08:50:00+00:00",
+      "published_ts": 1789030200.0
     },
     {
-      "title": "[네팔 대홍수] 외교부 \"긴급구호대 2진은 8명…재건복구팀으로 구성\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910114900504",
-      "summary": "(서울=연합뉴스) 김지헌 민선희 기자 = 네팔 대홍수 현장에 파견되는 대한민국 해외긴급구호대(KDRT) 2진은 재건 및 복구 활동에 투입될 예정...",
-      "source": "Yonhap 연합뉴스",
+      "title": "Germany provides 8 million euros in assistance to Nepal after Bhotekoshi floods",
+      "link": "https://risingnepaldaily.com/news/86360",
+      "summary": "Kathmandu, Sept 10: Germany has provided monetary assistance to Nepal to help communities affected by the recent floods...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-10T08:17:04+00:00",
+      "published_ts": 1789028224.0
+    },
+    {
+      "title": "‘Gone in a blink’: Nepal floods sweep away Indian workers who built hotels",
+      "link": "https://www.aljazeera.com/features/2026/9/10/gone-in-a-blink-nepal-floods-sweep-away-indian-workers-who-built-hotels?traffic_source=rss",
+      "summary": "The migrants were at work, building homes and hotels, when the floods hit, sweeping three of them away.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-10T07:57:23+00:00",
+      "published_ts": 1789027043.0
+    },
+    {
+      "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
+      "link": "https://en.yna.co.kr/view/AEN20260910005300315",
+      "summary": "SEOUL, Sept. 10 (Yonhap) -- President Lee Jae Myung instructed the government Th...",
+      "source": "Yonhap (EN)",
       "flag": "🇰🇷",
       "country": "KR",
-      "highlight": false,
-      "published": "2026-09-10T05:52:56+00:00",
-      "published_ts": 1789019576.0
+      "highlight": true,
+      "published": "2026-09-10T06:00:39+00:00",
+      "published_ts": 1789020039.0
     },
     {
-      "title": "靑 \"李대통령, 네팔 실종자 가족 애로에 필요조치 검토 지시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910106400001",
-      "summary": "(서울=연합뉴스) 설승은 기자 = 이재명 대통령은 10일 네팔 대홍수 피해로 우리 국민이 실종된 것과 관련, 실종자 가족의 의사를 반영해 필요한...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-10T05:20:17+00:00",
-      "published_ts": 1789017617.0
-    },
-    {
-      "title": "[속보] 靑 \"李대통령, 네팔 실종자 가족 애로에 필요조치 검토 지시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260910104400001",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-10T05:04:38+00:00",
-      "published_ts": 1789016678.0
-    },
-    {
-      "title": "Rasuwa flood shows why Nepal must rethink development in hazard-prone areas",
-      "link": "https://english.onlinekhabar.com/nepal-rethink-development-hazard-areas.html",
-      "summary": "We have often heard, and repeatedly experienced, that Nepal is highly susceptible to natural hazards. The reasons are largely clear. Geologically, the Himalaya is a relatively young mountain system, and its mountain-building process remains active. The continuing convergence of the Indian and Eurasian tectonic plates produces uplift, seismic activity and ongoing changes in the terrain. […] The pos",
-      "source": "Online Khabar (EN)",
+      "title": "Climate loss and damage fund moves to consider urgent support for Nepal",
+      "link": "https://kathmandupost.com/national/2026/09/10/climate-loss-and-damage-fund-moves-to-consider-urgent-support-for-nepal",
+      "summary": "FRLD co-chairs say they are working with the Board to respond to Kathmandu’s request following the August 26 Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-10T04:15:00+00:00",
-      "published_ts": 1789013700.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "Govt surveys flood-hit families to determine need for temporary housing",
-      "link": "https://english.onlinekhabar.com/govt-surveys-flood-hit-families.html",
-      "summary": "Kathmandu, September 10 The government has begun surveying people displaced by the Bhotekoshi–Trishuli floods to determine how many actually need temporary housing, as thousands remain in emergency holding centres across the affected districts. Not everyone currently staying in a holding centre may require a separate temporary shelter, according to Prakash Aryal, deputy director general of […] The",
-      "source": "Online Khabar (EN)",
+      "title": "Germany provides €8 million in assistance to Nepal after Bhotekoshi floods",
+      "link": "https://kathmandupost.com/money/2026/09/10/germany-provides-8-million-in-assistance-to-nepal-after-bhotekoshi-floods",
+      "summary": "The package includes emergency relief, humanitarian aid and development support for health, energy and disaster-resilient infrastructure.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-10T04:11:03+00:00",
-      "published_ts": 1789013463.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "The Project Beyond performs in Australia for Nepal flood relief",
-      "link": "https://english.onlinekhabar.com/the-project-beyond-performs.html",
-      "summary": "Kathmandu, September 10 A Nepali music group, The Project Beyond, took the stage in New South Wales on Sunday, September 6, dedicating a special performance to Nepal in solidarity with communities affected by the country’s recent devastating floods. The band performed as part of the Monsoon Mela event at FunHaus Factory, using the show to […] The post The Project Beyond performs in Australia for N",
-      "source": "Online Khabar (EN)",
+      "title": "Nepal secures $20 million from Loss and Damage Fund, awaits decision on Bhotekoshi plea",
+      "link": "https://kathmandupost.com/national/2026/09/09/nepal-secures-20-million-from-loss-and-damage-fund-awaits-decision-on-bhotekoshi-plea",
+      "summary": "The funding was approved based on Nepal’s request made earlier this year. A separate emergency appeal filed after the August 26 disaster awaits approval.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-10T04:10:40+00:00",
-      "published_ts": 1789013440.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "Rasuwa flood survivors face hidden health risks even after rescue",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-survivors-health-risks.html",
-      "summary": "Kathmandu, September 10 When the first patients from the Rasuwa flood began arriving at the National Trauma Centre, some appeared to have survived the worst. But one patient brought to the hospital in the early hours of the morning was in far more serious condition than initially apparent. Dr. Saroj Kumar Gohiwar, an MDGP and […] The post Rasuwa flood survivors face hidden health risks even after ",
-      "source": "Online Khabar (EN)",
+      "title": "Two weeks on, families wait for DNA answers",
+      "link": "https://kathmandupost.com/national/2026/09/09/two-weeks-on-families-wait-for-dna-answers",
+      "summary": "Relatives of people missing after the Bhotekoshi floods are turning to DNA testing to identify recovered bodies, but labs are overloaded and under-resourced.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-10T02:54:16+00:00",
-      "published_ts": 1789008856.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "Nepal seeks $20 million from loss and damage fund over Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/nepal-loss-damage-rasuwa-floods.html",
-      "summary": "Kathmandu, September 10 Nepal has sought more than Rs 3 billion ($20 million) in compensation from the international Loss and Damage Fund, arguing that the devastating Rasuwa floods were linked to climate change. Nepal sent a letter to the Fund for Responding to Loss and Damage under the UN climate change framework last week. Finance […] The post Nepal seeks $20 million from loss and damage fund o",
-      "source": "Online Khabar (EN)",
+      "title": "Rabi Lamichhane urges action against those targeting flood victims online",
+      "link": "https://kathmandupost.com/politics/2026/09/09/rabi-lamichhane-urges-action-against-those-targeting-flood-victims-online",
+      "summary": "The RSP chair says the Bhotekoshi floods should be declared a national climate-related disaster and calls for a special all-party parliamentary committee to oversee the response and long-term recovery.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-10T02:40:49+00:00",
-      "published_ts": 1789008049.0
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal restores power, rebuilds links in flood-hit Rasuwa and Nuwakot",
+      "link": "https://kathmandupost.com/national/2026/09/09/nepal-restores-power-rebuilds-links-in-flood-hit-rasuwa-and-nuwakot",
+      "summary": "Electricity has returned to more communities as the Nepali Army works to install a temporary bridge after floods destroyed key infrastructure.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Nepal waives health insurance fees in flood-hit districts",
+      "link": "https://kathmandupost.com/national/2026/09/09/nepal-waives-health-insurance-fees-in-flood-hit-districts",
+      "summary": "Patients in Rasuwa, Nuwakot and Dhading will not have to pay co-payments or show physical insurance cards for three months.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Global backing grows for Nepal’s climate aid appeal",
+      "link": "https://kathmandupost.com/national/2026/09/09/global-backing-grows-for-nepal-s-climate-aid-appeal",
+      "summary": "More than a dozen members of the UN-backed Loss and Damage Fund are pushing for an emergency board meeting to consider Nepal’s request for support after the Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Floods disrupt access to healthcare in Rasuwa and Nuwakot",
+      "link": "https://kathmandupost.com/health/2026/09/09/floods-disrupt-access-to-healthcare-in-rasuwa-and-nuwakot",
+      "summary": "Damaged roads have made hospitals difficult to reach for the affected, including pregnant women.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Dhunche has relief supplies. Getting aid to flood-hit Rasuwa villages is the problem",
+      "link": "https://kathmandupost.com/national/2026/09/08/dhunche-has-relief-supplies-getting-aid-to-flood-hit-rasuwa-villages-is-the-problem",
+      "summary": "Destroyed roads have left communities in Rasuwa and Nuwakot districts reliant on helicopters, drones and temporary crossings.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
