@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-11T01:02:07.251339+00:00",
-  "total": 18,
+  "updated_at": "2026-09-11T05:54:58.155981+00:00",
+  "total": 17,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 7,
+      "count": 5,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 7,
+      "count": 4,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -54,37 +54,92 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 굿네이버스·월드비전, 이재민에 구호물품 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260911048900371",
-      "summary": "(서울=연합뉴스) 정아란 기자 = 비정부기구(NGO)인 월드비전과 굿네이버스가 네팔 대홍수 이재민을 위해 방한의류 414벌과 담요 2천588장,...",
+      "title": "Additional specialist doctors to be deployed to Rasuwa flood-hit areas",
+      "link": "https://english.onlinekhabar.com/additional-specialist-doctors-to-be-deployed-to-rasuwa-flood-hit-areas.html",
+      "summary": "Kathmandu, September 11 An additional medical team, including specialist doctors, is being sent to Nuwakot to strengthen maternal and child health services in areas affected by the Bhotekoshi floods in Rasuwa. According to the Ministry of Health and Food Safety, a team of specialist doctors from Paropakar Maternity and Women’s Hospital and Kanti Children’s Hospital […] The post Additional speciali",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T05:40:42+00:00",
+      "published_ts": 1789105242.0
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260911095800011",
+      "summary": "■ [네팔 대홍수] 한국 해외긴급구호대 2진, 카트만두 도착",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-11T00:54:48+00:00",
-      "published_ts": 1789088088.0
+      "published": "2026-09-11T05:30:00+00:00",
+      "published_ts": 1789104600.0
     },
     {
-      "title": "[게시판] 가스공사, 네팔 홍수 피해 이재민에 성금 1억원",
-      "link": "https://www.yna.co.kr/view/AKR20260911043400003",
-      "summary": "▲ 한국가스공사는 최근 대규모 홍수 피해를 본 네팔 지역 이재민의 긴급 구호를 위해 대한적십자사에 성금 1억원을 전달했다고 11일 밝혔다. 기부...",
+      "title": "[네팔 대홍수] 신원 확인된 시신 고작 7%…얼굴 인식 AI까지 동원",
+      "link": "https://www.yna.co.kr/view/AKR20260911084700104",
+      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 대홍수가 발생한 네팔에서 시신 신원을 확인하는 유전자 정보(DNA) 검사가 속도를 내지 못하는 상황에서 ...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-11T00:45:42+00:00",
-      "published_ts": 1789087542.0
+      "published": "2026-09-11T04:22:25+00:00",
+      "published_ts": 1789100545.0
     },
     {
-      "title": "No body, no closure: How is death legally proven?",
-      "link": "https://risingnepaldaily.com/news/86377",
-      "summary": "Kathmandu, Sept. 11: Families of people missing in the Bhotekoshi floods do not necessarily have to wait 12 years to hav...",
+      "title": "703 flood-affected Nepalis return home via Tatopani border",
+      "link": "https://risingnepaldaily.com/news/86396",
+      "summary": "By Chitrakumar Mijar, Sindhupalchok, Sept. 11: A total of 703 Nepalis affected by the Bhotekoshi flood in Rasuwa have re...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T00:23:59+00:00",
-      "published_ts": 1789086239.0
+      "published": "2026-09-11T04:20:25+00:00",
+      "published_ts": 1789100425.0
+    },
+    {
+      "title": "Economics Of Post-Disaster Loss And Damage",
+      "link": "https://risingnepaldaily.com/news/86403",
+      "summary": "The unfortunate flash flood which devastated the Bhote Koshi–Trishuli corridor on 26 August has reminded us that a singl...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T04:14:25+00:00",
+      "published_ts": 1789100065.0
+    },
+    {
+      "title": "[네팔 대홍수] 한국 해외긴급구호대 2진, 카트만두 도착",
+      "link": "https://www.yna.co.kr/view/AKR20260911082400084",
+      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일(현지시간) 구호물자를 싣고...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-11T03:49:23+00:00",
+      "published_ts": 1789098563.0
+    },
+    {
+      "title": "School Safety Matters",
+      "link": "https://risingnepaldaily.com/news/86397",
+      "summary": "Amid fear and confusion caused by the Rasuwa flood in Nepal, one story made me feel hopeful. A school principal helped s...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T03:40:22+00:00",
+      "published_ts": 1789098022.0
+    },
+    {
+      "title": "[속보] 韓해외긴급구호대 2진, 네팔 카트만두 도착",
+      "link": "https://www.yna.co.kr/view/AKR20260911080900084",
+      "summary": "(",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-11T03:04:50+00:00",
+      "published_ts": 1789095890.0
     },
     {
       "title": "A 100-metre gap has cut Kathmandu off from one of Nepal’s most important roads",
@@ -118,50 +173,6 @@
       "highlight": false,
       "published": "2026-09-10T11:15:37+00:00",
       "published_ts": 1789038937.0
-    },
-    {
-      "title": "Germany provides EUR 8.05 million to Nepal after Bhotekoshi Floods",
-      "link": "https://english.onlinekhabar.com/germany-provides-eur-8-05-million-to-nepal-after-bhotekoshi-floods.html",
-      "summary": "Kathmandu, September 10 Germany has pledged EUR 8.05 million in assistance to Nepal to support communities affected by the recent Bhotekoshi floods and contribute to recovery and disaster-resilience efforts. The Embassy of the Federal Republic of Germany in Kathmandu said in a statement that the assistance combines emergency humanitarian aid, development cooperation and support channelled […] The ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:53:06+00:00",
-      "published_ts": 1789037586.0
-    },
-    {
-      "title": "NNJS contributes Rs 14.14 million to Prime Minister’s Disaster Relief Fund",
-      "link": "https://english.onlinekhabar.com/nnjs-contributes-rs-14-14-million-to-prime-ministers-disaster-relief-fund.html",
-      "summary": "Kathmandu, September 10 Nepal Netra Jyoti Sangh (NNJS) has contributed Rs 14.14 million to the Prime Minister’s Disaster Relief Fund to support the rescue, relief and rehabilitation of people affected by the recent Bhotekoshi River floods in Rasuwa. NNJS General Secretary Bharat Bahadur Chand handed over the cheque to Finance Minister Dr Swarnim Wagle on […] The post NNJS contributes Rs 14.14 mill",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:44:22+00:00",
-      "published_ts": 1789037062.0
-    },
-    {
-      "title": "Lawmaker Thapa calls for early warning system linking mountains and glaciers",
-      "link": "https://english.onlinekhabar.com/lawmaker-thapa-calls-for-early-warning-system-linking-mountains-and-glaciers.html",
-      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Sunil Bahadur Thapa has urged the government to develop an effective disaster early warning system that takes into account not only monsoon rainfall but also mountains and glaciers. Speaking at the National Assembly meeting on Thursday, Thapa said the devastating Bhotekoshi floods in Rasuwa had raised serious questions about […] The post Lawmaker Th",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:32:29+00:00",
-      "published_ts": 1789036349.0
-    },
-    {
-      "title": "Lawmaker Acharya calls for special education package for flood-affected children",
-      "link": "https://english.onlinekhabar.com/lawmaker-acharya-calls-for-special-education-package-for-flood-affected-children.html",
-      "summary": "Kathmandu, September 10 Nepali Congress lawmaker Mohan Acharya, who represents Rasuwa in the House of Representatives, has urged the government to introduce a special education package for children affected by the Bhotekoshi floods. Speaking at the House meeting on Thursday, Acharya said many children who had lost their parents faced an uncertain future, while those […] The post Lawmaker Acharya c",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:09:27+00:00",
-      "published_ts": 1789034967.0
     },
     {
       "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
@@ -222,28 +233,6 @@
       "title": "Nepal secures $20 million from Loss and Damage Fund, awaits decision on Bhotekoshi plea",
       "link": "https://kathmandupost.com/national/2026/09/09/nepal-secures-20-million-from-loss-and-damage-fund-awaits-decision-on-bhotekoshi-plea",
       "summary": "The funding was approved based on Nepal’s request made earlier this year. A separate emergency appeal filed after the August 26 disaster awaits approval.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Two weeks on, families wait for DNA answers",
-      "link": "https://kathmandupost.com/national/2026/09/09/two-weeks-on-families-wait-for-dna-answers",
-      "summary": "Relatives of people missing after the Bhotekoshi floods are turning to DNA testing to identify recovered bodies, but labs are overloaded and under-resourced.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Rabi Lamichhane urges action against those targeting flood victims online",
-      "link": "https://kathmandupost.com/politics/2026/09/09/rabi-lamichhane-urges-action-against-those-targeting-flood-victims-online",
-      "summary": "The RSP chair says the Bhotekoshi floods should be declared a national climate-related disaster and calls for a special all-party parliamentary committee to oversee the response and long-term recovery.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
