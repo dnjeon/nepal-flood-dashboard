@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-11T14:37:14.658838+00:00",
-  "total": 10,
-  "highlight_count": 1,
+  "updated_at": "2026-09-11T17:54:04.464863+00:00",
+  "total": 9,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -76,26 +76,15 @@
       "published_ts": 1789122341.0
     },
     {
-      "title": "132 flood displaced students enrolled at school in Kathmandu",
-      "link": "https://risingnepaldaily.com/news/86417",
-      "summary": "Kathmandu, Sept 11: One hundred thirty two students displaced by recent Bhotekoshi flood have been enrolled at a school...",
-      "source": "The Rising Nepal",
+      "title": "Prime Minister Shah to highlight Nepal’s outsized climate burden at UN",
+      "link": "https://kathmandupost.com/national/2026/09/11/prime-minister-shah-to-highlight-nepal-s-outsized-climate-burden-at-un",
+      "summary": "Following devastating Bhotekoshi floods, Shah will press for financial support to help Nepal recover and build climate resilience.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T08:56:48+00:00",
-      "published_ts": 1789117008.0
-    },
-    {
-      "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
-      "link": "https://en.yna.co.kr/view/AEN20260910005300315",
-      "summary": "SEOUL, Sept. 10 (Yonhap) -- President Lee Jae Myung instructed the government Th...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-10T06:00:39+00:00",
-      "published_ts": 1789020039.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal estimates Rs2.34 billion to rebuild flood-hit education sector",
