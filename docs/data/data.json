@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-10T23:06:57.526881+00:00",
-  "total": 21,
+  "updated_at": "2026-09-11T01:02:07.251339+00:00",
+  "total": 18,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 10,
+      "count": 7,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -54,15 +54,37 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 韓구호대 2진 네팔로 출발…재건복구팀으로 구성",
-      "link": "https://www.yna.co.kr/view/AKR20260911016700504",
-      "summary": "(서울=연합뉴스) 민선희 기자 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일 구호물자를 싣고 네팔로 출발했다...",
+      "title": "[네팔 대홍수] 굿네이버스·월드비전, 이재민에 구호물품 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260911048900371",
+      "summary": "(서울=연합뉴스) 정아란 기자 = 비정부기구(NGO)인 월드비전과 굿네이버스가 네팔 대홍수 이재민을 위해 방한의류 414벌과 담요 2천588장,...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-10T22:50:02+00:00",
-      "published_ts": 1789080602.0
+      "published": "2026-09-11T00:54:48+00:00",
+      "published_ts": 1789088088.0
+    },
+    {
+      "title": "[게시판] 가스공사, 네팔 홍수 피해 이재민에 성금 1억원",
+      "link": "https://www.yna.co.kr/view/AKR20260911043400003",
+      "summary": "▲ 한국가스공사는 최근 대규모 홍수 피해를 본 네팔 지역 이재민의 긴급 구호를 위해 대한적십자사에 성금 1억원을 전달했다고 11일 밝혔다. 기부...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-11T00:45:42+00:00",
+      "published_ts": 1789087542.0
+    },
+    {
+      "title": "No body, no closure: How is death legally proven?",
+      "link": "https://risingnepaldaily.com/news/86377",
+      "summary": "Kathmandu, Sept. 11: Families of people missing in the Bhotekoshi floods do not necessarily have to wait 12 years to hav...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T00:23:59+00:00",
+      "published_ts": 1789086239.0
     },
     {
       "title": "A 100-metre gap has cut Kathmandu off from one of Nepal’s most important roads",
@@ -109,17 +131,6 @@
       "published_ts": 1789037586.0
     },
     {
-      "title": "NA meeting: Stress on fact-based advocacy for climate justice at int'l forums",
-      "link": "https://risingnepaldaily.com/news/86368",
-      "summary": "Kathmandu, Sept 10: Members of the National Assembly (NA) have voiced their concern over the devastating Bhotekoshi floo...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:51:06+00:00",
-      "published_ts": 1789037466.0
-    },
-    {
       "title": "NNJS contributes Rs 14.14 million to Prime Minister’s Disaster Relief Fund",
       "link": "https://english.onlinekhabar.com/nnjs-contributes-rs-14-14-million-to-prime-ministers-disaster-relief-fund.html",
       "summary": "Kathmandu, September 10 Nepal Netra Jyoti Sangh (NNJS) has contributed Rs 14.14 million to the Prime Minister’s Disaster Relief Fund to support the rescue, relief and rehabilitation of people affected by the recent Bhotekoshi River floods in Rasuwa. NNJS General Secretary Bharat Bahadur Chand handed over the cheque to Finance Minister Dr Swarnim Wagle on […] The post NNJS contributes Rs 14.14 mill",
@@ -129,17 +140,6 @@
       "highlight": false,
       "published": "2026-09-10T10:44:22+00:00",
       "published_ts": 1789037062.0
-    },
-    {
-      "title": "Nepali community of Singapore provides Rs 17 lakh to flood victims",
-      "link": "https://risingnepaldaily.com/news/86366",
-      "summary": "By TRN Online, Kathmandu, Sept 10: Nepalese Society, Singapore provided Rs 17 lakh for the Bhotekoshi flood victims. Nep...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T10:34:09+00:00",
-      "published_ts": 1789036449.0
     },
     {
       "title": "Lawmaker Thapa calls for early warning system linking mountains and glaciers",
@@ -244,39 +244,6 @@
       "title": "Rabi Lamichhane urges action against those targeting flood victims online",
       "link": "https://kathmandupost.com/politics/2026/09/09/rabi-lamichhane-urges-action-against-those-targeting-flood-victims-online",
       "summary": "The RSP chair says the Bhotekoshi floods should be declared a national climate-related disaster and calls for a special all-party parliamentary committee to oversee the response and long-term recovery.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal restores power, rebuilds links in flood-hit Rasuwa and Nuwakot",
-      "link": "https://kathmandupost.com/national/2026/09/09/nepal-restores-power-rebuilds-links-in-flood-hit-rasuwa-and-nuwakot",
-      "summary": "Electricity has returned to more communities as the Nepali Army works to install a temporary bridge after floods destroyed key infrastructure.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal waives health insurance fees in flood-hit districts",
-      "link": "https://kathmandupost.com/national/2026/09/09/nepal-waives-health-insurance-fees-in-flood-hit-districts",
-      "summary": "Patients in Rasuwa, Nuwakot and Dhading will not have to pay co-payments or show physical insurance cards for three months.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Global backing grows for Nepal’s climate aid appeal",
-      "link": "https://kathmandupost.com/national/2026/09/09/global-backing-grows-for-nepal-s-climate-aid-appeal",
-      "summary": "More than a dozen members of the UN-backed Loss and Damage Fund are pushing for an emergency board meeting to consider Nepal’s request for support after the Bhotekoshi floods.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
