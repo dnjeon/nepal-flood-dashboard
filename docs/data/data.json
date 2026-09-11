@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T05:54:58.155981+00:00",
-  "total": 17,
+  "updated_at": "2026-09-11T10:38:46.048248+00:00",
+  "total": 11,
   "highlight_count": 1,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 4,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 4,
+      "count": 1,
       "error": null
     },
     {
@@ -54,125 +54,59 @@
   ],
   "items": [
     {
-      "title": "Additional specialist doctors to be deployed to Rasuwa flood-hit areas",
-      "link": "https://english.onlinekhabar.com/additional-specialist-doctors-to-be-deployed-to-rasuwa-flood-hit-areas.html",
-      "summary": "Kathmandu, September 11 An additional medical team, including specialist doctors, is being sent to Nuwakot to strengthen maternal and child health services in areas affected by the Bhotekoshi floods in Rasuwa. According to the Ministry of Health and Food Safety, a team of specialist doctors from Paropakar Maternity and Women’s Hospital and Kanti Children’s Hospital […] The post Additional speciali",
+      "title": "Sanjay Sah, rescued from Trishuli 3A tunnel, discharged",
+      "link": "https://english.onlinekhabar.com/sanjay-sah-rescued-from-trishuli-3a-tunnel-discharged.html",
+      "summary": "The post Sanjay Sah, rescued from Trishuli 3A tunnel, discharged appeared first on OnlineKhabar English News.",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T05:40:42+00:00",
-      "published_ts": 1789105242.0
+      "published": "2026-09-11T10:25:41+00:00",
+      "published_ts": 1789122341.0
     },
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260911095800011",
-      "summary": "■ [네팔 대홍수] 한국 해외긴급구호대 2진, 카트만두 도착",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-11T05:30:00+00:00",
-      "published_ts": 1789104600.0
-    },
-    {
-      "title": "[네팔 대홍수] 신원 확인된 시신 고작 7%…얼굴 인식 AI까지 동원",
-      "link": "https://www.yna.co.kr/view/AKR20260911084700104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 대홍수가 발생한 네팔에서 시신 신원을 확인하는 유전자 정보(DNA) 검사가 속도를 내지 못하는 상황에서 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-11T04:22:25+00:00",
-      "published_ts": 1789100545.0
-    },
-    {
-      "title": "703 flood-affected Nepalis return home via Tatopani border",
-      "link": "https://risingnepaldaily.com/news/86396",
-      "summary": "By Chitrakumar Mijar, Sindhupalchok, Sept. 11: A total of 703 Nepalis affected by the Bhotekoshi flood in Rasuwa have re...",
+      "title": "132 flood displaced students enrolled at school",
+      "link": "https://risingnepaldaily.com/news/86417",
+      "summary": "Kathmandu, Sept 11: One hundred thirty two students displaced by recent Bhotekoshi flood have been enrolled at a school...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T04:20:25+00:00",
-      "published_ts": 1789100425.0
+      "published": "2026-09-11T08:56:48+00:00",
+      "published_ts": 1789117008.0
     },
     {
-      "title": "Economics Of Post-Disaster Loss And Damage",
-      "link": "https://risingnepaldaily.com/news/86403",
-      "summary": "The unfortunate flash flood which devastated the Bhote Koshi–Trishuli corridor on 26 August has reminded us that a singl...",
+      "title": "Rasuwa flood affects around 150,000 people; 25 at holding centres suffer diarrhoea",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-affects-around-150000-people-25-at-holding-centres-suffer-diarrhoea.html",
+      "summary": "Kathmandu, September 11 Around 150,000 people in Rasuwa, Nuwakot, Dhading and other districts are estimated to have been directly affected by the devastating floods in the Bhotekoshi and Trishuli rivers on August 26. Health and Food Safety Ministry Secretary Dr Bikash Devkota presented the preliminary estimate at a meeting of the House of Representatives’ Education, […] The post Rasuwa flood affec",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T08:47:25+00:00",
+      "published_ts": 1789116445.0
+    },
+    {
+      "title": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA",
+      "link": "https://risingnepaldaily.com/news/86416",
+      "summary": "By TRN Online, Kathmandu, Sept 11: Indian pharmaceutical company USV Pharma has provided Rs 1.5 crore in relief assistan...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T04:14:25+00:00",
-      "published_ts": 1789100065.0
+      "published": "2026-09-11T08:46:07+00:00",
+      "published_ts": 1789116367.0
     },
     {
-      "title": "[네팔 대홍수] 한국 해외긴급구호대 2진, 카트만두 도착",
-      "link": "https://www.yna.co.kr/view/AKR20260911082400084",
-      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일(현지시간) 구호물자를 싣고...",
+      "title": "[네팔 대홍수] 韓구호대 2진 네팔 도착…재건·복구 사전조사 예정(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260911016751504",
+      "summary": "(서울·카트만두=연합뉴스) 민선희 기자 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일(현지시간...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-11T03:49:23+00:00",
-      "published_ts": 1789098563.0
-    },
-    {
-      "title": "School Safety Matters",
-      "link": "https://risingnepaldaily.com/news/86397",
-      "summary": "Amid fear and confusion caused by the Rasuwa flood in Nepal, one story made me feel hopeful. A school principal helped s...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-11T03:40:22+00:00",
-      "published_ts": 1789098022.0
-    },
-    {
-      "title": "[속보] 韓해외긴급구호대 2진, 네팔 카트만두 도착",
-      "link": "https://www.yna.co.kr/view/AKR20260911080900084",
-      "summary": "(",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-11T03:04:50+00:00",
-      "published_ts": 1789095890.0
-    },
-    {
-      "title": "A 100-metre gap has cut Kathmandu off from one of Nepal’s most important roads",
-      "link": "https://english.onlinekhabar.com/krishnabhir-cut-prithvi-highway.html",
-      "summary": "Kathmandu, September 10 For 12 days, a roughly 100-metre stretch of one of Nepal’s most important highways has been missing. At Krishnabhir, the Prithvi Highway has slipped into the Trishuli River, severing a crucial road connection between Kathmandu and much of the country. The collapse has stranded a highway that carries passengers, food, fuel and […] The post A 100-metre gap has cut Kathmandu o",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T14:57:03+00:00",
-      "published_ts": 1789052223.0
-    },
-    {
-      "title": "Rebuilding flood-damaged energy sector to cost Rs 390 billion",
-      "link": "https://english.onlinekhabar.com/rebuilding-flood-damaged-energy-sector-to-cost-rs-390-billion.html",
-      "summary": "Kathmandu, September 10 The reconstruction of the energy sector damaged by the devastating floods in the Bhotekoshi and Trishuli rivers is estimated to cost Rs 390 billion, according to a rapid damage and needs assessment. The Rapid Damage and Needs Assessment (RDNA) report prepared by a joint technical team comprising the National Planning Commission and […] The post Rebuilding flood-damaged ener",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T11:30:11+00:00",
-      "published_ts": 1789039811.0
-    },
-    {
-      "title": "Nepal estimates Rs 723 billion needed to rebuild after Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/nepal-rebuild-rasuwa-floods.html",
-      "summary": "Kathmandu, September 10 The Nepal government has estimated that Rs 723.31 billion will be required for reconstruction and recovery following the devastating floods in the Bhotekoshi River in Rasuwa on August 26. According to a Rapid Damage and Needs Assessment report prepared by a joint technical team involving the National Planning Commission and the National […] The post Nepal estimates Rs 723 b",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-10T11:15:37+00:00",
-      "published_ts": 1789038937.0
+      "published": "2026-09-11T08:18:00+00:00",
+      "published_ts": 1789114680.0
     },
     {
       "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
@@ -184,6 +118,17 @@
       "highlight": true,
       "published": "2026-09-10T06:00:39+00:00",
       "published_ts": 1789020039.0
+    },
+    {
+      "title": "Nepal prepares Krishnabhir bypass as temporary fix remains uncertain",
+      "link": "https://kathmandupost.com/national/2026/09/11/nepal-prepares-krishnabhir-bypass-as-temporary-fix-remains-uncertain",
+      "summary": "Officials are upgrading a 12-km road along the opposite bank of the Trishuli river as the landslide-prone Krishnabhir section of the Prithvi Highway remains closed.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "A helicopter finally reaches flood-isolated Tiru of Rasuwa, 15 days after the devastating deluge",
@@ -222,17 +167,6 @@
       "title": "Germany provides €8 million in assistance to Nepal after Bhotekoshi floods",
       "link": "https://kathmandupost.com/money/2026/09/10/germany-provides-8-million-in-assistance-to-nepal-after-bhotekoshi-floods",
       "summary": "The package includes emergency relief, humanitarian aid and development support for health, energy and disaster-resilient infrastructure.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal secures $20 million from Loss and Damage Fund, awaits decision on Bhotekoshi plea",
-      "link": "https://kathmandupost.com/national/2026/09/09/nepal-secures-20-million-from-loss-and-damage-fund-awaits-decision-on-bhotekoshi-plea",
-      "summary": "The funding was approved based on Nepal’s request made earlier this year. A separate emergency appeal filed after the August 26 disaster awaits approval.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
