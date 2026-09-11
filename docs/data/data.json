@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-11T10:38:46.048248+00:00",
-  "total": 11,
+  "updated_at": "2026-09-11T14:37:14.658838+00:00",
+  "total": 10,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,9 +54,20 @@
   ],
   "items": [
     {
+      "title": "Supreme Court petition seeks action against ‘Green Army’ over military-style uniforms",
+      "link": "https://english.onlinekhabar.com/court-petition-green-army.html",
+      "summary": "Kathmandu, September 11 A writ petition has been filed at the Supreme Court seeking action against Green Army Nepal, an organisation involved in rescue and relief operations following the Rasuwa floods, for allegedly using uniforms, ranks and insignia resembling those of the Nepali Army. The petition, filed on Friday by advocates Sambharaj Aryal, Purna Bahadur […] The post Supreme Court petition s",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-11T12:16:05+00:00",
+      "published_ts": 1789128965.0
+    },
+    {
       "title": "Sanjay Sah, rescued from Trishuli 3A tunnel, discharged",
       "link": "https://english.onlinekhabar.com/sanjay-sah-rescued-from-trishuli-3a-tunnel-discharged.html",
-      "summary": "The post Sanjay Sah, rescued from Trishuli 3A tunnel, discharged appeared first on OnlineKhabar English News.",
+      "summary": "Kathmandu, September 11 Sanjay Sah, who was trapped inside a tunnel of the Trishuli 3A hydropower project for 10 days following the Rasuwa Bhotekoshi flood on August 26, has been discharged from the hospital. Sah was rescued on the 10th day after being trapped inside the tunnel and was admitted to Birendra Army Hospital in […] The post Sanjay Sah, rescued from Trishuli 3A tunnel, discharged appear",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
@@ -65,7 +76,7 @@
       "published_ts": 1789122341.0
     },
     {
-      "title": "132 flood displaced students enrolled at school",
+      "title": "132 flood displaced students enrolled at school in Kathmandu",
       "link": "https://risingnepaldaily.com/news/86417",
       "summary": "Kathmandu, Sept 11: One hundred thirty two students displaced by recent Bhotekoshi flood have been enrolled at a school...",
       "source": "The Rising Nepal",
@@ -74,39 +85,6 @@
       "highlight": false,
       "published": "2026-09-11T08:56:48+00:00",
       "published_ts": 1789117008.0
-    },
-    {
-      "title": "Rasuwa flood affects around 150,000 people; 25 at holding centres suffer diarrhoea",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-affects-around-150000-people-25-at-holding-centres-suffer-diarrhoea.html",
-      "summary": "Kathmandu, September 11 Around 150,000 people in Rasuwa, Nuwakot, Dhading and other districts are estimated to have been directly affected by the devastating floods in the Bhotekoshi and Trishuli rivers on August 26. Health and Food Safety Ministry Secretary Dr Bikash Devkota presented the preliminary estimate at a meeting of the House of Representatives’ Education, […] The post Rasuwa flood affec",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-11T08:47:25+00:00",
-      "published_ts": 1789116445.0
-    },
-    {
-      "title": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA",
-      "link": "https://risingnepaldaily.com/news/86416",
-      "summary": "By TRN Online, Kathmandu, Sept 11: Indian pharmaceutical company USV Pharma has provided Rs 1.5 crore in relief assistan...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-11T08:46:07+00:00",
-      "published_ts": 1789116367.0
-    },
-    {
-      "title": "[네팔 대홍수] 韓구호대 2진 네팔 도착…재건·복구 사전조사 예정(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260911016751504",
-      "summary": "(서울·카트만두=연합뉴스) 민선희 기자 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 11일(현지시간...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-11T08:18:00+00:00",
-      "published_ts": 1789114680.0
     },
     {
       "title": "Lee orders review of measures to help families of S. Koreans missing in Nepal",
@@ -118,6 +96,17 @@
       "highlight": true,
       "published": "2026-09-10T06:00:39+00:00",
       "published_ts": 1789020039.0
+    },
+    {
+      "title": "Nepal estimates Rs2.34 billion to rebuild flood-hit education sector",
+      "link": "https://kathmandupost.com/national/2026/09/11/nepal-estimates-rs2-34-billion-to-rebuild-flood-hit-education-sector",
+      "summary": "Eighteen schools were affected in Rasuwa, disrupting classes for more than 9,000 students after the August 26 Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal prepares Krishnabhir bypass as temporary fix remains uncertain",
