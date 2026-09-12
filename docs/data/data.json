@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T05:10:03.945656+00:00",
-  "total": 12,
+  "updated_at": "2026-09-12T09:22:20.562516+00:00",
+  "total": 10,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "timed out"
     },
     {
       "name": "Yonhap 연합뉴스",
-      "ok": true,
-      "count": 3,
-      "error": null
+      "ok": false,
+      "count": 0,
+      "error": "timed out"
     },
     {
       "name": "Korea Herald",
@@ -54,37 +54,26 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 韓구호대 2진 대장 \"네팔당국과 수색·구조 재개 협의할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912029000084",
-      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진의 윤주석 구호대장은 12일(현지시간...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Bhotekoshi floods affect 17 branches of various banks",
+      "link": "https://risingnepaldaily.com/news/86456",
+      "summary": "Kathmandu, Sept 12: The recent flooding in Bhotekoshi, Rasuwa, on August 26 has significantly impacted the banking secto...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-12T04:58:14+00:00",
-      "published_ts": 1789189094.0
+      "published": "2026-09-12T09:03:13+00:00",
+      "published_ts": 1789203793.0
     },
     {
-      "title": "네팔 터널서 9일 만에 구조된 기계반장 \"흙탕물 마시며 버텨\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912021400104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = \"눈으로 볼 수 있는 게 아무것도 없었습니다. 대부분 시간 동안 눈을 감고 있었어요. 실수로 미끄러지거나...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Banke's schools and hospitals aid Rs 12.5 million for flood survivors",
+      "link": "https://risingnepaldaily.com/news/86451",
+      "summary": "Ranjha (Banke), Sept 12: Private schools and hospitals in Banke have aided over Rs 12.5 million for the Bhotekoshi flood...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-12T01:45:42+00:00",
-      "published_ts": 1789177542.0
-    },
-    {
-      "title": "선문대, 네팔 대홍수 피해지역에 긴급구호 물품 직접 전달",
-      "link": "https://www.yna.co.kr/view/AKR20260912016900063",
-      "summary": "(아산=연합뉴스) 유의주 기자 = 선문대는 간호학과 공적개발원조(ODA) 사업단이 대규모 홍수 피해가 발생한 네팔 현지에 긴급구호 물품을 전달하...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-11T23:33:43+00:00",
-      "published_ts": 1789169623.0
+      "published": "2026-09-12T06:46:43+00:00",
+      "published_ts": 1789195603.0
     },
     {
       "title": "Supreme Court petition seeks action against ‘Green Army’ over military-style uniforms",
@@ -167,17 +156,6 @@
       "title": "A helicopter finally reaches flood-isolated Tiru of Rasuwa, 15 days after the devastating deluge",
       "link": "https://kathmandupost.com/province-no-3/2026/09/10/a-helicopter-finally-reaches-flood-isolated-tiru-of-rasuwa-15-days-after-the-devastating-deluge",
       "summary": "With all roads and bridges washed away by the catastrophic August 26 floods, the village has been effectively cut off from the outside world.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Rapid assessment puts Bhotekoshi recovery needs at Rs723 billion",
-      "link": "https://kathmandupost.com/national/2026/09/10/rs723-billion-needed-to-rebuild-flood-hit-areas-government-assessment-finds",
-      "summary": "Three-quarters of the bill is tied to infrastructure, with hydropower, roads, homes, and essential services among the hardest hit.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
