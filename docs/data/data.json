@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T00:42:44.202897+00:00",
-  "total": 10,
+  "updated_at": "2026-09-12T05:10:03.945656+00:00",
+  "total": 12,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "[네팔 대홍수] 韓구호대 2진 대장 \"네팔당국과 수색·구조 재개 협의할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912029000084",
+      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진의 윤주석 구호대장은 12일(현지시간...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-12T04:58:14+00:00",
+      "published_ts": 1789189094.0
+    },
+    {
+      "title": "네팔 터널서 9일 만에 구조된 기계반장 \"흙탕물 마시며 버텨\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912021400104",
+      "summary": "(자카르타=연합뉴스) 손현규 특파원 = \"눈으로 볼 수 있는 게 아무것도 없었습니다. 대부분 시간 동안 눈을 감고 있었어요. 실수로 미끄러지거나...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-12T01:45:42+00:00",
+      "published_ts": 1789177542.0
+    },
     {
       "title": "선문대, 네팔 대홍수 피해지역에 긴급구호 물품 직접 전달",
       "link": "https://www.yna.co.kr/view/AKR20260912016900063",
@@ -85,6 +107,28 @@
       "highlight": false,
       "published": "2026-09-11T10:25:41+00:00",
       "published_ts": 1789122341.0
+    },
+    {
+      "title": "Indian TV coverage of Nepal floods criticised for sensationalism",
+      "link": "https://kathmandupost.com/national/2026/09/12/indian-tv-coverage-of-nepal-floods-criticised-for-sensationalism",
+      "summary": "Residents say some crews have turned their own difficulties at disaster sites into television drama and given less attention to those flood victims.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Decade-old alternative to a vital Prithvi Highway link remains on paper",
+      "link": "https://kathmandupost.com/national/2026/09/12/decade-old-alternative-to-a-vital-prithvi-highway-link-remains-on-paper",
+      "summary": "The collapse-prone Krishnabhir section of the Prithvi Highway has exposed the lack of a parallel route on the other side of the Trishuli river, despite plans dating back nearly a decade.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Prime Minister Shah to highlight Nepal’s outsized climate burden at UN",
@@ -134,28 +178,6 @@
       "title": "Rapid assessment puts Bhotekoshi recovery needs at Rs723 billion",
       "link": "https://kathmandupost.com/national/2026/09/10/rs723-billion-needed-to-rebuild-flood-hit-areas-government-assessment-finds",
       "summary": "Three-quarters of the bill is tied to infrastructure, with hydropower, roads, homes, and essential services among the hardest hit.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Climate loss and damage fund moves to consider urgent support for Nepal",
-      "link": "https://kathmandupost.com/national/2026/09/10/climate-loss-and-damage-fund-moves-to-consider-urgent-support-for-nepal",
-      "summary": "FRLD co-chairs say they are working with the Board to respond to Kathmandu’s request following the August 26 Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Germany provides €8 million in assistance to Nepal after Bhotekoshi floods",
-      "link": "https://kathmandupost.com/money/2026/09/10/germany-provides-8-million-in-assistance-to-nepal-after-bhotekoshi-floods",
-      "summary": "The package includes emergency relief, humanitarian aid and development support for health, energy and disaster-resilient infrastructure.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
