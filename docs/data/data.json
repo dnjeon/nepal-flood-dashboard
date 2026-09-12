@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T09:22:20.562516+00:00",
+  "updated_at": "2026-09-12T13:00:46.892622+00:00",
   "total": 10,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -29,15 +29,15 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "timed out"
+      "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
-      "ok": false,
-      "count": 0,
-      "error": "timed out"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Korea Herald",
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Bhotekoshi flood not just an issue for Nepal, but a global concern: Khanal",
+      "link": "https://risingnepaldaily.com/news/86457",
+      "summary": "Kathmandu, Sept 12: Former Prime Minister Jhalanath Khanal has said a steady rise in global temperature is having seriou...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-12T09:35:22+00:00",
+      "published_ts": 1789205722.0
+    },
+    {
       "title": "Bhotekoshi floods affect 17 branches of various banks",
       "link": "https://risingnepaldaily.com/news/86456",
       "summary": "Kathmandu, Sept 12: The recent flooding in Bhotekoshi, Rasuwa, on August 26 has significantly impacted the banking secto...",
@@ -65,15 +76,15 @@
       "published_ts": 1789203793.0
     },
     {
-      "title": "Banke's schools and hospitals aid Rs 12.5 million for flood survivors",
-      "link": "https://risingnepaldaily.com/news/86451",
-      "summary": "Ranjha (Banke), Sept 12: Private schools and hospitals in Banke have aided over Rs 12.5 million for the Bhotekoshi flood...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "[네팔 대홍수] 韓구호대 2진 대장 \"네팔당국과 수색·구조 재개 협의할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260912029000084",
+      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진의 윤주석 구호대장은 12일(현지시간...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-12T06:46:43+00:00",
-      "published_ts": 1789195603.0
+      "published": "2026-09-12T04:58:14+00:00",
+      "published_ts": 1789189094.0
     },
     {
       "title": "Supreme Court petition seeks action against ‘Green Army’ over military-style uniforms",
@@ -145,17 +156,6 @@
       "title": "Nepal prepares Krishnabhir bypass as temporary fix remains uncertain",
       "link": "https://kathmandupost.com/national/2026/09/11/nepal-prepares-krishnabhir-bypass-as-temporary-fix-remains-uncertain",
       "summary": "Officials are upgrading a 12-km road along the opposite bank of the Trishuli river as the landslide-prone Krishnabhir section of the Prithvi Highway remains closed.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "A helicopter finally reaches flood-isolated Tiru of Rasuwa, 15 days after the devastating deluge",
-      "link": "https://kathmandupost.com/province-no-3/2026/09/10/a-helicopter-finally-reaches-flood-isolated-tiru-of-rasuwa-15-days-after-the-devastating-deluge",
-      "summary": "With all roads and bridges washed away by the catastrophic August 26 floods, the village has been effectively cut off from the outside world.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
