@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12T13:00:46.892622+00:00",
-  "total": 10,
+  "updated_at": "2026-09-12T16:11:45.228702+00:00",
+  "total": 13,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 8,
       "error": null
     },
     {
@@ -107,6 +107,39 @@
       "highlight": false,
       "published": "2026-09-11T10:25:41+00:00",
       "published_ts": 1789122341.0
+    },
+    {
+      "title": "Bhotekoshi floods push Kulekhani into continuous power generation",
+      "link": "https://kathmandupost.com/national/2026/09/12/bhotekoshi-floods-push-kulekhani-into-continuous-power-generation",
+      "summary": "National power generation has lost over 400 megawatts following the August 26 floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "August flood death toll rises to 1386, with 5130 still missing",
+      "link": "https://kathmandupost.com/national/2026/09/12/august-flood-death-toll-rises-to-1386-with-5130-still-missing",
+      "summary": "Authorities have recovered 1,386 bodies from eight districts affected by the August 26 Bhotekoshi floods, but only 104 have been identified and handed over to families.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Korala border customs revenue surges as cargo diverts from closed crossings",
+      "link": "https://kathmandupost.com/national/2026/09/12/korala-border-customs-revenue-surges-as-cargo-diverts-from-closed-crossings",
+      "summary": "Customs collected Rs1.5 billion in 15 days after the August floods closed the Rasuwagadhi and Tatopani crossings, while transport costs to Kathmandu have risen 15-fold.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Indian TV coverage of Nepal floods criticised for sensationalism",
