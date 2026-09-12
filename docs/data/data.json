@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T22:44:33.910865+00:00",
-  "total": 9,
+  "updated_at": "2026-09-12T00:42:44.202897+00:00",
+  "total": 10,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "선문대, 네팔 대홍수 피해지역에 긴급구호 물품 직접 전달",
+      "link": "https://www.yna.co.kr/view/AKR20260912016900063",
+      "summary": "(아산=연합뉴스) 유의주 기자 = 선문대는 간호학과 공적개발원조(ODA) 사업단이 대규모 홍수 피해가 발생한 네팔 현지에 긴급구호 물품을 전달하...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-11T23:33:43+00:00",
+      "published_ts": 1789169623.0
+    },
     {
       "title": "Supreme Court petition seeks action against ‘Green Army’ over military-style uniforms",
       "link": "https://english.onlinekhabar.com/court-petition-green-army.html",
