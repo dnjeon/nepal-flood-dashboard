@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-12T18:27:57.070919+00:00",
-  "total": 13,
+  "updated_at": "2026-09-13T20:49:55.550842+00:00",
+  "total": 15,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 5,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -54,59 +54,114 @@
   ],
   "items": [
     {
-      "title": "Bhotekoshi flood not just an issue for Nepal, but a global concern: Khanal",
-      "link": "https://risingnepaldaily.com/news/86457",
-      "summary": "Kathmandu, Sept 12: Former Prime Minister Jhalanath Khanal has said a steady rise in global temperature is having seriou...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-12T09:35:22+00:00",
-      "published_ts": 1789205722.0
-    },
-    {
-      "title": "Bhotekoshi floods affect 17 branches of various banks",
-      "link": "https://risingnepaldaily.com/news/86456",
-      "summary": "Kathmandu, Sept 12: The recent flooding in Bhotekoshi, Rasuwa, on August 26 has significantly impacted the banking secto...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-12T09:03:13+00:00",
-      "published_ts": 1789203793.0
-    },
-    {
-      "title": "[네팔 대홍수] 韓구호대 2진 대장 \"네팔당국과 수색·구조 재개 협의할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260912029000084",
-      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진의 윤주석 구호대장은 12일(현지시간...",
+      "title": "네팔韓구호대 2진, 현장 구호활동 착수…피해지역에 의료진 파견",
+      "link": "https://www.yna.co.kr/view/AKR20260914001400084",
+      "summary": "(카트만두=연합뉴스) 박진형 특파원 = 네팔 대홍수 피해 대응을 위한 대한민국 해외긴급구호대(KDRT) 2진이 본격적인 현장 구호 활동에 착수했...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-12T04:58:14+00:00",
-      "published_ts": 1789189094.0
+      "published": "2026-09-13T16:56:28+00:00",
+      "published_ts": 1789318588.0
     },
     {
-      "title": "Supreme Court petition seeks action against ‘Green Army’ over military-style uniforms",
-      "link": "https://english.onlinekhabar.com/court-petition-green-army.html",
-      "summary": "Kathmandu, September 11 A writ petition has been filed at the Supreme Court seeking action against Green Army Nepal, an organisation involved in rescue and relief operations following the Rasuwa floods, for allegedly using uniforms, ranks and insignia resembling those of the Nepali Army. The petition, filed on Friday by advocates Sambharaj Aryal, Purna Bahadur […] The post Supreme Court petition s",
+      "title": "Flood survivors struggle to rebuild their lives (Photos)",
+      "link": "https://english.onlinekhabar.com/flood-survivors-struggle-to-rebuild-their-lives-photos.html",
+      "summary": "Nuwakot, September 13 The devastating flood in the Bhotekoshi River on August 26 caused extensive destruction along the riverbanks in Rasuwa, Nuwakot and Dhading. Thousands of people remain missing, while the bodies of more than 1,300 people have been recovered. Thousands of families have also been displaced. Settlements around the river in Rasuwa, particularly Rasuwagadhi, […] The post Flood surv",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T12:16:05+00:00",
-      "published_ts": 1789128965.0
+      "published": "2026-09-13T12:21:25+00:00",
+      "published_ts": 1789302085.0
     },
     {
-      "title": "Sanjay Sah, rescued from Trishuli 3A tunnel, discharged",
-      "link": "https://english.onlinekhabar.com/sanjay-sah-rescued-from-trishuli-3a-tunnel-discharged.html",
-      "summary": "Kathmandu, September 11 Sanjay Sah, who was trapped inside a tunnel of the Trishuli 3A hydropower project for 10 days following the Rasuwa Bhotekoshi flood on August 26, has been discharged from the hospital. Sah was rescued on the 10th day after being trapped inside the tunnel and was admitted to Birendra Army Hospital in […] The post Sanjay Sah, rescued from Trishuli 3A tunnel, discharged appear",
+      "title": "Flood causes Rs 172 billion in infrastructure damage, Rs 474 billion needed for reconstruction",
+      "link": "https://english.onlinekhabar.com/flood-causes-rs-172-billion-in-infrastructure-damage-rs-474-billion-needed-for-reconstruction.html",
+      "summary": "Kathmandu, September 13 The Rasuwa-Bhotekoshi flood caused nearly Rs 200 billion in damage to infrastructure alone, according to a government assessment. According to the “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report prepared by a government-formed team, the flood caused infrastructure damage worth Rs 172.34 billion. An estimated Rs 473.57 billion will be required […] Th",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-11T10:25:41+00:00",
-      "published_ts": 1789122341.0
+      "published": "2026-09-13T11:50:47+00:00",
+      "published_ts": 1789300247.0
+    },
+    {
+      "title": "Bhotekoshi flood damages 7,570 homes across 5 districts",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-damages-7570-homes-across-5-districts.html",
+      "summary": "Kathmandu, September 13 The Rasuwa-Bhotekoshi flash flood that struck on August 26 caused damage to the highest number of houses in Nuwakot, according to a government assessment. According to the “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report prepared by a government-formed team, a total of 7,570 houses were damaged by the flood. Of […] The post Bhotekoshi flood damages 7",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-13T11:47:22+00:00",
+      "published_ts": 1789300042.0
+    },
+    {
+      "title": "NRNA distributes relief to flood victims in Rasuwa",
+      "link": "https://risingnepaldaily.com/news/86502",
+      "summary": "By A Staff Reporter, Kathmandu, Sept. 13: The Non-Resident Nepali Association (NRNA) has distributed relief materials to...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-13T11:23:19+00:00",
+      "published_ts": 1789298599.0
+    },
+    {
+      "title": "Government to provide monthly allowance to families displaced by Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/govt-allowance-flood-displaced-people.html",
+      "summary": "Kathmandu, September 13 The government has decided to provide financial assistance to families displaced by the devastating Bhotekoshi floods on August 26 until they are able to return to permanent homes. According to Communications Minister Bikram Timilsina, Thursday’s Cabinet meeting decided to provide funds to cover rent and other essential expenses for flood-displaced families until […] The po",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-13T09:50:29+00:00",
+      "published_ts": 1789293029.0
+    },
+    {
+      "title": "Government to provide monthly stipend to those displaced by Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/stipend-bhotekoshi-floods.html",
+      "summary": "Kathmandu, September 13 The government will provide financial assistance to those displaced by the devastating flood that struck on August 26. Communications Minister Bikram Timilsina said the Cabinet meeting held last Thursday decided to provide funds to Bhotekoshi flood-affected families for housing rent and other necessary expenses until permanent housing is built. According to him, […] The pos",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-13T09:48:31+00:00",
+      "published_ts": 1789292911.0
+    },
+    {
+      "title": "\"中티베트고원 초겨울 고온에 美서부 기록적 겨울 폭우\"",
+      "link": "https://www.yna.co.kr/view/AKR20260913047100089",
+      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 네팔과 중국 접경 히말라야 산사태로 기후 변화에 대한 우려가 고조된 상황에서, 중국 칭짱(칭하이·티베트)고...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-13T09:02:40+00:00",
+      "published_ts": 1789290160.0
+    },
+    {
+      "title": "The search dog helping find bodies buried by Nepal’s floods",
+      "link": "https://kathmandupost.com/national/2026/09/13/the-search-dog-helping-find-bodies-buried-by-nepal-s-floods",
+      "summary": "Samba, a Labrador trained to detect the scent of human remains, has helped rescuers locate around 20 bodies beneath mud and debris since the floods hit Rasuwa.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Flood damage leaves Rasuwagadhi road facing long repairs",
+      "link": "https://kathmandupost.com/national/2026/09/13/flood-damage-leaves-rasuwagadhi-road-facing-long-repairs",
+      "summary": "The Department of Roads is opening temporary tracks and planning Bailey bridges after the Bhotekoshi flood washed away about 40 km of road, while officials aim to restore a link to the Chinese border before Dashain.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Bhotekoshi floods push Kulekhani into continuous power generation",
@@ -156,39 +211,6 @@
       "title": "Decade-old alternative to a vital Prithvi Highway link remains on paper",
       "link": "https://kathmandupost.com/national/2026/09/12/decade-old-alternative-to-a-vital-prithvi-highway-link-remains-on-paper",
       "summary": "The collapse-prone Krishnabhir section of the Prithvi Highway has exposed the lack of a parallel route on the other side of the Trishuli river, despite plans dating back nearly a decade.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Prime Minister Shah to highlight Nepal’s outsized climate burden at UN",
-      "link": "https://kathmandupost.com/national/2026/09/11/prime-minister-shah-to-highlight-nepal-s-outsized-climate-burden-at-un",
-      "summary": "Following devastating Bhotekoshi floods, Shah will press for financial support to help Nepal recover and build climate resilience.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal estimates Rs2.34 billion to rebuild flood-hit education sector",
-      "link": "https://kathmandupost.com/national/2026/09/11/nepal-estimates-rs2-34-billion-to-rebuild-flood-hit-education-sector",
-      "summary": "Eighteen schools were affected in Rasuwa, disrupting classes for more than 9,000 students after the August 26 Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal prepares Krishnabhir bypass as temporary fix remains uncertain",
-      "link": "https://kathmandupost.com/national/2026/09/11/nepal-prepares-krishnabhir-bypass-as-temporary-fix-remains-uncertain",
-      "summary": "Officials are upgrading a 12-km road along the opposite bank of the Trishuli river as the landslide-prone Krishnabhir section of the Prithvi Highway remains closed.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
