@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T20:49:55.550842+00:00",
-  "total": 15,
+  "updated_at": "2026-09-13T21:46:07.705251+00:00",
+  "total": 14,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -129,17 +129,6 @@
       "highlight": false,
       "published": "2026-09-13T09:48:31+00:00",
       "published_ts": 1789292911.0
-    },
-    {
-      "title": "\"中티베트고원 초겨울 고온에 美서부 기록적 겨울 폭우\"",
-      "link": "https://www.yna.co.kr/view/AKR20260913047100089",
-      "summary": "(상하이=연합뉴스) 차병섭 특파원 = 네팔과 중국 접경 히말라야 산사태로 기후 변화에 대한 우려가 고조된 상황에서, 중국 칭짱(칭하이·티베트)고...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-13T09:02:40+00:00",
-      "published_ts": 1789290160.0
     },
     {
       "title": "The search dog helping find bodies buried by Nepal’s floods",
