@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-13T23:38:35.678092+00:00",
-  "total": 14,
+  "updated_at": "2026-09-14T01:39:53.727849+00:00",
+  "total": 15,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 7,
+      "count": 9,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "[기후재난 현장] 해발 4천860m에 생긴 '눈물 호수'…사라지는 中고원 빙하",
-      "link": "https://www.yna.co.kr/view/AKR20260911040700089",
-      "summary": "[※ 편집자 주 = 최근 중국·네팔 접경지대에서는 엄청난 규모의 산악지대 대홍수가 발생했습니다. 기후변화로 인해 대규모 빙하가 붕괴하면서 홍수로...",
+      "title": "[게시판] GKL, 네팔 홍수 피해 복구 성금 3천만원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260914023900030",
+      "summary": "▲ 그랜드코리아레저(GKL)는 지난달 26일 발생한 네팔 홍수 피해의 복구를 지원하기 위해 성금 3천만원을 대한적십자사에 기탁했다고 14일 밝혔...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-13T22:01:10+00:00",
-      "published_ts": 1789336870.0
+      "published": "2026-09-14T01:22:19+00:00",
+      "published_ts": 1789348939.0
     },
     {
       "title": "Flood survivors struggle to rebuild their lives (Photos)",
@@ -98,17 +98,6 @@
       "published_ts": 1789300042.0
     },
     {
-      "title": "NRNA distributes relief to flood victims in Rasuwa",
-      "link": "https://risingnepaldaily.com/news/86502",
-      "summary": "By A Staff Reporter, Kathmandu, Sept. 13: The Non-Resident Nepali Association (NRNA) has distributed relief materials to...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-13T11:23:19+00:00",
-      "published_ts": 1789298599.0
-    },
-    {
       "title": "Government to provide monthly allowance to families displaced by Bhotekoshi floods",
       "link": "https://english.onlinekhabar.com/govt-allowance-flood-displaced-people.html",
       "summary": "Kathmandu, September 13 The government has decided to provide financial assistance to families displaced by the devastating Bhotekoshi floods on August 26 until they are able to return to permanent homes. According to Communications Minister Bikram Timilsina, Thursday’s Cabinet meeting decided to provide funds to cover rent and other essential expenses for flood-displaced families until […] The po",
@@ -129,6 +118,39 @@
       "highlight": false,
       "published": "2026-09-13T09:48:31+00:00",
       "published_ts": 1789292911.0
+    },
+    {
+      "title": "Beijing signals support for rebuilding flood-ravaged Rasuwagadhi route",
+      "link": "https://kathmandupost.com/money/2026/09/14/beijing-signals-support-for-rebuilding-flood-ravaged-rasuwagadhi-route",
+      "summary": "Nepal has sought Chinese assistance to rebuild the 16-km Syaphrubesi-Rasuwagadhi road, while the government prepares a temporary track to restore access to the border crossing.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Infrastructure Minister Sunil Lamsal on rebuilding after the Bhotekoshi floods",
+      "link": "https://kathmandupost.com/interviews/2026/09/14/infrastructure-minister-sunil-lamsal-on-rebuilding-after-the-bhotekoshi-floods",
+      "summary": "The infrastructure development minister discusses plans for resettlement, damaged roads and bridges, the China border crossing and efforts to build safer settlements for disaster-prone communities.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Why Nepal’s climate crisis is also a public-health emergency",
+      "link": "https://kathmandupost.com/columns/2026/09/14/why-nepal-s-climate-crisis-is-also-a-public-health-emergency",
+      "summary": "The Bhotekoshi flood shows why Nepal’s climate crisis must also be understood as a public-health crisis.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "The search dog helping find bodies buried by Nepal’s floods",
@@ -189,17 +211,6 @@
       "title": "Indian TV coverage of Nepal floods criticised for sensationalism",
       "link": "https://kathmandupost.com/national/2026/09/12/indian-tv-coverage-of-nepal-floods-criticised-for-sensationalism",
       "summary": "Residents say some crews have turned their own difficulties at disaster sites into television drama and given less attention to those flood victims.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Decade-old alternative to a vital Prithvi Highway link remains on paper",
-      "link": "https://kathmandupost.com/national/2026/09/12/decade-old-alternative-to-a-vital-prithvi-highway-link-remains-on-paper",
-      "summary": "The collapse-prone Krishnabhir section of the Prithvi Highway has exposed the lack of a parallel route on the other side of the Trishuli river, despite plans dating back nearly a decade.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
