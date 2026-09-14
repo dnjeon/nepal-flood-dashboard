@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T07:06:30.033170+00:00",
-  "total": 16,
-  "highlight_count": 0,
+  "updated_at": "2026-09-14T13:58:51.392748+00:00",
+  "total": 18,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 6,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
@@ -54,81 +54,103 @@
   ],
   "items": [
     {
-      "title": "PM Balen Shah holds talks with representatives from disaster-affected areas",
-      "link": "https://english.onlinekhabar.com/pm-holds-talks-reps-from-disaster-affected.html",
-      "summary": "Kathmandu, September 14 Prime Minister Balen Shah is holding discussions with local representatives from districts and local levels declared disaster crisis zones following the Bhotekoshi flood in Rasuwa. The meeting began at 11 am Monday at the Office of the Prime Minister and Council of Ministers in Singha Durbar, with representatives and lawmakers from 15 […] The post PM Balen Shah holds talks ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T06:23:49+00:00",
-      "published_ts": 1789367029.0
+      "title": "네팔 韓구호대 2진, 남동발전·두산 만나 수색·구조 활동 청취(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914059151504",
+      "summary": "(서울·누와코트=연합뉴스) 민선희 기자 박진형 특파원 = 네팔 대홍수 피해 대응을 위해 현지에 파견된 대한민국 해외긴급구호대(KDRT)가 한국인...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-14T13:33:37+00:00",
+      "published_ts": 1789392817.0
     },
     {
-      "title": "The village they called home is now a place they never want to see again",
-      "link": "https://english.onlinekhabar.com/return-to-the-village-anymore.html",
-      "summary": "Uttargaya, September 13 Everyone loves their village. For the Thapa family, however, the thought of returning to theirs is unbearable. They have survived an earthquake, been driven out by a landslide and, most recently, watched a flash flood erase their home—and take 15 members of their family with it. In Lower Pairebeshi of Uttargaya-4, Rasuwa, […] The post The village they called home is now a p",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T03:47:33+00:00",
-      "published_ts": 1789357653.0
-    },
-    {
-      "title": "How Tarai industries are rerouting gas to Kathmandu after highway blockage",
-      "link": "https://english.onlinekhabar.com/rerouting-gas-to-kathmandu.html",
-      "summary": "With Kathmandu Valley’s cooking gas supply still falling short, gas-bottling plants across the Tarai are refilling cylinders around the clock to keep LP gas flowing to the capital. Fourteen plants in Makwanpur, Bara, Parsa, Chitwan, Mahottari, Dhanusha, and Nawalparasi are currently filling cylinders bound for Kathmandu. After the August 26 flood on the Trishuli River […] The post How Tarai indust",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T03:15:00+00:00",
-      "published_ts": 1789355700.0
-    },
-    {
-      "title": "After Disaster: Who Protects Children?",
-      "link": "https://risingnepaldaily.com/news/86529",
-      "summary": "Since the August 26 disaster, the country has been receiving painful news from the affected areas. Rasuwa, Dhading and N...",
+      "title": "Roads in flood-affected areas to be operational by mid-Sept: Minister Lamsal",
+      "link": "https://risingnepaldaily.com/news/86548",
+      "summary": "Kathmandu, Sept 14: The government is working diligently to bring damaged roads in the Bhote Koshi flood-affected areas...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T02:57:46+00:00",
-      "published_ts": 1789354666.0
+      "published": "2026-09-14T12:35:19+00:00",
+      "published_ts": 1789389319.0
     },
     {
-      "title": "Nepal in search of climate justice on the global stage",
-      "link": "https://english.onlinekhabar.com/nepal-search-climate-justice.html",
-      "summary": "Nepal did not create the global climate crisis. Yet Nepalis are increasingly paying an extraordinary price for its consequences—in lives lost, homes destroyed, livelihoods shattered and communities placed at growing risk. The recent catastrophic flash flood in Rasuwa is a stark reminder that climate change is no longer a distant threat for Nepal. It is […] The post Nepal in search of climate justi",
+      "title": "Local people's representatives from floods-hit areas applaud federal government's post-disaster response",
+      "link": "https://risingnepaldaily.com/news/86545",
+      "summary": "Kathmandu, Sept 14: Local people's representatives from areas affected by the flash floods that struck the Bhotekoshi-Tr...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T11:56:58+00:00",
+      "published_ts": 1789387018.0
+    },
+    {
+      "title": "19th Day of Bhotekoshi flash flood, Devighat and Dhunge area (photo feature)",
+      "link": "https://risingnepaldaily.com/news/86544",
+      "summary": "By TRN Online, Kathmandu, Sept. 14: Devighat and Dunge Bazar area of Nuwakot were among the hardest hit places of the Bh...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T11:24:03+00:00",
+      "published_ts": 1789385043.0
+    },
+    {
+      "title": "[네팔 대홍수] 적십자사, 정부구호대 2진과 구호물자 합동배부",
+      "link": "https://www.yna.co.kr/view/AKR20260914166400504",
+      "summary": "(서울=연합뉴스) 하채림 기자 = 대한적십자사(이하 적십자사)는 네팔에 파견된 대한민국정부 해외긴급구호대(KDRT) 2진과 함께 14일 대홍수 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-14T10:27:01+00:00",
+      "published_ts": 1789381621.0
+    },
+    {
+      "title": "PM Balen Shah assures no budget shortage for Bhotekoshi flood relief, reconstruction",
+      "link": "https://english.onlinekhabar.com/no-budget-shortage-flood-relief.html",
+      "summary": "Kathmandu, September 14 Prime Minister Balen Shah has assured that there will be no shortage of funds for relief and reconstruction in areas affected by the Bhotekoshi flood in Rasuwa. Speaking at a meeting with elected representatives from districts and local levels declared disaster crisis zones at Singha Durbar on Monday, Shah said all state […] The post PM Balen Shah assures no budget shortage",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T02:15:00+00:00",
-      "published_ts": 1789352100.0
+      "published": "2026-09-14T09:54:31+00:00",
+      "published_ts": 1789379671.0
     },
     {
-      "title": "Ignored study reports led to higher Rasuwa flood toll, experts say",
-      "link": "https://english.onlinekhabar.com/ignored-reports-rasuwa-flood.html",
-      "summary": "Kathmandu, September 14 The National Disaster Risk Reduction and Management Authority says the Rasuwa flood claimed at least 1,386 lives, with 5,130 people still unaccounted for. According to the Authority’s rapid damage and needs assessment report, the flood caused more than Rs 408 billion in damage, and reconstruction and risk-reduction work is expected to cost […] The post Ignored study reports",
+      "title": "Rasuwa flood washed away 2,792 meters of bridges, report finds",
+      "link": "https://english.onlinekhabar.com/rasuwa-flood-bridges.html",
+      "summary": "Kathmandu, September 14 The devastating flood that came down the Bhotekoshi and Trishuli rivers via the Rasuwagadhi border point has damaged a total of 37 motorable bridges. According to the government-formed “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report, 33 of these bridges were completely washed away. The report states that the combined length […] The post Rasuwa flood",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T02:15:00+00:00",
-      "published_ts": 1789352100.0
+      "published": "2026-09-14T09:48:30+00:00",
+      "published_ts": 1789379310.0
     },
     {
-      "title": "Flood survivors struggle to rebuild their lives (Photos)",
-      "link": "https://english.onlinekhabar.com/flood-survivors-struggle-to-rebuild-their-lives-photos.html",
-      "summary": "Nuwakot, September 13 The devastating flood in the Bhotekoshi River on August 26 caused extensive destruction along the riverbanks in Rasuwa, Nuwakot and Dhading. Thousands of people remain missing, while the bodies of more than 1,300 people have been recovered. Thousands of families have also been displaced. Settlements around the river in Rasuwa, particularly Rasuwagadhi, […] The post Flood surv",
+      "title": "[네팔 대홍수] 피해·손실액 3조6천억원…재건 비용 6조3천억원(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260914057651104",
+      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 지난달 발생한 대규모 홍수로 네팔의 물적 피해액과 경제적 손실액이 3조6천억원에 달하고 재건 비용으로는 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-14T08:26:20+00:00",
+      "published_ts": 1789374380.0
+    },
+    {
+      "title": "Why has Rabi Lamichhane’s proposed all-party disaster mechanism not been formed?",
+      "link": "https://english.onlinekhabar.com/allparty-disaster-mechanism-not-form.html",
+      "summary": "Kathmandu, September 14 The day after the devastating flood in Rasuwa, Rastriya Swatantra Party (RSP) chairperson Rabi Lamichhane proposed forming a high-level all-party mechanism to coordinate rescue, relief and rehabilitation efforts. The proposal came after the Bhotekoshi flood on August 26. The following day, Lamichhane called an all-party meeting attended by senior leaders from the […] The po",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-13T12:21:25+00:00",
-      "published_ts": 1789302085.0
+      "published": "2026-09-14T07:56:50+00:00",
+      "published_ts": 1789372610.0
     },
     {
       "title": "US approves $1m forensic support for Nepal flood victim identification",
