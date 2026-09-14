@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T01:39:53.727849+00:00",
-  "total": 15,
+  "updated_at": "2026-09-14T07:06:30.033170+00:00",
+  "total": 16,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,70 @@
   ],
   "items": [
     {
-      "title": "[게시판] GKL, 네팔 홍수 피해 복구 성금 3천만원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260914023900030",
-      "summary": "▲ 그랜드코리아레저(GKL)는 지난달 26일 발생한 네팔 홍수 피해의 복구를 지원하기 위해 성금 3천만원을 대한적십자사에 기탁했다고 14일 밝혔...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "PM Balen Shah holds talks with representatives from disaster-affected areas",
+      "link": "https://english.onlinekhabar.com/pm-holds-talks-reps-from-disaster-affected.html",
+      "summary": "Kathmandu, September 14 Prime Minister Balen Shah is holding discussions with local representatives from districts and local levels declared disaster crisis zones following the Bhotekoshi flood in Rasuwa. The meeting began at 11 am Monday at the Office of the Prime Minister and Council of Ministers in Singha Durbar, with representatives and lawmakers from 15 […] The post PM Balen Shah holds talks ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T01:22:19+00:00",
-      "published_ts": 1789348939.0
+      "published": "2026-09-14T06:23:49+00:00",
+      "published_ts": 1789367029.0
+    },
+    {
+      "title": "The village they called home is now a place they never want to see again",
+      "link": "https://english.onlinekhabar.com/return-to-the-village-anymore.html",
+      "summary": "Uttargaya, September 13 Everyone loves their village. For the Thapa family, however, the thought of returning to theirs is unbearable. They have survived an earthquake, been driven out by a landslide and, most recently, watched a flash flood erase their home—and take 15 members of their family with it. In Lower Pairebeshi of Uttargaya-4, Rasuwa, […] The post The village they called home is now a p",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T03:47:33+00:00",
+      "published_ts": 1789357653.0
+    },
+    {
+      "title": "How Tarai industries are rerouting gas to Kathmandu after highway blockage",
+      "link": "https://english.onlinekhabar.com/rerouting-gas-to-kathmandu.html",
+      "summary": "With Kathmandu Valley’s cooking gas supply still falling short, gas-bottling plants across the Tarai are refilling cylinders around the clock to keep LP gas flowing to the capital. Fourteen plants in Makwanpur, Bara, Parsa, Chitwan, Mahottari, Dhanusha, and Nawalparasi are currently filling cylinders bound for Kathmandu. After the August 26 flood on the Trishuli River […] The post How Tarai indust",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T03:15:00+00:00",
+      "published_ts": 1789355700.0
+    },
+    {
+      "title": "After Disaster: Who Protects Children?",
+      "link": "https://risingnepaldaily.com/news/86529",
+      "summary": "Since the August 26 disaster, the country has been receiving painful news from the affected areas. Rasuwa, Dhading and N...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T02:57:46+00:00",
+      "published_ts": 1789354666.0
+    },
+    {
+      "title": "Nepal in search of climate justice on the global stage",
+      "link": "https://english.onlinekhabar.com/nepal-search-climate-justice.html",
+      "summary": "Nepal did not create the global climate crisis. Yet Nepalis are increasingly paying an extraordinary price for its consequences—in lives lost, homes destroyed, livelihoods shattered and communities placed at growing risk. The recent catastrophic flash flood in Rasuwa is a stark reminder that climate change is no longer a distant threat for Nepal. It is […] The post Nepal in search of climate justi",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T02:15:00+00:00",
+      "published_ts": 1789352100.0
+    },
+    {
+      "title": "Ignored study reports led to higher Rasuwa flood toll, experts say",
+      "link": "https://english.onlinekhabar.com/ignored-reports-rasuwa-flood.html",
+      "summary": "Kathmandu, September 14 The National Disaster Risk Reduction and Management Authority says the Rasuwa flood claimed at least 1,386 lives, with 5,130 people still unaccounted for. According to the Authority’s rapid damage and needs assessment report, the flood caused more than Rs 408 billion in damage, and reconstruction and risk-reduction work is expected to cost […] The post Ignored study reports",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-14T02:15:00+00:00",
+      "published_ts": 1789352100.0
     },
     {
       "title": "Flood survivors struggle to rebuild their lives (Photos)",
@@ -76,48 +131,15 @@
       "published_ts": 1789302085.0
     },
     {
-      "title": "Flood causes Rs 172 billion in infrastructure damage, Rs 474 billion needed for reconstruction",
-      "link": "https://english.onlinekhabar.com/flood-causes-rs-172-billion-in-infrastructure-damage-rs-474-billion-needed-for-reconstruction.html",
-      "summary": "Kathmandu, September 13 The Rasuwa-Bhotekoshi flood caused nearly Rs 200 billion in damage to infrastructure alone, according to a government assessment. According to the “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report prepared by a government-formed team, the flood caused infrastructure damage worth Rs 172.34 billion. An estimated Rs 473.57 billion will be required […] Th",
-      "source": "Online Khabar (EN)",
+      "title": "US approves $1m forensic support for Nepal flood victim identification",
+      "link": "https://kathmandupost.com/national/2026/09/14/us-approves-1m-forensic-support-for-nepal-flood-victim-identification",
+      "summary": "The new funding takes US humanitarian, health and forensic assistance following the floods to more than $5 million.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-13T11:50:47+00:00",
-      "published_ts": 1789300247.0
-    },
-    {
-      "title": "Bhotekoshi flood damages 7,570 homes across 5 districts",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-damages-7570-homes-across-5-districts.html",
-      "summary": "Kathmandu, September 13 The Rasuwa-Bhotekoshi flash flood that struck on August 26 caused damage to the highest number of houses in Nuwakot, according to a government assessment. According to the “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report prepared by a government-formed team, a total of 7,570 houses were damaged by the flood. Of […] The post Bhotekoshi flood damages 7",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-13T11:47:22+00:00",
-      "published_ts": 1789300042.0
-    },
-    {
-      "title": "Government to provide monthly allowance to families displaced by Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/govt-allowance-flood-displaced-people.html",
-      "summary": "Kathmandu, September 13 The government has decided to provide financial assistance to families displaced by the devastating Bhotekoshi floods on August 26 until they are able to return to permanent homes. According to Communications Minister Bikram Timilsina, Thursday’s Cabinet meeting decided to provide funds to cover rent and other essential expenses for flood-displaced families until […] The po",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-13T09:50:29+00:00",
-      "published_ts": 1789293029.0
-    },
-    {
-      "title": "Government to provide monthly stipend to those displaced by Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/stipend-bhotekoshi-floods.html",
-      "summary": "Kathmandu, September 13 The government will provide financial assistance to those displaced by the devastating flood that struck on August 26. Communications Minister Bikram Timilsina said the Cabinet meeting held last Thursday decided to provide funds to Bhotekoshi flood-affected families for housing rent and other necessary expenses until permanent housing is built. According to him, […] The pos",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-13T09:48:31+00:00",
-      "published_ts": 1789292911.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Beijing signals support for rebuilding flood-ravaged Rasuwagadhi route",
@@ -200,17 +222,6 @@
       "title": "Korala border customs revenue surges as cargo diverts from closed crossings",
       "link": "https://kathmandupost.com/national/2026/09/12/korala-border-customs-revenue-surges-as-cargo-diverts-from-closed-crossings",
       "summary": "Customs collected Rs1.5 billion in 15 days after the August floods closed the Rasuwagadhi and Tatopani crossings, while transport costs to Kathmandu have risen 15-fold.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Indian TV coverage of Nepal floods criticised for sensationalism",
-      "link": "https://kathmandupost.com/national/2026/09/12/indian-tv-coverage-of-nepal-floods-criticised-for-sensationalism",
-      "summary": "Residents say some crews have turned their own difficulties at disaster sites into television drama and given less attention to those flood victims.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
