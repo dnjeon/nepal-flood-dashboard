@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-15T15:14:25.274006+00:00",
-  "total": 8,
+  "updated_at": "2026-09-15T19:04:02.746142+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -29,9 +29,9 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "[Errno 104] Connection reset by peer"
+      "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
@@ -123,17 +123,6 @@
       "title": "US approves $1m forensic support for Nepal flood victim identification",
       "link": "https://kathmandupost.com/national/2026/09/14/us-approves-1m-forensic-support-for-nepal-flood-victim-identification",
       "summary": "The new funding takes US humanitarian, health and forensic assistance following the floods to more than $5 million.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Beijing signals support for rebuilding flood-ravaged Rasuwagadhi route",
-      "link": "https://kathmandupost.com/money/2026/09/14/beijing-signals-support-for-rebuilding-flood-ravaged-rasuwagadhi-route",
-      "summary": "Nepal has sought Chinese assistance to rebuild the 16-km Syaphrubesi-Rasuwagadhi road, while the government prepares a temporary track to restore access to the border crossing.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
