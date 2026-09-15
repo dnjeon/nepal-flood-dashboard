@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14T22:33:22.465766+00:00",
-  "total": 17,
-  "highlight_count": 1,
+  "updated_at": "2026-09-15T00:52:25.809625+00:00",
+  "total": 14,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 7,
+      "count": 8,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 4,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "[네팔 대홍수] 韓구호대 의료진, 산속 험로 뚫고 고립 마을 찾아",
-      "link": "https://www.yna.co.kr/view/AKR20260915002700084",
-      "summary": "(누와코트[네팔]=연합뉴스) 박진형 특파원 = 한국 의료진이 네팔 대홍수 피해자 지원을 위해 산속 험로를 헤쳐가며 사실상 고립된 마을을 찾아 현...",
+      "title": "[게시판] 여의도성모병원, 네팔 홍수 피해 복구에 2천만원 후원",
+      "link": "https://www.yna.co.kr/view/AKR20260915038700530",
+      "summary": "▲ 여의도성모병원 성모자선회는 재단법인 한마음한몸운동본부에 네팔 홍수 피해지역을 위한 후원금 2천만원을 전달했다고 15일 밝혔다. 이번 후원은 ...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-14T17:28:51+00:00",
-      "published_ts": 1789406931.0
+      "published": "2026-09-15T00:12:22+00:00",
+      "published_ts": 1789431142.0
     },
     {
       "title": "Drinking water supply projects in Rasuwa suffer damage over Rs 250 Million",
@@ -85,50 +85,6 @@
       "highlight": false,
       "published": "2026-09-14T14:04:08+00:00",
       "published_ts": 1789394648.0
-    },
-    {
-      "title": "네팔 韓구호대 2진, 남동발전·두산 만나 수색·구조 활동 청취(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260914059151504",
-      "summary": "(서울·누와코트=연합뉴스) 민선희 기자 박진형 특파원 = 네팔 대홍수 피해 대응을 위해 현지에 파견된 대한민국 해외긴급구호대(KDRT)가 한국인...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-14T13:33:37+00:00",
-      "published_ts": 1789392817.0
-    },
-    {
-      "title": "Roads in flood-affected areas to be operational by mid-Sept: Minister Lamsal",
-      "link": "https://risingnepaldaily.com/news/86548",
-      "summary": "Kathmandu, Sept 14: The government is working diligently to bring damaged roads in the Bhote Koshi flood-affected areas...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T12:35:19+00:00",
-      "published_ts": 1789389319.0
-    },
-    {
-      "title": "Local people's representatives from floods-hit areas applaud federal government's post-disaster response",
-      "link": "https://risingnepaldaily.com/news/86545",
-      "summary": "Kathmandu, Sept 14: Local people's representatives from areas affected by the flash floods that struck the Bhotekoshi-Tr...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T11:56:58+00:00",
-      "published_ts": 1789387018.0
-    },
-    {
-      "title": "19th Day of Bhotekoshi flash flood, Devighat and Dhunge area (photo feature)",
-      "link": "https://risingnepaldaily.com/news/86544",
-      "summary": "By TRN Online, Kathmandu, Sept. 14: Devighat and Dunge Bazar area of Nuwakot were among the hardest hit places of the Bh...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T11:24:03+00:00",
-      "published_ts": 1789385043.0
     },
     {
       "title": "PM Balen Shah assures no budget shortage for Bhotekoshi flood relief, reconstruction",
@@ -162,6 +118,17 @@
       "highlight": false,
       "published": "2026-09-14T07:56:50+00:00",
       "published_ts": 1789372610.0
+    },
+    {
+      "title": "Private sector bears bulk of Bhotekoshi flood losses",
+      "link": "https://kathmandupost.com/money/2026/09/15/private-sector-bears-bulk-of-bhotekoshi-flood-losses",
+      "summary": "A preliminary government assessment estimates damage and economic losses at Rs408 billion. Nearly 4,800 businesses and 7,570 homes were damaged, while 13 hydropower projects and five solar plants were hit.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Flood survivors face water shortages, disease risk in crowded holding centres",
