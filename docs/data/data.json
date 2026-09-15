@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-15T05:49:47.810271+00:00",
-  "total": 15,
+  "updated_at": "2026-09-15T10:30:23.024655+00:00",
+  "total": 13,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 9,
+      "count": 8,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -29,14 +29,14 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "[Errno 104] Connection reset by peer"
     },
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -54,70 +54,59 @@
   ],
   "items": [
     {
-      "title": "강원대, 네팔 홍수 피해 지원 모금 캠페인",
-      "link": "https://www.yna.co.kr/view/AKR20260915111800062",
-      "summary": "(춘천=연합뉴스) 강태현 기자 = 강원대학교는 대규모 홍수로 피해를 본 네팔 주민들의 구호와 일상 회복을 지원하기 위한 모금 캠페인을 추진한다고...",
+      "title": "France hands over emergency relief aid",
+      "link": "https://risingnepaldaily.com/news/86581",
+      "summary": "By TRN Online, Kathmandu, Sept 15: France has provided relief materials to the victims of the Bhotekoshi flash flood in...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-15T09:22:01+00:00",
+      "published_ts": 1789464121.0
+    },
+    {
+      "title": "[게시판] 민주평통 동남아남부협의회, 네팔 구호금 모금",
+      "link": "https://www.yna.co.kr/view/AKR20260915164300104",
+      "summary": "▲ 민주평화통일자문회의(민주평통) 동남아남부협의회는 최근 대규모 홍수로 큰 피해를 본 네팔 이재민과 피해 주민들을 돕기 위해 긴급 구호금을 모았...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-15T05:12:24+00:00",
-      "published_ts": 1789449144.0
+      "published": "2026-09-15T08:42:49+00:00",
+      "published_ts": 1789461769.0
     },
     {
-      "title": "백석대, 네팔 홍수 피해 계기 '기후 위기 대응' 다짐",
-      "link": "https://www.yna.co.kr/view/AKR20260915108600063",
-      "summary": "(천안=연합뉴스) 유의주 기자 = 백석대는 15일 교내 백석홀 소강당에서 네팔 피해 복구 성금 모금 행사를 진행했다.",
+      "title": "'네팔·중국 대홍수' 사망·실종자 7천명 넘어…신원 확인 난항",
+      "link": "https://www.yna.co.kr/view/AKR20260915155700104",
+      "summary": "(카트만두·자카르타=연합뉴스) 박진형 손현규 특파원 = 지난달 말 네팔과 중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 숨지거나 실종된...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-15T04:56:28+00:00",
-      "published_ts": 1789448188.0
+      "published": "2026-09-15T08:11:42+00:00",
+      "published_ts": 1789459902.0
     },
     {
-      "title": "Inside Rasuwa’s flood zone, a forensic doctor’s hardest case",
-      "link": "https://english.onlinekhabar.com/forensic-hardest-case.html",
-      "summary": "A forensic doctor sees bodies constantly. But nothing prepared Dr Salmali Yadav for what she found in Rasuwa’s flood zone. After the Bhote Koshi flood on August 26, Yadav’s forensic team was deployed to identify the dead in Timure, Syafrubensi, and nearby areas of Rasuwa. She’d assumed bodies would be brought to a hospital for […] The post Inside Rasuwa’s flood zone, a forensic doctor’s hardest ca",
+      "title": "Bhotekoshi floods: 1,399 bodies recovered",
+      "link": "https://risingnepaldaily.com/news/86579",
+      "summary": "Kathmandu, Sept 15: Among those swept away by the devastating flash flood that struck the Rasuwa-Trishuli river system o...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-15T08:09:45+00:00",
+      "published_ts": 1789459785.0
+    },
+    {
+      "title": "607 tourists from 34 countries missing since Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/607-tourists-from-34-countries-missing-since-bhotekoshi-floods.html",
+      "summary": "Kathmandu, September 15 A total of 607 foreign tourists from 34 countries remain unaccounted for following the Bhotekoshi flash flood that struck Nepal on August 26. Suraj Ghimire, information officer at the Department of Tourism, told that the 607 foreign tourists, who were travelling to Kailash Mansarovar in Tibet, Gosaikunda and Mustang on the occasion […] The post 607 tourists from 34 countrie",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-15T04:47:02+00:00",
-      "published_ts": 1789447622.0
-    },
-    {
-      "title": "제주시, 외국인 계절근로자 적응 프로그램 시행",
-      "link": "https://www.yna.co.kr/view/AKR20260915104600056",
-      "summary": "(제주=연합뉴스) 박지호 기자 = 제주시는 외국인 계절근로자의 안정적인 지역사회 적응을 위해 오는 16일 베트남·중국·네팔 국적의 결혼이민자 가...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-15T04:39:13+00:00",
-      "published_ts": 1789447153.0
-    },
-    {
-      "title": "Who defines reconstruction after the Bhotekoshi flood?",
-      "link": "https://english.onlinekhabar.com/who-defines-reconstruction-flood.html",
-      "summary": "The Bhotekoshi Flash Flood of August 26 did not end when the water level receded. It has entered another phase that is slower, less visible and perhaps more consequential. The causes are being debated, damage is being assessed, and government agencies and other institutions are beginning to define recovery priorities. According to the government’s latest […] The post Who defines reconstruction aft",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-15T03:36:00+00:00",
-      "published_ts": 1789443360.0
-    },
-    {
-      "title": "RSP says candidate club draws encouraging applications despite flood disruption",
-      "link": "https://english.onlinekhabar.com/rsp-candidate-club-encouraging.html",
-      "summary": "Kathmandu, September 14 Rastriya Swatantra Party (RSP) says its Candidate Club has received an encouraging number of applications despite the disruption caused by the devastating Bhotekoshi floods. The RSP opened applications on August 17 for people interested in contesting local elections for positions in rural municipalities. Ten days later, on August 26, the Bhotekoshi flood […] The post RSP sa",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T14:04:08+00:00",
-      "published_ts": 1789394648.0
+      "published": "2026-09-15T07:50:57+00:00",
+      "published_ts": 1789458657.0
     },
     {
       "title": "Footbridges rise again from flood wreckage",
@@ -200,17 +189,6 @@
       "title": "Why Nepal’s climate crisis is also a public-health emergency",
       "link": "https://kathmandupost.com/columns/2026/09/14/why-nepal-s-climate-crisis-is-also-a-public-health-emergency",
       "summary": "The Bhotekoshi flood shows why Nepal’s climate crisis must also be understood as a public-health crisis.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "The search dog helping find bodies buried by Nepal’s floods",
-      "link": "https://kathmandupost.com/national/2026/09/13/the-search-dog-helping-find-bodies-buried-by-nepal-s-floods",
-      "summary": "Samba, a Labrador trained to detect the scent of human remains, has helped rescuers locate around 20 bodies beneath mud and debris since the floods hit Rasuwa.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
