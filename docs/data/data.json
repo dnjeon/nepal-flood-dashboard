@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-15T00:52:25.809625+00:00",
-  "total": 14,
+  "updated_at": "2026-09-15T05:49:47.810271+00:00",
+  "total": 15,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 8,
+      "count": 9,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
@@ -54,26 +54,59 @@
   ],
   "items": [
     {
-      "title": "[게시판] 여의도성모병원, 네팔 홍수 피해 복구에 2천만원 후원",
-      "link": "https://www.yna.co.kr/view/AKR20260915038700530",
-      "summary": "▲ 여의도성모병원 성모자선회는 재단법인 한마음한몸운동본부에 네팔 홍수 피해지역을 위한 후원금 2천만원을 전달했다고 15일 밝혔다. 이번 후원은 ...",
+      "title": "강원대, 네팔 홍수 피해 지원 모금 캠페인",
+      "link": "https://www.yna.co.kr/view/AKR20260915111800062",
+      "summary": "(춘천=연합뉴스) 강태현 기자 = 강원대학교는 대규모 홍수로 피해를 본 네팔 주민들의 구호와 일상 회복을 지원하기 위한 모금 캠페인을 추진한다고...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-15T00:12:22+00:00",
-      "published_ts": 1789431142.0
+      "published": "2026-09-15T05:12:24+00:00",
+      "published_ts": 1789449144.0
     },
     {
-      "title": "Drinking water supply projects in Rasuwa suffer damage over Rs 250 Million",
-      "link": "https://risingnepaldaily.com/news/86553",
-      "summary": "Kathmandu, Sept 14: A total of 13 drinking water supply and sanitation projects operating in various parts of Rasuwa hav...",
-      "source": "The Rising Nepal",
+      "title": "백석대, 네팔 홍수 피해 계기 '기후 위기 대응' 다짐",
+      "link": "https://www.yna.co.kr/view/AKR20260915108600063",
+      "summary": "(천안=연합뉴스) 유의주 기자 = 백석대는 15일 교내 백석홀 소강당에서 네팔 피해 복구 성금 모금 행사를 진행했다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-15T04:56:28+00:00",
+      "published_ts": 1789448188.0
+    },
+    {
+      "title": "Inside Rasuwa’s flood zone, a forensic doctor’s hardest case",
+      "link": "https://english.onlinekhabar.com/forensic-hardest-case.html",
+      "summary": "A forensic doctor sees bodies constantly. But nothing prepared Dr Salmali Yadav for what she found in Rasuwa’s flood zone. After the Bhote Koshi flood on August 26, Yadav’s forensic team was deployed to identify the dead in Timure, Syafrubensi, and nearby areas of Rasuwa. She’d assumed bodies would be brought to a hospital for […] The post Inside Rasuwa’s flood zone, a forensic doctor’s hardest ca",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T15:52:43+00:00",
-      "published_ts": 1789401163.0
+      "published": "2026-09-15T04:47:02+00:00",
+      "published_ts": 1789447622.0
+    },
+    {
+      "title": "제주시, 외국인 계절근로자 적응 프로그램 시행",
+      "link": "https://www.yna.co.kr/view/AKR20260915104600056",
+      "summary": "(제주=연합뉴스) 박지호 기자 = 제주시는 외국인 계절근로자의 안정적인 지역사회 적응을 위해 오는 16일 베트남·중국·네팔 국적의 결혼이민자 가...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-15T04:39:13+00:00",
+      "published_ts": 1789447153.0
+    },
+    {
+      "title": "Who defines reconstruction after the Bhotekoshi flood?",
+      "link": "https://english.onlinekhabar.com/who-defines-reconstruction-flood.html",
+      "summary": "The Bhotekoshi Flash Flood of August 26 did not end when the water level receded. It has entered another phase that is slower, less visible and perhaps more consequential. The causes are being debated, damage is being assessed, and government agencies and other institutions are beginning to define recovery priorities. According to the government’s latest […] The post Who defines reconstruction aft",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-15T03:36:00+00:00",
+      "published_ts": 1789443360.0
     },
     {
       "title": "RSP says candidate club draws encouraging applications despite flood disruption",
@@ -87,37 +120,26 @@
       "published_ts": 1789394648.0
     },
     {
-      "title": "PM Balen Shah assures no budget shortage for Bhotekoshi flood relief, reconstruction",
-      "link": "https://english.onlinekhabar.com/no-budget-shortage-flood-relief.html",
-      "summary": "Kathmandu, September 14 Prime Minister Balen Shah has assured that there will be no shortage of funds for relief and reconstruction in areas affected by the Bhotekoshi flood in Rasuwa. Speaking at a meeting with elected representatives from districts and local levels declared disaster crisis zones at Singha Durbar on Monday, Shah said all state […] The post PM Balen Shah assures no budget shortage",
-      "source": "Online Khabar (EN)",
+      "title": "Footbridges rise again from flood wreckage",
+      "link": "https://kathmandupost.com/visual-stories/2026/09/15/footbridges-rise-again-from-flood-wreckage",
+      "summary": "Repairs and reconstruction are underway on 53 footbridges damaged by the August 26 flood along the Trishuli corridor, restoring vital links to markets, schools, health services and jobs.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T09:54:31+00:00",
-      "published_ts": 1789379671.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "Rasuwa flood washed away 2,792 meters of bridges, report finds",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-bridges.html",
-      "summary": "Kathmandu, September 14 The devastating flood that came down the Bhotekoshi and Trishuli rivers via the Rasuwagadhi border point has damaged a total of 37 motorable bridges. According to the government-formed “Rasuwa-Bhotekoshi Flood 2083: Rapid Damage and Needs Assessment” report, 33 of these bridges were completely washed away. The report states that the combined length […] The post Rasuwa flood",
-      "source": "Online Khabar (EN)",
+      "title": "Weeks after the Nepal flood disaster, families of the missing hold out hope",
+      "link": "https://kathmandupost.com/world/2026/09/15/weeks-after-the-nepal-flood-disaster-families-of-the-missing-hold-out-hope",
+      "summary": "With 5,130 people still missing in Nepal and hundreds unaccounted for in China, families are scouring hospitals, contacting authorities and tracking digital clues for any sign their loved ones survived.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-14T09:48:30+00:00",
-      "published_ts": 1789379310.0
-    },
-    {
-      "title": "Why has Rabi Lamichhane’s proposed all-party disaster mechanism not been formed?",
-      "link": "https://english.onlinekhabar.com/allparty-disaster-mechanism-not-form.html",
-      "summary": "Kathmandu, September 14 The day after the devastating flood in Rasuwa, Rastriya Swatantra Party (RSP) chairperson Rabi Lamichhane proposed forming a high-level all-party mechanism to coordinate rescue, relief and rehabilitation efforts. The proposal came after the Bhotekoshi flood on August 26. The following day, Lamichhane called an all-party meeting attended by senior leaders from the […] The po",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-14T07:56:50+00:00",
-      "published_ts": 1789372610.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Private sector bears bulk of Bhotekoshi flood losses",
@@ -189,17 +211,6 @@
       "title": "The search dog helping find bodies buried by Nepal’s floods",
       "link": "https://kathmandupost.com/national/2026/09/13/the-search-dog-helping-find-bodies-buried-by-nepal-s-floods",
       "summary": "Samba, a Labrador trained to detect the scent of human remains, has helped rescuers locate around 20 bodies beneath mud and debris since the floods hit Rasuwa.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood damage leaves Rasuwagadhi road facing long repairs",
-      "link": "https://kathmandupost.com/national/2026/09/13/flood-damage-leaves-rasuwagadhi-road-facing-long-repairs",
-      "summary": "The Department of Roads is opening temporary tracks and planning Bailey bridges after the Bhotekoshi flood washed away about 40 km of road, while officials aim to restore a link to the Chinese border before Dashain.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
