@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-15T10:30:23.024655+00:00",
-  "total": 13,
+  "updated_at": "2026-09-15T15:14:25.274006+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 8,
+      "count": 6,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,59 +54,26 @@
   ],
   "items": [
     {
-      "title": "France hands over emergency relief aid",
-      "link": "https://risingnepaldaily.com/news/86581",
-      "summary": "By TRN Online, Kathmandu, Sept 15: France has provided relief materials to the victims of the Bhotekoshi flash flood in...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-15T09:22:01+00:00",
-      "published_ts": 1789464121.0
-    },
-    {
-      "title": "[게시판] 민주평통 동남아남부협의회, 네팔 구호금 모금",
-      "link": "https://www.yna.co.kr/view/AKR20260915164300104",
-      "summary": "▲ 민주평화통일자문회의(민주평통) 동남아남부협의회는 최근 대규모 홍수로 큰 피해를 본 네팔 이재민과 피해 주민들을 돕기 위해 긴급 구호금을 모았...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-15T08:42:49+00:00",
-      "published_ts": 1789461769.0
-    },
-    {
-      "title": "'네팔·중국 대홍수' 사망·실종자 7천명 넘어…신원 확인 난항",
-      "link": "https://www.yna.co.kr/view/AKR20260915155700104",
+      "title": "'네팔·중국 대홍수' 사망·실종자 7천명 넘어…신원 확인 난항(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260915155751104",
       "summary": "(카트만두·자카르타=연합뉴스) 박진형 손현규 특파원 = 지난달 말 네팔과 중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 숨지거나 실종된...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-15T08:11:42+00:00",
-      "published_ts": 1789459902.0
+      "published": "2026-09-15T13:30:49+00:00",
+      "published_ts": 1789479049.0
     },
     {
-      "title": "Bhotekoshi floods: 1,399 bodies recovered",
-      "link": "https://risingnepaldaily.com/news/86579",
-      "summary": "Kathmandu, Sept 15: Among those swept away by the devastating flash flood that struck the Rasuwa-Trishuli river system o...",
+      "title": "'Bhotekoshi flood is a structural humanitarian crisis'",
+      "link": "https://risingnepaldaily.com/news/86590",
+      "summary": "Kathmandu, Sept 14: Jagan Chapagain is Secretary General and Chief Executive Officer of the International Federation of...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-15T08:09:45+00:00",
-      "published_ts": 1789459785.0
-    },
-    {
-      "title": "607 tourists from 34 countries missing since Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/607-tourists-from-34-countries-missing-since-bhotekoshi-floods.html",
-      "summary": "Kathmandu, September 15 A total of 607 foreign tourists from 34 countries remain unaccounted for following the Bhotekoshi flash flood that struck Nepal on August 26. Suraj Ghimire, information officer at the Department of Tourism, told that the 607 foreign tourists, who were travelling to Kailash Mansarovar in Tibet, Gosaikunda and Mustang on the occasion […] The post 607 tourists from 34 countrie",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-15T07:50:57+00:00",
-      "published_ts": 1789458657.0
+      "published": "2026-09-15T12:15:05+00:00",
+      "published_ts": 1789474505.0
     },
     {
       "title": "Footbridges rise again from flood wreckage",
@@ -167,28 +134,6 @@
       "title": "Beijing signals support for rebuilding flood-ravaged Rasuwagadhi route",
       "link": "https://kathmandupost.com/money/2026/09/14/beijing-signals-support-for-rebuilding-flood-ravaged-rasuwagadhi-route",
       "summary": "Nepal has sought Chinese assistance to rebuild the 16-km Syaphrubesi-Rasuwagadhi road, while the government prepares a temporary track to restore access to the border crossing.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Infrastructure Minister Sunil Lamsal on rebuilding after the Bhotekoshi floods",
-      "link": "https://kathmandupost.com/interviews/2026/09/14/infrastructure-minister-sunil-lamsal-on-rebuilding-after-the-bhotekoshi-floods",
-      "summary": "The infrastructure development minister discusses plans for resettlement, damaged roads and bridges, the China border crossing and efforts to build safer settlements for disaster-prone communities.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Why Nepal’s climate crisis is also a public-health emergency",
-      "link": "https://kathmandupost.com/columns/2026/09/14/why-nepal-s-climate-crisis-is-also-a-public-health-emergency",
-      "summary": "The Bhotekoshi flood shows why Nepal’s climate crisis must also be understood as a public-health crisis.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
