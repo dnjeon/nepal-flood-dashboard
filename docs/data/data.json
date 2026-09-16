@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T21:32:02.657286+00:00",
-  "total": 6,
+  "updated_at": "2026-09-16T23:48:46.509356+00:00",
+  "total": 7,
   "highlight_count": 2,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[기후재난 현장] 빙하 녹은 알프스 '빙하스키장'…자갈밭에 리프트만 덩그러니",
+      "link": "https://www.yna.co.kr/view/AKR20260915016200082",
+      "summary": "[※ 편집자 주 = 최근 중국·네팔 접경지대에서는 엄청난 규모의 산악지대 대홍수가 발생했습니다. 기후변화로 인해 대규모 빙하가 붕괴하면서 홍수로...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-16T22:01:00+00:00",
+      "published_ts": 1789596060.0
+    },
     {
       "title": "Four bodies recovered from Chilime , five from Upper Trishuli hydel tunnel",
       "link": "https://risingnepaldaily.com/news/86643",
