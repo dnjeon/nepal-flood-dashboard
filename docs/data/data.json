@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T22:10:26.142724+00:00",
-  "total": 7,
+  "updated_at": "2026-09-16T00:27:11.623974+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "'네팔·중국 대홍수' 사망·실종자 7천명 넘어…신원 확인 난항(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260915155751104",
-      "summary": "(카트만두·자카르타=연합뉴스) 박진형 손현규 특파원 = 지난달 말 네팔과 중국 국경의 히말라야 산악지대에서 발생한 대규모 홍수로 숨지거나 실종된...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-15T13:30:49+00:00",
-      "published_ts": 1789479049.0
-    },
     {
       "title": "'Bhotekoshi flood is a structural humanitarian crisis'",
       "link": "https://risingnepaldaily.com/news/86590",
