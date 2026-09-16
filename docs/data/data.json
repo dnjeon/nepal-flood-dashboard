@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-16T00:27:11.623974+00:00",
-  "total": 6,
+  "updated_at": "2026-09-16T05:06:04.823774+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 4,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "'Bhotekoshi flood is a structural humanitarian crisis'",
-      "link": "https://risingnepaldaily.com/news/86590",
-      "summary": "Kathmandu, Sept 14: Jagan Chapagain is Secretary General and Chief Executive Officer of the International Federation of...",
+      "title": "Over 400 containers swept away by Bhotekoshi flood",
+      "link": "https://risingnepaldaily.com/news/86615",
+      "summary": "By Chitra Kumar Mijar,Sindhupalchok, Sept. 16: More than 400 containers belonging to businesspersons from Sindhupalchowk...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-15T12:15:05+00:00",
-      "published_ts": 1789474505.0
+      "published": "2026-09-16T02:52:06+00:00",
+      "published_ts": 1789527126.0
     },
     {
       "title": "Footbridges rise again from flood wreckage",
@@ -101,17 +101,6 @@
       "title": "Flood survivors face water shortages, disease risk in crowded holding centres",
       "link": "https://kathmandupost.com/health/2026/09/14/flood-survivors-face-water-shortages-disease-risk-in-crowded-holding-centres",
       "summary": "More than 3,600 people are staying in 37 holding centres across Rasuwa, Nuwakot and Dhading districts. No major outbreak has been reported, but cases of colds, coughs and viral fever are common.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "US approves $1m forensic support for Nepal flood victim identification",
-      "link": "https://kathmandupost.com/national/2026/09/14/us-approves-1m-forensic-support-for-nepal-flood-victim-identification",
-      "summary": "The new funding takes US humanitarian, health and forensic assistance following the floods to more than $5 million.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
