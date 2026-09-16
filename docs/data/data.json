@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-16T18:24:46.763432+00:00",
-  "total": 5,
-  "highlight_count": 1,
+  "updated_at": "2026-09-16T21:32:02.657286+00:00",
+  "total": 6,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -17,9 +17,9 @@
     },
     {
       "name": "The Rising Nepal",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Nepal News",
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Four bodies recovered from Chilime , five from Upper Trishuli hydel tunnel",
+      "link": "https://risingnepaldaily.com/news/86643",
+      "summary": "Four bodies recovered from Chilime , five from Upper Trishuli hydel tunnelRasuwa, Sept 16: On the twenty first day of th...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-16T16:01:23+00:00",
+      "published_ts": 1789574483.0
+    },
     {
       "title": "364 bodies recovered in Chitwan after Bhotekoshi floods, 14 identified",
       "link": "https://english.onlinekhabar.com/364-bodies-recovered-in-chitwan.html",
