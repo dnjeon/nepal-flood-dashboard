@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-16T05:06:04.823774+00:00",
-  "total": 5,
+  "updated_at": "2026-09-16T09:53:42.952634+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,48 @@
   ],
   "items": [
     {
-      "title": "Over 400 containers swept away by Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86615",
-      "summary": "By Chitra Kumar Mijar,Sindhupalchok, Sept. 16: More than 400 containers belonging to businesspersons from Sindhupalchowk...",
-      "source": "The Rising Nepal",
+      "title": "All-Party mechanism to be formed for post-disaster response",
+      "link": "https://english.onlinekhabar.com/all-party-mechanism-to-be-formed-for-post-disaster-response.html",
+      "summary": "Kathmandu, September 16 An all-party mechanism will be formed to address issues arising from the disaster caused by the Bhotekoshi River floods in Rasuwa. An all-party meeting held on Wednesday discussed forming the mechanism within the next seven days. Rastriya Prajatantra Party lawmaker Gyanendra Shahi said the meeting discussed forming the all-party mechanism within seven […] The post All-Party",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-16T02:52:06+00:00",
-      "published_ts": 1789527126.0
+      "published": "2026-09-16T09:25:11+00:00",
+      "published_ts": 1789550711.0
+    },
+    {
+      "title": "Legal gap leaves Rasuwa flood families unable to register deaths of missing relatives",
+      "link": "https://english.onlinekhabar.com/legal-rasuwa-flood-death-certificate.html",
+      "summary": "Kathmandu, September 16 Families who have lost hope of finding relatives missing after the Rasuwa floods have begun performing last rites by making symbolic bodies out of kusha grass, following Hindu religious traditions. They are now approaching ward offices to seek official verification of their missing relatives or register their deaths. However, local authorities have […] The post Legal gap le",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-16T08:55:03+00:00",
+      "published_ts": 1789548903.0
+    },
+    {
+      "title": "MrBeast joins global fundraising effort to help Nepal",
+      "link": "https://english.onlinekhabar.com/mrbeast-global-help-nepal.html",
+      "summary": "Kathmandu, September 16 World-famous content creator Jimmy Donaldson, known as MrBeast, has launched a fundraising campaign for those affected by the Bhotekoshi flood in Nepal. The American YouTuber, entrepreneur and philanthropist said via an Instagram story that he and his team are raising millions of dollars in relief funds for Nepal’s disaster victims, and called […] The post MrBeast joins glo",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-16T06:51:54+00:00",
+      "published_ts": 1789541514.0
+    },
+    {
+      "title": "Bouldin meets Shah, offers US support for Nepal’s disaster recovery",
+      "link": "https://kathmandupost.com/national/2026/09/16/bouldin-meets-shah-offers-us-support-for-nepal-s-disaster-recovery",
+      "summary": "The US chargé d’affaires expressed condolences over the Rasuwa floods as the prime minister called for greater global cooperation on climate-related risks.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Footbridges rise again from flood wreckage",
@@ -79,28 +112,6 @@
       "title": "Weeks after the Nepal flood disaster, families of the missing hold out hope",
       "link": "https://kathmandupost.com/world/2026/09/15/weeks-after-the-nepal-flood-disaster-families-of-the-missing-hold-out-hope",
       "summary": "With 5,130 people still missing in Nepal and hundreds unaccounted for in China, families are scouring hospitals, contacting authorities and tracking digital clues for any sign their loved ones survived.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Private sector bears bulk of Bhotekoshi flood losses",
-      "link": "https://kathmandupost.com/money/2026/09/15/private-sector-bears-bulk-of-bhotekoshi-flood-losses",
-      "summary": "A preliminary government assessment estimates damage and economic losses at Rs408 billion. Nearly 4,800 businesses and 7,570 homes were damaged, while 13 hydropower projects and five solar plants were hit.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood survivors face water shortages, disease risk in crowded holding centres",
-      "link": "https://kathmandupost.com/health/2026/09/14/flood-survivors-face-water-shortages-disease-risk-in-crowded-holding-centres",
-      "summary": "More than 3,600 people are staying in 37 holding centres across Rasuwa, Nuwakot and Dhading districts. No major outbreak has been reported, but cases of colds, coughs and viral fever are common.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
