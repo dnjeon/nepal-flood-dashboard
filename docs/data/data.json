@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:06:32.242071+00:00",
-  "total": 6,
+  "updated_at": "2026-09-17T20:17:59.019067+00:00",
+  "total": 5,
   "highlight_count": 2,
   "sources": [
     {
@@ -48,7 +48,7 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-09-17T16:29:49+00:00",
       "published_ts": 1789662589.0
-    },
-    {
-      "title": "Climate change had major role in triggering Nepal floods, scientists say",
-      "link": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
-      "summary": "The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-17T11:19:23+00:00",
-      "published_ts": 1789643963.0
     },
     {
       "title": "S. Korea's 2nd Nepal relief team to return; efforts to locate 9 missing Koreans to continue",
