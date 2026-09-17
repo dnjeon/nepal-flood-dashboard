@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-17T12:12:37.325090+00:00",
-  "total": 5,
+  "updated_at": "2026-09-17T17:06:32.242071+00:00",
+  "total": 6,
   "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Bhotekoshi flash flood: 606 foreign nationals of 36 countries still missing",
+      "link": "https://risingnepaldaily.com/news/86689",
+      "summary": "Kathmandu, Sept 17: As many as 606 foreign tourists from 36 countries are still missing in the Bhotekoshi floods. Accord...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-17T16:29:49+00:00",
+      "published_ts": 1789662589.0
+    },
+    {
       "title": "Climate change had major role in triggering Nepal floods, scientists say",
       "link": "https://www.aljazeera.com/news/2026/9/17/climate-change-had-major-role-in-triggering-nepal-floods-scientists-say?traffic_source=rss",
       "summary": "The combined toll from the deadly incident now stands at 1,446 people dead and at least 6,669 missing.",
@@ -65,17 +76,6 @@
       "published_ts": 1789643963.0
     },
     {
-      "title": "RSP lawmaker calls for plan to excavate structures buried by Rasuwa floods",
-      "link": "https://english.onlinekhabar.com/rsp-lawmaker-calls-for-plan-to-excavate-structures-buried-by-rasuwa-floods.html",
-      "summary": "Kathmandu, September 1 Rastriya Swatantra Party (RSP) lawmaker Bodhanarayan Shrestha has called for a comprehensive plan to excavate structures buried by the floods in Rasuwa. Speaking at a meeting of the House of Representatives on Thursday, Shrestha said he had received numerous calls from relatives in Trishuli seeking the excavation of houses where they believed […] The post RSP lawmaker calls ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-17T09:10:07+00:00",
-      "published_ts": 1789636207.0
-    },
-    {
       "title": "S. Korea's 2nd Nepal relief team to return; efforts to locate 9 missing Koreans to continue",
       "link": "https://en.yna.co.kr/view/AEN20260917006800315",
       "summary": "SEOUL, Sept. 17 (Yonhap) -- South Korea will maintain a joint government respons...",
@@ -85,6 +85,17 @@
       "highlight": true,
       "published": "2026-09-17T05:53:49+00:00",
       "published_ts": 1789624429.0
+    },
+    {
+      "title": "Bridges gone, roads damaged, villages cut off from relief",
+      "link": "https://kathmandupost.com/province-no-3/2026/09/17/bridges-gone-roads-damaged-villages-cut-off-from-relief",
+      "summary": "Helicopters and temporary crossings are helping deliver food and other essentials to cut-off communities in Rasuwa and Nuwakot, but officials say restoring roads and bridges must be an immediate priority.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Five bodies found in flood-damaged Upper Trishuli-1 tunnel",
