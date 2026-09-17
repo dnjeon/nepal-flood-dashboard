@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T01:49:13.553784+00:00",
+  "updated_at": "2026-09-17T06:46:40.874556+00:00",
   "total": 7,
   "highlight_count": 2,
   "sources": [
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,26 +54,48 @@
   ],
   "items": [
     {
-      "title": "Boost Recovery Process",
-      "link": "https://risingnepaldaily.com/news/86651",
-      "summary": "After the Bhotekoshi flash flood in Rasuwa, Nuwakot, Dhading and Chitwan left a trail of deaths and destruction almost t...",
-      "source": "The Rising Nepal",
+      "title": "Kathmandu University contributes Rs 8.5 million in aid to Bhotekoshi flood victims",
+      "link": "https://english.onlinekhabar.com/kathmandu-university-contributes-rs-8-5-million-in-aid-to-bhotekoshi-flood-victims.html",
+      "summary": "Kavre, September 17 Kathmandu University has provided Rs 8.5 million as relief support for those affected by the Bhotekoshi flood. According to Dr Biraj Singh Thapa, Registrar of Kathmandu University, the university’s executive council decided to deposit the amount into the Prime Minister Disaster Relief Fund. Meanwhile, the Kathmandu University Teachers’ Association has deposited Rs […] The post ",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-17T01:13:38+00:00",
-      "published_ts": 1789607618.0
+      "published": "2026-09-17T06:12:59+00:00",
+      "published_ts": 1789625579.0
     },
     {
-      "title": "Four bodies recovered from Chilime , five from Upper Trishuli hydel tunnel",
-      "link": "https://risingnepaldaily.com/news/86643",
-      "summary": "Four bodies recovered from Chilime , five from Upper Trishuli hydel tunnelRasuwa, Sept 16: On the twenty first day of th...",
-      "source": "The Rising Nepal",
+      "title": "191 vehicles operated under FNNTE damaged, 344 employees missing in Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/191-vehicles-operated-under-fnnte-damaged-344-employees-missing-in-bhotekoshi-floods.html",
+      "summary": "Kathmandu, September 17 As many as 191 vehicles operated by nine companies affiliated with the Federation of Nepalese National Transport Entrepreneurs (FNNTE) were damaged in the Bhotekoshi-Trishuli river corridor floods on August 26, with 344 people reported missing. FNNTE General Secretary Deknath Gautam said the missing included drivers, helpers and passengers travelling in the affected […] The",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
+      "highlight": false,
+      "published": "2026-09-17T06:10:30+00:00",
+      "published_ts": 1789625430.0
+    },
+    {
+      "title": "S. Korea's 2nd Nepal relief team to return; efforts to locate 9 missing Koreans to continue",
+      "link": "https://en.yna.co.kr/view/AEN20260917006800315",
+      "summary": "SEOUL, Sept. 17 (Yonhap) -- South Korea will maintain a joint government respons...",
+      "source": "Yonhap (EN)",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": true,
-      "published": "2026-09-16T16:01:23+00:00",
-      "published_ts": 1789574483.0
+      "published": "2026-09-17T05:53:49+00:00",
+      "published_ts": 1789624429.0
+    },
+    {
+      "title": "Prithvi Highway reopens fully after 18 days as new track built at Krishnabhir",
+      "link": "https://english.onlinekhabar.com/krishnabhir-reopens-fully.html",
+      "summary": "Dhading, September 17 Two-way traffic has resumed along the Prithvi Highway at Krishnabhir in Dhading after authorities opened a new track, bringing relief to motorists after an 18-day disruption. The highway had been blocked since August 30 after the Trishuli River flood washed away a section of the road at Krishnabhir. The flooding occurred four […] The post Prithvi Highway reopens fully after 1",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-17T02:44:39+00:00",
+      "published_ts": 1789613079.0
     },
     {
       "title": "364 bodies recovered in Chitwan after Bhotekoshi floods, 14 identified",
@@ -85,28 +107,6 @@
       "highlight": false,
       "published": "2026-09-16T13:12:57+00:00",
       "published_ts": 1789564377.0
-    },
-    {
-      "title": "Expert panel formed to scientifically study Rasuwa Flood",
-      "link": "https://english.onlinekhabar.com/expert-panel-formed-to-scientifically-study-rasuwa-flood.html",
-      "summary": "Kathmandu, September 16 The government has formed a seven-member expert committee to scientifically investigate the causes and sequence of events behind the devastating flood in the Bhotekoshi River in Rasuwa. The Ministry of Energy, Water Resources and Irrigation formed the committee on Wednesday under the coordination of water policy and governance expert Devesh Belbase. The […] The post Expert ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-16T10:41:51+00:00",
-      "published_ts": 1789555311.0
-    },
-    {
-      "title": "Legal gap leaves Rasuwa flood families unable to register deaths of missing relatives",
-      "link": "https://english.onlinekhabar.com/legal-rasuwa-flood-death-certificate.html",
-      "summary": "Kathmandu, September 16 Families who have lost hope of finding relatives missing after the Rasuwa floods have begun performing last rites by making symbolic bodies out of kusha grass, following Hindu religious traditions. They are now approaching ward offices to seek official verification of their missing relatives or register their deaths. However, local authorities have […] The post Legal gap le",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-16T08:55:03+00:00",
-      "published_ts": 1789548903.0
     },
     {
       "title": "Five bodies found in flood-damaged Upper Trishuli-1 tunnel",
