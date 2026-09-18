@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-18T10:36:15.067321+00:00",
+  "updated_at": "2026-09-18T14:38:18.106776+00:00",
   "total": 7,
-  "highlight_count": 2,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
@@ -48,11 +48,22 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "What has Nepal done to adapt to climate change?",
+      "link": "https://english.onlinekhabar.com/how-nepal-adapt-climate-change.html",
+      "summary": "Kathmandu, September 18 A week has passed since the Fund for Responding to Loss and Damage, established under the UN climate change framework, pledged to make the “earliest possible and meaningful response” to the devastation caused by the Rasuwa floods. Nepal had written to the fund on September 1, arguing that climate change was a […] The post What has Nepal done to adapt to climate change? appe",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-18T11:15:00+00:00",
+      "published_ts": 1789730100.0
+    },
     {
       "title": "Inside the DNA and fingerprint effort to identify Rasuwa flood victims",
       "link": "https://english.onlinekhabar.com/how-nepal-using-dna.html",
@@ -65,26 +76,15 @@
       "published_ts": 1789722900.0
     },
     {
-      "title": "Video: Influencers accused of exploiting Nepal flood survivors",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
-      "summary": "‘Aid influencers’ are being accused of exploiting Nepal flood victims to boost social media followers.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-18T08:58:48+00:00",
-      "published_ts": 1789721928.0
-    },
-    {
-      "title": "6 bodies recovered from Upper Trishuli 3A tunnel",
-      "link": "https://english.onlinekhabar.com/6-bodies-recovered-from-upper-trishuli-3a-tunnel.html",
-      "summary": "Kathmandu, September 18 Six bodies have been recovered from a tunnel of the Upper Trishuli 3A Hydropower Project. According to the Nepal Army Headquarters, six bodies were found entangled in the reinforcement steel mesh installed for concreting the tunnel. Security personnel and representatives of the project have been deployed inside the tunnel and are working […] The post 6 bodies recovered from",
-      "source": "Online Khabar (EN)",
+      "title": "24 days after flood, hunger grips three Rusuwa wards",
+      "link": "https://kathmandupost.com/health/2026/09/18/24-days-after-flood-hunger-grips-three-rusuwa-wards",
+      "summary": "Food is running out in villages cut off after the Bhotekoshi flood swept away bridges.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
-      "highlight": true,
-      "published": "2026-09-18T06:58:22+00:00",
-      "published_ts": 1789714702.0
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Six bodies recovered from Upper Trishuli-1 tunnel",
