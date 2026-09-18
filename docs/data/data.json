@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-18T01:02:05.315365+00:00",
-  "total": 6,
-  "highlight_count": 2,
+  "updated_at": "2026-09-18T05:52:16.896609+00:00",
+  "total": 7,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,37 @@
   ],
   "items": [
     {
-      "title": "네팔 홍수 피해 아동 2만2천명…월드비전, 아동친화공간 운영",
-      "link": "https://www.yna.co.kr/view/AKR20260918046800371",
-      "summary": "(서울=연합뉴스) 정아란 기자 = 국제 구호개발 비정부기구(NGO)인 월드비전이 네팔 대홍수 피해 아동들을 돕기 위해 현지에 아동친화공간을 마련...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-18T00:43:35+00:00",
-      "published_ts": 1789692215.0
-    },
-    {
-      "title": "Bhotekoshi flash flood: 606 foreign nationals of 36 countries still missing",
-      "link": "https://risingnepaldaily.com/news/86689",
-      "summary": "Kathmandu, Sept 17: As many as 606 foreign tourists from 36 countries are still missing in the Bhotekoshi floods. Accord...",
-      "source": "The Rising Nepal",
+      "title": "Bhotekoshi Floods: 677 transport workers unaccounted for",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-floods-677-transport-workers-unaccounted-for.html",
+      "summary": "Kathmandu, September 18 The Nepal Truck Transport Entrepreneurs Federation has reported that 677 workers are unaccounted for following the Bhote Koshi floods. The Federation disclosed this information during a meeting held on Thursday—coordinated by Rajiv Pokharel, Director General of the Department of Transport Management. Furthermore, 515 trucks and containers have gone missing. The Ministry of ",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-17T16:29:49+00:00",
-      "published_ts": 1789662589.0
+      "published": "2026-09-18T05:51:59+00:00",
+      "published_ts": 1789710719.0
+    },
+    {
+      "title": "When a body is never found: How Nepal’s law handles declaring the dead",
+      "link": "https://english.onlinekhabar.com/when-a-body-is-never-found-how-nepals-law-handles-declaring-the-dead.html",
+      "summary": "Kathmandu, September 18 Families of people missing in the Bhotekoshi floods are facing a threefold hardship. They are not only grieving the loss of their loved ones but have also lost their homes, land and businesses. In addition, the bodies of their loved ones have not been recovered. The legal procedures they must complete have […] The post When a body is never found: How Nepal’s law handles dec",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-18T05:36:40+00:00",
+      "published_ts": 1789709800.0
+    },
+    {
+      "title": "898 hydropower workers remain missing after Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/hydropower-staff-missing-post-floods.html",
+      "summary": "Kathmandu, September 18 Twenty-two days after floods swept through the Bhotekoshi and Trishuli river corridors, 898 people working at 13 hydropower projects remain unaccounted for. According to data collected by the Nepal Engineers’ Association, 188 of those missing are engineers and technicians. The prolonged uncertainty has pushed some families to perform final rites using symbolic […] The post ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-18T03:06:04+00:00",
+      "published_ts": 1789700764.0
     },
     {
       "title": "S. Korea's 2nd Nepal relief team to return; efforts to locate 9 missing Koreans to continue",
@@ -85,6 +96,17 @@
       "highlight": true,
       "published": "2026-09-17T05:53:49+00:00",
       "published_ts": 1789624429.0
+    },
+    {
+      "title": "Wagle seeks India’s support for post-flood reconstruction",
+      "link": "https://kathmandupost.com/national/2026/09/18/wagle-seeks-india-s-support-for-post-flood-reconstruction",
+      "summary": "In his first foreign visit as finance minister, Wagle asks Sitharaman for help in rebuilding infrastructure destroyed by the Bhotekoshi floods and discusses trade, investment and connectivity.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Bhotekoshi floods disrupt schooling for 14,500 children in three districts",
@@ -105,17 +127,6 @@
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Five bodies found in flood-damaged Upper Trishuli-1 tunnel",
-      "link": "https://kathmandupost.com/national/2026/09/16/five-bodies-found-in-upper-trishuli-1-tunnel",
-      "summary": "The discovery comes three weeks after devastating floods hit Rasuwa and left people missing inside the hydropower project.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
       "published": null,
       "published_ts": 0
     }
