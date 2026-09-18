@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-18T05:52:16.896609+00:00",
+  "updated_at": "2026-09-18T10:36:15.067321+00:00",
   "total": 7,
-  "highlight_count": 1,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -48,54 +48,54 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Bhotekoshi Floods: 677 transport workers unaccounted for",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-floods-677-transport-workers-unaccounted-for.html",
-      "summary": "Kathmandu, September 18 The Nepal Truck Transport Entrepreneurs Federation has reported that 677 workers are unaccounted for following the Bhote Koshi floods. The Federation disclosed this information during a meeting held on Thursday—coordinated by Rajiv Pokharel, Director General of the Department of Transport Management. Furthermore, 515 trucks and containers have gone missing. The Ministry of ",
+      "title": "Inside the DNA and fingerprint effort to identify Rasuwa flood victims",
+      "link": "https://english.onlinekhabar.com/how-nepal-using-dna.html",
+      "summary": "More than 6,000 people remain missing following the devastating flood on the Bhotekoshi River in Rasuwa. Most of the bodies recovered so far cannot be identified. According to the latest figures, 1,403 bodies have been found. Of these, only 103 have been identified and handed over to relatives. The remaining 1,300 unidentified bodies have been […] The post Inside the DNA and fingerprint effort to ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-18T05:51:59+00:00",
-      "published_ts": 1789710719.0
+      "published": "2026-09-18T09:15:00+00:00",
+      "published_ts": 1789722900.0
     },
     {
-      "title": "When a body is never found: How Nepal’s law handles declaring the dead",
-      "link": "https://english.onlinekhabar.com/when-a-body-is-never-found-how-nepals-law-handles-declaring-the-dead.html",
-      "summary": "Kathmandu, September 18 Families of people missing in the Bhotekoshi floods are facing a threefold hardship. They are not only grieving the loss of their loved ones but have also lost their homes, land and businesses. In addition, the bodies of their loved ones have not been recovered. The legal procedures they must complete have […] The post When a body is never found: How Nepal’s law handles dec",
+      "title": "Video: Influencers accused of exploiting Nepal flood survivors",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
+      "summary": "‘Aid influencers’ are being accused of exploiting Nepal flood victims to boost social media followers.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-18T08:58:48+00:00",
+      "published_ts": 1789721928.0
+    },
+    {
+      "title": "6 bodies recovered from Upper Trishuli 3A tunnel",
+      "link": "https://english.onlinekhabar.com/6-bodies-recovered-from-upper-trishuli-3a-tunnel.html",
+      "summary": "Kathmandu, September 18 Six bodies have been recovered from a tunnel of the Upper Trishuli 3A Hydropower Project. According to the Nepal Army Headquarters, six bodies were found entangled in the reinforcement steel mesh installed for concreting the tunnel. Security personnel and representatives of the project have been deployed inside the tunnel and are working […] The post 6 bodies recovered from",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
-      "highlight": false,
-      "published": "2026-09-18T05:36:40+00:00",
-      "published_ts": 1789709800.0
-    },
-    {
-      "title": "898 hydropower workers remain missing after Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/hydropower-staff-missing-post-floods.html",
-      "summary": "Kathmandu, September 18 Twenty-two days after floods swept through the Bhotekoshi and Trishuli river corridors, 898 people working at 13 hydropower projects remain unaccounted for. According to data collected by the Nepal Engineers’ Association, 188 of those missing are engineers and technicians. The prolonged uncertainty has pushed some families to perform final rites using symbolic […] The post ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-18T03:06:04+00:00",
-      "published_ts": 1789700764.0
-    },
-    {
-      "title": "S. Korea's 2nd Nepal relief team to return; efforts to locate 9 missing Koreans to continue",
-      "link": "https://en.yna.co.kr/view/AEN20260917006800315",
-      "summary": "SEOUL, Sept. 17 (Yonhap) -- South Korea will maintain a joint government respons...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
       "highlight": true,
-      "published": "2026-09-17T05:53:49+00:00",
-      "published_ts": 1789624429.0
+      "published": "2026-09-18T06:58:22+00:00",
+      "published_ts": 1789714702.0
+    },
+    {
+      "title": "Six bodies recovered from Upper Trishuli-1 tunnel",
+      "link": "https://kathmandupost.com/national/2026/09/18/six-bodies-recovered-from-upper-trishuli-1-tunnel",
+      "summary": "Rescue teams find the bodies of people missing since the August 26 Bhotekoshi floods as search continues inside the tunnel for possible further victims.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Wagle seeks India’s support for post-flood reconstruction",
