@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T13:22:57.858717+00:00",
+  "updated_at": "2026-09-19T16:39:31.886303+00:00",
   "total": 11,
   "highlight_count": 2,
   "sources": [
@@ -98,6 +98,17 @@
       "published_ts": 1789730100.0
     },
     {
+      "title": "Wagle to tour US, Doha and Bangkok seeking help after climate-triggered Rasuwa floods",
+      "link": "https://kathmandupost.com/national/2026/09/19/wagle-to-tour-us-doha-and-bangkok-seeking-help-after-climate-triggered-rasuwa-floods",
+      "summary": "Prime Minister Balendra Shah is also expected to raise the issue of climate justice at the 81st session of the United Nations General Assembly in New York.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
       "title": "Mud and steep cliffs hamper efforts to reopen flood-hit roads",
       "link": "https://kathmandupost.com/national/2026/09/19/mud-and-steep-cliffs-hamper-efforts-to-reopen-flood-hit-roads",
       "summary": "Twenty-four days after the Bhotekoshi floods, Rasuwa and Nuwakot remain cut off from each other, while Dhading district headquarters also lacks a direct road link.",
@@ -156,17 +167,6 @@
       "title": "Wagle seeks India’s support for post-flood reconstruction",
       "link": "https://kathmandupost.com/national/2026/09/18/wagle-seeks-india-s-support-for-post-flood-reconstruction",
       "summary": "In his first foreign visit as finance minister, Wagle asks Sitharaman for help in rebuilding infrastructure destroyed by the Bhotekoshi floods and discusses trade, investment and connectivity.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bhotekoshi floods disrupt schooling for 14,500 children in three districts",
-      "link": "https://kathmandupost.com/national/2026/09/18/bhotekoshi-floods-disrupt-schooling-for-14-500-children-in-three-districts",
-      "summary": "More than 9,400 students have been directly affected, while schools being used as shelters are delaying the return to classes for thousands more.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
