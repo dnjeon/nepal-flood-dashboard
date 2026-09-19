@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-19T00:41:39.726040+00:00",
-  "total": 7,
+  "updated_at": "2026-09-19T05:10:19.348943+00:00",
+  "total": 13,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -48,11 +48,66 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
+      "link": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
+      "summary": "The floods raised concerns about cross-border warnings that experts say can no longer be ignored.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-09-19T04:25:42+00:00",
+      "published_ts": 1789791942.0
+    },
+    {
+      "title": "Infectious disease risks rise in Rasuwa flood-hit areas",
+      "link": "https://english.onlinekhabar.com/infectious-disease-risk-flood-areas.html",
+      "summary": "Kathmandu, September 18 The risk of infectious diseases has increased in areas affected by the Rasuwa floods, with 81 people diagnosed with diarrhoea at various holding centres over the past three weeks. Dr Sameer Adhikari, spokesperson for the Ministry of Health, said the risk of infection has increased because of problems with drinking water and […] The post Infectious disease risks rise in Rasu",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-19T04:15:00+00:00",
+      "published_ts": 1789791300.0
+    },
+    {
+      "title": "Disaster Recovery For Economic Revival",
+      "link": "https://risingnepaldaily.com/news/86753",
+      "summary": "The devastating Bhotekoshi floods hit at a time when Nepal has just begun a journey of political stability after several...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-19T04:07:16+00:00",
+      "published_ts": 1789790836.0
+    },
+    {
+      "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards",
+      "link": "https://english.onlinekhabar.com/bhote-koshi-flood-growing-danger.html",
+      "summary": "The catastrophic flood which took place in the Bhote Koshi–Trishuli river area in August 26 has left Nepal facing one of the worst mountain disasters in recent times. Starting in the glacierized Himalayan region, the situation quickly turned into a destructive sequence involving ice, rock, debris and water, which moved downstream through Rasuwa and then […] The post Bhotekoshi flood reveals the gr",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-19T03:15:00+00:00",
+      "published_ts": 1789787700.0
+    },
+    {
+      "title": "스키즈 방찬, 재활센터 구축·네팔 피해 복구에 총 2억원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20260919027600005",
+      "summary": "(서울=연합뉴스) 이태수 기자 = 그룹 스트레이 키즈의 방찬이 전문 재활센터 구축과 네팔 대홍수 피해 복구를 위해 총 2억원을 기부했다고 소속사...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-19T01:43:18+00:00",
+      "published_ts": 1789782198.0
+    },
     {
       "title": "What has Nepal done to adapt to climate change?",
       "link": "https://english.onlinekhabar.com/how-nepal-adapt-climate-change.html",
@@ -76,7 +131,18 @@
       "published_ts": 1789722900.0
     },
     {
-      "title": "24 days after flood, hunger grips three Rusuwa wards",
+      "title": "Jumla waits for its young men who left to earn and never returned",
+      "link": "https://kathmandupost.com/national/2026/09/19/jumla-waits-for-its-young-men-who-left-to-earn-and-never-returned",
+      "summary": "Forty-nine people from Jumla’s Patarasi Rural Municipality remain unaccounted for since the Bhotekoshi floods, including 15 young men from Lamri who had gone to Rasuwa for work.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "24 days after flood, hunger grips three Rasuwa wards",
       "link": "https://kathmandupost.com/health/2026/09/18/24-days-after-flood-hunger-grips-three-rusuwa-wards",
       "summary": "Food is running out in villages cut off after the Bhotekoshi flood swept away bridges.",
       "source": "The Kathmandu Post",
