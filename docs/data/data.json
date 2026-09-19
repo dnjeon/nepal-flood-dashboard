@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-19T21:18:19.517811+00:00",
-  "total": 11,
+  "updated_at": "2026-09-19T23:14:35.805485+00:00",
+  "total": 12,
   "highlight_count": 2,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[특파원 시선] 온실가스는 적지만 피해는 가혹…네팔이 묻는 '기후정의'",
+      "link": "https://www.yna.co.kr/view/AKR20260919007300084",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = \"네팔 홍수는 왜 이렇게 큰 피해를 냈을까.\"",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-19T22:07:00+00:00",
+      "published_ts": 1789855620.0
+    },
     {
       "title": "11 more bodies recovered from Upper Trishuli-1 tunnel",
       "link": "https://english.onlinekhabar.com/bodies-recovered-upper-trishuli-1.html",
