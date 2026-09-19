@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19T09:34:59.453034+00:00",
-  "total": 12,
+  "updated_at": "2026-09-19T13:22:57.858717+00:00",
+  "total": 11,
   "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 6,
+      "count": 7,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -48,7 +48,7 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
@@ -63,28 +63,6 @@
       "highlight": true,
       "published": "2026-09-19T09:17:00+00:00",
       "published_ts": 1789809420.0
-    },
-    {
-      "title": "Last rites of missing journalist Thami performed at Aryaghat",
-      "link": "https://risingnepaldaily.com/news/86765",
-      "summary": "Kathmandu, Sept 19: The last rites of journalist Tekraj Thami, who went missing after the devastating Bhotekoshi floods,...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-19T08:36:20+00:00",
-      "published_ts": 1789806980.0
-    },
-    {
-      "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
-      "link": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
-      "summary": "The floods raised concerns about cross-border warnings that experts say can no longer be ignored.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-19T04:25:42+00:00",
-      "published_ts": 1789791942.0
     },
     {
       "title": "Infectious disease risks rise in Rasuwa flood-hit areas",
@@ -118,6 +96,17 @@
       "highlight": false,
       "published": "2026-09-18T11:15:00+00:00",
       "published_ts": 1789730100.0
+    },
+    {
+      "title": "Mud and steep cliffs hamper efforts to reopen flood-hit roads",
+      "link": "https://kathmandupost.com/national/2026/09/19/mud-and-steep-cliffs-hamper-efforts-to-reopen-flood-hit-roads",
+      "summary": "Twenty-four days after the Bhotekoshi floods, Rasuwa and Nuwakot remain cut off from each other, while Dhading district headquarters also lacks a direct road link.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal begins probe into what triggered Bhotekoshi disaster",
