@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-19T05:10:19.348943+00:00",
-  "total": 13,
-  "highlight_count": 1,
+  "updated_at": "2026-09-19T09:34:59.453034+00:00",
+  "total": 12,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "11 more bodies recovered from Upper Trishuli-1 tunnel",
+      "link": "https://english.onlinekhabar.com/bodies-recovered-upper-trishuli-1.html",
+      "summary": "Rasuwa, September 19 Eleven more bodies have been recovered from the Upper Trishuli-1 Hydropower Project site on Saturday. The Nepal Army said the bodies were found entangled in nets and buried under mud at the project site. According to the Army, all 11 bodies have been recovered and brought out of the area. Search and […] The post 11 more bodies recovered from Upper Trishuli-1 tunnel appeared fi",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-19T09:17:00+00:00",
+      "published_ts": 1789809420.0
+    },
+    {
+      "title": "Last rites of missing journalist Thami performed at Aryaghat",
+      "link": "https://risingnepaldaily.com/news/86765",
+      "summary": "Kathmandu, Sept 19: The last rites of journalist Tekraj Thami, who went missing after the devastating Bhotekoshi floods,...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-19T08:36:20+00:00",
+      "published_ts": 1789806980.0
+    },
     {
       "title": "The Nepal floods question: When the Himalayas collapse, who gets warned?",
       "link": "https://www.aljazeera.com/news/2026/9/19/the-nepal-floods-question-when-the-himalayas-collapse-who-gets-warned?traffic_source=rss",
@@ -76,17 +98,6 @@
       "published_ts": 1789791300.0
     },
     {
-      "title": "Disaster Recovery For Economic Revival",
-      "link": "https://risingnepaldaily.com/news/86753",
-      "summary": "The devastating Bhotekoshi floods hit at a time when Nepal has just begun a journey of political stability after several...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-19T04:07:16+00:00",
-      "published_ts": 1789790836.0
-    },
-    {
       "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards",
       "link": "https://english.onlinekhabar.com/bhote-koshi-flood-growing-danger.html",
       "summary": "The catastrophic flood which took place in the Bhote Koshi–Trishuli river area in August 26 has left Nepal facing one of the worst mountain disasters in recent times. Starting in the glacierized Himalayan region, the situation quickly turned into a destructive sequence involving ice, rock, debris and water, which moved downstream through Rasuwa and then […] The post Bhotekoshi flood reveals the gr",
@@ -96,17 +107,6 @@
       "highlight": false,
       "published": "2026-09-19T03:15:00+00:00",
       "published_ts": 1789787700.0
-    },
-    {
-      "title": "스키즈 방찬, 재활센터 구축·네팔 피해 복구에 총 2억원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260919027600005",
-      "summary": "(서울=연합뉴스) 이태수 기자 = 그룹 스트레이 키즈의 방찬이 전문 재활센터 구축과 네팔 대홍수 피해 복구를 위해 총 2억원을 기부했다고 소속사...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-19T01:43:18+00:00",
-      "published_ts": 1789782198.0
     },
     {
       "title": "What has Nepal done to adapt to climate change?",
@@ -120,15 +120,15 @@
       "published_ts": 1789730100.0
     },
     {
-      "title": "Inside the DNA and fingerprint effort to identify Rasuwa flood victims",
-      "link": "https://english.onlinekhabar.com/how-nepal-using-dna.html",
-      "summary": "More than 6,000 people remain missing following the devastating flood on the Bhotekoshi River in Rasuwa. Most of the bodies recovered so far cannot be identified. According to the latest figures, 1,403 bodies have been found. Of these, only 103 have been identified and handed over to relatives. The remaining 1,300 unidentified bodies have been […] The post Inside the DNA and fingerprint effort to ",
-      "source": "Online Khabar (EN)",
+      "title": "Nepal begins probe into what triggered Bhotekoshi disaster",
+      "link": "https://kathmandupost.com/national/2026/09/19/nepal-begins-probe-into-what-triggered-bhotekoshi-disaster",
+      "summary": "A seven-member expert panel will trace the August 26 disaster from its source to downstream areas and examine geological, glacial and hydrological hazards, as well as the possible role of climate change.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-18T09:15:00+00:00",
-      "published_ts": 1789722900.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Jumla waits for its young men who left to earn and never returned",
@@ -178,17 +178,6 @@
       "title": "Bhotekoshi floods disrupt schooling for 14,500 children in three districts",
       "link": "https://kathmandupost.com/national/2026/09/18/bhotekoshi-floods-disrupt-schooling-for-14-500-children-in-three-districts",
       "summary": "More than 9,400 students have been directly affected, while schools being used as shelters are delaying the return to classes for thousands more.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bridges gone, roads damaged, villages cut off from relief",
-      "link": "https://kathmandupost.com/province-no-3/2026/09/17/bridges-gone-roads-damaged-villages-cut-off-from-relief",
-      "summary": "Helicopters and temporary crossings are helping deliver food and other essentials to cut-off communities in Rasuwa and Nuwakot, but officials say restoring roads and bridges must be an immediate priority.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
