@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19T23:14:35.805485+00:00",
-  "total": 12,
+  "updated_at": "2026-09-20T01:15:46.022392+00:00",
+  "total": 11,
   "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 7,
+      "count": 6,
       "error": null
     },
     {
@@ -171,17 +171,6 @@
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": true,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Wagle seeks India’s support for post-flood reconstruction",
-      "link": "https://kathmandupost.com/national/2026/09/18/wagle-seeks-india-s-support-for-post-flood-reconstruction",
-      "summary": "In his first foreign visit as finance minister, Wagle asks Sitharaman for help in rebuilding infrastructure destroyed by the Bhotekoshi floods and discusses trade, investment and connectivity.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
       "published": null,
       "published_ts": 0
     }
