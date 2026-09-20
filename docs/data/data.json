@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-20T06:23:48.502223+00:00",
+  "updated_at": "2026-09-20T11:41:53.140732+00:00",
   "total": 9,
-  "highlight_count": 1,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
-      "ok": true,
-      "count": 5,
-      "error": null
-    },
-    {
-      "name": "Online Khabar (EN)",
       "ok": true,
       "count": 4,
       "error": null
     },
     {
+      "name": "Online Khabar (EN)",
+      "ok": true,
+      "count": 3,
+      "error": null
+    },
+    {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -54,48 +54,59 @@
   ],
   "items": [
     {
+      "title": "Bhotekoshi flood: 1,436 bodies found",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-1436-bodies.html",
+      "summary": "Kathmandu, September 20 1,436 bodies have now been found among those who lost their lives in the Bhotekoshi flood. According to Nepal Police, as of 11 am today, 1,434 bodies had been found across the affected districts: 223 in Rasuwa, 203 in Nuwakot, 72 in Dhading, 365 in Chitwan, 79 in Gorkha, 38 in Tanahun, […] The post Bhotekoshi flood: 1,436 bodies found appeared first on OnlineKhabar English ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-20T08:58:38+00:00",
+      "published_ts": 1789894718.0
+    },
+    {
+      "title": "As floods damage hydropower projects, what happens to public investments?",
+      "link": "https://english.onlinekhabar.com/flood-hydropower-public-investments.html",
+      "summary": "Kathmandu, September 20 Six of the 13 hydropower projects damaged by the floods of August 26 are owned by companies listed on the secondary share market, meaning thousands of public investors are exposed to the losses caused by the disaster. The affected listed companies are Rasuwagadhi Hydropower Company, which operates a 111 MW project; Chilime […] The post As floods damage hydropower projects, ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-20T08:45:00+00:00",
+      "published_ts": 1789893900.0
+    },
+    {
+      "title": "1,436 bodies recovered so far since Bhotekoshi floods",
+      "link": "https://risingnepaldaily.com/news/86807",
+      "summary": "Kathmandu, Sept 20: Total 1,436 dead bodies have been recovered from various places since the Bhotekoshi floods disaster...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-20T08:18:23+00:00",
+      "published_ts": 1789892303.0
+    },
+    {
+      "title": "NCP rethinks convention schedule after Rasuwa flood disruption",
+      "link": "https://english.onlinekhabar.com/ncp-rethinks-convention-schedule.html",
+      "summary": "Kathmandu, September 20 The Nepali Communist Party’s (NCP) previously set schedule for its conventions has been disrupted. Party spokesperson Prakash Jwala said the schedule was affected due to the situation following the Rasuwa flood. “Earlier, the party’s Central Coordination Committee had drawn up a timeline for the conventions and general convention,” he said. “But because […] The post NCP ret",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-20T08:15:45+00:00",
+      "published_ts": 1789892145.0
+    },
+    {
       "title": "Mustang sees drop in tourist arrivals after Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/mustang-sees-drop-in-tourist-arrivals-after-bhotekoshi-floods.html",
-      "summary": "Mustang, September 20 Tourism in Mustang has witnessed a slowdown in the aftermath of the floods that struck the Bhotekoshi-Trishuli river system on August 26. The District Police Office, Mustang, said the district saw a significant decline in arrivals of both domestic and foreign tourists in the month of Bhadra (August 17 to September 16) […] The post Mustang sees drop in tourist arrivals after B",
-      "source": "Online Khabar (EN)",
+      "link": "https://risingnepaldaily.com/news/86803",
+      "summary": "Mustang, Sept 20: Tourism in Mustang has witnessed a slowdown in the aftermath of the floods that struck the Bhotekoshi-...",
+      "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-20T06:10:36+00:00",
-      "published_ts": 1789884636.0
-    },
-    {
-      "title": "11 more bodies recovered from Upper Trishuli-1 tunnel",
-      "link": "https://english.onlinekhabar.com/bodies-recovered-upper-trishuli-1.html",
-      "summary": "Rasuwa, September 19 Eleven more bodies have been recovered from the Upper Trishuli-1 Hydropower Project site on Saturday. The Nepal Army said the bodies were found entangled in nets and buried under mud at the project site. According to the Army, all 11 bodies have been recovered and brought out of the area. Search and […] The post 11 more bodies recovered from Upper Trishuli-1 tunnel appeared fi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": true,
-      "published": "2026-09-19T09:17:00+00:00",
-      "published_ts": 1789809420.0
-    },
-    {
-      "title": "Infectious disease risks rise in Rasuwa flood-hit areas",
-      "link": "https://english.onlinekhabar.com/infectious-disease-risk-flood-areas.html",
-      "summary": "Kathmandu, September 18 The risk of infectious diseases has increased in areas affected by the Rasuwa floods, with 81 people diagnosed with diarrhoea at various holding centres over the past three weeks. Dr Sameer Adhikari, spokesperson for the Ministry of Health, said the risk of infection has increased because of problems with drinking water and […] The post Infectious disease risks rise in Rasu",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-19T04:15:00+00:00",
-      "published_ts": 1789791300.0
-    },
-    {
-      "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards",
-      "link": "https://english.onlinekhabar.com/bhote-koshi-flood-growing-danger.html",
-      "summary": "The catastrophic flood which took place in the Bhote Koshi–Trishuli river area in August 26 has left Nepal facing one of the worst mountain disasters in recent times. Starting in the glacierized Himalayan region, the situation quickly turned into a destructive sequence involving ice, rock, debris and water, which moved downstream through Rasuwa and then […] The post Bhotekoshi flood reveals the gr",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-19T03:15:00+00:00",
-      "published_ts": 1789787700.0
+      "published": "2026-09-20T07:32:10+00:00",
+      "published_ts": 1789889530.0
     },
     {
       "title": "Wagle to tour US, Doha and Bangkok seeking help after climate-triggered Rasuwa floods",
@@ -134,17 +145,6 @@
       "title": "Jumla waits for its young men who left to earn and never returned",
       "link": "https://kathmandupost.com/national/2026/09/19/jumla-waits-for-its-young-men-who-left-to-earn-and-never-returned",
       "summary": "Forty-nine people from Jumla’s Patarasi Rural Municipality remain unaccounted for since the Bhotekoshi floods, including 15 young men from Lamri who had gone to Rasuwa for work.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "24 days after flood, hunger grips three Rasuwa wards",
-      "link": "https://kathmandupost.com/health/2026/09/18/24-days-after-flood-hunger-grips-three-rusuwa-wards",
-      "summary": "Food is running out in villages cut off after the Bhotekoshi flood swept away bridges.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
