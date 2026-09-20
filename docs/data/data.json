@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T11:41:53.140732+00:00",
-  "total": 9,
+  "updated_at": "2026-09-20T14:54:43.940284+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -85,28 +85,6 @@
       "highlight": false,
       "published": "2026-09-20T08:18:23+00:00",
       "published_ts": 1789892303.0
-    },
-    {
-      "title": "NCP rethinks convention schedule after Rasuwa flood disruption",
-      "link": "https://english.onlinekhabar.com/ncp-rethinks-convention-schedule.html",
-      "summary": "Kathmandu, September 20 The Nepali Communist Party’s (NCP) previously set schedule for its conventions has been disrupted. Party spokesperson Prakash Jwala said the schedule was affected due to the situation following the Rasuwa flood. “Earlier, the party’s Central Coordination Committee had drawn up a timeline for the conventions and general convention,” he said. “But because […] The post NCP ret",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-20T08:15:45+00:00",
-      "published_ts": 1789892145.0
-    },
-    {
-      "title": "Mustang sees drop in tourist arrivals after Bhotekoshi floods",
-      "link": "https://risingnepaldaily.com/news/86803",
-      "summary": "Mustang, Sept 20: Tourism in Mustang has witnessed a slowdown in the aftermath of the floods that struck the Bhotekoshi-...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-20T07:32:10+00:00",
-      "published_ts": 1789889530.0
     },
     {
       "title": "Wagle to tour US, Doha and Bangkok seeking help after climate-triggered Rasuwa floods",
