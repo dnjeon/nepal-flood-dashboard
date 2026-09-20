@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-20T20:33:37.403466+00:00",
-  "total": 7,
+  "updated_at": "2026-09-20T22:41:15.991157+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[기후재난 현장] 역대 최저로 내려간 美최대 저수지…섬은 산이 돼버렸다",
+      "link": "https://www.yna.co.kr/view/AKR20260918004900075",
+      "summary": "[※ 편집자 주 = 최근 중국·네팔 접경지대에서는 엄청난 규모의 산악지대 대홍수가 발생했습니다. 기후변화로 인해 대규모 빙하가 붕괴하면서 홍수로...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-20T22:01:00+00:00",
+      "published_ts": 1789941660.0
+    },
     {
       "title": "Photos: Nepal flood survivors find little trace of former lives",
       "link": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
