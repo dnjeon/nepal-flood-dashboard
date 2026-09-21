@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-21T10:59:31.003845+00:00",
-  "total": 1,
-  "highlight_count": 0,
+  "updated_at": "2026-09-21T16:56:21.591375+00:00",
+  "total": 3,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -11,15 +11,15 @@
     },
     {
       "name": "Online Khabar (EN)",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "ok": true,
+      "count": 2,
+      "error": null
     },
     {
       "name": "The Rising Nepal",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"
     },
     {
       "name": "Nepal News",
@@ -29,15 +29,15 @@
     },
     {
       "name": "Yonhap (EN)",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "timed out"
+      "error": null
     },
     {
       "name": "Yonhap 연합뉴스",
-      "ok": false,
+      "ok": true,
       "count": 0,
-      "error": "timed out"
+      "error": null
     },
     {
       "name": "Korea Herald",
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "100 billion needed for post-disaster reconstruction, says Minister Lamsal",
+      "link": "https://english.onlinekhabar.com/100-billion-says-minister-lamsal.html",
+      "summary": "Kathmandu, September 21 Infrastructure Development Minister Sunil Lamsal has said that around Rs 100 billion is needed for post-disaster reconstruction and infrastructure management following the Bhotekoshi disaster. Speaking at a meeting of the Infrastructure Development Committee held at Singha Durbar on Monday, Minister Lamsal said this amount would be required for a plan covering the […] The p",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-21T10:50:39+00:00",
+      "published_ts": 1789987839.0
+    },
+    {
+      "title": "39 dead, 439 missing at Upper Trishuli-1 Hydropower Project",
+      "link": "https://english.onlinekhabar.com/39-dead-439-missing-at-upper-trishuli-1-hydropower-project.html",
+      "summary": "Kathmandu, September 21 Thirty-nine people working at the 216 MW Upper Trishuli-1 Hydropower Project in Rasuwa have been found dead, while 439 others remain missing following the devastating flood in the Bhotekoshi River on August 26. According to Nepal Water and Energy Development Company, the project promoter, around 1,433 Nepali and foreign workers were at […] The post 39 dead, 439 missing at U",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-21T09:48:48+00:00",
+      "published_ts": 1789984128.0
+    },
     {
       "title": "Welcome to a terrifying new climate era",
       "link": "https://kathmandupost.com/columns/2026/09/21/welcome-to-a-terrifying-new-climate-era",
