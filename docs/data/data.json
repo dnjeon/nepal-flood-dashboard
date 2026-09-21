@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-21T00:33:13.813981+00:00",
-  "total": 8,
+  "updated_at": "2026-09-21T05:25:39.495108+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -48,54 +48,21 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Rasuwa–Nuwakot road works accelerate",
-      "link": "https://risingnepaldaily.com/news/86820",
-      "summary": "By A Staff ReporterKathmandu, Sept. 21: Efforts are underway to restore road connectivity between Rasuwa and Nuwakot aft...",
-      "source": "The Rising Nepal",
+      "title": "Welcome to a terrifying new climate era",
+      "link": "https://kathmandupost.com/columns/2026/09/21/welcome-to-a-terrifying-new-climate-era",
+      "summary": "The Bhotekoshi crisis must be recognised as a clear signal that we have entered a new era in our rapidly warming world.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-21T00:14:29+00:00",
-      "published_ts": 1789949669.0
-    },
-    {
-      "title": "Photos: Nepal flood survivors find little trace of former lives",
-      "link": "https://www.aljazeera.com/gallery/2026/9/20/photos-nepal-flood-survivors-find-little-trace-of-former-lives?traffic_source=rss",
-      "summary": "Nepal’s floods displace thousands, with survivors mourning loved ones and searching for belongings amid the debris.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-20T16:36:03+00:00",
-      "published_ts": 1789922163.0
-    },
-    {
-      "title": "Bhotekoshi flood: 1,436 bodies found",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-1436-bodies.html",
-      "summary": "Kathmandu, September 20 1,436 bodies have now been found among those who lost their lives in the Bhotekoshi flood. According to Nepal Police, as of 11 am today, 1,434 bodies had been found across the affected districts: 223 in Rasuwa, 203 in Nuwakot, 72 in Dhading, 365 in Chitwan, 79 in Gorkha, 38 in Tanahun, […] The post Bhotekoshi flood: 1,436 bodies found appeared first on OnlineKhabar English ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-20T08:58:38+00:00",
-      "published_ts": 1789894718.0
-    },
-    {
-      "title": "As floods damage hydropower projects, what happens to public investments?",
-      "link": "https://english.onlinekhabar.com/flood-hydropower-public-investments.html",
-      "summary": "Kathmandu, September 20 Six of the 13 hydropower projects damaged by the floods of August 26 are owned by companies listed on the secondary share market, meaning thousands of public investors are exposed to the losses caused by the disaster. The affected listed companies are Rasuwagadhi Hydropower Company, which operates a 111 MW project; Chilime […] The post As floods damage hydropower projects, ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-20T08:45:00+00:00",
-      "published_ts": 1789893900.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Wagle to tour US, Doha and Bangkok seeking help after climate-triggered Rasuwa floods",
@@ -112,28 +79,6 @@
       "title": "Mud and steep cliffs hamper efforts to reopen flood-hit roads",
       "link": "https://kathmandupost.com/national/2026/09/19/mud-and-steep-cliffs-hamper-efforts-to-reopen-flood-hit-roads",
       "summary": "Twenty-four days after the Bhotekoshi floods, Rasuwa and Nuwakot remain cut off from each other, while Dhading district headquarters also lacks a direct road link.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal begins probe into what triggered Bhotekoshi disaster",
-      "link": "https://kathmandupost.com/national/2026/09/19/nepal-begins-probe-into-what-triggered-bhotekoshi-disaster",
-      "summary": "A seven-member expert panel will trace the August 26 disaster from its source to downstream areas and examine geological, glacial and hydrological hazards, as well as the possible role of climate change.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Jumla waits for its young men who left to earn and never returned",
-      "link": "https://kathmandupost.com/national/2026/09/19/jumla-waits-for-its-young-men-who-left-to-earn-and-never-returned",
-      "summary": "Forty-nine people from Jumla’s Patarasi Rural Municipality remain unaccounted for since the Bhotekoshi floods, including 15 young men from Lamri who had gone to Rasuwa for work.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
