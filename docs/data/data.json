@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T20:16:00.379433+00:00",
-  "total": 4,
+  "updated_at": "2026-09-22T23:01:11.661711+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "\"죽을 때까지 즐겁게 살라\"…'네팔 슈바이처' 이근후 교수 별세",
-      "link": "https://www.yna.co.kr/view/AKR20260922194500704",
-      "summary": "(서울=연합뉴스) 이충원 기자 = 국내 최초로 사이코드라마 치료법을 시도한 정신과 의사이자 '네팔 슈바이처'로 불린 산악인, '나는 죽을 때까지...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-22T12:28:34+00:00",
-      "published_ts": 1790080114.0
-    },
     {
       "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
       "link": "https://kathmandupost.com/national/2026/09/22/balendra-shah-s-un-appearance-draws-diplomatic-interest-in-new-york",
