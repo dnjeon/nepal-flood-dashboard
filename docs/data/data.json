@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T01:55:50.892433+00:00",
-  "total": 7,
-  "highlight_count": 1,
+  "updated_at": "2026-09-22T07:22:33.400172+00:00",
+  "total": 5,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
-      "ok": false,
-      "count": 0,
-      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)"
+      "ok": true,
+      "count": 1,
+      "error": null
     },
     {
       "name": "Nepal News",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,37 +54,26 @@
   ],
   "items": [
     {
-      "title": "[부산소식] 영산대서 네팔 홍수 희생자 추모식",
-      "link": "https://www.yna.co.kr/view/AKR20260922066000051",
-      "summary": "(부산=연합뉴스) ▲ 영산대서 네팔 홍수 희생자 추모식 = 영산대학교 유학생지원센터는 21일 부산 해운대캠퍼스에서 최근 네팔에서 발생한 홍수 피...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-22T01:13:19+00:00",
-      "published_ts": 1790039599.0
-    },
-    {
-      "title": "100 billion needed for post-disaster reconstruction, says Minister Lamsal",
-      "link": "https://english.onlinekhabar.com/100-billion-says-minister-lamsal.html",
-      "summary": "Kathmandu, September 21 Infrastructure Development Minister Sunil Lamsal has said that around Rs 100 billion is needed for post-disaster reconstruction and infrastructure management following the Bhotekoshi disaster. Speaking at a meeting of the Infrastructure Development Committee held at Singha Durbar on Monday, Minister Lamsal said this amount would be required for a plan covering the […] The p",
+      "title": "Mongolian Heart to tour four European countries; proceeds to go to Bhotekoshi flood victims",
+      "link": "https://english.onlinekhabar.com/mongolian-heart-europe-tour.html",
+      "summary": "Kathmandu, September 22 Nepali pop band Mongolian Heart is heading to Europe for the first time in three decades. Under the “Mongolian Heart Europe Mini Tour 2026,” the band will perform live in four countries. The tour is being organised by Four Brothers Event Management. The band’s eight-member team is scheduled to depart on September […] The post Mongolian Heart to tour four European countries;",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-21T10:50:39+00:00",
-      "published_ts": 1789987839.0
+      "published": "2026-09-22T06:57:17+00:00",
+      "published_ts": 1790060237.0
     },
     {
-      "title": "39 dead, 439 missing at Upper Trishuli-1 Hydropower Project",
-      "link": "https://english.onlinekhabar.com/39-dead-439-missing-at-upper-trishuli-1-hydropower-project.html",
-      "summary": "Kathmandu, September 21 Thirty-nine people working at the 216 MW Upper Trishuli-1 Hydropower Project in Rasuwa have been found dead, while 439 others remain missing following the devastating flood in the Bhotekoshi River on August 26. According to Nepal Water and Energy Development Company, the project promoter, around 1,433 Nepali and foreign workers were at […] The post 39 dead, 439 missing at U",
-      "source": "Online Khabar (EN)",
+      "title": "Call For Global Stewardship At UN",
+      "link": "https://risingnepaldaily.com/news/86870",
+      "summary": "The Rasuwa flood was a mega disaster, a wake-up call for the Himalaya. For years we have treated Himalayan disasters as...",
+      "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
-      "highlight": true,
-      "published": "2026-09-21T09:48:48+00:00",
-      "published_ts": 1789984128.0
+      "highlight": false,
+      "published": "2026-09-22T02:39:28+00:00",
+      "published_ts": 1790044768.0
     },
     {
       "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
@@ -112,17 +101,6 @@
       "title": "The nurse who wanted to heal Rasuwa",
       "link": "https://kathmandupost.com/province-no-3/2026/09/22/the-nurse-who-wanted-to-heal-rasuwa",
       "summary": "Pratima Tamang Lama was a nurse, community worker, and ambitious local leader who dreamed of becoming Nepal’s health minister. The Bhotekoshi flood cut those dreams short.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Welcome to a terrifying new climate era",
-      "link": "https://kathmandupost.com/columns/2026/09/21/welcome-to-a-terrifying-new-climate-era",
-      "summary": "The Bhotekoshi crisis must be recognised as a clear signal that we have entered a new era in our rapidly warming world.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
