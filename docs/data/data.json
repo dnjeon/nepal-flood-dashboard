@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-21T23:41:36.585255+00:00",
-  "total": 3,
+  "updated_at": "2026-09-22T01:55:50.892433+00:00",
+  "total": 7,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 4,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "[부산소식] 영산대서 네팔 홍수 희생자 추모식",
+      "link": "https://www.yna.co.kr/view/AKR20260922066000051",
+      "summary": "(부산=연합뉴스) ▲ 영산대서 네팔 홍수 희생자 추모식 = 영산대학교 유학생지원센터는 21일 부산 해운대캠퍼스에서 최근 네팔에서 발생한 홍수 피...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-22T01:13:19+00:00",
+      "published_ts": 1790039599.0
+    },
     {
       "title": "100 billion needed for post-disaster reconstruction, says Minister Lamsal",
       "link": "https://english.onlinekhabar.com/100-billion-says-minister-lamsal.html",
@@ -74,6 +85,39 @@
       "highlight": true,
       "published": "2026-09-21T09:48:48+00:00",
       "published_ts": 1789984128.0
+    },
+    {
+      "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
+      "link": "https://kathmandupost.com/national/2026/09/22/balendra-shah-s-un-appearance-draws-diplomatic-interest-in-new-york",
+      "summary": "Nepal’s prime minister is set to address the General Assembly on climate justice, the Bhotekoshi floods and the concerns of mountain countries.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "What the Bhotekoshi flood revealed about Nepal’s health system",
+      "link": "https://kathmandupost.com/columns/2026/09/22/what-the-bhotekoshi-flood-revealed-about-nepal-s-health-system",
+      "summary": "The emergency phase of the flood has largely been contained, but the most demanding work still lies ahead.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "The nurse who wanted to heal Rasuwa",
+      "link": "https://kathmandupost.com/province-no-3/2026/09/22/the-nurse-who-wanted-to-heal-rasuwa",
+      "summary": "Pratima Tamang Lama was a nurse, community worker, and ambitious local leader who dreamed of becoming Nepal’s health minister. The Bhotekoshi flood cut those dreams short.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Welcome to a terrifying new climate era",
