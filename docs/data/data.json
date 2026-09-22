@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T07:22:33.400172+00:00",
-  "total": 5,
+  "updated_at": "2026-09-22T12:45:31.702797+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,26 +54,15 @@
   ],
   "items": [
     {
-      "title": "Mongolian Heart to tour four European countries; proceeds to go to Bhotekoshi flood victims",
-      "link": "https://english.onlinekhabar.com/mongolian-heart-europe-tour.html",
-      "summary": "Kathmandu, September 22 Nepali pop band Mongolian Heart is heading to Europe for the first time in three decades. Under the “Mongolian Heart Europe Mini Tour 2026,” the band will perform live in four countries. The tour is being organised by Four Brothers Event Management. The band’s eight-member team is scheduled to depart on September […] The post Mongolian Heart to tour four European countries;",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "\"죽을 때까지 즐겁게 살라\"…'네팔 슈바이처' 이근후 교수 별세",
+      "link": "https://www.yna.co.kr/view/AKR20260922194500704",
+      "summary": "(서울=연합뉴스) 이충원 기자 = 국내 최초로 사이코드라마 치료법을 시도한 정신과 의사이자 '네팔 슈바이처'로 불린 산악인, '나는 죽을 때까지...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
       "highlight": false,
-      "published": "2026-09-22T06:57:17+00:00",
-      "published_ts": 1790060237.0
-    },
-    {
-      "title": "Call For Global Stewardship At UN",
-      "link": "https://risingnepaldaily.com/news/86870",
-      "summary": "The Rasuwa flood was a mega disaster, a wake-up call for the Himalaya. For years we have treated Himalayan disasters as...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-22T02:39:28+00:00",
-      "published_ts": 1790044768.0
+      "published": "2026-09-22T12:28:34+00:00",
+      "published_ts": 1790080114.0
     },
     {
       "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
