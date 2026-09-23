@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T06:28:57.424300+00:00",
-  "total": 6,
+  "updated_at": "2026-09-23T12:01:29.095056+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 4,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -54,64 +54,75 @@
   ],
   "items": [
     {
-      "title": "For Tetangche, the flood has become a crisis of food, work and survival",
-      "link": "https://english.onlinekhabar.com/tetangche-struggle-flood-food.html",
-      "summary": "Tetangche, September 23 The kitchen in Selkar Tamang’s home has gone quiet. Tamang lives with six other members of his family in Tetangche, a remote settlement in Ward 5 of Aamachhodingmo Rural Municipality in Rasuwa district. Since the Bhotekoshi flood on August 26 cut off the road connection to the village, no food supplies have […] The post For Tetangche, the flood has become a crisis of food, ",
+      "title": "Alternative energy being explored to ensure smooth winter power supply: NEA Managing Director Shrestha",
+      "link": "https://english.onlinekhabar.com/alternative-energy-being-explored-to-ensure-smooth-winter-power-supply-nea-managing-director-shrestha.html",
+      "summary": "Kathmandu, September 23 Newly appointed Nepal Electricity Authority Managing Director Dirghayukumar Shrestha has said that alternative energy sources are being explored to ensure a smooth electricity supply during the winter season. Assuming office at the authority’s Darbar Marg office on Wednesday, Shrestha said the reconstruction of hydropower projects damaged by the Bhotekoshi flood in Rasuwa [",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T05:31:52+00:00",
-      "published_ts": 1790141512.0
+      "published": "2026-09-23T10:46:17+00:00",
+      "published_ts": 1790160377.0
     },
     {
-      "title": "Nine families wait in silence as Dashain nears",
-      "link": "https://risingnepaldaily.com/news/86911",
-      "summary": "By Ajay Shah, Mahottari, (Gaushaha), Sept. 23: The devastating flood and landslides that struck Rasuwa on August 26 have...",
-      "source": "The Rising Nepal",
+      "title": "After Nepal’s Bhotekoshi flood, who pays for the damage?",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-who-pays-damage.html",
+      "summary": "On 26 August 2026, when a colossal wedge of bedrock and glacial ice broke free from the northern flank of Mount Langtang Lirung at precisely 28.288°N, 85.528°E into Lhende Khola, it triggered devastating floods across Nepal, destroying villages, fertile land, bridges, roads, and 13 hydropower projects with a combined capacity of around 759 MW. Initial […] The post After Nepal’s Bhotekoshi flood, w",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T03:42:17+00:00",
-      "published_ts": 1790134937.0
+      "published": "2026-09-23T10:15:00+00:00",
+      "published_ts": 1790158500.0
     },
     {
-      "title": "Agriculture, livestock, fisheries suffer significant loss in Bhotekoshi flood",
-      "link": "https://risingnepaldaily.com/news/86904",
-      "summary": "Kathmandu, Sept. 23: The damage to agriculture, livestock and fisheries caused by the recent Bhotekoshi flood has been e...",
-      "source": "The Rising Nepal",
+      "title": "Raju Lama Foundation and Small World provide relief and health services to flood victims in Rasuwa",
+      "link": "https://english.onlinekhabar.com/raju-lama-foundation-relief.html",
+      "summary": "Kathmandu, September 23 The Raju Lama Foundation, a charitable organisation run by singer Raju Lama, and the social organisation Small World have distributed relief supplies in Tetangche village, Amachhodingmo Rural Municipality, in Rasuwa, an area affected by Bhotekoshi flooding. The two organisations have also provided health services to those affected. Singer Lama said 3,500 kg […] The post Raj",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T02:11:47+00:00",
-      "published_ts": 1790129507.0
+      "published": "2026-09-23T09:23:50+00:00",
+      "published_ts": 1790155430.0
+    },
+    {
+      "title": "China provides equipment and technology for DNA testing of Rasuwa flood victims",
+      "link": "https://english.onlinekhabar.com/china-provides-equipment-and-technology-for-dna-testing-of-rasuwa-flood-victims.html",
+      "summary": "Kathmandu, September 23 The Chinese government has provided the Nepal Academy of Science and Technology (NAST) with equipment, materials and technology required for DNA testing. China has transferred the necessary technology to Nepal for DNA profiling to identify people who died or went missing in the Rasuwa floods. At a programme held on Wednesday in […] The post China provides equipment and tech",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-23T09:07:25+00:00",
+      "published_ts": 1790154445.0
+    },
+    {
+      "title": "Bhotekoshi floods prompt ADB to cut Nepal’s growth forecast to 4.1 percent",
+      "link": "https://kathmandupost.com/money/2026/09/23/bhotekoshi-floods-prompt-adb-to-cut-nepal-s-growth-forecast-to-4-1-percent",
+      "summary": "The Asian Development Bank has raised its inflation forecast to 5.3 percent and expects the fiscal deficit to widen as reconstruction spending increases following the devastation.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Over 800 people remain missing from hydropower projects after Bhotekoshi floods, says energy minister Shrestha",
+      "link": "https://kathmandupost.com/national/2026/09/23/over-800-people-remain-missing-from-hydropower-projects-after-bhotekoshi-floods-says-energy-minister-shrestha",
+      "summary": "Shrestha tells Parliament that search and rescue teams are still looking for workers believed to be trapped in underground structures or swept away by the August 26 disaster.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "For Bhotekoshi flood survivors, the tuin is an ordeal",
       "link": "https://kathmandupost.com/province-no-3/2026/09/23/for-bhotekoshi-flood-survivors-the-tuin-is-an-ordeal",
       "summary": "In Nuwakot, locals walk for five to six hours to reach the tuin, an improvised cable crossing, then wait for another four to five hours to cross.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
-      "link": "https://kathmandupost.com/national/2026/09/22/balendra-shah-s-un-appearance-draws-diplomatic-interest-in-new-york",
-      "summary": "Nepal’s prime minister is set to address the General Assembly on climate justice, the Bhotekoshi floods and the concerns of mountain countries.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "What the Bhotekoshi flood revealed about Nepal’s health system",
-      "link": "https://kathmandupost.com/columns/2026/09/22/what-the-bhotekoshi-flood-revealed-about-nepal-s-health-system",
-      "summary": "The emergency phase of the flood has largely been contained, but the most demanding work still lies ahead.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
