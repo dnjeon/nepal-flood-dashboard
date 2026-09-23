@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T23:01:11.661711+00:00",
-  "total": 3,
+  "updated_at": "2026-09-23T01:27:27.431596+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Beware Of Rainstorm",
+      "link": "https://risingnepaldaily.com/news/86900",
+      "summary": "As the scar Bhotekoshi flood continues to linger, another threat of torrential rain is in the making. According to meteo...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-23T01:07:30+00:00",
+      "published_ts": 1790125650.0
+    },
     {
       "title": "Balendra Shah’s UN appearance draws diplomatic interest in New York",
       "link": "https://kathmandupost.com/national/2026/09/22/balendra-shah-s-un-appearance-draws-diplomatic-interest-in-new-york",
