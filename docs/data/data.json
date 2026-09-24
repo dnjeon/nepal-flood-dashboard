@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T06:07:51.096213+00:00",
+  "updated_at": "2026-09-24T11:40:25.119018+00:00",
   "total": 7,
   "highlight_count": 0,
   "sources": [
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Civil society urges government to publish comprehensive disaster action plan",
+      "link": "https://english.onlinekhabar.com/civil-society-urges-government.html",
+      "summary": "Kathmandu, September 24 Members of civil society and human rights activists have demanded that the government immediately make public a detailed action plan for rehabilitating flood victims, rebuilding damaged infrastructure, and reducing loss of life and property from future disasters. In a joint statement, they expressed sorrow over the damage caused in Rasuwa, Nuwakot, and […] The post Civil so",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-24T06:47:09+00:00",
+      "published_ts": 1790232429.0
+    },
+    {
       "title": "외교부, G7 개발장관회의서 네팔 홍수 대응 지원 설명",
       "link": "https://www.yna.co.kr/view/AKR20260924032200504",
       "summary": "(서울=연합뉴스) 민선희 기자 = 외교부는 23일(현지시간) 미국 뉴욕에서 열린 주요 7개국(G7) 개발장관회의에서 한국 정부의 네팔 홍수 피해...",
@@ -63,17 +74,6 @@
       "highlight": false,
       "published": "2026-09-24T04:37:25+00:00",
       "published_ts": 1790224645.0
-    },
-    {
-      "title": "Climate Justice For Prevention, Resilience",
-      "link": "https://risingnepaldaily.com/news/86951",
-      "summary": "Nepal faces one of the most painful times in its recent history. The catastrophic Bhotekoshi flash flood has caused the...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-24T02:40:19+00:00",
-      "published_ts": 1790217619.0
     },
     {
       "title": "Rasuwa flash floods recede, health risks loom",
