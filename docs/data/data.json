@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-24T01:05:19.706693+00:00",
+  "updated_at": "2026-09-24T06:07:51.096213+00:00",
   "total": 7,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 5,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,37 +54,48 @@
   ],
   "items": [
     {
-      "title": "Govt prepares exit strategy from Bhotekoshi search, rescue work",
-      "link": "https://risingnepaldaily.com/news/86940",
-      "summary": "Kathmandu, Sept. 24: The government has begun preparations to determine how and when to conclude the search and rescue o...",
+      "title": "외교부, G7 개발장관회의서 네팔 홍수 대응 지원 설명",
+      "link": "https://www.yna.co.kr/view/AKR20260924032200504",
+      "summary": "(서울=연합뉴스) 민선희 기자 = 외교부는 23일(현지시간) 미국 뉴욕에서 열린 주요 7개국(G7) 개발장관회의에서 한국 정부의 네팔 홍수 피해...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-24T04:37:25+00:00",
+      "published_ts": 1790224645.0
+    },
+    {
+      "title": "Climate Justice For Prevention, Resilience",
+      "link": "https://risingnepaldaily.com/news/86951",
+      "summary": "Nepal faces one of the most painful times in its recent history. The catastrophic Bhotekoshi flash flood has caused the...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-24T00:28:30+00:00",
-      "published_ts": 1790209710.0
+      "published": "2026-09-24T02:40:19+00:00",
+      "published_ts": 1790217619.0
     },
     {
-      "title": "Alternative energy being explored to ensure smooth winter power supply: NEA Managing Director Shrestha",
-      "link": "https://english.onlinekhabar.com/alternative-energy-being-explored-to-ensure-smooth-winter-power-supply-nea-managing-director-shrestha.html",
-      "summary": "Kathmandu, September 23 Newly appointed Nepal Electricity Authority Managing Director Dirghayukumar Shrestha has said that alternative energy sources are being explored to ensure a smooth electricity supply during the winter season. Assuming office at the authority’s Darbar Marg office on Wednesday, Shrestha said the reconstruction of hydropower projects damaged by the Bhotekoshi flood in Rasuwa [",
-      "source": "Online Khabar (EN)",
+      "title": "Rasuwa flash floods recede, health risks loom",
+      "link": "https://kathmandupost.com/columns/2026/09/24/rasuwa-flash-floods-recede-health-risks-loom",
+      "summary": "Reliable systems for providing safe drinking water, sustained hygiene promotion and community awareness programmes are urgently needed.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T10:46:17+00:00",
-      "published_ts": 1790160377.0
+      "published": null,
+      "published_ts": 0
     },
     {
-      "title": "After Nepal’s Bhotekoshi flood, who pays for the damage?",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-who-pays-damage.html",
-      "summary": "On 26 August 2026, when a colossal wedge of bedrock and glacial ice broke free from the northern flank of Mount Langtang Lirung at precisely 28.288°N, 85.528°E into Lhende Khola, it triggered devastating floods across Nepal, destroying villages, fertile land, bridges, roads, and 13 hydropower projects with a combined capacity of around 759 MW. Initial […] The post After Nepal’s Bhotekoshi flood, w",
-      "source": "Online Khabar (EN)",
+      "title": "At UN, Prime Minister Balendra Shah to make Nepal’s case for climate justice",
+      "link": "https://kathmandupost.com/politics/2026/09/24/at-un-pm-to-make-nepal-s-case-for-climate-justice",
+      "summary": "Shah will cite the Bhotekoshi flood devastation and ask wealthy nations to provide more money, technology and support for reconstruction.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T10:15:00+00:00",
-      "published_ts": 1790158500.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "NEA working on winter power management",
@@ -112,17 +123,6 @@
       "title": "Over 800 people remain missing from hydropower projects after Bhotekoshi floods, says energy minister Shrestha",
       "link": "https://kathmandupost.com/national/2026/09/23/over-800-people-remain-missing-from-hydropower-projects-after-bhotekoshi-floods-says-energy-minister-shrestha",
       "summary": "Shrestha tells Parliament that search and rescue teams are still looking for workers believed to be trapped in underground structures or swept away by the August 26 disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "For Bhotekoshi flood survivors, the tuin is an ordeal",
-      "link": "https://kathmandupost.com/province-no-3/2026/09/23/for-bhotekoshi-flood-survivors-the-tuin-is-an-ordeal",
-      "summary": "In Nuwakot, locals walk for five to six hours to reach the tuin, an improvised cable crossing, then wait for another four to five hours to cross.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
