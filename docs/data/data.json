@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24T19:51:23.558251+00:00",
-  "total": 6,
-  "highlight_count": 0,
+  "updated_at": "2026-09-24T23:00:44.196807+00:00",
+  "total": 7,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "'네팔 대홍수' 한달째…정부 수색 끝나도 현장 지키는 기업들",
+      "link": "https://www.yna.co.kr/view/AKR20260923197100003",
+      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 수력발전소 건설 현장에서 땀 흘리던 한국인 직원 9명이 대홍수로 실종된 지 오는 26일로 한 달째...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-24T20:31:00+00:00",
+      "published_ts": 1790281860.0
+    },
     {
       "title": "NA meeting: Representation sought in special parliamentary panel on Bhotekoshi Disaster",
       "link": "https://risingnepaldaily.com/news/86976",
