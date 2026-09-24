@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T22:50:44.051730+00:00",
-  "total": 8,
+  "updated_at": "2026-09-24T01:05:19.706693+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,15 @@
   ],
   "items": [
     {
-      "title": "\"수해난 고국 명절되니 더 생각나\"…타국서 추석 맞는 네팔인들",
-      "link": "https://www.yna.co.kr/view/AKR20260923187200064",
-      "summary": "(청주=연합뉴스) 박건영 기자 = \"당장이라도 고국에 가서 가족을 돕고 싶죠. 명절이 되니 더 보고 싶어요.\"",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Govt prepares exit strategy from Bhotekoshi search, rescue work",
+      "link": "https://risingnepaldaily.com/news/86940",
+      "summary": "Kathmandu, Sept. 24: The government has begun preparations to determine how and when to conclude the search and rescue o...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-23T22:10:01+00:00",
-      "published_ts": 1790201401.0
-    },
-    {
-      "title": "[기후재난 현장] 폭우가 키워 폭염이 말린 숲…스페인 최악 산불 불쏘시개 됐다",
-      "link": "https://www.yna.co.kr/view/AKR20260921164000109",
-      "summary": "[※ 편집자 주 = 최근 중국·네팔 접경지대에서는 엄청난 규모의 산악지대 대홍수가 발생했습니다. 기후변화로 인해 대규모 빙하가 붕괴하면서 홍수로...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-23T22:01:01+00:00",
-      "published_ts": 1790200861.0
+      "published": "2026-09-24T00:28:30+00:00",
+      "published_ts": 1790209710.0
     },
     {
       "title": "Alternative energy being explored to ensure smooth winter power supply: NEA Managing Director Shrestha",
