@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-25T01:26:14.822568+00:00",
-  "total": 6,
+  "updated_at": "2026-09-25T06:25:44.752010+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "IncompleteRead(0 bytes read)"
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,37 @@
   ],
   "items": [
     {
-      "title": "네팔·중국 대홍수 한달…8천명 사망·실종 속 막막한 피해 복구",
-      "link": "https://www.yna.co.kr/view/AKR20260924039200104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔과 중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 한 달이 됐지만 실종자 수색과 피해 복...",
+      "title": "Mental Health Support After Disasters",
+      "link": "https://risingnepaldaily.com/news/87011",
+      "summary": "The floods that have ravaged Rasuwa and nearby districts go beyond damage to property, infrastructure and other physical...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-25T04:53:00+00:00",
+      "published_ts": 1790311980.0
+    },
+    {
+      "title": "네팔 총리 유엔총회서 \"대홍수는 세계에 보낸 경고\"…지원 호소",
+      "link": "https://www.yna.co.kr/view/AKR20260925026000104",
+      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 발렌드라 샤 네팔 총리가 유엔총회에서 지난달 히말라야산맥에서 발생한 대홍수는 세계에 보내는 경고라고 강조...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-24T23:13:01+00:00",
-      "published_ts": 1790291581.0
+      "published": "2026-09-25T03:21:30+00:00",
+      "published_ts": 1790306490.0
+    },
+    {
+      "title": "Balendra Shah UN speech: Full transcript of Nepal prime minister’s address to the 81st UN General Assembly",
+      "link": "https://kathmandupost.com/national/2026/09/25/balendra-shah-un-speech-full-transcript-of-nepal-prime-minister-s-address-to-the-81st-un-general-assembly",
+      "summary": "Nepal Prime Minister Balendra Shah’s full UN speech on the Bhotekoshi floods, climate justice, Himalayan cooperation, climate finance and reform of the global order.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Shah raises climate risks and Bhotekoshi disaster with Guterres",
@@ -79,39 +101,6 @@
       "title": "Rasuwa flash floods recede, health risks loom",
       "link": "https://kathmandupost.com/columns/2026/09/24/rasuwa-flash-floods-recede-health-risks-loom",
       "summary": "Reliable systems for providing safe drinking water, sustained hygiene promotion and community awareness programmes are urgently needed.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "At UN, Prime Minister Balendra Shah to make Nepal’s case for climate justice",
-      "link": "https://kathmandupost.com/politics/2026/09/24/at-un-pm-to-make-nepal-s-case-for-climate-justice",
-      "summary": "Shah will cite the Bhotekoshi flood devastation and ask wealthy nations to provide more money, technology and support for reconstruction.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "NEA working on winter power management",
-      "link": "https://kathmandupost.com/money/2026/09/23/nea-working-on-winter-power-management",
-      "summary": "Officials say there won’t be load-shedding this winter despite flood damage to hydropower infrastructure along Trishuli corridor.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bhotekoshi floods prompt ADB to cut Nepal’s growth forecast to 4.1 percent",
-      "link": "https://kathmandupost.com/money/2026/09/23/bhotekoshi-floods-prompt-adb-to-cut-nepal-s-growth-forecast-to-4-1-percent",
-      "summary": "The Asian Development Bank has raised its inflation forecast to 5.3 percent and expects the fiscal deficit to widen as reconstruction spending increases following the devastation.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
