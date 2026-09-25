@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-09-25T06:25:44.752010+00:00",
+  "updated_at": "2026-09-25T12:04:38.849684+00:00",
   "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
-      "ok": false,
-      "count": 0,
-      "error": "IncompleteRead(0 bytes read)"
+      "ok": true,
+      "count": 3,
+      "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,37 @@
   ],
   "items": [
     {
-      "title": "Mental Health Support After Disasters",
-      "link": "https://risingnepaldaily.com/news/87011",
-      "summary": "The floods that have ravaged Rasuwa and nearby districts go beyond damage to property, infrastructure and other physical...",
-      "source": "The Rising Nepal",
+      "title": "Flood-hit students in Rasuwa, Nuwakot and Dhading to continue studies in residential schools",
+      "link": "https://english.onlinekhabar.com/flood-hit-students-in-rasuwa-nuwakot-and-dhading-to-continue-studies-in-residential-schools.html",
+      "summary": "Kathmandu, September 25 Students who lost their parents or homes in the Rasuwa floods are being accommodated at schools so they can continue their education. Residential arrangements have also been introduced for children affected by the floods in Rasuwa, Nuwakot and Dhading districts. “Students have started staying in hostels and continuing their studies. Those who […] The post Flood-hit students",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-25T04:53:00+00:00",
-      "published_ts": 1790311980.0
+      "published": "2026-09-25T11:33:46+00:00",
+      "published_ts": 1790336026.0
     },
     {
-      "title": "네팔 총리 유엔총회서 \"대홍수는 세계에 보낸 경고\"…지원 호소",
-      "link": "https://www.yna.co.kr/view/AKR20260925026000104",
-      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 발렌드라 샤 네팔 총리가 유엔총회에서 지난달 히말라야산맥에서 발생한 대홍수는 세계에 보내는 경고라고 강조...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Families of missing Ukrainians still awaiting word a month after Rasuwa floods",
+      "link": "https://english.onlinekhabar.com/ukrainians-rasuwa-floods.html",
+      "summary": "Kathmandu, September 25 A month after devastating floods struck the Nepal-China border area, families of more than 50 Ukrainian nationals are still waiting for information about their missing loved ones. 36-year-old Olena Kalinichenko was part of a group of 56 people, most of them Ukrainian, who had travelled to Mount Kailash in Tibet for a […] The post Families of missing Ukrainians still awaitin",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-09-25T03:21:30+00:00",
-      "published_ts": 1790306490.0
+      "published": "2026-09-25T09:54:05+00:00",
+      "published_ts": 1790330045.0
+    },
+    {
+      "title": "New Zealand Government, Nepali leaders discuss flood reconstruction and bilateral cooperation",
+      "link": "https://english.onlinekhabar.com/new-zealand-nepali-discuss-flood.html",
+      "summary": "Wellington, September 25 Senior officials from New Zealand’s Ministry of Foreign Affairs and Trade met with representatives of the Nepali community in Wellington to discuss relief, reconstruction, and bilateral cooperation following the devastating flood in Bhotekoshi. At Friday’s meeting, New Zealand officials spoke of the special bilateral relationship between Nepal and New Zealand, noting that ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-25T09:48:48+00:00",
+      "published_ts": 1790329728.0
     },
     {
       "title": "Balendra Shah UN speech: Full transcript of Nepal prime minister’s address to the 81st UN General Assembly",
@@ -90,17 +101,6 @@
       "title": "Shah raises climate risks and Bhotekoshi disaster with Guterres",
       "link": "https://kathmandupost.com/national/2026/09/25/shah-raises-climate-risks-and-bhotekoshi-disaster-with-guterres",
       "summary": "PM seeks UN support for riverbank resettlement, green reconstruction and an extension of Nepal’s LDC graduation timeline.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Rasuwa flash floods recede, health risks loom",
-      "link": "https://kathmandupost.com/columns/2026/09/24/rasuwa-flash-floods-recede-health-risks-loom",
-      "summary": "Reliable systems for providing safe drinking water, sustained hygiene promotion and community awareness programmes are urgently needed.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
