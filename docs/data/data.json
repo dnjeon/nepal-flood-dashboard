@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25T12:04:38.849684+00:00",
-  "total": 5,
-  "highlight_count": 0,
+  "updated_at": "2026-09-25T17:05:22.451292+00:00",
+  "total": 6,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Kabir Maharjan discharged after surviving 10 days trapped inside hydropower tunnel",
+      "link": "https://english.onlinekhabar.com/kabir-maharjan-discharged.html",
+      "summary": "Kathmandu, September 25 Kabir Maharjan, the mechanical supervisor who was rescued alive after spending 10 days trapped inside a tunnel at the Upper Trishuli 3-A Hydropower Project in Rasuwa, has been discharged from hospital. Maharjan was discharged on Friday after his health improved significantly. He was welcomed at his residence in Lalitpur following his release. […] The post Kabir Maharjan dis",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": true,
+      "published": "2026-09-25T13:46:17+00:00",
+      "published_ts": 1790343977.0
+    },
     {
       "title": "Flood-hit students in Rasuwa, Nuwakot and Dhading to continue studies in residential schools",
       "link": "https://english.onlinekhabar.com/flood-hit-students-in-rasuwa-nuwakot-and-dhading-to-continue-studies-in-residential-schools.html",
