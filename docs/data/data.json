@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24T23:00:44.196807+00:00",
-  "total": 7,
-  "highlight_count": 1,
+  "updated_at": "2026-09-25T01:26:14.822568+00:00",
+  "total": 6,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,26 @@
   ],
   "items": [
     {
-      "title": "'네팔 대홍수' 한달째…정부 수색 끝나도 현장 지키는 기업들",
-      "link": "https://www.yna.co.kr/view/AKR20260923197100003",
-      "summary": "(서울=연합뉴스) 장하나 신창용 기자 = 네팔 수력발전소 건설 현장에서 땀 흘리던 한국인 직원 9명이 대홍수로 실종된 지 오는 26일로 한 달째...",
+      "title": "네팔·중국 대홍수 한달…8천명 사망·실종 속 막막한 피해 복구",
+      "link": "https://www.yna.co.kr/view/AKR20260924039200104",
+      "summary": "(자카르타=연합뉴스) 손현규 특파원 = 네팔과 중국 국경의 히말라야 산악지대에서 대규모 홍수가 발생한 지 한 달이 됐지만 실종자 수색과 피해 복...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
-      "highlight": true,
-      "published": "2026-09-24T20:31:00+00:00",
-      "published_ts": 1790281860.0
+      "highlight": false,
+      "published": "2026-09-24T23:13:01+00:00",
+      "published_ts": 1790291581.0
     },
     {
-      "title": "NA meeting: Representation sought in special parliamentary panel on Bhotekoshi Disaster",
-      "link": "https://risingnepaldaily.com/news/86976",
-      "summary": "Kathmandu, Sept 24: National Assembly (NA) members have drawn attention of the government on contemporary issues in toda...",
-      "source": "The Rising Nepal",
+      "title": "Shah raises climate risks and Bhotekoshi disaster with Guterres",
+      "link": "https://kathmandupost.com/national/2026/09/25/shah-raises-climate-risks-and-bhotekoshi-disaster-with-guterres",
+      "summary": "PM seeks UN support for riverbank resettlement, green reconstruction and an extension of Nepal’s LDC graduation timeline.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-24T11:45:58+00:00",
-      "published_ts": 1790250358.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Rasuwa flash floods recede, health risks loom",
@@ -112,17 +112,6 @@
       "title": "Bhotekoshi floods prompt ADB to cut Nepal’s growth forecast to 4.1 percent",
       "link": "https://kathmandupost.com/money/2026/09/23/bhotekoshi-floods-prompt-adb-to-cut-nepal-s-growth-forecast-to-4-1-percent",
       "summary": "The Asian Development Bank has raised its inflation forecast to 5.3 percent and expects the fiscal deficit to widen as reconstruction spending increases following the devastation.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Over 800 people remain missing from hydropower projects after Bhotekoshi floods, says energy minister Shrestha",
-      "link": "https://kathmandupost.com/national/2026/09/23/over-800-people-remain-missing-from-hydropower-projects-after-bhotekoshi-floods-says-energy-minister-shrestha",
-      "summary": "Shrestha tells Parliament that search and rescue teams are still looking for workers believed to be trapped in underground structures or swept away by the August 26 disaster.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
