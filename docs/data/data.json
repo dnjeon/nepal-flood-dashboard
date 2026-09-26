@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T06:42:08.085350+00:00",
-  "total": 7,
+  "updated_at": "2026-09-26T11:51:28.062423+00:00",
+  "total": 6,
   "highlight_count": 1,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "Floods threaten access to contraception in Rasuwa",
-      "link": "https://risingnepaldaily.com/news/87042",
-      "summary": "Kathmandu, Sept. 26: As Nepal marks the 12th National Safe Abortion Service Day on September 26 and International Safe A...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-26T03:01:59+00:00",
-      "published_ts": 1790391719.0
-    },
     {
       "title": "Kabir Maharjan discharged after surviving 10 days trapped inside hydropower tunnel",
       "link": "https://english.onlinekhabar.com/kabir-maharjan-discharged.html",
@@ -109,9 +98,9 @@
       "published_ts": 1790329728.0
     },
     {
-      "title": "Balendra Shah UN speech: Full transcript of Nepal prime minister’s address to the 81st UN General Assembly",
-      "link": "https://kathmandupost.com/national/2026/09/25/balendra-shah-un-speech-full-transcript-of-nepal-prime-minister-s-address-to-the-81st-un-general-assembly",
-      "summary": "Nepal Prime Minister Balendra Shah’s full UN speech on the Bhotekoshi floods, climate justice, Himalayan cooperation, climate finance and reform of the global order.",
+      "title": "A month on, Nepal flood victims remain missing as hope and posters fade",
+      "link": "https://kathmandupost.com/visual-stories/2026/09/26/a-month-on-nepal-flood-victims-remain-missing-as-hope-and-posters-fade",
+      "summary": "Relatives plastered hospital walls in Kathmandu with notices searching for loved ones swept away by the Bhotekoshi floods. With thousands still unaccounted for, many families have turned to symbolic last rites.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
@@ -120,9 +109,9 @@
       "published_ts": 0
     },
     {
-      "title": "Shah raises climate risks and Bhotekoshi disaster with Guterres",
-      "link": "https://kathmandupost.com/national/2026/09/25/shah-raises-climate-risks-and-bhotekoshi-disaster-with-guterres",
-      "summary": "PM seeks UN support for riverbank resettlement, green reconstruction and an extension of Nepal’s LDC graduation timeline.",
+      "title": "Balendra Shah UN speech: Full transcript of Nepal prime minister’s address to the 81st UN General Assembly",
+      "link": "https://kathmandupost.com/national/2026/09/25/balendra-shah-un-speech-full-transcript-of-nepal-prime-minister-s-address-to-the-81st-un-general-assembly",
+      "summary": "Nepal Prime Minister Balendra Shah’s full UN speech on the Bhotekoshi floods, climate justice, Himalayan cooperation, climate finance and reform of the global order.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
