@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T21:36:57.271046+00:00",
-  "total": 6,
+  "updated_at": "2026-09-26T23:52:52.855142+00:00",
+  "total": 7,
   "highlight_count": 1,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "\"기후변화 등 물관리 다중위기…극한 홍수, GDP성장률 3.2%p ↓\"",
+      "link": "https://www.yna.co.kr/view/AKR20260923091800063",
+      "summary": "(대전=연합뉴스) 김소연 기자 = 네팔 대홍수로 기후위기에 대한 경각심이 커지는 상황에서 극단적인 기후 위기와 단수가 국내총생산(GDP)을 감소...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-09-26T22:00:10+00:00",
+      "published_ts": 1790460010.0
+    },
     {
       "title": "Kabir Maharjan discharged after surviving 10 days trapped inside hydropower tunnel",
       "link": "https://english.onlinekhabar.com/kabir-maharjan-discharged.html",
