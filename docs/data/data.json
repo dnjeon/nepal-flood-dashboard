@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-26T01:48:03.093146+00:00",
-  "total": 6,
+  "updated_at": "2026-09-26T06:42:08.085350+00:00",
+  "total": 7,
   "highlight_count": 1,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Floods threaten access to contraception in Rasuwa",
+      "link": "https://risingnepaldaily.com/news/87042",
+      "summary": "Kathmandu, Sept. 26: As Nepal marks the 12th National Safe Abortion Service Day on September 26 and International Safe A...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-26T03:01:59+00:00",
+      "published_ts": 1790391719.0
+    },
     {
       "title": "Kabir Maharjan discharged after surviving 10 days trapped inside hydropower tunnel",
       "link": "https://english.onlinekhabar.com/kabir-maharjan-discharged.html",
