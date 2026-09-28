@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-27T23:59:04.518102+00:00",
-  "total": 4,
+  "updated_at": "2026-09-28T05:10:38.689175+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,42 +54,9 @@
   ],
   "items": [
     {
-      "title": "[기후재난 현장] \"버티기 쉽지 않다\"…엘니뇨가 할퀸 '태평양의 천국'",
-      "link": "https://www.yna.co.kr/view/AKR20260926012900087",
-      "summary": "[※ 편집자 주 = 최근 중국·네팔 접경지대에서는 엄청난 규모의 산악지대 대홍수가 발생했습니다. 기후변화로 인해 대규모 빙하가 붕괴하면서 홍수로...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-09-27T22:01:01+00:00",
-      "published_ts": 1790546461.0
-    },
-    {
       "title": "Relentless rain triggers floods, landslides across Nepal",
       "link": "https://kathmandupost.com/national/2026/09/27/relentless-rain-triggers-floods-landslides-across-nepal",
       "summary": "Floodwaters sweep away six houses in Butwal, major rivers cross danger marks in Chitwan and landslides disrupt highways and roads in several districts.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Shah returns from UNGA after putting climate crisis at centre of Nepal’s global pitch",
-      "link": "https://kathmandupost.com/national/2026/09/26/shah-returns-from-unga-after-putting-climate-crisis-at-centre-of-nepal-s-global-pitch",
-      "summary": "Nepal’s prime minister highlighted the Bhotekoshi floods, climate justice and Himalayan risks at the UN General Assembly, while seeking greater international support for resilience and reconstruction.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "A month on, Nepal flood victims remain missing as hope and posters fade",
-      "link": "https://kathmandupost.com/visual-stories/2026/09/26/a-month-on-nepal-flood-victims-remain-missing-as-hope-and-posters-fade",
-      "summary": "Relatives plastered hospital walls in Kathmandu with notices searching for loved ones swept away by the Bhotekoshi floods. With thousands still unaccounted for, many families have turned to symbolic last rites.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
