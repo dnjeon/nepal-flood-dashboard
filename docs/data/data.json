@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T11:46:18.985531+00:00",
-  "total": 3,
-  "highlight_count": 1,
+  "updated_at": "2026-09-28T18:45:18.076464+00:00",
+  "total": 4,
+  "highlight_count": 2,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -48,11 +48,33 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
+    {
+      "title": "The fiscal cost of Bhotekoshi",
+      "link": "https://english.onlinekhabar.com/the-fiscal-cost-of-bhotekoshi.html",
+      "summary": "The most expensive consequence of Bhotekoshi was not the flood itself. It was the bill it created. The government-led Rapid Damage and Needs Assessment placed direct physical damage and economic losses at Rs408.29 billion and estimated Rs723.31 billion for recovery, reconstruction, livelihood restoration, risk reduction and more resilient rebuilding. The second figure is not an […] The post The fi",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-28T13:15:00+00:00",
+      "published_ts": 1790601300.0
+    },
+    {
+      "title": "1 S. Korean among those killed in Thailand flood: foreign ministry",
+      "link": "https://en.yna.co.kr/view/AEN20260928012300315",
+      "summary": "SEOUL, Sept. 28 (Yonhap) -- A South Korean national who went missing amid recent...",
+      "source": "Yonhap (EN)",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-09-28T12:27:14+00:00",
+      "published_ts": 1790598434.0
+    },
     {
       "title": "태국 홍수로 한국인 1명 사망…휩쓸렸다가 사흘만에 발견",
       "link": "https://www.yna.co.kr/view/AKR20260928161000504",
@@ -65,20 +87,9 @@
       "published_ts": 1790594791.0
     },
     {
-      "title": "Rescuers search for 12 missing after Nepal avalanche kills two",
-      "link": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
-      "summary": "Rescue teams resume search for missing people after avalanche on Himlung Himal killed two people during severe weather.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-09-28T07:10:58+00:00",
-      "published_ts": 1790579458.0
-    },
-    {
-      "title": "Relentless rain triggers floods, landslides across Nepal",
-      "link": "https://kathmandupost.com/national/2026/09/27/relentless-rain-triggers-floods-landslides-across-nepal",
-      "summary": "Floodwaters sweep away six houses in Butwal, major rivers cross danger marks in Chitwan and landslides disrupt highways and roads in several districts.",
+      "title": "Welcome tourists back—but build resilient systems to keep them safe",
+      "link": "https://kathmandupost.com/editorial/2026/09/28/welcome-tourists-back-but-build-resilient-systems-to-keep-them-safe",
+      "summary": "The Bhotekoshi flood has once again reminded us that Nepal needs a resilient tourism system to withstand major shocks.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
