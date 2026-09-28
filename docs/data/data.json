@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-28T18:45:18.076464+00:00",
-  "total": 4,
-  "highlight_count": 2,
+  "updated_at": "2026-09-28T23:33:14.335301+00:00",
+  "total": 3,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -74,17 +74,6 @@
       "highlight": true,
       "published": "2026-09-28T12:27:14+00:00",
       "published_ts": 1790598434.0
-    },
-    {
-      "title": "태국 홍수로 한국인 1명 사망…휩쓸렸다가 사흘만에 발견",
-      "link": "https://www.yna.co.kr/view/AKR20260928161000504",
-      "summary": "(서울=연합뉴스) 김지헌 기자 = 태국에서 한국인 1명이 홍수에 휩쓸려 실종됐다가 사망한 것이 확인됐다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-09-28T11:26:31+00:00",
-      "published_ts": 1790594791.0
     },
     {
       "title": "Welcome tourists back—but build resilient systems to keep them safe",
