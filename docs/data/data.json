@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T02:43:08.201185+00:00",
-  "total": 6,
+  "updated_at": "2026-09-29T09:05:52.817819+00:00",
+  "total": 4,
   "highlight_count": 1,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,37 +54,15 @@
   ],
   "items": [
     {
-      "title": "Will Nepal Get Compensation From FRLD?",
-      "link": "https://risingnepaldaily.com/news/87156",
-      "summary": "After the Bhotekoshi flash floods, Nepal has petitioned the Fund for Responding to Loss and Damage (FRLD) for economic a...",
+      "title": "462 children sheltered in 13 child-friendly centres in Rasuwa",
+      "link": "https://risingnepaldaily.com/news/87173",
+      "summary": "Rasuwa, Sept 29: Thirteen child-friendly centres have been set up in different parts of the district to protect children...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-29T02:13:08+00:00",
-      "published_ts": 1790647988.0
-    },
-    {
-      "title": "Dealing With Disasters",
-      "link": "https://risingnepaldaily.com/news/87152",
-      "summary": "Nepal has been facing one natural disaster after another. No sooner had the Bhotekoshi flash flood claimed the lives of...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-29T01:08:02+00:00",
-      "published_ts": 1790644082.0
-    },
-    {
-      "title": "The fiscal cost of Bhotekoshi",
-      "link": "https://english.onlinekhabar.com/the-fiscal-cost-of-bhotekoshi.html",
-      "summary": "The most expensive consequence of Bhotekoshi was not the flood itself. It was the bill it created. The government-led Rapid Damage and Needs Assessment placed direct physical damage and economic losses at Rs408.29 billion and estimated Rs723.31 billion for recovery, reconstruction, livelihood restoration, risk reduction and more resilient rebuilding. The second figure is not an […] The post The fi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-28T13:15:00+00:00",
-      "published_ts": 1790601300.0
+      "published": "2026-09-29T08:04:55+00:00",
+      "published_ts": 1790669095.0
     },
     {
       "title": "1 S. Korean among those killed in Thailand flood: foreign ministry",
