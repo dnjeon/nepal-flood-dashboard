@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-09-29T09:05:52.817819+00:00",
-  "total": 4,
+  "updated_at": "2026-09-29T15:44:30.439418+00:00",
+  "total": 7,
   "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -54,6 +54,28 @@
   ],
   "items": [
     {
+      "title": "Parajuli set to chair Parliamentary Special Committee on Bhotekoshi–Trishuli Disaster",
+      "link": "https://english.onlinekhabar.com/parajuli-set-to-chair-parliamentary-special-committee-on-bhotekoshi-trishuli-disaster.html",
+      "summary": "Kathmandu, September 29 Ganesh Parajuli, leader of the Rastriya Swatantra Party parliamentary group, is set to chair the Parliamentary Special Committee on Climate Change in the Himalayas and the Bhotekoshi-Trishuli Disaster after he filed the sole nomination for the post. With no other candidate, Parajuli is certain to become the chair of the special committee. The […] The post Parajuli set to ch",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-29T10:49:59+00:00",
+      "published_ts": 1790678999.0
+    },
+    {
+      "title": "462 children sheltered in 13 child-friendly centres in Rasuwa",
+      "link": "https://english.onlinekhabar.com/462-children-sheltered-in-13-child-friendly-centres-in-rasuwa.html",
+      "summary": "Rasuwa, September 29 Thirteen child-friendly centres have been set up in different parts of the district to protect children affected by disasters and support their psychosocial development. The Nepal Red Cross Society has established and facilitated these centres with support from UNICEF. These centres were set up to provide a safe, comfortable, and child-friendly environment […] The post 462 chi",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-29T10:04:30+00:00",
+      "published_ts": 1790676270.0
+    },
+    {
       "title": "462 children sheltered in 13 child-friendly centres in Rasuwa",
       "link": "https://risingnepaldaily.com/news/87173",
       "summary": "Rasuwa, Sept 29: Thirteen child-friendly centres have been set up in different parts of the district to protect children...",
@@ -74,6 +96,17 @@
       "highlight": true,
       "published": "2026-09-28T12:27:14+00:00",
       "published_ts": 1790598434.0
+    },
+    {
+      "title": "NDRRMA Chief Upreti on what Nepal must change after the Bhotekoshi disaster",
+      "link": "https://kathmandupost.com/interviews/2026/09/29/ndrrma-chief-upreti-on-what-nepal-must-change-after-the-bhotekoshi-disaster",
+      "summary": "A month after the Bhotekoshi flood, Nepal’s disaster authorities are assessing the damage, planning reconstruction and considering the relocation of settlements in high-risk areas.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Welcome tourists back—but build resilient systems to keep them safe",
