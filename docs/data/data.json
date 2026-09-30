@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-29T23:46:10.628765+00:00",
-  "total": 7,
+  "updated_at": "2026-09-30T02:27:27.321743+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "엄홍길 대장, 네팔 대홍수 피해지역서 긴급구호…4천만원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20260930026500371",
-      "summary": "(서울=연합뉴스) 성도현 기자 = 엄홍길휴먼재단(이사장 이재후)은 네팔 대홍수 피해 복구와 이재민 지원을 위해 산간 고립 지역을 중심으로 현지 ...",
+      "title": "네팔 대홍수 한 달…월드비전, 아동 3천521명 등 8천684명 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260930076100371",
+      "summary": "(서울=연합뉴스) 정아란 기자 = 네팔 대홍수가 발생한 지 한 달이 지난 가운데 월드비전이 식량과 식수, 위생용품 등을 지원하며 긴급구호를 이어...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-29T23:36:41+00:00",
-      "published_ts": 1790725001.0
+      "published": "2026-09-30T01:47:09+00:00",
+      "published_ts": 1790732829.0
     },
     {
       "title": "Parajuli set to chair Parliamentary Special Committee on Bhotekoshi–Trishuli Disaster",
@@ -85,17 +85,6 @@
       "highlight": false,
       "published": "2026-09-29T10:04:30+00:00",
       "published_ts": 1790676270.0
-    },
-    {
-      "title": "462 children sheltered in 13 child-friendly centres in Rasuwa",
-      "link": "https://risingnepaldaily.com/news/87173",
-      "summary": "Rasuwa, Sept 29: Thirteen child-friendly centres have been set up in different parts of the district to protect children...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-29T08:04:55+00:00",
-      "published_ts": 1790669095.0
     },
     {
       "title": "NDRRMA Chief Upreti on what Nepal must change after the Bhotekoshi disaster",
