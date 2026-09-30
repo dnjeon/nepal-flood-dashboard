@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T02:27:27.321743+00:00",
-  "total": 6,
+  "updated_at": "2026-09-30T08:54:43.237322+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,37 +54,59 @@
   ],
   "items": [
     {
-      "title": "네팔 대홍수 한 달…월드비전, 아동 3천521명 등 8천684명 지원",
-      "link": "https://www.yna.co.kr/view/AKR20260930076100371",
-      "summary": "(서울=연합뉴스) 정아란 기자 = 네팔 대홍수가 발생한 지 한 달이 지난 가운데 월드비전이 식량과 식수, 위생용품 등을 지원하며 긴급구호를 이어...",
+      "title": "히말라야서 원주까지…상지대 네팔 유학생, 앵커사업 최우수상",
+      "link": "https://www.yna.co.kr/view/AKR20260930172200062",
+      "summary": "(원주=연합뉴스) 류호준 기자 = 상지대학교 외국인 유학생이 지역에서 일경험을 쌓고 취업으로 이어진 사례로 우수사례 경진대회에서 최우수상을 받았...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
       "highlight": false,
-      "published": "2026-09-30T01:47:09+00:00",
-      "published_ts": 1790732829.0
+      "published": "2026-09-30T08:35:26+00:00",
+      "published_ts": 1790757326.0
     },
     {
-      "title": "Parajuli set to chair Parliamentary Special Committee on Bhotekoshi–Trishuli Disaster",
-      "link": "https://english.onlinekhabar.com/parajuli-set-to-chair-parliamentary-special-committee-on-bhotekoshi-trishuli-disaster.html",
-      "summary": "Kathmandu, September 29 Ganesh Parajuli, leader of the Rastriya Swatantra Party parliamentary group, is set to chair the Parliamentary Special Committee on Climate Change in the Himalayas and the Bhotekoshi-Trishuli Disaster after he filed the sole nomination for the post. With no other candidate, Parajuli is certain to become the chair of the special committee. The […] The post Parajuli set to ch",
+      "title": "Bhotekoshi flood: 1,454 bodies recovered, 4,718 still missing",
+      "link": "https://risingnepaldaily.com/news/87209",
+      "summary": "Kathmandu, Sept. 30: A total of 1,454 bodies of people reported missing in the August 26's Bhotekoshi flood have been re...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-30T08:25:39+00:00",
+      "published_ts": 1790756739.0
+    },
+    {
+      "title": "Bhotekoshi flood: 1,454 bodies recovered, 4,718 still missing",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-1454-bodies-recovered-4718-still-missing.html",
+      "summary": "Kathmandu, September 30 A total of 1,454 bodies of people reported missing in the August 26’s Bhotekoshi flood have been recovered as of Tuesday, according to the Nepal Police. According to data released by the Police Headquarters, 236 bodies were recovered in Rasuwa district, 24 in Nuwakot, 72 in Dhading, 369 in Chitwan, 79 in […] The post Bhotekoshi flood: 1,454 bodies recovered, 4,718 still mis",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-29T10:49:59+00:00",
-      "published_ts": 1790678999.0
+      "published": "2026-09-30T08:13:38+00:00",
+      "published_ts": 1790756018.0
     },
     {
-      "title": "462 children sheltered in 13 child-friendly centres in Rasuwa",
-      "link": "https://english.onlinekhabar.com/462-children-sheltered-in-13-child-friendly-centres-in-rasuwa.html",
-      "summary": "Rasuwa, September 29 Thirteen child-friendly centres have been set up in different parts of the district to protect children affected by disasters and support their psychosocial development. The Nepal Red Cross Society has established and facilitated these centres with support from UNICEF. These centres were set up to provide a safe, comfortable, and child-friendly environment […] The post 462 chi",
+      "title": "Parliamentary special committee to hold first meeting",
+      "link": "https://english.onlinekhabar.com/parliamentary-special-committee-to-hold-first-meeting.html",
+      "summary": "Kathmandu, September 30 The parliamentary special committee formed to study climate change in the Himalayas and the Bhotekoshi-Trishuli disaster is scheduled to hold its first meeting today. The meeting will be held at Singha Durbar and will elect the committee chairperson. Rastriya Swatantra Party lawmaker Ganesh Parajuli has already filed the sole nomination for the […] The post Parliamentary sp",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-29T10:04:30+00:00",
-      "published_ts": 1790676270.0
+      "published": "2026-09-30T08:05:32+00:00",
+      "published_ts": 1790755532.0
+    },
+    {
+      "title": "Ghising urges government to prioritise energy security, infrastructure reconstruction",
+      "link": "https://english.onlinekhabar.com/ghising-urges-government-to-prioritise-energy-security-infrastructure-reconstruction.html",
+      "summary": "Kathmandu, September 30 Ujyalo Nepal Party Chairperson Kulman Ghising has urged the government to expedite the restoration of electricity and road infrastructure damaged by floods and landslides. Ghising made the call in a Facebook post on Tuesday. He urged the government to prioritise the reconstruction of the power transmission system along the Trishuli and Kaligandaki […] The post Ghising urges",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-09-30T07:17:45+00:00",
+      "published_ts": 1790752665.0
     },
     {
       "title": "NDRRMA Chief Upreti on what Nepal must change after the Bhotekoshi disaster",
