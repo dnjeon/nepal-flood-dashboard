@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-01T05:01:01.537032+00:00",
-  "total": 6,
+  "updated_at": "2026-10-01T11:34:49.141665+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 4,
+      "count": 2,
       "error": null
     },
     {
@@ -54,64 +54,31 @@
   ],
   "items": [
     {
-      "title": "Displaced Syabrubesi residents seek a way home after Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/displaced-syabrubesi-people-want-home.html",
-      "summary": "Kathmandu, October 1 It has been more than a month since Singi Dhindup Tamang, 58, of Syabrubesi in Gosainkunda Rural Municipality-5, Rasuwa, arrived at Yellow Gumba in Swayambhu, Kathmandu. Tamang was among those displaced by the Bhotekoshi floods and brought to Kathmandu for shelter. Living alone in the monastery, he says memories of Syabrubesi keep […] The post Displaced Syabrubesi residents se",
+      "title": "Track reopened on flood-damaged Galchhi-Betrawati road",
+      "link": "https://english.onlinekhabar.com/track-reopened-on-flood-damaged-galchhi-betrawati-road.html",
+      "summary": "Kathmandu, October 1 A track has been opened along the Galchhi-Betrawati road section damaged by the Rasuwa floods. Infrastructure Minister Sunil Lamsal said public movement along the road section has resumed following the opening of the track. According to Minister Lamsal’s secretariat, the section, which serves as a major road link to Rasuwa, has been […] The post Track reopened on flood-damaged",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-01T01:15:00+00:00",
-      "published_ts": 1790817300.0
+      "published": "2026-10-01T09:01:12+00:00",
+      "published_ts": 1790845272.0
     },
     {
-      "title": "Nepal Oil Corporation keeps petroleum prices unchanged",
-      "link": "https://english.onlinekhabar.com/noc-petroleum-prices-unchanged.html",
-      "summary": "Kathmandu, September 30 Nepal Oil Corporation has decided to keep the prices of petroleum products unchanged despite an increase in the purchase price from Indian Oil Corporation. The corporation said it decided against raising prices considering the circumstances created by the extraordinary floods and landslides in the Bhotekoshi area, the upcoming festive season and the […] The post Nepal Oil C",
+      "title": "Pedestrian movement restricted in Betrawati section for road track construction",
+      "link": "https://english.onlinekhabar.com/pedestrian-movement-restricted-in-betrawati-section-for-road-track-construction.html",
+      "summary": "Kathmandu, October 1 Pedestrian movement has also been restricted along the road section from Uttargaya School to Betrawati under the Galchhi-Rasuwagadhi road project to facilitate track opening work. The Galchhi-Trishuli-Mailung-Syafrubesi-Rasuwagadhi Road Project said pedestrians will be allowed to pass through the section for only 15 to 20 minutes at two-hour intervals between 6 am and […] The ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-09-30T15:36:54+00:00",
-      "published_ts": 1790782614.0
-    },
-    {
-      "title": "Daily Digest: The biggest stories, developments and updates of the day",
-      "link": "https://english.onlinekhabar.com/daily-digest-sept-30.html",
-      "summary": "Kathmandu, September 30 A lot can happen in a day, and keeping track of it all can be difficult. From major developments in Nepal to stories shaping conversations around the world, the Daily Digest brings together the key news and developments you may have missed. Today’s roundup covers the government’s response to the Bhotekoshi disaster, […] The post Daily Digest: The biggest stories, developmen",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-30T12:15:00+00:00",
-      "published_ts": 1790770500.0
-    },
-    {
-      "title": "Government seeks reconstruction model for flood-damaged hydropower projects",
-      "link": "https://english.onlinekhabar.com/government-seeks-reconstruction-model-for-flood-damaged-hydropower-projects.html",
-      "summary": "Kathmandu, September 30 The devastating flood in the Bhotekoshi River on August 26 caused extensive damage to hydropower projects in Rasuwa, Nuwakot and Dhading. A month later, floods and landslides triggered by incessant rainfall since September 25 also affected hydropower projects under construction and in operation in districts including Kaski, Myagdi, Baglung and Tanahun. According […] The pos",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-09-30T12:12:10+00:00",
-      "published_ts": 1790770330.0
+      "published": "2026-10-01T07:33:26+00:00",
+      "published_ts": 1790840006.0
     },
     {
       "title": "Nepal flood survivors are leaving temporary camps as government delays rehabilitation",
       "link": "https://kathmandupost.com/national/2026/09/30/nepal-flood-survivors-are-leaving-temporary-camps-as-government-delays-rehabilitation",
       "summary": "Most displaced families have moved into rented rooms or elsewhere as makeshift shelters become uninhabitable and the government delays resettlement and promised financial assistance.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "NDRRMA Chief Upreti on what Nepal must change after the Bhotekoshi disaster",
-      "link": "https://kathmandupost.com/interviews/2026/09/29/ndrrma-chief-upreti-on-what-nepal-must-change-after-the-bhotekoshi-disaster",
-      "summary": "A month after the Bhotekoshi flood, Nepal’s disaster authorities are assessing the damage, planning reconstruction and considering the relocation of settlements in high-risk areas.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
