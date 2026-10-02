@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T07:26:50.505614+00:00",
-  "total": 2,
+  "updated_at": "2026-10-02T14:02:02.922981+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -48,26 +48,15 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Nepal avalanche kills at least 15 expedition workers",
-      "link": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
-      "summary": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-10-02T04:53:49+00:00",
-      "published_ts": 1790916829.0
-    },
-    {
-      "title": "Nepal flood survivors are leaving temporary camps as government delays rehabilitation",
-      "link": "https://kathmandupost.com/national/2026/09/30/nepal-flood-survivors-are-leaving-temporary-camps-as-government-delays-rehabilitation",
-      "summary": "The number of people in makeshift shelters has fallen to around 1,000 from 4,500, as poor conditions force survivors to leave while the government delays rehabilitation and financial assistance.",
+      "title": "Floods drive 33 pregnant women to Kathmandu for childbirth",
+      "link": "https://kathmandupost.com/health/2026/10/02/floods-drive-33-pregnant-women-to-kathmandu-for-childbirth",
+      "summary": "Local maternity clinics and services remain disrupted in Rasuwa and Nuwakot since the August 26 floods. But many women cannot travel to Kathmandu because of damaged roads.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
