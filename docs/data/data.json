@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T01:28:18.205434+00:00",
-  "total": 3,
+  "updated_at": "2026-10-02T07:26:50.505614+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -48,32 +48,21 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "\"네팔 총리, 적절한 시기에 인도 방문…날짜는 미정\"",
-      "link": "https://www.yna.co.kr/view/AKR20261002059200009",
-      "summary": "(서울=연합뉴스) 유창엽 기자 = 발렌드라 샤 네팔 총리가 적절한 시기에 인접국 인도를 방문할 예정이지만 방문 일정은 아직 정해지지 않았다고 네...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Nepal avalanche kills at least 15 expedition workers",
+      "link": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
+      "summary": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
       "highlight": false,
-      "published": "2026-10-02T01:15:05+00:00",
-      "published_ts": 1790903705.0
-    },
-    {
-      "title": "Track reopened on flood-damaged Galchhi-Betrawati road",
-      "link": "https://english.onlinekhabar.com/track-reopened-on-flood-damaged-galchhi-betrawati-road.html",
-      "summary": "Kathmandu, October 1 A track has been opened along the Galchhi-Betrawati road section damaged by the Rasuwa floods. Infrastructure Minister Sunil Lamsal said public movement along the road section has resumed following the opening of the track. According to Minister Lamsal’s secretariat, the section, which serves as a major road link to Rasuwa, has been […] The post Track reopened on flood-damaged",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-01T09:01:12+00:00",
-      "published_ts": 1790845272.0
+      "published": "2026-10-02T04:53:49+00:00",
+      "published_ts": 1790916829.0
     },
     {
       "title": "Nepal flood survivors are leaving temporary camps as government delays rehabilitation",
