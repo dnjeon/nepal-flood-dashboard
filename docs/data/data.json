@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T14:02:02.922981+00:00",
-  "total": 1,
+  "updated_at": "2026-10-02T19:13:55.386657+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Bailey bridge installation begins along flood-damaged Galchhi-Betrawati road",
+      "link": "https://english.onlinekhabar.com/bailey-bridge-install-galchhi-betrawati.html",
+      "summary": "Kathmandu, October 2 Installation of a Bailey bridge has begun at Betrawati along the flood-damaged Galchhi-Betrawati road section in Rasuwa after an alternative temporary track was opened. According to Infrastructure Development Minister Sunil Lamsal, work on the foundations required for the Bailey bridge had already begun alongside construction of the temporary track. The foundations on […] The ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-02T14:36:39+00:00",
+      "published_ts": 1790951799.0
+    },
     {
       "title": "Floods drive 33 pregnant women to Kathmandu for childbirth",
       "link": "https://kathmandupost.com/health/2026/10/02/floods-drive-33-pregnant-women-to-kathmandu-for-childbirth",
