@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T01:53:30.862242+00:00",
-  "total": 4,
+  "updated_at": "2026-10-03T07:35:55.837140+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "광주시의사회, 네팔 대홍수 구호성금 마련…현지서 의료활동도",
+      "link": "https://www.yna.co.kr/view/AKR20261003032100054",
+      "summary": "(전남광주=연합뉴스) 정회성 기자 = 광주시의사회는 네팔 구호대 발대식을 열었다고 3일 밝혔다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-03T05:30:11+00:00",
+      "published_ts": 1791005411.0
+    },
+    {
+      "title": "Fight For Climate Justice Goes Unheard",
+      "link": "https://risingnepaldaily.com/news/87330",
+      "summary": "Since last month’s Bhotekoshi disaster that has left behind an unprecedented trail of deaths, disappearances and destruc...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-03T02:01:52+00:00",
+      "published_ts": 1790992912.0
+    },
     {
       "title": "Delayed Flood Alerts",
       "link": "https://risingnepaldaily.com/news/87329",
