@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T07:35:55.837140+00:00",
-  "total": 6,
+  "updated_at": "2026-10-03T12:42:43.036182+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -63,28 +63,6 @@
       "highlight": false,
       "published": "2026-10-03T05:30:11+00:00",
       "published_ts": 1791005411.0
-    },
-    {
-      "title": "Fight For Climate Justice Goes Unheard",
-      "link": "https://risingnepaldaily.com/news/87330",
-      "summary": "Since last month’s Bhotekoshi disaster that has left behind an unprecedented trail of deaths, disappearances and destruc...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-03T02:01:52+00:00",
-      "published_ts": 1790992912.0
-    },
-    {
-      "title": "Delayed Flood Alerts",
-      "link": "https://risingnepaldaily.com/news/87329",
-      "summary": "The Rasuwa-Bhotekoshi flood has killed more than 1,450 people, left more than 5,000 people missing, and affected nearly...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-03T01:46:37+00:00",
-      "published_ts": 1790991997.0
     },
     {
       "title": "After weeks of searching, focus shifts to recovery of missing workers and hydropower projects",
