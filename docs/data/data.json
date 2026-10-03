@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-02T23:02:04.438105+00:00",
-  "total": 2,
+  "updated_at": "2026-10-03T01:53:30.862242+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Delayed Flood Alerts",
+      "link": "https://risingnepaldaily.com/news/87329",
+      "summary": "The Rasuwa-Bhotekoshi flood has killed more than 1,450 people, left more than 5,000 people missing, and affected nearly...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-03T01:46:37+00:00",
+      "published_ts": 1790991997.0
+    },
+    {
+      "title": "After weeks of searching, focus shifts to recovery of missing workers and hydropower projects",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-hydropower-recovery.html",
+      "summary": "Kathmandu, October 2 More than a month after the Bhotekoshi flood swept through hydropower projects in Rasuwa and neighbouring districts, the search for missing workers and employees has entered a new phase. The government has shifted from a regular search-and-rescue operation to what it calls a “search and recovery” effort, as the possibility of finding […] The post After weeks of searching, focu",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-03T00:15:00+00:00",
+      "published_ts": 1790986500.0
+    },
     {
       "title": "Bailey bridge installation begins along flood-damaged Galchhi-Betrawati road",
       "link": "https://english.onlinekhabar.com/bailey-bridge-install-galchhi-betrawati.html",
