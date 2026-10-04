@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T01:48:38.871653+00:00",
-  "total": 4,
+  "updated_at": "2026-10-04T07:27:44.782318+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,39 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "현대백화점, 네팔 홍수 피해 복구 지원 위한 성금 3억원 기부",
-      "link": "https://www.yna.co.kr/view/AKR20261004009300030",
-      "summary": "(서울=연합뉴스) 조민정 기자 = 현대백화점은 홍수로 피해를 겪고 있는 네팔 이재민들의 일상 회복을 돕기 위해 한국해비타트에 성금 3억원을 전달...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-10-03T23:46:14+00:00",
-      "published_ts": 1791071174.0
-    },
-    {
-      "title": "After weeks of searching, focus shifts to recovery of missing workers and hydropower projects",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-hydropower-recovery.html",
-      "summary": "Kathmandu, October 2 More than a month after the Bhotekoshi flood swept through hydropower projects in Rasuwa and neighbouring districts, the search for missing workers and employees has entered a new phase. The government has shifted from a regular search-and-rescue operation to what it calls a “search and recovery” effort, as the possibility of finding […] The post After weeks of searching, focu",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-03T00:15:00+00:00",
-      "published_ts": 1790986500.0
-    },
-    {
-      "title": "Bailey bridge installation begins along flood-damaged Galchhi-Betrawati road",
-      "link": "https://english.onlinekhabar.com/bailey-bridge-install-galchhi-betrawati.html",
-      "summary": "Kathmandu, October 2 Installation of a Bailey bridge has begun at Betrawati along the flood-damaged Galchhi-Betrawati road section in Rasuwa after an alternative temporary track was opened. According to Infrastructure Development Minister Sunil Lamsal, work on the foundations required for the Bailey bridge had already begun alongside construction of the temporary track. The foundations on […] The ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-02T14:36:39+00:00",
-      "published_ts": 1790951799.0
-    },
     {
       "title": "Floods drive 33 pregnant women to Kathmandu for childbirth",
       "link": "https://kathmandupost.com/health/2026/10/02/floods-drive-33-pregnant-women-to-kathmandu-for-childbirth",
