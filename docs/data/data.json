@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T22:24:50.942864+00:00",
-  "total": 3,
+  "updated_at": "2026-10-04T01:48:38.871653+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "현대백화점, 네팔 홍수 피해 복구 지원 위한 성금 3억원 기부",
+      "link": "https://www.yna.co.kr/view/AKR20261004009300030",
+      "summary": "(서울=연합뉴스) 조민정 기자 = 현대백화점은 홍수로 피해를 겪고 있는 네팔 이재민들의 일상 회복을 돕기 위해 한국해비타트에 성금 3억원을 전달...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-03T23:46:14+00:00",
+      "published_ts": 1791071174.0
+    },
     {
       "title": "After weeks of searching, focus shifts to recovery of missing workers and hydropower projects",
       "link": "https://english.onlinekhabar.com/bhotekoshi-hydropower-recovery.html",
