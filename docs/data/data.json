@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-05T02:22:05.113514+00:00",
-  "total": 3,
-  "highlight_count": 0,
+  "updated_at": "2026-10-05T09:27:13.703175+00:00",
+  "total": 4,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,37 +54,48 @@
   ],
   "items": [
     {
-      "title": "빙하·암석 붕괴 어떻게 대홍수 됐나…中·네팔 공동 조사 착수",
-      "link": "https://www.yna.co.kr/view/AKR20261005018000083",
-      "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국과 네팔이 지난 8월 히말라야 접경지역을 덮쳐 8천명 넘게 사망·실종자를 낸 대형 토석류(土石流)와 홍...",
+      "title": "\"실종자는 어디에\"…제주 차귀도 어선 전복 해상 밤샘 수색",
+      "link": "https://www.yna.co.kr/view/AKR20261005049000056",
+      "summary": "(제주=연합뉴스) 변지철 기자 = 제주 차귀도 해상에서 조기잡이 어선이 전복돼 한국인 선장과 인도네시아인 선원 등 2명이 실종된 가운데 해경이 ...",
       "source": "Yonhap 연합뉴스",
       "flag": "🇰🇷",
       "country": "KR",
-      "highlight": false,
-      "published": "2026-10-05T00:47:40+00:00",
-      "published_ts": 1791161260.0
+      "highlight": true,
+      "published": "2026-10-05T08:59:54+00:00",
+      "published_ts": 1791190794.0
     },
     {
-      "title": "Why climate security must matter to Nepal’s diplomacy",
-      "link": "https://english.onlinekhabar.com/climate-security-diplomacy.html",
-      "summary": "The Trishuli valley has been a trade and pilgrimage route for centuries, linking Nepal with China. On August 26, it became the path of one of the most devastating mountain disasters in recent years. A rapid slope failure involving a glacier near the Nepal-China border triggered an ice-rock avalanche, sending water, ice and debris down […] The post Why climate security must matter to Nepal’s diplom",
+      "title": "Government suspends Bhotekoshi-Trishuli flood search and rescue, except urgent operations",
+      "link": "https://english.onlinekhabar.com/government-suspends-bhotekoshi-trishuli-flood-search-and-rescue-except-urgent-operations.html",
+      "summary": "Kathmandu, October 5 The government has decided to suspend, for the time being, the search and rescue phase following the Bhotekoshi-Trishuli floods, except for urgent operations. The 21st meeting of the National Council for Disaster Risk Reduction and Management, held today at the Office of the Prime Minister and Council of Ministers under the chairmanship […] The post Government suspends Bhoteko",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-05T00:15:00+00:00",
-      "published_ts": 1791159300.0
+      "published": "2026-10-05T08:57:36+00:00",
+      "published_ts": 1791190656.0
     },
     {
-      "title": "귀국 앞둔 20대 외국인 근로자, 숙소서 숨진 채 발견",
-      "link": "https://www.yna.co.kr/view/AKR20261005012100054",
-      "summary": "(무안=연합뉴스) 민현기 기자 = 귀국을 열흘 앞둔 네팔 국적 20대 근로자가 숙소에서 숨진 채 발견돼 경찰이 수사에 나섰다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
+      "title": "Bhote Koshi Floods: 45 Students from Rasuwa still unaccounted for",
+      "link": "https://risingnepaldaily.com/news/87417",
+      "summary": "Rasuwa, Oct 5: Forty-five students from three community schools and one private school in Rasuwa remain unaccounted for...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-10-04T23:34:37+00:00",
-      "published_ts": 1791156877.0
+      "published": "2026-10-05T07:10:44+00:00",
+      "published_ts": 1791184244.0
+    },
+    {
+      "title": "Nepal scales back flood search as Rs559b reconstruction effort begins",
+      "link": "https://kathmandupost.com/national/2026/10/05/nepal-scales-back-flood-search-as-rs559b-reconstruction-effort-begins",
+      "summary": "The government has suspended search and rescue operations for Bhotekoshi-Trishuli floods except in emergencies, directing authorities to accelerate reconstruction and rehabilitation in flood-hit areas.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
