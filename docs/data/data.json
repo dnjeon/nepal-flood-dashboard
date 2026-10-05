@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T23:31:44.030665+00:00",
-  "total": 0,
+  "updated_at": "2026-10-05T02:22:05.113514+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -52,5 +52,39 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "빙하·암석 붕괴 어떻게 대홍수 됐나…中·네팔 공동 조사 착수",
+      "link": "https://www.yna.co.kr/view/AKR20261005018000083",
+      "summary": "(베이징=연합뉴스) 한종구 특파원 = 중국과 네팔이 지난 8월 히말라야 접경지역을 덮쳐 8천명 넘게 사망·실종자를 낸 대형 토석류(土石流)와 홍...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-05T00:47:40+00:00",
+      "published_ts": 1791161260.0
+    },
+    {
+      "title": "Why climate security must matter to Nepal’s diplomacy",
+      "link": "https://english.onlinekhabar.com/climate-security-diplomacy.html",
+      "summary": "The Trishuli valley has been a trade and pilgrimage route for centuries, linking Nepal with China. On August 26, it became the path of one of the most devastating mountain disasters in recent years. A rapid slope failure involving a glacier near the Nepal-China border triggered an ice-rock avalanche, sending water, ice and debris down […] The post Why climate security must matter to Nepal’s diplom",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-05T00:15:00+00:00",
+      "published_ts": 1791159300.0
+    },
+    {
+      "title": "귀국 앞둔 20대 외국인 근로자, 숙소서 숨진 채 발견",
+      "link": "https://www.yna.co.kr/view/AKR20261005012100054",
+      "summary": "(무안=연합뉴스) 민현기 기자 = 귀국을 열흘 앞둔 네팔 국적 20대 근로자가 숙소에서 숨진 채 발견돼 경찰이 수사에 나섰다.",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-04T23:34:37+00:00",
+      "published_ts": 1791156877.0
+    }
+  ]
 }
