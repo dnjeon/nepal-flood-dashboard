@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T09:27:13.703175+00:00",
+  "updated_at": "2026-10-05T18:45:32.140353+00:00",
   "total": 4,
   "highlight_count": 1,
   "sources": [
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,6 +54,28 @@
   ],
   "items": [
     {
+      "title": "Congress raises over Rs 27.5 million for Bhotekoshi flood victims",
+      "link": "https://english.onlinekhabar.com/congress-raises-27-5-million.html",
+      "summary": "Kathmandu, October 5 The Nepali Congress has collected more than Rs 27.5 million to provide relief and support to families affected by the flood in the Bhotekoshi River. The financial report that treasurer Umesh Shrestha presented at the closed session of the party’s 15th General Convention on Monday says Rs 28,172,974 has been collected for […] The post Congress raises over Rs 27.5 million for Bh",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-05T12:20:23+00:00",
+      "published_ts": 1791202823.0
+    },
+    {
+      "title": "Govt prepares to revise road and bridge designs after flood disasters",
+      "link": "https://english.onlinekhabar.com/govt-prepares-to-revise-road-and-bridge-designs-after-flood-disasters.html",
+      "summary": "Kathmandu, October 5 The government has begun preparations to revise road and bridge designs following major flood and landslide disasters in Rasuwa, Bhotekoshi and Kaligandaki. Officials from the Ministry of Physical Infrastructure Development said the government is preparing to establish a Maintenance and Disaster Resilience Unit and revise design codes for roads and bridges. Speaking […] The po",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-05T11:37:11+00:00",
+      "published_ts": 1791200231.0
+    },
+    {
       "title": "\"실종자는 어디에\"…제주 차귀도 어선 전복 해상 밤샘 수색",
       "link": "https://www.yna.co.kr/view/AKR20261005049000056",
       "summary": "(제주=연합뉴스) 변지철 기자 = 제주 차귀도 해상에서 조기잡이 어선이 전복돼 한국인 선장과 인도네시아인 선원 등 2명이 실종된 가운데 해경이 ...",
@@ -63,28 +85,6 @@
       "highlight": true,
       "published": "2026-10-05T08:59:54+00:00",
       "published_ts": 1791190794.0
-    },
-    {
-      "title": "Government suspends Bhotekoshi-Trishuli flood search and rescue, except urgent operations",
-      "link": "https://english.onlinekhabar.com/government-suspends-bhotekoshi-trishuli-flood-search-and-rescue-except-urgent-operations.html",
-      "summary": "Kathmandu, October 5 The government has decided to suspend, for the time being, the search and rescue phase following the Bhotekoshi-Trishuli floods, except for urgent operations. The 21st meeting of the National Council for Disaster Risk Reduction and Management, held today at the Office of the Prime Minister and Council of Ministers under the chairmanship […] The post Government suspends Bhoteko",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-05T08:57:36+00:00",
-      "published_ts": 1791190656.0
-    },
-    {
-      "title": "Bhote Koshi Floods: 45 Students from Rasuwa still unaccounted for",
-      "link": "https://risingnepaldaily.com/news/87417",
-      "summary": "Rasuwa, Oct 5: Forty-five students from three community schools and one private school in Rasuwa remain unaccounted for...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-05T07:10:44+00:00",
-      "published_ts": 1791184244.0
     },
     {
       "title": "Nepal scales back flood search as Rs559b reconstruction effort begins",
