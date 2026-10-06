@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-06T00:22:55.782941+00:00",
-  "total": 3,
+  "updated_at": "2026-10-06T06:41:18.387915+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -54,26 +54,48 @@
   ],
   "items": [
     {
-      "title": "Congress raises over Rs 27.5 million for Bhotekoshi flood victims",
-      "link": "https://english.onlinekhabar.com/congress-raises-27-5-million.html",
-      "summary": "Kathmandu, October 5 The Nepali Congress has collected more than Rs 27.5 million to provide relief and support to families affected by the flood in the Bhotekoshi River. The financial report that treasurer Umesh Shrestha presented at the closed session of the party’s 15th General Convention on Monday says Rs 28,172,974 has been collected for […] The post Congress raises over Rs 27.5 million for Bh",
+      "title": "Govt to amend two laws to facilitate death registration of missing persons",
+      "link": "https://english.onlinekhabar.com/govt-to-amend-two-laws-to-facilitate-death-registration-of-missing-persons.html",
+      "summary": "Kathmandu, October 6 The government is preparing to amend two laws to facilitate the registration of deaths of people who went missing in the devastating Bhotekoshi–Trishuli disaster. The amendments will be pursued through a “fast-track” process. Home Ministry Secretary Kedar Nath Sharma and Law, Justice and Parliamentary Affairs Ministry Joint Secretary Subash Kumar Bhattarai provided […] The pos",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-05T12:20:23+00:00",
-      "published_ts": 1791202823.0
+      "published": "2026-10-06T06:40:52+00:00",
+      "published_ts": 1791268852.0
     },
     {
-      "title": "Govt prepares to revise road and bridge designs after flood disasters",
-      "link": "https://english.onlinekhabar.com/govt-prepares-to-revise-road-and-bridge-designs-after-flood-disasters.html",
-      "summary": "Kathmandu, October 5 The government has begun preparations to revise road and bridge designs following major flood and landslide disasters in Rasuwa, Bhotekoshi and Kaligandaki. Officials from the Ministry of Physical Infrastructure Development said the government is preparing to establish a Maintenance and Disaster Resilience Unit and revise design codes for roads and bridges. Speaking […] The po",
+      "title": "Tenders for flood-damaged structures before Dashain, efforts to rehabilitate displaced people, says Minister Lamsal",
+      "link": "https://english.onlinekhabar.com/efforts-rehabilitate-minister-lamsal.html",
+      "summary": "Kathmandu, October 6 Infrastructure Development Minister Sunil Lamsal has said bids will be invited before Dashain to rebuild structures damaged in the Bhotekoshi–Trishuli flood, and that efforts will be made to rehabilitate displaced people. He also said the process of amending existing laws is moving ahead so that infrastructure is built in a way that […] The post Tenders for flood-damaged struc",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-05T11:37:11+00:00",
-      "published_ts": 1791200231.0
+      "published": "2026-10-06T06:30:11+00:00",
+      "published_ts": 1791268211.0
+    },
+    {
+      "title": "Four districts still have blocked roads as Rasuwa highway stays shut",
+      "link": "https://english.onlinekhabar.com/rasuwa-highway-stays-shut.html",
+      "summary": "Kathmandu, October 6 Several roads across the country remain fully blocked today as well. Police said roads in Rasuwa, Myagdi, Manang and Nawalparasi East are blocked. According to police, Rasuwa’s main highway remains completely blocked, and the blockage on the Beni–Jomsom road in Myagdi has not been cleared. The Khangsar–Besisahar road section in Manang is […] The post Four districts still have ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-06T05:41:07+00:00",
+      "published_ts": 1791265267.0
+    },
+    {
+      "title": "Nepal’s disaster panel is debating what to call the Bhotekoshi floods. ‘Himalayan tsunami’ isn’t on the list",
+      "link": "https://kathmandupost.com/national/2026/10/06/nepal-s-disaster-panel-is-debating-what-to-call-the-bhotekoshi-floods-himalayan-tsunami-isn-t-on-the-list",
+      "summary": "Prime Minister Balendra Shah used the term at the UN, but experts on the government panel say they are considering other names for the August 26 disaster.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal scales back flood search as Rs559b reconstruction effort begins",
