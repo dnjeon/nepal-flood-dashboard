@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-06T06:41:18.387915+00:00",
-  "total": 5,
+  "updated_at": "2026-10-06T13:39:47.370957+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,37 +54,48 @@
   ],
   "items": [
     {
-      "title": "Govt to amend two laws to facilitate death registration of missing persons",
-      "link": "https://english.onlinekhabar.com/govt-to-amend-two-laws-to-facilitate-death-registration-of-missing-persons.html",
-      "summary": "Kathmandu, October 6 The government is preparing to amend two laws to facilitate the registration of deaths of people who went missing in the devastating Bhotekoshi–Trishuli disaster. The amendments will be pursued through a “fast-track” process. Home Ministry Secretary Kedar Nath Sharma and Law, Justice and Parliamentary Affairs Ministry Joint Secretary Subash Kumar Bhattarai provided […] The pos",
-      "source": "Online Khabar (EN)",
+      "title": "WB projects Nepal’s growth to slow following devastating Rasuwa flood",
+      "link": "https://risingnepaldaily.com/news/87472",
+      "summary": "Kathmandu, Oct 6: Growth in Nepal is projected to slow to 3.7% in 2027 following disruptions to industry and services ca...",
+      "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-06T06:40:52+00:00",
-      "published_ts": 1791268852.0
+      "published": "2026-10-06T11:47:10+00:00",
+      "published_ts": 1791287230.0
     },
     {
-      "title": "Tenders for flood-damaged structures before Dashain, efforts to rehabilitate displaced people, says Minister Lamsal",
-      "link": "https://english.onlinekhabar.com/efforts-rehabilitate-minister-lamsal.html",
-      "summary": "Kathmandu, October 6 Infrastructure Development Minister Sunil Lamsal has said bids will be invited before Dashain to rebuild structures damaged in the Bhotekoshi–Trishuli flood, and that efforts will be made to rehabilitate displaced people. He also said the process of amending existing laws is moving ahead so that infrastructure is built in a way that […] The post Tenders for flood-damaged struc",
+      "title": "Nepal in talks with China to reopen Tatopani border point: Minister Lamsal",
+      "link": "https://english.onlinekhabar.com/nepal-in-talks-with-china-to-reopen-tatopani-border-point-minister-lamsal.html",
+      "summary": "Kathmandu, October 6 Minister for Infrastructure Development Sunil Lamsal said the government is in continuous dialogue with China to reopen the Tatopani border point. Lamsal made the statement at a meeting of the Parliamentary Special Committee on the Impact of Climate Change in the Himalayas, Climate Justice and the Bhotekoshi-Trishuli Disaster held at Singha Durbar. […] The post Nepal in talks ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-06T06:30:11+00:00",
-      "published_ts": 1791268211.0
+      "published": "2026-10-06T11:03:54+00:00",
+      "published_ts": 1791284634.0
     },
     {
-      "title": "Four districts still have blocked roads as Rasuwa highway stays shut",
-      "link": "https://english.onlinekhabar.com/rasuwa-highway-stays-shut.html",
-      "summary": "Kathmandu, October 6 Several roads across the country remain fully blocked today as well. Police said roads in Rasuwa, Myagdi, Manang and Nawalparasi East are blocked. According to police, Rasuwa’s main highway remains completely blocked, and the blockage on the Beni–Jomsom road in Myagdi has not been cleared. The Khangsar–Besisahar road section in Manang is […] The post Four districts still have ",
+      "title": "Rasuwa floods to cut Nepal’s economic growth to 3.7 per cent: World Bank",
+      "link": "https://english.onlinekhabar.com/rasuwa-floods-to-cut-nepals-economic-growth-to-3-7-per-cent-world-bank.html",
+      "summary": "Kathmandu, October 6 The World Bank has projected that Nepal’s economic growth will slow in the current fiscal year due to the Rasuwa floods on August 26. It has estimated that disruptions in the industrial and services sectors caused by the floods will bring economic growth down to 3.7 per cent. According to the World […] The post Rasuwa floods to cut Nepal’s economic growth to 3.7 per cent: Worl",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-06T05:41:07+00:00",
-      "published_ts": 1791265267.0
+      "published": "2026-10-06T09:02:58+00:00",
+      "published_ts": 1791277378.0
+    },
+    {
+      "title": "Nepal’s growth to slow to 3.7 percent after devastating Rasuwa flood",
+      "link": "https://kathmandupost.com/money/2026/10/06/nepal-s-growth-to-slow-to-3-7-percent-after-devastating-rasuwa-flood",
+      "summary": "The World Bank estimates $1.66 billion in direct damage to physical assets, with infrastructure accounting for 83 percent of the losses.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal’s disaster panel is debating what to call the Bhotekoshi floods. ‘Himalayan tsunami’ isn’t on the list",
