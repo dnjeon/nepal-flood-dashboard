@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T13:39:47.370957+00:00",
-  "total": 6,
+  "updated_at": "2026-10-06T19:05:07.499499+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -74,17 +74,6 @@
       "highlight": false,
       "published": "2026-10-06T11:03:54+00:00",
       "published_ts": 1791284634.0
-    },
-    {
-      "title": "Rasuwa floods to cut Nepal’s economic growth to 3.7 per cent: World Bank",
-      "link": "https://english.onlinekhabar.com/rasuwa-floods-to-cut-nepals-economic-growth-to-3-7-per-cent-world-bank.html",
-      "summary": "Kathmandu, October 6 The World Bank has projected that Nepal’s economic growth will slow in the current fiscal year due to the Rasuwa floods on August 26. It has estimated that disruptions in the industrial and services sectors caused by the floods will bring economic growth down to 3.7 per cent. According to the World […] The post Rasuwa floods to cut Nepal’s economic growth to 3.7 per cent: Worl",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-06T09:02:58+00:00",
-      "published_ts": 1791277378.0
     },
     {
       "title": "Nepal’s growth to slow to 3.7 percent after devastating Rasuwa flood",
