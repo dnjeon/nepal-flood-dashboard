@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-07T08:47:59.838532+00:00",
-  "total": 5,
+  "updated_at": "2026-10-07T15:49:00.238734+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "Relief materials provided to flood-affected families in Rasuwa",
-      "link": "https://english.onlinekhabar.com/relief-materials-provided-to-flood-affected-families-in-rasuwa.html",
-      "summary": "Kathmandu, October 7 Relief materials have been provided to 60 flood-affected households at Dandagaun of Uttargaya Rural Municipality-2 in Rasuwa. The materials were distributed through the Integrated Humanitarian and Early Recovery Programme with support from Start Fund Nepal, according to Lubh Raj Neupane, executive director of Rural-Oriented Youth Movement (ROYM) Nepal. Neupane said the assista",
-      "source": "Online Khabar (EN)",
+      "title": "NDRRMA seeks proposals to build temporary housings for Bhotekoshi flood-hit families",
+      "link": "https://risingnepaldaily.com/news/87514",
+      "summary": "Kathmandu, Oct 7: The National Disaster Risk Reduction and Management Authority (NDRRMA) has called for proposal from pa...",
+      "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-07T07:29:32+00:00",
-      "published_ts": 1791358172.0
+      "published": "2026-10-07T08:56:56+00:00",
+      "published_ts": 1791363416.0
     },
     {
       "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
@@ -90,17 +90,6 @@
       "title": "Nepal’s growth to slow to 3.7 percent after devastating Rasuwa flood",
       "link": "https://kathmandupost.com/money/2026/10/06/nepal-s-growth-to-slow-to-3-7-percent-after-devastating-rasuwa-flood",
       "summary": "The World Bank estimates $1.66 billion in direct damage to physical assets, with infrastructure accounting for 83 percent of the losses.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal’s disaster panel is debating what to call the Bhotekoshi floods. ‘Himalayan tsunami’ isn’t on the list",
-      "link": "https://kathmandupost.com/national/2026/10/06/nepal-s-disaster-panel-is-debating-what-to-call-the-bhotekoshi-floods-himalayan-tsunami-isn-t-on-the-list",
-      "summary": "Prime Minister Balendra Shah used the term at the UN, but experts on the government panel say they are considering other names for the August 26 disaster.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
