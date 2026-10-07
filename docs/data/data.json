@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T15:49:00.238734+00:00",
-  "total": 4,
+  "updated_at": "2026-10-07T20:49:44.042103+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "NDRRMA seeks proposals to build temporary housings for Bhotekoshi flood-hit families",
-      "link": "https://risingnepaldaily.com/news/87514",
-      "summary": "Kathmandu, Oct 7: The National Disaster Risk Reduction and Management Authority (NDRRMA) has called for proposal from pa...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-07T08:56:56+00:00",
-      "published_ts": 1791363416.0
-    },
     {
       "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
       "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
