@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-06T22:59:46.583458+00:00",
+  "updated_at": "2026-10-07T02:14:12.563105+00:00",
   "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,26 @@
   ],
   "items": [
     {
-      "title": "WB projects Nepal’s growth to slow following devastating Rasuwa flood",
-      "link": "https://risingnepaldaily.com/news/87472",
-      "summary": "Kathmandu, Oct 6: Growth in Nepal is projected to slow to 3.7% in 2027 following disruptions to industry and services ca...",
+      "title": "백석대, 네팔 대홍수 피해 유학생에 교직원·학생 성금 전달",
+      "link": "https://www.yna.co.kr/view/AKR20261007075700063",
+      "summary": "(천안=연합뉴스) 유의주 기자 = 백석대는 7일 교내 총장실에서 최근 발생한 대홍수로 어려움을 겪고 있는 네팔 출신 외국인 유학생들을 위로하기 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-07T02:05:28+00:00",
+      "published_ts": 1791338728.0
+    },
+    {
+      "title": "Restore Flood-hit Firms",
+      "link": "https://risingnepaldaily.com/news/87489",
+      "summary": "The Bhotekoshi flood killed more than 1,400 people and left above 5,000 unaccounted for, damaged houses, infrastructure...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-06T11:47:10+00:00",
-      "published_ts": 1791287230.0
+      "published": "2026-10-07T00:36:21+00:00",
+      "published_ts": 1791333381.0
     },
     {
       "title": "Nepal in talks with China to reopen Tatopani border point: Minister Lamsal",
@@ -90,17 +101,6 @@
       "title": "Nepal’s disaster panel is debating what to call the Bhotekoshi floods. ‘Himalayan tsunami’ isn’t on the list",
       "link": "https://kathmandupost.com/national/2026/10/06/nepal-s-disaster-panel-is-debating-what-to-call-the-bhotekoshi-floods-himalayan-tsunami-isn-t-on-the-list",
       "summary": "Prime Minister Balendra Shah used the term at the UN, but experts on the government panel say they are considering other names for the August 26 disaster.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal scales back flood search as Rs559b reconstruction effort begins",
-      "link": "https://kathmandupost.com/national/2026/10/05/nepal-scales-back-flood-search-as-rs559b-reconstruction-effort-begins",
-      "summary": "The government has suspended search and rescue operations for Bhotekoshi-Trishuli floods except in emergencies, directing authorities to accelerate reconstruction and rehabilitation in flood-hit areas.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
