@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-07T02:14:12.563105+00:00",
+  "updated_at": "2026-10-07T08:47:59.838532+00:00",
   "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 4,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,37 +54,37 @@
   ],
   "items": [
     {
-      "title": "백석대, 네팔 대홍수 피해 유학생에 교직원·학생 성금 전달",
-      "link": "https://www.yna.co.kr/view/AKR20261007075700063",
-      "summary": "(천안=연합뉴스) 유의주 기자 = 백석대는 7일 교내 총장실에서 최근 발생한 대홍수로 어려움을 겪고 있는 네팔 출신 외국인 유학생들을 위로하기 ...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-10-07T02:05:28+00:00",
-      "published_ts": 1791338728.0
-    },
-    {
-      "title": "Restore Flood-hit Firms",
-      "link": "https://risingnepaldaily.com/news/87489",
-      "summary": "The Bhotekoshi flood killed more than 1,400 people and left above 5,000 unaccounted for, damaged houses, infrastructure...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-07T00:36:21+00:00",
-      "published_ts": 1791333381.0
-    },
-    {
-      "title": "Nepal in talks with China to reopen Tatopani border point: Minister Lamsal",
-      "link": "https://english.onlinekhabar.com/nepal-in-talks-with-china-to-reopen-tatopani-border-point-minister-lamsal.html",
-      "summary": "Kathmandu, October 6 Minister for Infrastructure Development Sunil Lamsal said the government is in continuous dialogue with China to reopen the Tatopani border point. Lamsal made the statement at a meeting of the Parliamentary Special Committee on the Impact of Climate Change in the Himalayas, Climate Justice and the Bhotekoshi-Trishuli Disaster held at Singha Durbar. […] The post Nepal in talks ",
+      "title": "Relief materials provided to flood-affected families in Rasuwa",
+      "link": "https://english.onlinekhabar.com/relief-materials-provided-to-flood-affected-families-in-rasuwa.html",
+      "summary": "Kathmandu, October 7 Relief materials have been provided to 60 flood-affected households at Dandagaun of Uttargaya Rural Municipality-2 in Rasuwa. The materials were distributed through the Integrated Humanitarian and Early Recovery Programme with support from Start Fund Nepal, according to Lubh Raj Neupane, executive director of Rural-Oriented Youth Movement (ROYM) Nepal. Neupane said the assista",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-06T11:03:54+00:00",
-      "published_ts": 1791284634.0
+      "published": "2026-10-07T07:29:32+00:00",
+      "published_ts": 1791358172.0
+    },
+    {
+      "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
+      "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
+      "summary": "Farmers in Gatlang had expanded cultivation after strong returns last year, but damaged roads and bridges now threaten to leave this year’s harvest rotting in the fields.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Flood-hit districts remain cut off from national road network",
+      "link": "https://kathmandupost.com/national/2026/10/07/flood-hit-districts-remain-cut-off-from-national-road-network",
+      "summary": "Repairs are underway in Manang, Mustang, Baglung and Rasuwa, but damaged bridges and approach roads continue to disrupt direct road links.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal’s growth to slow to 3.7 percent after devastating Rasuwa flood",
