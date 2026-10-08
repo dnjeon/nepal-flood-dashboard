@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-08T00:28:18.951849+00:00",
-  "total": 4,
+  "updated_at": "2026-10-08T06:32:37.807966+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "Govt steps up shelter plan for Bhotekoshi victims",
-      "link": "https://risingnepaldaily.com/news/87533",
-      "summary": "Kathmandu, Oct. 8: The National Disaster Risk Reduction and Management Authority (NDRRMA) has invited proposals from par...",
-      "source": "The Rising Nepal",
+      "title": "Govt begins preparations to build temporary homes for Bhotekoshi-Trishuli flood victims",
+      "link": "https://english.onlinekhabar.com/govt-build-temporary-homes-flood.html",
+      "summary": "Kathmandu, October 8 The government has begun preparations to build temporary homes for people affected by the devastating Bhotekoshi-Trishuli floods of August 26. The National Disaster Risk Reduction and Management Authority has called on non-governmental organisations willing to construct temporary homes to provide details of how many houses they plan to build and in which […] The post Govt begi",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-08T00:26:55+00:00",
-      "published_ts": 1791419215.0
+      "published": "2026-10-08T04:03:02+00:00",
+      "published_ts": 1791432182.0
     },
     {
       "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
@@ -79,17 +79,6 @@
       "title": "Flood-hit districts remain cut off from national road network",
       "link": "https://kathmandupost.com/national/2026/10/07/flood-hit-districts-remain-cut-off-from-national-road-network",
       "summary": "Repairs are underway in Manang, Mustang, Baglung and Rasuwa, but damaged bridges and approach roads continue to disrupt direct road links.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal’s growth to slow to 3.7 percent after devastating Rasuwa flood",
-      "link": "https://kathmandupost.com/money/2026/10/06/nepal-s-growth-to-slow-to-3-7-percent-after-devastating-rasuwa-flood",
-      "summary": "The World Bank estimates $1.66 billion in direct damage to physical assets, with infrastructure accounting for 83 percent of the losses.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
