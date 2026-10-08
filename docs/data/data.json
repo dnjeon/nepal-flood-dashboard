@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T20:49:44.042103+00:00",
-  "total": 3,
+  "updated_at": "2026-10-08T00:28:18.951849+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Govt steps up shelter plan for Bhotekoshi victims",
+      "link": "https://risingnepaldaily.com/news/87533",
+      "summary": "Kathmandu, Oct. 8: The National Disaster Risk Reduction and Management Authority (NDRRMA) has invited proposals from par...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-08T00:26:55+00:00",
+      "published_ts": 1791419215.0
+    },
     {
       "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
       "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
