@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T06:32:37.807966+00:00",
-  "total": 3,
+  "updated_at": "2026-10-08T13:59:06.064859+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,20 +54,9 @@
   ],
   "items": [
     {
-      "title": "Govt begins preparations to build temporary homes for Bhotekoshi-Trishuli flood victims",
-      "link": "https://english.onlinekhabar.com/govt-build-temporary-homes-flood.html",
-      "summary": "Kathmandu, October 8 The government has begun preparations to build temporary homes for people affected by the devastating Bhotekoshi-Trishuli floods of August 26. The National Disaster Risk Reduction and Management Authority has called on non-governmental organisations willing to construct temporary homes to provide details of how many houses they plan to build and in which […] The post Govt begi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-08T04:03:02+00:00",
-      "published_ts": 1791432182.0
-    },
-    {
-      "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
-      "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
-      "summary": "Farmers in Gatlang had expanded cultivation after strong returns last year, but damaged roads and bridges now threaten to leave this year’s harvest rotting in the fields.",
+      "title": "Bagmati province seeks Rs1 billion for Bhotekoshi flood reconstruction",
+      "link": "https://kathmandupost.com/national/2026/10/08/bagmati-province-seeks-rs1-billion-for-bhotekoshi-flood-reconstruction",
+      "summary": "Province to provide Rs25 million to 12 affected local units as preliminary assessment puts damage to roads, bridges and government buildings at Rs5.69 billion.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
@@ -76,9 +65,9 @@
       "published_ts": 0
     },
     {
-      "title": "Flood-hit districts remain cut off from national road network",
-      "link": "https://kathmandupost.com/national/2026/10/07/flood-hit-districts-remain-cut-off-from-national-road-network",
-      "summary": "Repairs are underway in Manang, Mustang, Baglung and Rasuwa, but damaged bridges and approach roads continue to disrupt direct road links.",
+      "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
+      "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
+      "summary": "Farmers in Gatlang had expanded cultivation after strong returns last year, but damaged roads and bridges now threaten to leave this year’s harvest rotting in the fields.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
