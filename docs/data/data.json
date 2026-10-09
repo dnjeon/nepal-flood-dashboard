@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-08T23:59:13.947842+00:00",
-  "total": 2,
+  "updated_at": "2026-10-09T05:54:59.813174+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -57,17 +57,6 @@
       "title": "Bagmati province seeks Rs1 billion for Bhotekoshi flood reconstruction",
       "link": "https://kathmandupost.com/national/2026/10/08/bagmati-province-seeks-rs1-billion-for-bhotekoshi-flood-reconstruction",
       "summary": "Province to provide Rs25 million to 12 affected local units as preliminary assessment puts damage to roads, bridges and government buildings at Rs5.69 billion.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood cuts off market access for Rasuwa farmers as vegetables pile up",
-      "link": "https://kathmandupost.com/national/2026/10/07/flood-cuts-off-market-access-for-rasuwa-farmers-as-vegetables-pile-up",
-      "summary": "Farmers in Gatlang had expanded cultivation after strong returns last year, but damaged roads and bridges now threaten to leave this year’s harvest rotting in the fields.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
