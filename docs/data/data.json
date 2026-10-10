@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T08:25:42.783089+00:00",
-  "total": 2,
+  "updated_at": "2026-10-10T14:35:52.587401+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "How many floods will it take for Nepal to act?",
+      "link": "https://english.onlinekhabar.com/how-many-floods-to-react.html",
+      "summary": "Disaster risk reduction is rarely a priority until a disaster strikes close to home. Yet even the destruction caused by the Bhote Koshi flood on July 8, 2025, was not enough to spur the state into taking meaningful action to reduce future risks. Thirteen months later, disaster struck the same corridor on a much larger […] The post How many floods will it take for Nepal to act? appeared first on On",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-10T10:15:00+00:00",
+      "published_ts": 1791627300.0
+    },
     {
       "title": "네팔, 실종자 5천명 곧 사망처리…유족 지원·상속 가능해진다",
       "link": "https://www.yna.co.kr/view/AKR20261010031800084",
