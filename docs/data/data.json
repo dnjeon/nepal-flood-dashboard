@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T02:05:09.230444+00:00",
-  "total": 1,
+  "updated_at": "2026-10-10T08:25:42.783089+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "네팔, 실종자 5천명 곧 사망처리…유족 지원·상속 가능해진다",
+      "link": "https://www.yna.co.kr/view/AKR20261010031800084",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = 네팔 대홍수 발생 한 달 반이 지나면서 네팔 정부가 5천여명에 이르는 실종자를 사망자로 선고하기 위한 대기...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-10T06:22:23+00:00",
+      "published_ts": 1791613343.0
+    },
     {
       "title": "Bhotekoshi floods leave 269 children without one or both parents",
       "link": "https://kathmandupost.com/national/2026/10/09/bhotekoshi-floods-leave-269-children-without-one-or-both-parents",
