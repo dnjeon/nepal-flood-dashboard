@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-11T00:56:50.855484+00:00",
-  "total": 2,
+  "updated_at": "2026-10-11T06:54:10.241238+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -48,26 +48,70 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "How many floods will it take for Nepal to act?",
-      "link": "https://english.onlinekhabar.com/how-many-floods-to-react.html",
-      "summary": "Disaster risk reduction is rarely a priority until a disaster strikes close to home. Yet even the destruction caused by the Bhote Koshi flood on July 8, 2025, was not enough to spur the state into taking meaningful action to reduce future risks. Thirteen months later, disaster struck the same corridor on a much larger […] The post How many floods will it take for Nepal to act? appeared first on On",
+      "title": "Flash flood sweeps away buildings in Nepal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+      "summary": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
+      "highlight": false,
+      "published": "2026-10-11T06:34:31+00:00",
+      "published_ts": 1791700471.0
+    },
+    {
+      "title": "Gagan Thapa expresses grief over Budhigandaki flood damage, urges help with rescue",
+      "link": "https://english.onlinekhabar.com/gagan-thapa-budhigandaki-flood.html",
+      "summary": "Kathmandu, October 11 Nepali Congress President Gagan Thapa has expressed grief over the severe flood in the Budhigandaki River, which caused heavy damage in Gorkha’s Chumnubri area and washed away two bridges. In a Facebook post, Thapa urged people living along the riverbanks, from the Budhigandaki down to the Trishuli, to exercise extreme caution. Noting […] The post Gagan Thapa expresses grief ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-10T10:15:00+00:00",
-      "published_ts": 1791627300.0
+      "published": "2026-10-11T05:06:06+00:00",
+      "published_ts": 1791695166.0
     },
     {
-      "title": "Bhotekoshi floods leave 269 children without one or both parents",
-      "link": "https://kathmandupost.com/national/2026/10/09/bhotekoshi-floods-leave-269-children-without-one-or-both-parents",
-      "summary": "A study of 584 children living in holding centres in Kathmandu, Nuwakot and Rasuwa finds that 41 had lost both parents, 161 their fathers and 67 their mothers.",
+      "title": "What triggered the devastating flood in the Budhi Gandaki river?",
+      "link": "https://english.onlinekhabar.com/devastating-flood-budhi-gandaki.html",
+      "summary": "Kathmandu, October 11 A devastating flood carrying black mud and debris has struck the Budhi Gandaki River in Gorkha, damaging bridges and market areas just a month and a half after the Rasuwagadhi–Bhote Koshi flood. The full extent of the damage is yet to be determined. Home Minister Sudan Gurung, who was elected to Parliament […] The post What triggered the devastating flood in the Budhi Gandaki",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-11T04:32:19+00:00",
+      "published_ts": 1791693139.0
+    },
+    {
+      "title": "‘It reminded me of the Bhotekoshi floods’: Gorkha residents recount escape",
+      "link": "https://kathmandupost.com/national/2026/10/11/it-reminded-me-of-the-bhotekoshi-floods-gorkha-residents-recount-escape",
+      "summary": "A flash flood in the Budhi Gandaki swept away houses and bridges early Sunday, forcing residents of Chumnubri and Dharche to flee to higher ground in the dark. Five people are missing, and six have been rescued by air.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Bailey bridge restores road link between Rasuwa and Nuwakot after six weeks",
+      "link": "https://kathmandupost.com/national/2026/10/11/bailey-bridge-restores-road-link-between-rasuwa-and-nuwakot-after-six-weeks",
+      "summary": "A 73-metre bridge over the Phalakhu river has reopened the route between the two districts, whose road connection was severed by floods in August.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Landslide may have triggered flash flooding in Budhi Gandaki, officials say",
+      "link": "https://kathmandupost.com/gandaki-province/2026/10/11/landslide-may-have-triggered-flash-flooding-in-budhi-gandaki",
+      "summary": "A landslide in Chumchet may have blocked a tributary before water surged downstream. Authorities warn of high flood risks along the Trishuli river as far as Chitwan and Nawalparasi.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
