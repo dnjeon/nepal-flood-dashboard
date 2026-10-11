@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-11T06:54:10.241238+00:00",
-  "total": 6,
+  "updated_at": "2026-10-11T13:46:15.477709+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -48,43 +48,54 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Flash flood sweeps away buildings in Nepal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
-      "summary": "Flash flooding in Nepal has swept away buildings along the Budhi Gandaki river on Sunday.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
-      "highlight": false,
-      "published": "2026-10-11T06:34:31+00:00",
-      "published_ts": 1791700471.0
-    },
-    {
-      "title": "Gagan Thapa expresses grief over Budhigandaki flood damage, urges help with rescue",
-      "link": "https://english.onlinekhabar.com/gagan-thapa-budhigandaki-flood.html",
-      "summary": "Kathmandu, October 11 Nepali Congress President Gagan Thapa has expressed grief over the severe flood in the Budhigandaki River, which caused heavy damage in Gorkha’s Chumnubri area and washed away two bridges. In a Facebook post, Thapa urged people living along the riverbanks, from the Budhigandaki down to the Trishuli, to exercise extreme caution. Noting […] The post Gagan Thapa expresses grief ",
+      "title": "Two-way traffic resumes on Prithvi Highway at Galaundi in Dhading",
+      "link": "https://english.onlinekhabar.com/traffic-resumes-prithvi-highway.html",
+      "summary": "Kathmandu, October 11 Two-way traffic has resumed on the Galaundi section of the Prithvi Highway in Gajuri, Dhading, after the road was damaged by erosion from the Trishuli River. The District Administration Office, Dhading, announced the reopening in a notice issued on Sunday, stating that repairs had been completed to restore traffic in both directions […] The post Two-way traffic resumes on Pri",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-11T05:06:06+00:00",
-      "published_ts": 1791695166.0
+      "published": "2026-10-11T12:48:38+00:00",
+      "published_ts": 1791722918.0
     },
     {
-      "title": "What triggered the devastating flood in the Budhi Gandaki river?",
-      "link": "https://english.onlinekhabar.com/devastating-flood-budhi-gandaki.html",
-      "summary": "Kathmandu, October 11 A devastating flood carrying black mud and debris has struck the Budhi Gandaki River in Gorkha, damaging bridges and market areas just a month and a half after the Rasuwagadhi–Bhote Koshi flood. The full extent of the damage is yet to be determined. Home Minister Sudan Gurung, who was elected to Parliament […] The post What triggered the devastating flood in the Budhi Gandaki",
+      "title": "네팔, 대홍수 한달반만에 또 산사태로 돌발홍수…최소 5명 실종",
+      "link": "https://www.yna.co.kr/view/AKR20261011052500084",
+      "summary": "(하노이=연합뉴스) 박진형 특파원 = 7천여명의 사망·실종을 초래한 네팔 대홍수로부터 약 한 달 반이 지난 11일(현지시간) 네팔에서 또다시 돌...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-11T12:24:17+00:00",
+      "published_ts": 1791721457.0
+    },
+    {
+      "title": "Bailey bridge at Betrawati restores road connectivity with Rasuwa",
+      "link": "https://risingnepaldaily.com/news/87676",
+      "summary": "Trishuli (Nuwakot), Oct 11: The road connectivity with Rasuwa district, which was disrupted since August 26 Bhotekoshi f...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-11T10:35:00+00:00",
+      "published_ts": 1791714900.0
+    },
+    {
+      "title": "Rasuwa’s road link restored after 47 days as Bailey bridge opens in Betrawati",
+      "link": "https://english.onlinekhabar.com/rasuwa-bailey-bridge-betrawati.html",
+      "summary": "Kathmandu, October 11 Road connectivity with Rasuwa has been restored after 47 days, following the construction of a Bailey bridge over the Phalakhu Khola in Betrawati, where floods on August 26 washed away both the old and new motorable bridges. Traffic resumed after a modular Acrow bridge, commonly known as a Bailey bridge, was installed […] The post Rasuwa’s road link restored after 47 days as ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-11T04:32:19+00:00",
-      "published_ts": 1791693139.0
+      "published": "2026-10-11T09:57:49+00:00",
+      "published_ts": 1791712669.0
     },
     {
       "title": "‘It reminded me of the Bhotekoshi floods’: Gorkha residents recount escape",
