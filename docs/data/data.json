@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T01:32:32.145279+00:00",
-  "total": 8,
+  "updated_at": "2026-10-12T07:57:00.713892+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -48,43 +48,32 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Bhotekoshi tragedy through tunes of sarangi",
-      "link": "https://risingnepaldaily.com/news/87685",
-      "summary": "By Phadindra AdhikariLekhnath, Oct. 12:Kasto bazaar, kasta thiye gharharuChhin bharmai bagar bho saharharu 2083 saal bha...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-12T00:30:29+00:00",
-      "published_ts": 1791765029.0
-    },
-    {
-      "title": "Two-way traffic resumes on Prithvi Highway at Galaundi in Dhading",
-      "link": "https://english.onlinekhabar.com/traffic-resumes-prithvi-highway.html",
-      "summary": "Kathmandu, October 11 Two-way traffic has resumed on the Galaundi section of the Prithvi Highway in Gajuri, Dhading, after the road was damaged by erosion from the Trishuli River. The District Administration Office, Dhading, announced the reopening in a notice issued on Sunday, stating that repairs had been completed to restore traffic in both directions […] The post Two-way traffic resumes on Pri",
+      "title": "Galaundi section of Prithvi Highway to be closed for six hours at night for repairs",
+      "link": "https://english.onlinekhabar.com/galaundi-section-of-prithvi-highway.html",
+      "summary": "Dhadhing, October 12 Vehicular movement will be completely closed from tonight on the Galaundi section of the Prithvi Highway in Gajuri, Dhading, which sank due to erosion by the Trishuli River, as further repairs are needed. According to the District Administration Office, Dhading, vehicles have been barred from the section to allow further repair and […] The post Galaundi section of Prithvi High",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-11T12:48:38+00:00",
-      "published_ts": 1791722918.0
+      "published": "2026-10-12T07:29:28+00:00",
+      "published_ts": 1791790168.0
     },
     {
-      "title": "Rasuwa’s road link restored after 47 days as Bailey bridge opens in Betrawati",
-      "link": "https://english.onlinekhabar.com/rasuwa-bailey-bridge-betrawati.html",
-      "summary": "Kathmandu, October 11 Road connectivity with Rasuwa has been restored after 47 days, following the construction of a Bailey bridge over the Phalakhu Khola in Betrawati, where floods on August 26 washed away both the old and new motorable bridges. Traffic resumed after a modular Acrow bridge, commonly known as a Bailey bridge, was installed […] The post Rasuwa’s road link restored after 47 days as ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
+      "title": "Bridge washed away by torrent of water in Nepal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+      "summary": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
+      "source": "Al Jazeera",
+      "flag": "🌐",
+      "country": "INTL",
       "highlight": false,
-      "published": "2026-10-11T09:57:49+00:00",
-      "published_ts": 1791712669.0
+      "published": "2026-10-12T01:24:26+00:00",
+      "published_ts": 1791768266.0
     },
     {
       "title": "Flood damage makes journeys longer and costlier in Rasuwa",
