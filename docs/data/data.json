@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-12T07:57:00.713892+00:00",
-  "total": 7,
+  "updated_at": "2026-10-12T17:31:21.288088+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
@@ -48,32 +48,43 @@
     {
       "name": "Al Jazeera",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     }
   ],
   "items": [
     {
-      "title": "Galaundi section of Prithvi Highway to be closed for six hours at night for repairs",
-      "link": "https://english.onlinekhabar.com/galaundi-section-of-prithvi-highway.html",
-      "summary": "Dhadhing, October 12 Vehicular movement will be completely closed from tonight on the Galaundi section of the Prithvi Highway in Gajuri, Dhading, which sank due to erosion by the Trishuli River, as further repairs are needed. According to the District Administration Office, Dhading, vehicles have been barred from the section to allow further repair and […] The post Galaundi section of Prithvi High",
+      "title": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
+      "summary": "Kathmandu, October 12 The government has introduced a new procedure to legally declare people missing in the Bhotekoshi River floods in Rasuwa dead. Under the procedure approved by a meeting of the Executive Committee of the National Disaster Risk Reduction and Management Authority, family members of missing people must submit an application with a self-declaration […] The post Govt introduces pro",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-12T07:29:28+00:00",
-      "published_ts": 1791790168.0
+      "published": "2026-10-12T12:15:42+00:00",
+      "published_ts": 1791807342.0
     },
     {
-      "title": "Bridge washed away by torrent of water in Nepal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
-      "summary": "Flash floods along Nepal’s Budhi Gandaki River swept away homes and bridges, forcing residents to flee to higher ground.",
-      "source": "Al Jazeera",
-      "flag": "🌐",
-      "country": "INTL",
+      "title": "What Nepal’s dark floodwaters reveal about a hidden environmental loss",
+      "link": "https://english.onlinekhabar.com/dark-floodwaters-reveal-hidden-loss.html",
+      "summary": "The Trishuli turned the colour of wet cement on August 26. A debris flood from the Tibet border had swept down the Bhote Koshi, turning the river thick and grey. Then it happened again. On September 27, a mudflow from the Ghatte Khola blocked the Marsyangdi near Chame, while a landslide briefly dammed the Kali […] The post What Nepal’s dark floodwaters reveal about a hidden environmental loss appe",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
       "highlight": false,
-      "published": "2026-10-12T01:24:26+00:00",
-      "published_ts": 1791768266.0
+      "published": "2026-10-12T12:15:00+00:00",
+      "published_ts": 1791807300.0
+    },
+    {
+      "title": "Road disruptions leave farmers in Rasuwa struggling to market produce",
+      "link": "https://english.onlinekhabar.com/road-disruptions-leave-farmers-in-rasuwa-struggling-to-market-produce.html",
+      "summary": "Rasuwa, October 12 Farmers in Amachhodingmo Rural Municipality of Rasuwa district are struggling to market their agricultural produce due to road disruptions caused by the August 26 disaster. Transportation services have been disrupted since the Bhotekoshi flood damaged several bridges and roads, cutting off villages and restricting access to markets. Cabbages and potatoes produced by […] The post",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-12T11:03:40+00:00",
+      "published_ts": 1791803020.0
     },
     {
       "title": "Flood damage makes journeys longer and costlier in Rasuwa",
@@ -101,28 +112,6 @@
       "title": "‘It reminded me of the Bhotekoshi floods’: Gorkha residents recount escape",
       "link": "https://kathmandupost.com/national/2026/10/11/it-reminded-me-of-the-bhotekoshi-floods-gorkha-residents-recount-escape",
       "summary": "A flash flood in the Budhi Gandaki swept away houses and bridges early Sunday, forcing residents of Chumnubri and Dharche to flee to higher ground in the dark. Five people are missing, and six have been rescued by air.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bailey bridge restores road link between Rasuwa and Nuwakot after six weeks",
-      "link": "https://kathmandupost.com/national/2026/10/11/bailey-bridge-restores-road-link-between-rasuwa-and-nuwakot-after-six-weeks",
-      "summary": "A 73-metre bridge over the Phalakhu river has reopened the route between the two districts, whose road connection was severed by floods in August.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Landslide may have triggered flash flooding in Budhi Gandaki, officials say",
-      "link": "https://kathmandupost.com/gandaki-province/2026/10/11/landslide-may-have-triggered-flash-flooding-in-budhi-gandaki",
-      "summary": "A landslide in Chumchet may have blocked a tributary before water surged downstream. Authorities warn of high flood risks along the Trishuli river as far as Chitwan and Nawalparasi.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
