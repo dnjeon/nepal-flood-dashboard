@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-11T22:22:43.759805+00:00",
-  "total": 7,
+  "updated_at": "2026-10-12T01:32:32.145279+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Bhotekoshi tragedy through tunes of sarangi",
+      "link": "https://risingnepaldaily.com/news/87685",
+      "summary": "By Phadindra AdhikariLekhnath, Oct. 12:Kasto bazaar, kasta thiye gharharuChhin bharmai bagar bho saharharu 2083 saal bha...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-12T00:30:29+00:00",
+      "published_ts": 1791765029.0
+    },
+    {
       "title": "Two-way traffic resumes on Prithvi Highway at Galaundi in Dhading",
       "link": "https://english.onlinekhabar.com/traffic-resumes-prithvi-highway.html",
       "summary": "Kathmandu, October 11 Two-way traffic has resumed on the Galaundi section of the Prithvi Highway in Gajuri, Dhading, after the road was damaged by erosion from the Trishuli River. The District Administration Office, Dhading, announced the reopening in a notice issued on Sunday, stating that repairs had been completed to restore traffic in both directions […] The post Two-way traffic resumes on Pri",
@@ -65,28 +76,6 @@
       "published_ts": 1791722918.0
     },
     {
-      "title": "네팔, 대홍수 한달반만에 또 산사태로 돌발홍수…최소 5명 실종",
-      "link": "https://www.yna.co.kr/view/AKR20261011052500084",
-      "summary": "(하노이=연합뉴스) 박진형 특파원 = 7천여명의 사망·실종을 초래한 네팔 대홍수로부터 약 한 달 반이 지난 11일(현지시간) 네팔에서 또다시 돌...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-10-11T12:24:17+00:00",
-      "published_ts": 1791721457.0
-    },
-    {
-      "title": "Bailey bridge at Betrawati restores road connectivity with Rasuwa",
-      "link": "https://risingnepaldaily.com/news/87676",
-      "summary": "Trishuli (Nuwakot), Oct 11: The road connectivity with Rasuwa district, which was disrupted since August 26 Bhotekoshi f...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-11T10:35:00+00:00",
-      "published_ts": 1791714900.0
-    },
-    {
       "title": "Rasuwa’s road link restored after 47 days as Bailey bridge opens in Betrawati",
       "link": "https://english.onlinekhabar.com/rasuwa-bailey-bridge-betrawati.html",
       "summary": "Kathmandu, October 11 Road connectivity with Rasuwa has been restored after 47 days, following the construction of a Bailey bridge over the Phalakhu Khola in Betrawati, where floods on August 26 washed away both the old and new motorable bridges. Traffic resumed after a modular Acrow bridge, commonly known as a Bailey bridge, was installed […] The post Rasuwa’s road link restored after 47 days as ",
@@ -96,6 +85,28 @@
       "highlight": false,
       "published": "2026-10-11T09:57:49+00:00",
       "published_ts": 1791712669.0
+    },
+    {
+      "title": "Flood damage makes journeys longer and costlier in Rasuwa",
+      "link": "https://kathmandupost.com/national/2026/10/12/flood-damage-makes-journeys-longer-and-costlier-in-rasuwa",
+      "summary": "Many settlements across the district have become inaccessible after the August 26 flood damaged roads and bridges. In Amachhodingmo, dwindling relief supplies are adding to residents’ hardship.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Bhotekoshi flood wasn’t a freak event. It’s the Himalaya doing what it does",
+      "link": "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does",
+      "summary": "From the 51,000-year-old Tsergo Ri collapse to the 2015 Langtang landslide, rockfalls are part of the Himalayan ecosystem, and global warming is making them more dangerous.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "‘It reminded me of the Bhotekoshi floods’: Gorkha residents recount escape",
