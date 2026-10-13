@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13T11:26:58.463243+00:00",
-  "total": 4,
+  "updated_at": "2026-10-13T18:26:54.907626+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -96,6 +96,17 @@
       "highlight": false,
       "published": "2026-10-13T08:52:45+00:00",
       "published_ts": 1791881565.0
+    },
+    {
+      "title": "Flood-displaced Rasuwa students resume classes in Lalitpur",
+      "link": "https://kathmandupost.com/national/2026/10/13/flood-displaced-rasuwa-students-resume-classes-in-lalitpur",
+      "summary": "Hakubesi Basic School from Amachhodingmo Rural Municipality is now operating from the premises of Kitini Secondary School in Godawari.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
