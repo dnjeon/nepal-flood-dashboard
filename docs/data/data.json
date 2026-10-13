@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-12T23:45:21.254952+00:00",
+  "updated_at": "2026-10-13T03:55:49.388516+00:00",
   "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "DNA tests show preliminary matches for around 250 Rasuwa flood victims",
+      "link": "https://english.onlinekhabar.com/dna-test-match-rasuwa-flood-victims.html",
+      "summary": "Kathmandu, October 13 DNA tests have shown preliminary matches between the remains of around 250 people killed in the Rasuwa floods and samples provided by their relatives. Further examinations are underway to confirm their identities and facilitate the handover of the bodies to their families. Nirajan Thapa, chief of the DNA division at the National […] The post DNA tests show preliminary matches",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-13T03:35:17+00:00",
+      "published_ts": 1791862517.0
+    },
     {
       "title": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead",
       "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
@@ -101,17 +112,6 @@
       "title": "Bhotekoshi flood wasn’t a freak event. It’s the Himalaya doing what it does",
       "link": "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does",
       "summary": "From the 51,000-year-old Tsergo Ri collapse to the 2015 Langtang landslide, rockfalls are part of the Himalayan ecosystem, and global warming is making them more dangerous.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "‘It reminded me of the Bhotekoshi floods’: Gorkha residents recount escape",
-      "link": "https://kathmandupost.com/national/2026/10/11/it-reminded-me-of-the-bhotekoshi-floods-gorkha-residents-recount-escape",
-      "summary": "A flash flood in the Budhi Gandaki swept away houses and bridges early Sunday, forcing residents of Chumnubri and Dharche to flee to higher ground in the dark. Five people are missing, and six have been rescued by air.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
