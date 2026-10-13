@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-13T03:55:49.388516+00:00",
-  "total": 6,
+  "updated_at": "2026-10-13T11:26:58.463243+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,70 +54,48 @@
   ],
   "items": [
     {
-      "title": "DNA tests show preliminary matches for around 250 Rasuwa flood victims",
-      "link": "https://english.onlinekhabar.com/dna-test-match-rasuwa-flood-victims.html",
-      "summary": "Kathmandu, October 13 DNA tests have shown preliminary matches between the remains of around 250 people killed in the Rasuwa floods and samples provided by their relatives. Further examinations are underway to confirm their identities and facilitate the handover of the bodies to their families. Nirajan Thapa, chief of the DNA division at the National […] The post DNA tests show preliminary matches",
+      "title": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
+      "link": "https://risingnepaldaily.com/news/87757",
+      "summary": "Betrawati, Oct 13: Coordinator of the Nepali Communist Party (NCP) and former Prime Minister, Pushpa Kamal Dahal 'Pracha...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-13T11:23:05+00:00",
+      "published_ts": 1791890585.0
+    },
+    {
+      "title": "Engineers work to reposition flood-displaced bridge on Galchhi-Trishuli-Mailung road",
+      "link": "https://english.onlinekhabar.com/engineers-reposition-flood-bridge-galchhi.html",
+      "summary": "Kathmandu, October 13 Both the old and new motorable bridges over Kolpu Khola on the Galchhi-Trishuli-Mailung road were damaged by the August 26 flood, disrupting a key route connecting Dhading and Nuwakot with Rasuwa. The bridges, which were both in regular use, connect Belkotgadhi Municipality-5 in Nuwakot with Galchhi Rural Municipality-8 in Dhading. Kolpu Khola […] The post Engineers work to r",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-13T03:35:17+00:00",
-      "published_ts": 1791862517.0
+      "published": "2026-10-13T10:11:39+00:00",
+      "published_ts": 1791886299.0
     },
     {
-      "title": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-victims-legally-dead.html",
-      "summary": "Kathmandu, October 12 The government has introduced a new procedure to legally declare people missing in the Bhotekoshi River floods in Rasuwa dead. Under the procedure approved by a meeting of the Executive Committee of the National Disaster Risk Reduction and Management Authority, family members of missing people must submit an application with a self-declaration […] The post Govt introduces pro",
+      "title": "NEA begins relief payments to families of employees missing in Bhotekoshi Flood",
+      "link": "https://english.onlinekhabar.com/nea-begins-relief-payments-to-families-of-employees-missing-in-bhotekoshi-flood.html",
+      "summary": "Kathmandu, October 13 The Nepal Electricity Authority (NEA) has begun providing relief payments to the families of its employees who went missing in the Bhotekoshi flood on August 26. A total of 47 NEA employees went missing in the disaster. The Authority has initially provided relief to the families of six of them. According to […] The post NEA begins relief payments to families of employees miss",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-12T12:15:42+00:00",
-      "published_ts": 1791807342.0
+      "published": "2026-10-13T09:25:34+00:00",
+      "published_ts": 1791883534.0
     },
     {
-      "title": "What Nepal’s dark floodwaters reveal about a hidden environmental loss",
-      "link": "https://english.onlinekhabar.com/dark-floodwaters-reveal-hidden-loss.html",
-      "summary": "The Trishuli turned the colour of wet cement on August 26. A debris flood from the Tibet border had swept down the Bhote Koshi, turning the river thick and grey. Then it happened again. On September 27, a mudflow from the Ghatte Khola blocked the Marsyangdi near Chame, while a landslide briefly dammed the Kali […] The post What Nepal’s dark floodwaters reveal about a hidden environmental loss appe",
+      "title": "Rights groups demand immediate housing, special relief package for flood victims",
+      "link": "https://english.onlinekhabar.com/rights-groups-demand-immediate-housing-special-relief-package-for-flood-victims.html",
+      "summary": "Kathmandu, October 13 A group of rights organisations has urged the government to arrange temporary and permanent housing and announce a special livelihood support package for people affected by floods in Rasuwa, the Kaligandaki and Budhigandaki river areas, among others. In a joint statement issued on Tuesday, six organisations said people displaced by the Rasuwa […] The post Rights groups demand",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-12T12:15:00+00:00",
-      "published_ts": 1791807300.0
-    },
-    {
-      "title": "Road disruptions leave farmers in Rasuwa struggling to market produce",
-      "link": "https://english.onlinekhabar.com/road-disruptions-leave-farmers-in-rasuwa-struggling-to-market-produce.html",
-      "summary": "Rasuwa, October 12 Farmers in Amachhodingmo Rural Municipality of Rasuwa district are struggling to market their agricultural produce due to road disruptions caused by the August 26 disaster. Transportation services have been disrupted since the Bhotekoshi flood damaged several bridges and roads, cutting off villages and restricting access to markets. Cabbages and potatoes produced by […] The post",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-12T11:03:40+00:00",
-      "published_ts": 1791803020.0
-    },
-    {
-      "title": "Flood damage makes journeys longer and costlier in Rasuwa",
-      "link": "https://kathmandupost.com/national/2026/10/12/flood-damage-makes-journeys-longer-and-costlier-in-rasuwa",
-      "summary": "Many settlements across the district have become inaccessible after the August 26 flood damaged roads and bridges. In Amachhodingmo, dwindling relief supplies are adding to residents’ hardship.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Bhotekoshi flood wasn’t a freak event. It’s the Himalaya doing what it does",
-      "link": "https://kathmandupost.com/columns/2026/10/11/bhotekoshi-flood-wasn-t-a-freak-event-it-s-the-himalaya-doing-what-it-does",
-      "summary": "From the 51,000-year-old Tsergo Ri collapse to the 2015 Langtang landslide, rockfalls are part of the Himalayan ecosystem, and global warming is making them more dangerous.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
+      "published": "2026-10-13T08:52:45+00:00",
+      "published_ts": 1791881565.0
     }
   ]
 }
