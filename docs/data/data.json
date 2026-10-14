@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T23:01:14.694999+00:00",
-  "total": 5,
+  "updated_at": "2026-10-14T01:50:44.265695+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "NCP coordinator Prachanda participates in 'Ghewa' ritual for Rasuwa-Bhotekoshi dead",
-      "link": "https://risingnepaldaily.com/news/87757",
-      "summary": "Betrawati, Oct 13: Coordinator of the Nepali Communist Party (NCP) and former Prime Minister, Pushpa Kamal Dahal 'Pracha...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-13T11:23:05+00:00",
-      "published_ts": 1791890585.0
-    },
     {
       "title": "Engineers work to reposition flood-displaced bridge on Galchhi-Trishuli-Mailung road",
       "link": "https://english.onlinekhabar.com/engineers-reposition-flood-bridge-galchhi.html",
