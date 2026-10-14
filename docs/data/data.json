@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T01:50:44.265695+00:00",
-  "total": 4,
+  "updated_at": "2026-10-14T07:06:34.448971+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -54,37 +54,26 @@
   ],
   "items": [
     {
-      "title": "Engineers work to reposition flood-displaced bridge on Galchhi-Trishuli-Mailung road",
-      "link": "https://english.onlinekhabar.com/engineers-reposition-flood-bridge-galchhi.html",
-      "summary": "Kathmandu, October 13 Both the old and new motorable bridges over Kolpu Khola on the Galchhi-Trishuli-Mailung road were damaged by the August 26 flood, disrupting a key route connecting Dhading and Nuwakot with Rasuwa. The bridges, which were both in regular use, connect Belkotgadhi Municipality-5 in Nuwakot with Galchhi Rural Municipality-8 in Dhading. Kolpu Khola […] The post Engineers work to r",
+      "title": "Bailey bridge in Betrawati raises hopes of tourism revival in Rasuwa",
+      "link": "https://english.onlinekhabar.com/bailey-bridge-in-betrawati-raises-hopes-of-tourism-revival-in-rasuwa.html",
+      "summary": "Rasuwa, October 14 The tourism sector in Rasuwa is expected to recover following the construction of a Bailey bridge over the Phalakhu River in Betrawati. The area had remained largely deserted for nearly a month and a half after the bridge over the Phalakhu River was washed away by the devastating floods in the Bhotekoshi […] The post Bailey bridge in Betrawati raises hopes of tourism revival in ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-13T10:11:39+00:00",
-      "published_ts": 1791886299.0
+      "published": "2026-10-14T06:59:29+00:00",
+      "published_ts": 1791961169.0
     },
     {
-      "title": "NEA begins relief payments to families of employees missing in Bhotekoshi Flood",
-      "link": "https://english.onlinekhabar.com/nea-begins-relief-payments-to-families-of-employees-missing-in-bhotekoshi-flood.html",
-      "summary": "Kathmandu, October 13 The Nepal Electricity Authority (NEA) has begun providing relief payments to the families of its employees who went missing in the Bhotekoshi flood on August 26. A total of 47 NEA employees went missing in the disaster. The Authority has initially provided relief to the families of six of them. According to […] The post NEA begins relief payments to families of employees miss",
+      "title": "PM Disaster Rescue and Relief Fund has 17.75 billion",
+      "link": "https://english.onlinekhabar.com/pm-disaster-rescue-and-relief-fund-has-17-75-billion.html",
+      "summary": "Kathmandu, October 14 The Prime Minister Natural Disaster Rescue Fund and Prime Minister Relief Fund have been receiving funds for the financial assistance of the people affected by the floods in the Bhotekoshi-Trishuli river system. According to the Office of the Prime Minister and Council of Ministers, a total of Rs 17.75 billion has been […] The post PM Disaster Rescue and Relief Fund has 17.75",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-13T09:25:34+00:00",
-      "published_ts": 1791883534.0
-    },
-    {
-      "title": "Rights groups demand immediate housing, special relief package for flood victims",
-      "link": "https://english.onlinekhabar.com/rights-groups-demand-immediate-housing-special-relief-package-for-flood-victims.html",
-      "summary": "Kathmandu, October 13 A group of rights organisations has urged the government to arrange temporary and permanent housing and announce a special livelihood support package for people affected by floods in Rasuwa, the Kaligandaki and Budhigandaki river areas, among others. In a joint statement issued on Tuesday, six organisations said people displaced by the Rasuwa […] The post Rights groups demand",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-13T08:52:45+00:00",
-      "published_ts": 1791881565.0
+      "published": "2026-10-14T06:54:19+00:00",
+      "published_ts": 1791960859.0
     },
     {
       "title": "Flood-displaced Rasuwa students resume classes in Lalitpur",
