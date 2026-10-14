@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-14T12:50:40.501394+00:00",
-  "total": 6,
+  "updated_at": "2026-10-14T17:47:07.133768+00:00",
+  "total": 8,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 5,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,6 +54,17 @@
   ],
   "items": [
     {
+      "title": "Malaysia gives Nepal over Rs 150 million for post-flood reconstruction",
+      "link": "https://english.onlinekhabar.com/malaysia-gives-nepal-150-million.html",
+      "summary": "Kathmandu, October 14 Malaysia has provided Nepal with US$1 million (more than Rs 150 million) to restore and rebuild the areas affected by the Bhotekoshi flood. Malaysian Foreign Minister Datuk Seri Utama Haji Mohamad bin Haji Hasan handed over the cheque for the amount, to be deposited in Nepal’s Prime Minister’s Natural Disaster Relief Fund. […] The post Malaysia gives Nepal over Rs 150 million",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-14T13:29:50+00:00",
+      "published_ts": 1791984590.0
+    },
+    {
       "title": "Bhote Koshi floods to raise spending obligations and strain government revenue, says Finance Ministry",
       "link": "https://english.onlinekhabar.com/bhote-koshi-floods-to-raise-spending-obligations-and-strain-government-revenue-says-finance-ministry.html",
       "summary": "Kathmandu, October 14 The Finance Ministry has projected that floods in the Bhote Koshi River will affect revenue collection, increase government spending obligations and put additional pressure on available resources in the current fiscal year 2026/27. In its annual economic bulletin for fiscal year 2025/26, the ministry said the closure of the Rasuwa-Tatopani border crossing, […] The post Bhote ",
@@ -76,15 +87,26 @@
       "published_ts": 1791979673.0
     },
     {
-      "title": "Construction of Bailey bridge at Betrawati raises hope for tourism resurgence in Rasuwa",
-      "link": "https://risingnepaldaily.com/news/87793",
-      "summary": "Rasuwa, Oct 14: The tourism sector in Rasuwa is expected to come back to life with the construction of a Bailey bridge o...",
-      "source": "The Rising Nepal",
+      "title": "Father cannot afford last rites for son missing in Bhotekoshi floods",
+      "link": "https://kathmandupost.com/national/2026/10/14/father-cannot-afford-last-rites-for-son-missing-in-bhotekoshi-floods",
+      "summary": "Forty-seven days after 25-year-old Pradip Sapkota went missing, his family has yet to recover his body and is struggling to pay for his funeral rites.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-14T07:08:21+00:00",
-      "published_ts": 1791961701.0
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Makawanpur begins process to declare 58 missing people dead",
+      "link": "https://kathmandupost.com/national/2026/10/14/makawanpur-begins-process-to-declare-58-missing-people-dead",
+      "summary": "Authorities have begun verifying the status of those missing since the August 26 Bhotekoshi floods under a special government procedure, with local units required to collect applications and check claims.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Relief helicopter gives Rasuwa farmers a route to market",
