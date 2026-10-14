@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-14T07:06:34.448971+00:00",
-  "total": 3,
+  "updated_at": "2026-10-14T12:50:40.501394+00:00",
+  "total": 6,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -54,26 +54,59 @@
   ],
   "items": [
     {
-      "title": "Bailey bridge in Betrawati raises hopes of tourism revival in Rasuwa",
-      "link": "https://english.onlinekhabar.com/bailey-bridge-in-betrawati-raises-hopes-of-tourism-revival-in-rasuwa.html",
-      "summary": "Rasuwa, October 14 The tourism sector in Rasuwa is expected to recover following the construction of a Bailey bridge over the Phalakhu River in Betrawati. The area had remained largely deserted for nearly a month and a half after the bridge over the Phalakhu River was washed away by the devastating floods in the Bhotekoshi […] The post Bailey bridge in Betrawati raises hopes of tourism revival in ",
+      "title": "Bhote Koshi floods to raise spending obligations and strain government revenue, says Finance Ministry",
+      "link": "https://english.onlinekhabar.com/bhote-koshi-floods-to-raise-spending-obligations-and-strain-government-revenue-says-finance-ministry.html",
+      "summary": "Kathmandu, October 14 The Finance Ministry has projected that floods in the Bhote Koshi River will affect revenue collection, increase government spending obligations and put additional pressure on available resources in the current fiscal year 2026/27. In its annual economic bulletin for fiscal year 2025/26, the ministry said the closure of the Rasuwa-Tatopani border crossing, […] The post Bhote ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-14T06:59:29+00:00",
-      "published_ts": 1791961169.0
+      "published": "2026-10-14T12:47:00+00:00",
+      "published_ts": 1791982020.0
     },
     {
-      "title": "PM Disaster Rescue and Relief Fund has 17.75 billion",
-      "link": "https://english.onlinekhabar.com/pm-disaster-rescue-and-relief-fund-has-17-75-billion.html",
-      "summary": "Kathmandu, October 14 The Prime Minister Natural Disaster Rescue Fund and Prime Minister Relief Fund have been receiving funds for the financial assistance of the people affected by the floods in the Bhotekoshi-Trishuli river system. According to the Office of the Prime Minister and Council of Ministers, a total of Rs 17.75 billion has been […] The post PM Disaster Rescue and Relief Fund has 17.75",
-      "source": "Online Khabar (EN)",
+      "title": "Malaysia contributes 1M USD to PM disaster relief fund",
+      "link": "https://risingnepaldaily.com/news/87800",
+      "summary": "By TRN Online, Kathmandu, Oct. 14: Malaysia has provided one million US dollar for the victims of the Bhotekoshi flash f...",
+      "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-14T06:54:19+00:00",
-      "published_ts": 1791960859.0
+      "published": "2026-10-14T12:07:53+00:00",
+      "published_ts": 1791979673.0
+    },
+    {
+      "title": "Construction of Bailey bridge at Betrawati raises hope for tourism resurgence in Rasuwa",
+      "link": "https://risingnepaldaily.com/news/87793",
+      "summary": "Rasuwa, Oct 14: The tourism sector in Rasuwa is expected to come back to life with the construction of a Bailey bridge o...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-14T07:08:21+00:00",
+      "published_ts": 1791961701.0
+    },
+    {
+      "title": "Relief helicopter gives Rasuwa farmers a route to market",
+      "link": "https://kathmandupost.com/money/2026/10/14/relief-helicopter-gives-rasuwa-farmers-a-route-to-market",
+      "summary": "The WFP has flown around eight tonnes of vegetables from flood-isolated Aamachhodingmo to Bidur, helping growers salvage part of their harvest.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
+    {
+      "title": "Salyan villages have little heart for Dashain celebrations",
+      "link": "https://kathmandupost.com/national/2026/10/14/salyan-villages-have-little-heart-for-dashain-celebrations",
+      "summary": "Dozens remain missing after the Bhotekoshi floods in Rasuwa, leaving families and neighbours across the district with little to celebrate this year.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Flood-displaced Rasuwa students resume classes in Lalitpur",
