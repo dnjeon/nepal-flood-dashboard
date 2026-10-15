@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-14T23:51:20.983918+00:00",
+  "updated_at": "2026-10-15T03:16:30.644362+00:00",
   "total": 8,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 6,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -76,15 +76,15 @@
       "published_ts": 1791982020.0
     },
     {
-      "title": "Malaysia contributes 1M USD to PM disaster relief fund",
-      "link": "https://risingnepaldaily.com/news/87800",
-      "summary": "By TRN Online, Kathmandu, Oct. 14: Malaysia has provided one million US dollar for the victims of the Bhotekoshi flash f...",
-      "source": "The Rising Nepal",
+      "title": "Contractor builds 268-metre suspension bridge in a month after floods cut off communities",
+      "link": "https://kathmandupost.com/national/2026/10/15/contractor-builds-268-metre-suspension-bridge-in-a-month-after-floods-cut-off-communities",
+      "summary": "Shailendra Raj Pyakurel tapped the construction industry’s own fund to build a vital crossing over the Trishuli river for Rs17.5 million, nearly half the government’s estimate.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-14T12:07:53+00:00",
-      "published_ts": 1791979673.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Father cannot afford last rites for son missing in Bhotekoshi floods",
