@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T08:26:05.590711+00:00",
-  "total": 8,
+  "updated_at": "2026-10-15T13:36:45.338817+00:00",
+  "total": 7,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,26 +54,26 @@
   ],
   "items": [
     {
-      "title": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future",
-      "link": "https://english.onlinekhabar.com/rasuwa-flood-victims-at-temporary-shelter-struggle-with-loss-and-uncertain-future.html",
-      "summary": "Psychosocial counsellor Arpita Subba received an emotional message a few days ago. The message came from a girl who lost both her parents in the floods. Subba has been providing psychosocial counselling at a temporary shelter at Mustang Gumba in Swayambhu, Kathmandu, where flood victims from Timure have been accommodated. In her message, the girl […] The post Rasuwa flood victims at temporary shel",
+      "title": "Nepal Red Cross to build 1,000 temporary shelters and 1,000 permanent homes for flood victims",
+      "link": "https://english.onlinekhabar.com/nepal-red-cross-build-home-for-flood.html",
+      "summary": "Kathmandu, October 15 The Nepal Red Cross Society will build 1,000 temporary shelters and 1,000 permanent homes for families affected by floods in Rasuwa and the Bhotekoshi area. According to Bishal Kumar Bhandari, chairperson of the society’s central ad hoc committee, an agreement was signed with the Department of Building under the Ministry of Physical […] The post Nepal Red Cross to build 1,000",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-15T07:52:16+00:00",
-      "published_ts": 1792050736.0
+      "published": "2026-10-15T11:44:02+00:00",
+      "published_ts": 1792064642.0
     },
     {
-      "title": "Nepal Red Cross launches comprehensive response for flood-affected people",
-      "link": "https://english.onlinekhabar.com/nepal-red-cross-launches-comprehensive-response-for-flood-affected-people.html",
-      "summary": "Kathmandu, October 15 The Nepal Red Cross Society, in collaboration with Bidur Municipality, has launched a comprehensive response to the recent floods in the Bhotekoshi area, providing immediate financial assistance of Rs 100,000 to affected families. The initiative was announced by Jagan Chapagain, secretary-general and CEO of the International Federation of Red Cross and Red […] The post Nepal ",
-      "source": "Online Khabar (EN)",
+      "title": "How will Nepal verify those missing after the Bhotekoshi floods?",
+      "link": "https://kathmandupost.com/national/2026/10/15/how-will-nepal-verify-those-missing-after-the-bhotekoshi-floods",
+      "summary": "The government has begun compiling an official list of people missing in the August 26 disaster. The process will determine who can be declared dead and whose families qualify for relief.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-15T07:14:36+00:00",
-      "published_ts": 1792048476.0
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Contractor builds 268-metre suspension bridge in a month after floods cut off communities",
@@ -123,17 +123,6 @@
       "title": "Salyan villages have little heart for Dashain celebrations",
       "link": "https://kathmandupost.com/national/2026/10/14/salyan-villages-have-little-heart-for-dashain-celebrations",
       "summary": "Dozens remain missing after the Bhotekoshi floods in Rasuwa, leaving families and neighbours across the district with little to celebrate this year.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood-displaced Rasuwa students resume classes in Lalitpur",
-      "link": "https://kathmandupost.com/national/2026/10/13/flood-displaced-rasuwa-students-resume-classes-in-lalitpur",
-      "summary": "Hakubesi Basic School from Amachhodingmo Rural Municipality is now operating from the premises of Kitini Secondary School in Godawari.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
