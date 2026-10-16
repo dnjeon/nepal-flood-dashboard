@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T06:21:26.320472+00:00",
-  "total": 7,
+  "updated_at": "2026-10-16T11:45:06.853493+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 5,
+      "count": 3,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,15 @@
   ],
   "items": [
     {
-      "title": "지구촌나눔운동, 네팔 최빈곤층 공동체에 '희망의 염소' 지원",
-      "link": "https://www.yna.co.kr/view/AKR20261016106000371",
-      "summary": "(서울=연합뉴스) 강성철 기자 = 국제개발 NGO 지구촌나눔운동(이사장 김혜경)은 네이버 해피빈을 통해 조성한 후원금으로 네팔 남부 떠라이 무사...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-10-16T05:33:34+00:00",
-      "published_ts": 1792128814.0
-    },
-    {
-      "title": "Nepal Red Cross to build 1,000 temporary shelters and 1,000 permanent homes for flood victims",
-      "link": "https://english.onlinekhabar.com/nepal-red-cross-build-home-for-flood.html",
-      "summary": "Kathmandu, October 15 The Nepal Red Cross Society will build 1,000 temporary shelters and 1,000 permanent homes for families affected by floods in Rasuwa and the Bhotekoshi area. According to Bishal Kumar Bhandari, chairperson of the society’s central ad hoc committee, an agreement was signed with the Department of Building under the Ministry of Physical […] The post Nepal Red Cross to build 1,000",
+      "title": "Nepali community in Alabama donates $50,000 to flood victims",
+      "link": "https://english.onlinekhabar.com/alabama-50000-flood-victims.html",
+      "summary": "Kathmandu, October 16 The Nepali community in North Alabama, United States, has raised $50,000 for families affected by the devastating Bhotekoshi flood in Nepal and deposited it in the Prime Minister’s Relief Fund. Ravi Lama, president of the Nepali Association in North Alabama, expressed solidarity with the victims and said it is everyone’s shared responsibility […] The post Nepali community in ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-15T11:44:02+00:00",
-      "published_ts": 1792064642.0
+      "published": "2026-10-16T10:55:03+00:00",
+      "published_ts": 1792148103.0
     },
     {
       "title": "How will Nepal verify those missing after the Bhotekoshi floods?",
@@ -101,28 +90,6 @@
       "title": "Father cannot afford last rites for son missing in Bhotekoshi floods",
       "link": "https://kathmandupost.com/national/2026/10/14/father-cannot-afford-last-rites-for-son-missing-in-bhotekoshi-floods",
       "summary": "Forty-seven days after 25-year-old Pradip Sapkota went missing, his family has yet to recover his body and is struggling to pay for his funeral rites.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Makawanpur begins process to declare 58 missing people dead",
-      "link": "https://kathmandupost.com/national/2026/10/14/makawanpur-begins-process-to-declare-58-missing-people-dead",
-      "summary": "Authorities have begun verifying the status of those missing since the August 26 Bhotekoshi floods under a special government procedure, with local units required to collect applications and check claims.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Relief helicopter gives Rasuwa farmers a route to market",
-      "link": "https://kathmandupost.com/money/2026/10/14/relief-helicopter-gives-rasuwa-farmers-a-route-to-market",
-      "summary": "The WFP has flown around eight tonnes of vegetables from flood-isolated Aamachhodingmo to Bidur, helping growers salvage part of their harvest.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
