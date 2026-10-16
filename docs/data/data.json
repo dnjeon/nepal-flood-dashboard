@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T01:37:54.820371+00:00",
+  "updated_at": "2026-10-16T06:21:26.320472+00:00",
   "total": 7,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "지구촌나눔운동, 네팔 최빈곤층 공동체에 '희망의 염소' 지원",
+      "link": "https://www.yna.co.kr/view/AKR20261016106000371",
+      "summary": "(서울=연합뉴스) 강성철 기자 = 국제개발 NGO 지구촌나눔운동(이사장 김혜경)은 네이버 해피빈을 통해 조성한 후원금으로 네팔 남부 떠라이 무사...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-10-16T05:33:34+00:00",
+      "published_ts": 1792128814.0
+    },
     {
       "title": "Nepal Red Cross to build 1,000 temporary shelters and 1,000 permanent homes for flood victims",
       "link": "https://english.onlinekhabar.com/nepal-red-cross-build-home-for-flood.html",
@@ -112,17 +123,6 @@
       "title": "Relief helicopter gives Rasuwa farmers a route to market",
       "link": "https://kathmandupost.com/money/2026/10/14/relief-helicopter-gives-rasuwa-farmers-a-route-to-market",
       "summary": "The WFP has flown around eight tonnes of vegetables from flood-isolated Aamachhodingmo to Bidur, helping growers salvage part of their harvest.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Salyan villages have little heart for Dashain celebrations",
-      "link": "https://kathmandupost.com/national/2026/10/14/salyan-villages-have-little-heart-for-dashain-celebrations",
-      "summary": "Dozens remain missing after the Bhotekoshi floods in Rasuwa, leaving families and neighbours across the district with little to celebrate this year.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
