@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16T11:45:06.853493+00:00",
-  "total": 4,
+  "updated_at": "2026-10-16T15:35:19.090174+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
@@ -79,17 +79,6 @@
       "title": "Contractor builds 268-metre suspension bridge in a month after floods cut off communities",
       "link": "https://kathmandupost.com/national/2026/10/15/contractor-builds-268-metre-suspension-bridge-in-a-month-after-floods-cut-off-communities",
       "summary": "Shailendra Raj Pyakurel tapped the construction industry’s own fund to build a vital crossing over the Trishuli river for Rs17.5 million, nearly half the government’s estimate.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Father cannot afford last rites for son missing in Bhotekoshi floods",
-      "link": "https://kathmandupost.com/national/2026/10/14/father-cannot-afford-last-rites-for-son-missing-in-bhotekoshi-floods",
-      "summary": "Forty-seven days after 25-year-old Pradip Sapkota went missing, his family has yet to recover his body and is struggling to pay for his funeral rites.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
