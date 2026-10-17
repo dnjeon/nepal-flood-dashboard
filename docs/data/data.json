@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-17T04:48:52.833599+00:00",
-  "total": 5,
+  "updated_at": "2026-10-17T08:52:14.386957+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -65,17 +65,6 @@
       "published_ts": 1792206900.0
     },
     {
-      "title": "Nepali community in Alabama donates $50,000 to flood victims",
-      "link": "https://english.onlinekhabar.com/alabama-50000-flood-victims.html",
-      "summary": "Kathmandu, October 16 The Nepali community in North Alabama, United States, has raised $50,000 for families affected by the devastating Bhotekoshi flood in Nepal and deposited it in the Prime Minister’s Relief Fund. Ravi Lama, president of the Nepali Association in North Alabama, expressed solidarity with the victims and said it is everyone’s shared responsibility […] The post Nepali community in ",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-16T10:55:03+00:00",
-      "published_ts": 1792148103.0
-    },
-    {
       "title": "Bhotekoshi flood displaced 777 students. Nepal plans five-year school recovery",
       "link": "https://kathmandupost.com/national/2026/10/17/bhotekoshi-flood-displaced-777-students-nepal-plans-five-year-school-recovery",
       "summary": "Of the 57 educational institutions assessed in Rasuwa, Nuwakot, and Dhading districts, 28 were damaged and 15 were completely destroyed.",
@@ -90,17 +79,6 @@
       "title": "Beijing’s security concerns cloud Nepal’s push to reopen Tatopani",
       "link": "https://kathmandupost.com/national/2026/10/17/beijing-s-security-concerns-cloud-nepal-s-push-to-reopen-tatopani",
       "summary": "Flood damage to Rasuwagadhi and the high cost of Korala leave the Sindhupalchok crossing vital to Nepal’s trade with China, but Beijing remains reluctant to reopen it over concerns about Tibet.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "How will Nepal verify those missing after the Bhotekoshi floods?",
-      "link": "https://kathmandupost.com/national/2026/10/15/how-will-nepal-verify-those-missing-after-the-bhotekoshi-floods",
-      "summary": "The government has begun compiling an official list of people missing in the August 26 disaster. The process will determine who can be declared dead and whose families qualify for relief.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
