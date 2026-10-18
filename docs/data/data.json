@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T04:56:33.774011+00:00",
-  "total": 4,
+  "updated_at": "2026-10-18T09:22:02.704313+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Flood-displaced settlements at risk from “toxic liquor”",
+      "link": "https://english.onlinekhabar.com/flood-risk-from-toxic-liquor.html",
+      "summary": "Residents of Uttargaya Rural Municipality-1 in Rasuwa, displaced by the Bhotekoshi flood and living temporarily in Nuwakot, now face the added danger of “toxic” homemade liquor. Police have launched a crackdown after the sale and distribution of illicit liquor made from inedible ingredients increased in and around the displaced settlements. About 2,000 displaced people have […] The post Flood-disp",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-18T06:15:54+00:00",
+      "published_ts": 1792304154.0
+    },
     {
       "title": "Half of flood-affected families want govt to provide land or house",
       "link": "https://risingnepaldaily.com/news/87928",
