@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T09:22:02.704313+00:00",
-  "total": 5,
+  "updated_at": "2026-10-18T13:25:13.713987+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-10-18T06:15:54+00:00",
       "published_ts": 1792304154.0
-    },
-    {
-      "title": "Half of flood-affected families want govt to provide land or house",
-      "link": "https://risingnepaldaily.com/news/87928",
-      "summary": "Kathmandu, Oct. 18: Half of the people who lost their houses in the devastating Bhotekoshi flood that occurred on August...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-18T02:53:12+00:00",
-      "published_ts": 1792291992.0
     },
     {
       "title": "Nepal cannot leave children’s safety to chance when floods strike",
