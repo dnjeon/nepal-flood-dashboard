@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T06:46:05.726572+00:00",
-  "total": 3,
+  "updated_at": "2026-10-19T14:03:06.987837+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-10-18T06:15:54+00:00",
       "published_ts": 1792304154.0
-    },
-    {
-      "title": "Nepal cannot leave children’s safety to chance when floods strike",
-      "link": "https://english.onlinekhabar.com/cant-leave-child-safety-chance-floods.html",
-      "summary": "A photograph published by a national daily shows a student at Bageshwari Secondary School in Baireni, Dhading, searching through a mud-caked schoolbag. It was taken on August 31, five days after the Bhotekoshi flood, with dozens of other bags abandoned nearby. The caption says no more, and I will not invent more. Yet every teacher […] The post Nepal cannot leave children’s safety to chance when fl",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-17T03:15:00+00:00",
-      "published_ts": 1792206900.0
     },
     {
       "title": "How Nepal played a big role in South Africa’s liberation",
