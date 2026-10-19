@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19T01:34:23.225795+00:00",
+  "updated_at": "2026-10-19T06:46:05.726572+00:00",
   "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "한국 위성 AI로 네팔 홍수 분석…피해 추정지역 31㎢",
-      "link": "https://www.yna.co.kr/view/AKR20261019047900017",
-      "summary": "(서울=연합뉴스) 조승한 기자 = 위성 기업 나라스페이스테크놀로지는 네팔 홍수 피해 지역을 위성영상과 인공지능(AI)으로 분석한 보고서를 주한네...",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-10-19T00:54:40+00:00",
-      "published_ts": 1792371280.0
-    },
     {
       "title": "Flood-displaced settlements at risk from “toxic liquor”",
       "link": "https://english.onlinekhabar.com/flood-risk-from-toxic-liquor.html",
@@ -85,6 +74,17 @@
       "highlight": false,
       "published": "2026-10-17T03:15:00+00:00",
       "published_ts": 1792206900.0
+    },
+    {
+      "title": "How Nepal played a big role in South Africa’s liberation",
+      "link": "https://kathmandupost.com/interviews/2026/10/19/how-nepal-played-a-big-role-in-south-africa-s-liberation",
+      "summary": "Anil Sooklal, South Africa’s top envoy to Nepal, on apartheid-era solidarity, climate justice after the Rasuwa flood, and why Kathmandu and Cape Town should be twinned.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
