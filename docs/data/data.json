@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-20T07:11:03.675446+00:00",
-  "total": 2,
+  "updated_at": "2026-10-20T12:46:50.531486+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -63,6 +63,17 @@
       "highlight": false,
       "published": "2026-10-18T06:15:54+00:00",
       "published_ts": 1792304154.0
+    },
+    {
+      "title": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
+      "link": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
+      "summary": "Displaced by the Bhotekoshi flood, 111 families are spending the festival in a Kathmandu monastery, grieving loved ones and wondering when they can return home.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "How Nepal played a big role in South Africa’s liberation",
