@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:06:08.720477+00:00",
+  "updated_at": "2026-10-21T18:00:22.624287+00:00",
   "total": 1,
   "highlight_count": 0,
   "sources": [
@@ -17,9 +17,9 @@
     },
     {
       "name": "The Rising Nepal",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": null
+      "error": "[Errno 111] Connection refused"
     },
     {
       "name": "Nepal News",
