@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-21T07:27:32.127254+00:00",
-  "total": 3,
+  "updated_at": "2026-10-21T13:06:08.720477+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,31 +54,9 @@
   ],
   "items": [
     {
-      "title": "Flood-displaced settlements at risk from “toxic liquor”",
-      "link": "https://english.onlinekhabar.com/flood-risk-from-toxic-liquor.html",
-      "summary": "Residents of Uttargaya Rural Municipality-1 in Rasuwa, displaced by the Bhotekoshi flood and living temporarily in Nuwakot, now face the added danger of “toxic” homemade liquor. Police have launched a crackdown after the sale and distribution of illicit liquor made from inedible ingredients increased in and around the displaced settlements. About 2,000 displaced people have […] The post Flood-disp",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-18T06:15:54+00:00",
-      "published_ts": 1792304154.0
-    },
-    {
       "title": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
       "link": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
       "summary": "Displaced by the Bhotekoshi flood, 111 families are spending the festival in a Kathmandu monastery, grieving loved ones and wondering when they can return home.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "How Nepal played a big role in South Africa’s liberation",
-      "link": "https://kathmandupost.com/interviews/2026/10/19/how-nepal-played-a-big-role-in-south-africa-s-liberation",
-      "summary": "Anil Sooklal, South Africa’s top envoy to Nepal, on apartheid-era solidarity, climate justice after the Rasuwa flood, and why Kathmandu and Cape Town should be twinned.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
