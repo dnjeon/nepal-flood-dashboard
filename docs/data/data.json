@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22T15:11:18.777317+00:00",
-  "total": 1,
+  "updated_at": "2026-10-22T19:15:09.893273+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Loss and damage fund approves $20 million for Nepal",
+      "link": "https://kathmandupost.com/national/2026/10/22/loss-and-damage-fund-allocates-20-million-to-nepal",
+      "summary": "The funding is intended to help flood-hit communities in the Bhotekoshi–Trishuli region recover and rebuild.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
     {
       "title": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
       "link": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
