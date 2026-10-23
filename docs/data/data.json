@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-23T00:49:11.026456+00:00",
+  "updated_at": "2026-10-23T05:28:13.462461+00:00",
   "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,20 +54,20 @@
   ],
   "items": [
     {
-      "title": "Loss and damage fund approves $20 million for Nepal",
-      "link": "https://kathmandupost.com/national/2026/10/22/loss-and-damage-fund-allocates-20-million-to-nepal",
-      "summary": "The funding is intended to help flood-hit communities in the Bhotekoshi–Trishuli region recover and rebuild.",
-      "source": "The Kathmandu Post",
+      "title": "Loss and Damage Fund approves $20 million grant for Nepal’s flood recovery",
+      "link": "https://english.onlinekhabar.com/loss-and-damage-fund-20-mil.html",
+      "summary": "Kathmandu, October 23 The Loss and Damage Fund, established to address climate-related losses and damages, has approved a $20 million grant for Nepal to support relief, rehabilitation and reconstruction in communities affected by devastating floods in the Bhotekoshi and Trishuli river basins. The Ministry of Agriculture, Forests and Environment announced the decision in a statement […] The post Lo",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": null,
-      "published_ts": 0
+      "published": "2026-10-23T02:51:21+00:00",
+      "published_ts": 1792723881.0
     },
     {
-      "title": "For Timure’s flood survivors, Dashain brings memories of the lives they lost",
-      "link": "https://kathmandupost.com/national/2026/10/20/for-timure-s-flood-survivors-dashain-brings-memories-of-the-lives-they-lost",
-      "summary": "Displaced by the Bhotekoshi flood, 111 families are spending the festival in a Kathmandu monastery, grieving loved ones and wondering when they can return home.",
+      "title": "Loss and damage fund approves $20 million for Nepal",
+      "link": "https://kathmandupost.com/national/2026/10/22/loss-and-damage-fund-allocates-20-million-to-nepal",
+      "summary": "The funding is intended to help flood-hit communities in the Bhotekoshi–Trishuli region recover and rebuild.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
