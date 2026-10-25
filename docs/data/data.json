@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T23:46:50.715414+00:00",
-  "total": 2,
+  "updated_at": "2026-10-25T01:46:01.622778+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Govt's Reassuring Moves",
+      "link": "https://risingnepaldaily.com/news/87997",
+      "summary": "This year’s floods and landslides in Rasuwa and Nuwakot districts on August 26, along the Bhotekoshi and Trisuli Corrido...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-25T01:32:54+00:00",
+      "published_ts": 1792891974.0
+    },
     {
       "title": "Loss and Damage Fund approves $20 million grant for Nepal’s flood recovery",
       "link": "https://english.onlinekhabar.com/loss-and-damage-fund-20-mil.html",
