@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-25T01:46:01.622778+00:00",
+  "updated_at": "2026-10-25T06:58:04.422955+00:00",
   "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,26 @@
   ],
   "items": [
     {
-      "title": "Govt's Reassuring Moves",
-      "link": "https://risingnepaldaily.com/news/87997",
-      "summary": "This year’s floods and landslides in Rasuwa and Nuwakot districts on August 26, along the Bhotekoshi and Trisuli Corrido...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-25T01:32:54+00:00",
-      "published_ts": 1792891974.0
-    },
-    {
-      "title": "Loss and Damage Fund approves $20 million grant for Nepal’s flood recovery",
-      "link": "https://english.onlinekhabar.com/loss-and-damage-fund-20-mil.html",
-      "summary": "Kathmandu, October 23 The Loss and Damage Fund, established to address climate-related losses and damages, has approved a $20 million grant for Nepal to support relief, rehabilitation and reconstruction in communities affected by devastating floods in the Bhotekoshi and Trishuli river basins. The Ministry of Agriculture, Forests and Environment announced the decision in a statement […] The post Lo",
+      "title": "Authorities intensify setting up Bailey bridge at Syafrubensi",
+      "link": "https://english.onlinekhabar.com/authorities-intensify-setting-up-bailey-bridge-at-syafrubensi.html",
+      "summary": "Rasuwa, October 25 Authorities have sped up the process to install a Bailey bridge at Syafrubensi. The Bailey bridge would be a motorable facility. The National Disaster Risk Reduction and Management Authority (NDRRMA) and the local administration are coordinating to set up the bridge. Chief district officer Kamal Prasad Pande, and executive chief of NDRRMA, […] The post Authorities intensify sett",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-23T02:51:21+00:00",
-      "published_ts": 1792723881.0
+      "published": "2026-10-25T06:12:15+00:00",
+      "published_ts": 1792908735.0
+    },
+    {
+      "title": "Will Nepal’s lights stay on at 7pm in the winter?",
+      "link": "https://kathmandupost.com/columns/2026/10/25/will-nepal-s-lights-stay-on-at-7pm-in-the-winter",
+      "summary": "The Bhotekoshi flood and the Kaligandaki landslides exposed a grid that depends on a few valleys and on river flow. Winter evenings, when demand peaks and India’s imports stop, will show how much of Nepal’s power is dependable.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Loss and damage fund approves $20 million for Nepal",
