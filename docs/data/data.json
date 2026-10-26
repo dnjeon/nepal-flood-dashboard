@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T01:50:01.557182+00:00",
-  "total": 3,
+  "updated_at": "2026-10-26T07:07:05.674937+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,37 @@
   ],
   "items": [
     {
-      "title": "Authorities intensify setting up Bailey bridge at Syafrubensi",
-      "link": "https://english.onlinekhabar.com/authorities-intensify-setting-up-bailey-bridge-at-syafrubensi.html",
-      "summary": "Rasuwa, October 25 Authorities have sped up the process to install a Bailey bridge at Syafrubensi. The Bailey bridge would be a motorable facility. The National Disaster Risk Reduction and Management Authority (NDRRMA) and the local administration are coordinating to set up the bridge. Chief district officer Kamal Prasad Pande, and executive chief of NDRRMA, […] The post Authorities intensify sett",
+      "title": "Tourist arrivals increase in Mustang",
+      "link": "https://english.onlinekhabar.com/tourist-arrivals-increase-in-mustang.html",
+      "summary": "Mustang, October 26 Tourist activity in the Himalayan district of Mustang has been picking up since Dashain. The district, which remained nearly deserted before the festival, has seen an increase in tourist arrivals since Thursday. Tourist numbers had declined after devastating floods in Bhotekoshi, Rasuwa, and heavy rainfall on October 11 triggered floods, landslides and […] The post Tourist arri",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-25T06:12:15+00:00",
-      "published_ts": 1792908735.0
+      "published": "2026-10-26T06:55:28+00:00",
+      "published_ts": 1792997728.0
+    },
+    {
+      "title": "Deposits in Prime Minister’s Relief Fund exceeds Rs 18 billion",
+      "link": "https://risingnepaldaily.com/news/88049",
+      "summary": "Kathmandu, Oct 26: Following the devastating floods that struck the Bhotekoshi-Trishuli river system on August 26, the P...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-26T06:11:09+00:00",
+      "published_ts": 1792995069.0
+    },
+    {
+      "title": "Can a cricket league comfort a country in mourning?",
+      "link": "https://kathmandupost.com/editorial/2026/10/26/can-a-cricket-league-comfort-a-country-in-mourning",
+      "summary": "Nepal Premier League cannot rebuild Rasuwa, but it can give a grieving nation somewhere to gather.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Nepal resumes power exports to Bangladesh after flood disruption",
