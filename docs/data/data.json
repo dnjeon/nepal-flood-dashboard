@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T07:07:05.674937+00:00",
-  "total": 5,
+  "updated_at": "2026-10-26T14:11:59.545816+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,26 +54,15 @@
   ],
   "items": [
     {
-      "title": "Tourist arrivals increase in Mustang",
-      "link": "https://english.onlinekhabar.com/tourist-arrivals-increase-in-mustang.html",
-      "summary": "Mustang, October 26 Tourist activity in the Himalayan district of Mustang has been picking up since Dashain. The district, which remained nearly deserted before the festival, has seen an increase in tourist arrivals since Thursday. Tourist numbers had declined after devastating floods in Bhotekoshi, Rasuwa, and heavy rainfall on October 11 triggered floods, landslides and […] The post Tourist arri",
+      "title": "Process underway to issue citizenship certificate copies to 202 flood-affected residents of Uttargaya",
+      "link": "https://english.onlinekhabar.com/process-underway-to-issue-citizenship-certificate-copies-to-202-flood-affected-residents-of-uttargaya.html",
+      "summary": "Rasuwa, October 26 A process has begun to issue copies of citizenship certificates to residents of Uttargaya Rural Municipality in Rasuwa who are staying at holding centres in Nuwakot following the Bhotekoshi flood on August 26. Rasuwa Chief District Officer (CDO) Kamal Prasad Pandey said the process involves collecting applications and issuing copies of citizenship […] The post Process underway t",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-26T06:55:28+00:00",
-      "published_ts": 1792997728.0
-    },
-    {
-      "title": "Deposits in Prime Minister’s Relief Fund exceeds Rs 18 billion",
-      "link": "https://risingnepaldaily.com/news/88049",
-      "summary": "Kathmandu, Oct 26: Following the devastating floods that struck the Bhotekoshi-Trishuli river system on August 26, the P...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-26T06:11:09+00:00",
-      "published_ts": 1792995069.0
+      "published": "2026-10-26T08:30:13+00:00",
+      "published_ts": 1793003413.0
     },
     {
       "title": "Can a cricket league comfort a country in mourning?",
