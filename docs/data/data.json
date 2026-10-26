@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-26T14:11:59.545816+00:00",
-  "total": 4,
+  "updated_at": "2026-10-26T19:59:32.094580+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,42 +54,9 @@
   ],
   "items": [
     {
-      "title": "Process underway to issue citizenship certificate copies to 202 flood-affected residents of Uttargaya",
-      "link": "https://english.onlinekhabar.com/process-underway-to-issue-citizenship-certificate-copies-to-202-flood-affected-residents-of-uttargaya.html",
-      "summary": "Rasuwa, October 26 A process has begun to issue copies of citizenship certificates to residents of Uttargaya Rural Municipality in Rasuwa who are staying at holding centres in Nuwakot following the Bhotekoshi flood on August 26. Rasuwa Chief District Officer (CDO) Kamal Prasad Pandey said the process involves collecting applications and issuing copies of citizenship […] The post Process underway t",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-26T08:30:13+00:00",
-      "published_ts": 1793003413.0
-    },
-    {
       "title": "Can a cricket league comfort a country in mourning?",
       "link": "https://kathmandupost.com/editorial/2026/10/26/can-a-cricket-league-comfort-a-country-in-mourning",
       "summary": "Nepal Premier League cannot rebuild Rasuwa, but it can give a grieving nation somewhere to gather.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal resumes power exports to Bangladesh after flood disruption",
-      "link": "https://kathmandupost.com/money/2026/10/25/nepal-resumes-power-exports-to-bangladesh-after-flood-disruption",
-      "summary": "Nepal has restarted its 40MW electricity supply through India’s transmission network, using Solu Khola and Kabeli B1 to replace the flood-damaged Trishuli and Chilime hydropower plants.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Will Nepal’s lights stay on at 7pm in the winter?",
-      "link": "https://kathmandupost.com/columns/2026/10/25/will-nepal-s-lights-stay-on-at-7pm-in-the-winter",
-      "summary": "The Bhotekoshi flood and the Kaligandaki landslides exposed a grid that depends on a few valleys and on river flow. Winter evenings, when demand peaks and India’s imports stop, will show how much of Nepal’s power is dependable.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
