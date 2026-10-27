@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26T23:44:14.192272+00:00",
-  "total": 1,
+  "updated_at": "2026-10-27T02:27:49.482824+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "Restore hope for Bhotekoshi flood victims",
+      "link": "https://kathmandupost.com/editorial/2026/10/27/restore-hope-for-bhotekoshi-flood-victims",
+      "summary": "The Bhotekoshi flood victims deserve answers; they cannot remain in uncertainty any longer.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
     {
       "title": "Can a cricket league comfort a country in mourning?",
       "link": "https://kathmandupost.com/editorial/2026/10/26/can-a-cricket-league-comfort-a-country-in-mourning",
