@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-27T08:16:50.666001+00:00",
-  "total": 7,
+  "updated_at": "2026-10-27T14:39:04.987560+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,48 +54,26 @@
   ],
   "items": [
     {
-      "title": "Deposits in Prime Minister’s disaster relief funds exceed Rs 18.13 billion",
-      "link": "https://english.onlinekhabar.com/deposits-in-prime-ministers-disaster-relief-funds-exceed-rs-18-13-billion.html",
-      "summary": "Kathmandu, October 27 Deposits in the Prime Minister’s Natural Disaster Rescue Fund and the Prime Minister’s Relief Fund have exceeded Rs 18.13 billion following the devastating floods that struck the Bhotekoshi-Trishuli river system on August 26. According to the Office of the Prime Minister and Council of Ministers, the combined balance in bank accounts operated […] The post Deposits in Prime Mi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-27T07:46:12+00:00",
-      "published_ts": 1793087172.0
-    },
-    {
-      "title": "Pashupati Foundation America provides Rs 15 million to Bhotekoshi flood victims",
-      "link": "https://english.onlinekhabar.com/pashupati-foundation-bhotekoshi.html",
-      "summary": "Kathmandu, October 27 The Shree Pashupatinath Foundation, which is active in Southern California in the United States, has contributed Rs 15 million for the relief and rehabilitation of people affected by the flood in Nepal’s Bhotekoshi area. According to foundation president Bimal Shrestha, the amount collected for flood victims has been sent to the Prime […] The post Pashupati Foundation America",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-27T07:13:43+00:00",
-      "published_ts": 1793085223.0
-    },
-    {
-      "title": "Deposits in Prime Minister’s Relief Fund cross Rs 18.13 billion",
-      "link": "https://risingnepaldaily.com/news/88103",
-      "summary": "Kathmandu, Oct 27: Following the devastating floods that struck the Bhotekoshi-Trishuli river system on August 26, the P...",
+      "title": "Bhotekoshi flood caused loss of Rs 79.17B in private households, business",
+      "link": "https://risingnepaldaily.com/news/88117",
+      "summary": "Kathmandu, Oct 27: The devastating floods that struck the Bhotekoshi-Trishuli river system on August 26 resulted in loss...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-27T06:36:06+00:00",
-      "published_ts": 1793082966.0
+      "published": "2026-10-27T12:14:44+00:00",
+      "published_ts": 1793103284.0
     },
     {
-      "title": "Two months since Bhotekoshi flood: Relatives continue waiting for DNA report of missing ones",
-      "link": "https://risingnepaldaily.com/news/88101",
-      "summary": "Ranjha (Banke), Oct 27: It has been two months since the Bhotekoshi flood, but the wait for DNA report of the missing on...",
-      "source": "The Rising Nepal",
+      "title": "Parliamentary committee seeks detailed damage and relief records from 49 flood-hit wards",
+      "link": "https://english.onlinekhabar.com/parliamentary-committee-seeks-detailed-damage-and-relief-records-from-49-flood-hit-wards.html",
+      "summary": "Kathmandu, October 27 A special committee of the National Assembly has sought detailed information from the government on damage and relief distribution in 49 wards affected by floods along the Bhotekoshi and Kaligandaki river corridors. Committee chairperson Krishna Prasad Paudel said the committee had decided to seek a breakdown of the cash, food and other […] The post Parliamentary committee se",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-10-27T06:22:12+00:00",
-      "published_ts": 1793082132.0
+      "published": "2026-10-27T10:54:14+00:00",
+      "published_ts": 1793098454.0
     },
     {
       "title": "Nepal’s historic loss and damage allocation falls short of its needs",
@@ -112,17 +90,6 @@
       "title": "Restore hope for Bhotekoshi flood victims",
       "link": "https://kathmandupost.com/editorial/2026/10/27/restore-hope-for-bhotekoshi-flood-victims",
       "summary": "The Bhotekoshi flood victims deserve answers; they cannot remain in uncertainty any longer.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Can a cricket league comfort a country in mourning?",
-      "link": "https://kathmandupost.com/editorial/2026/10/26/can-a-cricket-league-comfort-a-country-in-mourning",
-      "summary": "Nepal Premier League cannot rebuild Rasuwa, but it can give a grieving nation somewhere to gather.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
