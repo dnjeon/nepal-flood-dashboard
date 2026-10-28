@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T23:11:51.322134+00:00",
-  "total": 4,
+  "updated_at": "2026-10-28T02:22:55.797722+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "Bhotekoshi flood caused loss of Rs 79.17B in private households, business",
-      "link": "https://risingnepaldaily.com/news/88117",
-      "summary": "Kathmandu, Oct 27: The devastating floods that struck the Bhotekoshi-Trishuli river system on August 26 resulted in loss...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-27T12:14:44+00:00",
-      "published_ts": 1793103284.0
-    },
     {
       "title": "Parliamentary committee seeks detailed damage and relief records from 49 flood-hit wards",
       "link": "https://english.onlinekhabar.com/parliamentary-committee-seeks-detailed-damage-and-relief-records-from-49-flood-hit-wards.html",
