@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T08:51:38.851622+00:00",
-  "total": 1,
+  "updated_at": "2026-10-28T15:44:03.112350+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,9 +54,20 @@
   ],
   "items": [
     {
-      "title": "Nepal’s historic loss and damage allocation falls short of its needs",
-      "link": "https://kathmandupost.com/climate-environment/2026/10/27/nepal-s-historic-loss-and-damage-allocation-falls-short-of-its-needs",
-      "summary": "The UN fund has provisionally set aside 21.6 million for Nepal after the Rasuwa disaster, marking a first while covering less than 0.5 percent of the country’s estimated $4.7 billion recovery and reconstruction needs.",
+      "title": "Govt estimates up to $4.75 billion needed for Bhotekoshi disaster recovery",
+      "link": "https://english.onlinekhabar.com/estimate-need-bhotekoshi-recovery.html",
+      "summary": "The government has estimated that Nepal will need between $4.7 billion and $4.75 billion for the rehabilitation and reconstruction of areas affected by the Rasuwa–Bhotekoshi disaster. However, the government requires $57 million for immediate recovery efforts, according to Maheshwar Dhakal, joint secretary and spokesperson for the Ministry of Agriculture, Forests and Environment. Speaking at a […]",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-28T09:40:37+00:00",
+      "published_ts": 1793180437.0
+    },
+    {
+      "title": "Insurers have paid just 4 percent of Bhotekoshi flood claims",
+      "link": "https://kathmandupost.com/money/2026/10/28/insurers-have-paid-just-4-percent-of-bhotekoshi-flood-claims",
+      "summary": "Payouts total Rs821.39 million against Rs20.9 billion in claims nearly two months after the disaster, with the final bill expected to rise.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
