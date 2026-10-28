@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-28T02:22:55.797722+00:00",
-  "total": 3,
+  "updated_at": "2026-10-28T08:51:38.851622+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,31 +54,9 @@
   ],
   "items": [
     {
-      "title": "Parliamentary committee seeks detailed damage and relief records from 49 flood-hit wards",
-      "link": "https://english.onlinekhabar.com/parliamentary-committee-seeks-detailed-damage-and-relief-records-from-49-flood-hit-wards.html",
-      "summary": "Kathmandu, October 27 A special committee of the National Assembly has sought detailed information from the government on damage and relief distribution in 49 wards affected by floods along the Bhotekoshi and Kaligandaki river corridors. Committee chairperson Krishna Prasad Paudel said the committee had decided to seek a breakdown of the cash, food and other […] The post Parliamentary committee se",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-27T10:54:14+00:00",
-      "published_ts": 1793098454.0
-    },
-    {
       "title": "Nepal’s historic loss and damage allocation falls short of its needs",
       "link": "https://kathmandupost.com/climate-environment/2026/10/27/nepal-s-historic-loss-and-damage-allocation-falls-short-of-its-needs",
       "summary": "The UN fund has provisionally set aside 21.6 million for Nepal after the Rasuwa disaster, marking a first while covering less than 0.5 percent of the country’s estimated $4.7 billion recovery and reconstruction needs.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Restore hope for Bhotekoshi flood victims",
-      "link": "https://kathmandupost.com/editorial/2026/10/27/restore-hope-for-bhotekoshi-flood-victims",
-      "summary": "The Bhotekoshi flood victims deserve answers; they cannot remain in uncertainty any longer.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
