@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T06:12:48.378248+00:00",
-  "total": 1,
+  "updated_at": "2026-10-29T13:15:07.577024+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Special committee wants expenditures of PM Disaster Rescue Fund made public",
+      "link": "https://risingnepaldaily.com/news/88199",
+      "summary": "Kathmandu, Oct 29: The Parliamentary Special Committee on Study and Monitoring of the Disaster in the Bhotekoshi and Kal...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-29T12:16:25+00:00",
+      "published_ts": 1793276185.0
+    },
+    {
+      "title": "Langtang Valley trek reopens",
+      "link": "https://english.onlinekhabar.com/langtang-valley-trek-reopens.html",
+      "summary": "Rasuwa, October 29 The Langtang Valley trekking route has reopened following the construction of alternative trails. Although the Bhotekoshi flood damaged the Pasang Lhamu Highway and infrastructure in the Syabrubesi area, new trekking routes have been opened to ensure the safety of trekkers. Locals have welcomed the reopening of the world-famous trekking route, which was […] The post Langtang Val",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-10-29T10:19:36+00:00",
+      "published_ts": 1793269176.0
+    },
     {
       "title": "Insurers have paid just 4 percent of Bhotekoshi flood claims",
       "link": "https://kathmandupost.com/money/2026/10/28/insurers-have-paid-just-4-percent-of-bhotekoshi-flood-claims",
