@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-29T13:15:07.577024+00:00",
-  "total": 3,
+  "updated_at": "2026-10-29T18:59:23.458043+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -74,17 +74,6 @@
       "highlight": false,
       "published": "2026-10-29T10:19:36+00:00",
       "published_ts": 1793269176.0
-    },
-    {
-      "title": "Insurers have paid just 4 percent of Bhotekoshi flood claims",
-      "link": "https://kathmandupost.com/money/2026/10/28/insurers-have-paid-just-4-percent-of-bhotekoshi-flood-claims",
-      "summary": "Payouts total Rs821.39 million against Rs20.9 billion in claims nearly two months after the disaster, with the final bill expected to rise.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
     }
   ]
 }
