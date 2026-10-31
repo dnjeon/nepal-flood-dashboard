@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-30T23:53:20.419067+00:00",
-  "total": 3,
+  "updated_at": "2026-10-31T04:07:58.129645+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
@@ -63,6 +63,17 @@
       "highlight": false,
       "published": "2026-10-30T13:15:00+00:00",
       "published_ts": 1793366100.0
+    },
+    {
+      "title": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
+      "link": "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing",
+      "summary": "The ‘Pitri Moksha Yagya’ ritual at the Betrawati confluence will honour victims of the August 26 flood across Rasuwa, Nuwakot, Dhading, Gorkha, and Chitwan.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "No bridge, no market: Vegetables rot in fields after Bhotekoshi floods",
