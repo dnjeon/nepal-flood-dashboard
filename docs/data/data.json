@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-31T04:07:58.129645+00:00",
-  "total": 4,
+  "updated_at": "2026-10-31T10:20:47.198372+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 4,
       "error": null
     },
     {
@@ -63,6 +63,17 @@
       "highlight": false,
       "published": "2026-10-30T13:15:00+00:00",
       "published_ts": 1793366100.0
+    },
+    {
+      "title": "Rain triggers landslides, washes away roads and disrupts travel across Nepal",
+      "link": "https://kathmandupost.com/national/2026/10/31/rain-triggers-landslides-washes-away-roads-and-disrupts-travel-across-nepal",
+      "summary": "Landslides have disrupted the Prithvi Highway, washed away a road diversion in Gorkha and buried a house in Kavre, while heavy snow has hit the Kanchenjunga region.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
