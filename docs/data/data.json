@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-31T15:49:22.437466+00:00",
-  "total": 5,
+  "updated_at": "2026-10-31T19:35:46.863323+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 4,
+      "count": 3,
       "error": null
     },
     {
@@ -90,17 +90,6 @@
       "title": "No bridge, no market: Vegetables rot in fields after Bhotekoshi floods",
       "link": "https://kathmandupost.com/money/2026/10/30/no-bridge-no-market-vegetables-rot-in-fields-after-bhotekoshi-floods",
       "summary": "Farmers in Rasuwa’s Aamachhodingmo struggle to sell their produce as damaged roads, costly transport and the lack of a bridge at Syafrubesi leave millions of rupees’ worth of vegetables stranded.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Nepal plans temporary bridges to reopen flood-hit Rasuwagadhi border crossing",
-      "link": "https://kathmandupost.com/money/2026/10/30/nepal-plans-temporary-bridges-to-reopen-flood-hit-rasuwagadhi-border-crossing",
-      "summary": "Authorities aim to restore road access to the Chinese border before rebuilding permanently, while also considering an expressway to Kerung in place of a proposed railway.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
