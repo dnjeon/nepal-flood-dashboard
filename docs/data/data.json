@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-01T01:32:11.400133+00:00",
-  "total": 4,
+  "updated_at": "2026-11-01T08:06:19.346527+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,17 +54,6 @@
   ],
   "items": [
     {
-      "title": "Has Nepal gained climate justice, or compromised its bigger claim?",
-      "link": "https://english.onlinekhabar.com/has-nepal-gained-climate-justice.html",
-      "summary": "It has been two months since the devastating floods in the Bhotekoshi River. In the meantime, we have also witnessed landslides and floods in the Budhi Gandaki region. The effects of the glacial tsunamis triggered by the climate crisis remain just as severe. Against this backdrop, Prime Minister Balen Shah’s appeal for climate justice at […] The post Has Nepal gained climate justice, or compromise",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-10-30T13:15:00+00:00",
-      "published_ts": 1793366100.0
-    },
-    {
       "title": "Rain triggers landslides, washes away roads and disrupts travel across Nepal",
       "link": "https://kathmandupost.com/national/2026/10/31/rain-triggers-landslides-washes-away-roads-and-disrupts-travel-across-nepal",
       "summary": "Landslides have disrupted the Prithvi Highway, washed away a road diversion in Gorkha and buried a house in Kavre, while heavy snow has hit the Kanchenjunga region.",
@@ -79,17 +68,6 @@
       "title": "Five-day fire ritual next week for Bhotekoshi flood dead and missing",
       "link": "https://kathmandupost.com/national/2026/10/31/five-day-fire-ritual-next-week-for-bhotekoshi-flood-dead-and-missing",
       "summary": "The ‘Pitri Moksha Yagya’ ritual at the Betrawati confluence will honour victims of the August 26 flood across Rasuwa, Nuwakot, Dhading, Gorkha, and Chitwan.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "No bridge, no market: Vegetables rot in fields after Bhotekoshi floods",
-      "link": "https://kathmandupost.com/money/2026/10/30/no-bridge-no-market-vegetables-rot-in-fields-after-bhotekoshi-floods",
-      "summary": "Farmers in Rasuwa’s Aamachhodingmo struggle to sell their produce as damaged roads, costly transport and the lack of a bridge at Syafrubesi leave millions of rupees’ worth of vegetables stranded.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
