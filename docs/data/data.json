@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T09:47:14.818422+00:00",
-  "total": 1,
+  "updated_at": "2026-11-02T19:50:43.981366+00:00",
+  "total": 0,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -52,17 +52,5 @@
       "error": null
     }
   ],
-  "items": [
-    {
-      "title": "China could not provide immediate information on Bhotekoshi flood, says Foreign Secretary Rai",
-      "link": "https://english.onlinekhabar.com/china-could-not-information-rai.html",
-      "summary": "Kathmandu, November 2 Foreign Secretary Amrit Bahadur Rai has said that the Chinese government could not provide immediate information about the Bhotekoshi flood that struck on August 26. Rai made the remarks at a meeting of the National Assembly’s special parliamentary committee on the study and monitoring of disasters in the Bhotekoshi and Kaligandaki corridors. […] The post China could not prov",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-02T09:14:52+00:00",
-      "published_ts": 1793610892.0
-    }
-  ]
+  "items": []
 }
