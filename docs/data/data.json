@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-01T23:02:11.522459+00:00",
+  "updated_at": "2026-11-02T02:25:07.229542+00:00",
   "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "Rain triggers landslides, washes away roads and disrupts travel across Nepal",
-      "link": "https://kathmandupost.com/national/2026/10/31/rain-triggers-landslides-washes-away-roads-and-disrupts-travel-across-nepal",
-      "summary": "Landslides have disrupted the Prithvi Highway, washed away a road diversion in Gorkha and buried a house in Kavre, while heavy snow has hit the Kanchenjunga region.",
-      "source": "The Kathmandu Post",
+      "title": "Flood-displaced families in Rasuwa, Nuwakot yet to receive promised house rent support",
+      "link": "https://english.onlinekhabar.com/flood-displaced-families-rent-money.html",
+      "summary": "Kathmandu, November 1 More than two months after floods displaced their homes, many families in Rasuwa and Nuwakot are still waiting for the monthly rent assistance promised by the government. The Thapa family from Tallo Pairebesi in Uttargaya Rural Municipality-4, Rasuwa, is among those living in rented accommodation after losing their homes to the floods. […] The post Flood-displaced families in",
+      "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": null,
-      "published_ts": 0
+      "published": "2026-11-02T01:15:00+00:00",
+      "published_ts": 1793582100.0
     }
   ]
 }
