@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T09:25:11.146263+00:00",
-  "total": 1,
+  "updated_at": "2026-11-03T17:13:06.784884+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,17 @@
     }
   ],
   "items": [
+    {
+      "title": "‘Road to Everest’ shares Nepal’s Himalayan story with Hong Kong audiences",
+      "link": "https://english.onlinekhabar.com/road-to-everest-hong-kong.html",
+      "summary": "Hong Kong, November 2 A special screening of the documentary Road to Everest was held in Hong Kong on Sunday under the theme “Experience Everest, Support Rasuwa”, drawing an enthusiastic audience. Organised by the Non-Resident Nepali Association (NRNA) Hong Kong, the screening took place at Sunbeam Whampoa Cinema in Hung Hom. The event aimed to […] The post ‘Road to Everest’ shares Nepal’s Himalay",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-03T09:52:38+00:00",
+      "published_ts": 1793699558.0
+    },
     {
       "title": "Bhotekoshi floods leave older survivors grappling with loss, uncertainty and trauma",
       "link": "https://kathmandupost.com/national/2026/11/03/bhotekoshi-floods-leave-older-survivors-grappling-with-loss-uncertainty-and-trauma",
