@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03T02:00:00.886743+00:00",
-  "total": 0,
+  "updated_at": "2026-11-03T09:25:11.146263+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Bhotekoshi floods leave older survivors grappling with loss, uncertainty and trauma",
+      "link": "https://kathmandupost.com/national/2026/11/03/bhotekoshi-floods-leave-older-survivors-grappling-with-loss-uncertainty-and-trauma",
+      "summary": "Two months on, many elderly survivors remain displaced, haunted by memories of the disaster and waiting for news of missing family members. Authorities are yet to establish how many older people were affected.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    }
+  ]
 }
