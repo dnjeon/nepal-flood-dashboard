@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T02:33:19.184817+00:00",
-  "total": 2,
+  "updated_at": "2026-11-04T09:48:49.726614+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,20 +54,9 @@
   ],
   "items": [
     {
-      "title": "‘Road to Everest’ shares Nepal’s Himalayan story with Hong Kong audiences",
-      "link": "https://english.onlinekhabar.com/road-to-everest-hong-kong.html",
-      "summary": "Hong Kong, November 2 A special screening of the documentary Road to Everest was held in Hong Kong on Sunday under the theme “Experience Everest, Support Rasuwa”, drawing an enthusiastic audience. Organised by the Non-Resident Nepali Association (NRNA) Hong Kong, the screening took place at Sunbeam Whampoa Cinema in Hung Hom. The event aimed to […] The post ‘Road to Everest’ shares Nepal’s Himalay",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-03T09:52:38+00:00",
-      "published_ts": 1793699558.0
-    },
-    {
-      "title": "Bhotekoshi floods leave older survivors grappling with loss, uncertainty and trauma",
-      "link": "https://kathmandupost.com/national/2026/11/03/bhotekoshi-floods-leave-older-survivors-grappling-with-loss-uncertainty-and-trauma",
-      "summary": "Two months on, many elderly survivors remain displaced, haunted by memories of the disaster and waiting for news of missing family members. Authorities are yet to establish how many older people were affected.",
+      "title": "Floods push back Siddhababa tunnel opening to mid-January",
+      "link": "https://kathmandupost.com/national/2026/11/04/floods-push-back-siddhababa-tunnel-opening-to-mid-january",
+      "summary": "The Bhotekoshi and Kaligandaki floods disrupted the delivery of electrical and safety equipment, delaying plans to open the tunnel to traffic.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
