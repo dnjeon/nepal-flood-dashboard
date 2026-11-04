@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-04T09:48:49.726614+00:00",
-  "total": 1,
+  "updated_at": "2026-11-04T17:36:44.810673+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Misri looks forward to discussing key initiatives ahead of PM’s India visit, offers support for Bhotekoshi reconstruction",
+      "link": "https://english.onlinekhabar.com/misri-looks-forward-to-discussing-key-initiatives-ahead-of-pms-india-visit-offers-support-for-bhotekoshi-reconstruction.html",
+      "summary": "Kathmandu, November 4 Indian Foreign Secretary Vikram Misri has said that India is ready to support the reconstruction and rehabilitation of infrastructure damaged by the Bhotekoshi floods in Nepal. During a meeting with the Nepali delegation led by Foreign Secretary Amrit Bahadur Rai on Wednesday, Misri said the floods had caused extensive damage to Nepal’s […] The post Misri looks forward to dis",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-04T11:05:06+00:00",
+      "published_ts": 1793790306.0
+    },
+    {
+      "title": "Vikram Misri says India ready to help rebuild Nepal’s flood-hit infrastructure",
+      "link": "https://kathmandupost.com/national/2026/11/04/vikram-misri-says-india-ready-to-help-rebuild-nepal-s-flood-hit-infrastructure",
+      "summary": "New Delhi is prepared to consider Nepal’s proposals for assistance and reconstruction projects following the Bhotekoshi flood.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
     {
       "title": "Floods push back Siddhababa tunnel opening to mid-January",
       "link": "https://kathmandupost.com/national/2026/11/04/floods-push-back-siddhababa-tunnel-opening-to-mid-january",
