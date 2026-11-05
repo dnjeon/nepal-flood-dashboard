@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-05T03:09:57.825773+00:00",
-  "total": 3,
+  "updated_at": "2026-11-05T10:53:45.694986+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -54,31 +54,20 @@
   ],
   "items": [
     {
-      "title": "Misri looks forward to discussing key initiatives ahead of PM’s India visit, offers support for Bhotekoshi reconstruction",
-      "link": "https://english.onlinekhabar.com/misri-looks-forward-to-discussing-key-initiatives-ahead-of-pms-india-visit-offers-support-for-bhotekoshi-reconstruction.html",
-      "summary": "Kathmandu, November 4 Indian Foreign Secretary Vikram Misri has said that India is ready to support the reconstruction and rehabilitation of infrastructure damaged by the Bhotekoshi floods in Nepal. During a meeting with the Nepali delegation led by Foreign Secretary Amrit Bahadur Rai on Wednesday, Misri said the floods had caused extensive damage to Nepal’s […] The post Misri looks forward to dis",
+      "title": "Flood victims at Kathmandu holding centres eager to return home (Photos)",
+      "link": "https://english.onlinekhabar.com/flood-victims-at-kathmandu-holding-centres-eager-to-return-home-photos.html",
+      "summary": "Kathmandu, November 5 People displaced by the August 26 floods in the Bhotekoshi River, which flows into the Trishuli River in Rasuwa, have been staying at holding centres in Kathmandu. The displaced families have been accommodated at various monasteries and centres across the capital. While some have already returned to their villages, others are preparing […] The post Flood victims at Kathmandu ",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-04T11:05:06+00:00",
-      "published_ts": 1793790306.0
+      "published": "2026-11-05T08:12:13+00:00",
+      "published_ts": 1793866333.0
     },
     {
       "title": "Vikram Misri says India ready to help rebuild Nepal’s flood-hit infrastructure",
       "link": "https://kathmandupost.com/national/2026/11/04/vikram-misri-says-india-ready-to-help-rebuild-nepal-s-flood-hit-infrastructure",
       "summary": "New Delhi is prepared to consider Nepal’s proposals for assistance and reconstruction projects following the Bhotekoshi flood.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Floods push back Siddhababa tunnel opening to mid-January",
-      "link": "https://kathmandupost.com/national/2026/11/04/floods-push-back-siddhababa-tunnel-opening-to-mid-january",
-      "summary": "The Bhotekoshi and Kaligandaki floods disrupted the delivery of electrical and safety equipment, delaying plans to open the tunnel to traffic.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
