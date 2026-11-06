@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-05T23:49:50.749846+00:00",
-  "total": 0,
-  "highlight_count": 0,
+  "updated_at": "2026-11-06T03:44:20.489133+00:00",
+  "total": 1,
+  "highlight_count": 1,
   "sources": [
     {
       "name": "The Kathmandu Post",
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Lions holding edge in Korean Series bullpen battle despite missing star closer",
+      "link": "https://en.yna.co.kr/view/AEN20261106003500315",
+      "summary": "DAEGU, Nov. 6 (Yonhap) -- Before the Korean Series started this week, it appeare...",
+      "source": "Yonhap (EN)",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": true,
+      "published": "2026-11-06T01:55:51+00:00",
+      "published_ts": 1793930151.0
+    }
+  ]
 }
