@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T23:24:07.578817+00:00",
-  "total": 2,
+  "updated_at": "2026-11-07T03:01:25.915060+00:00",
+  "total": 5,
   "highlight_count": 1,
   "sources": [
     {
@@ -12,13 +12,13 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,39 @@
     }
   ],
   "items": [
+    {
+      "title": "中 \"네팔서 인도 국경 넘은 중국인 체포…접경지 방문 자제\"",
+      "link": "https://www.yna.co.kr/view/AKR20261107024100083",
+      "summary": "(베이징=연합뉴스) 김현정 특파원 = 중국 정부가 네팔에서 인도 국경을 잘못 넘은 중국인이 인도 국경수비대에 체포됐다며 네팔에 체류 중인 자국민...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-11-07T00:53:21+00:00",
+      "published_ts": 1794012801.0
+    },
+    {
+      "title": "Rehabilitating Children",
+      "link": "https://risingnepaldaily.com/news/88490",
+      "summary": "One of the most heart-breaking aspects of the devastating Rasuwa flood, for me, was the news that many children had lost...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-07T00:38:57+00:00",
+      "published_ts": 1794011937.0
+    },
+    {
+      "title": "‘We do not need sympathy; climate finance is our right’",
+      "link": "https://english.onlinekhabar.com/climate-finance-cop-geeta-chaudhary.html",
+      "summary": "The 31st United Nations Climate Change Conference (COP31) is scheduled to take place in Türkiye from November 9 to 20, bringing renewed attention to the growing climate crisis and its disproportionate impact on vulnerable countries such as Nepal. Coming just two and a half months after the devastating August 26 floods in Rasuwa, the conference […] The post ‘We do not need sympathy; climate finance",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-07T00:15:00+00:00",
+      "published_ts": 1794010500.0
+    },
     {
       "title": "Nepali Congress to provide warm clothes and mental health counselling to flood-hit communities",
       "link": "https://english.onlinekhabar.com/nepali-congress-to-provide-warm-clothes-and-mental-health-counselling-to-flood-hit-communities.html",
