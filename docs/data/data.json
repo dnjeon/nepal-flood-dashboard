@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T09:34:02.726045+00:00",
-  "total": 3,
+  "updated_at": "2026-11-08T16:17:26.387941+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-11-08T07:14:18+00:00",
       "published_ts": 1794122058.0
-    },
-    {
-      "title": "Disaster authority publishes verified details of 2,294 people missing in Bhotekoshi floods",
-      "link": "https://english.onlinekhabar.com/ndrrma-details-missing-bhotekoshi-floods.html",
-      "summary": "Kathmandu, November 8 The National Disaster Risk Reduction and Management Authority (NDRRMA) has published verified details of 2,294 people from 32 districts who went missing in the Bhotekoshi floods. The authority said it had released only the details verified by the District Disaster Risk Reduction and Management Committees in the 32 districts. According to the […] The post Disaster authority pu",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-08T06:04:06+00:00",
-      "published_ts": 1794117846.0
     },
     {
       "title": "From flood-hit areas to crime scenes, Nepal’s police dogs sniff out vital clues",
