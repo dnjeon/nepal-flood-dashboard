@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-08T02:44:55.819869+00:00",
+  "updated_at": "2026-11-08T09:34:02.726045+00:00",
   "total": 3,
-  "highlight_count": 1,
+  "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Yonhap (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,37 +54,37 @@
   ],
   "items": [
     {
-      "title": "‘We do not need sympathy; climate finance is our right’",
-      "link": "https://english.onlinekhabar.com/climate-finance-cop-geeta-chaudhary.html",
-      "summary": "The 31st United Nations Climate Change Conference (COP31) is scheduled to take place in Türkiye from November 9 to 20, bringing renewed attention to the growing climate crisis and its disproportionate impact on vulnerable countries such as Nepal. Coming just two and a half months after the devastating August 26 floods in Rasuwa, the conference […] The post ‘We do not need sympathy; climate finance",
+      "title": "Uttargaya confirms 655 deaths linked to Rasuwa Flood",
+      "link": "https://english.onlinekhabar.com/uttargaya-confirms-655-deaths-linked-to-rasuwa-flood.html",
+      "summary": "Kathmandu, November 8 The number of people killed or missing in the flood that struck Uttargaya Rural Municipality in Rasuwa on August 26 has been established. Of those reported missing across the rural municipality, only 11 have been identified, while death registration proceedings are underway for 655 people. Uttargaya Rural Municipality Chairperson Madhav Aryal said […] The post Uttargaya confi",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-07T00:15:00+00:00",
-      "published_ts": 1794010500.0
+      "published": "2026-11-08T07:14:18+00:00",
+      "published_ts": 1794122058.0
     },
     {
-      "title": "Nepali Congress to provide warm clothes and mental health counselling to flood-hit communities",
-      "link": "https://english.onlinekhabar.com/nepali-congress-to-provide-warm-clothes-and-mental-health-counselling-to-flood-hit-communities.html",
-      "summary": "Kathmandu, November 6 The Nepali Congress has decided to launch a campaign to distribute warm clothes and provide mental health counselling to people affected by the Bhotekoshi–Trishuli floods and landslides in Rasuwa, Dhading and Nuwakot districts. A meeting held at the party’s central office in BP Nagar, Lalitpur, on Wednesday in the presence of party […] The post Nepali Congress to provide warm",
+      "title": "Disaster authority publishes verified details of 2,294 people missing in Bhotekoshi floods",
+      "link": "https://english.onlinekhabar.com/ndrrma-details-missing-bhotekoshi-floods.html",
+      "summary": "Kathmandu, November 8 The National Disaster Risk Reduction and Management Authority (NDRRMA) has published verified details of 2,294 people from 32 districts who went missing in the Bhotekoshi floods. The authority said it had released only the details verified by the District Disaster Risk Reduction and Management Committees in the 32 districts. According to the […] The post Disaster authority pu",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-06T11:35:12+00:00",
-      "published_ts": 1793964912.0
+      "published": "2026-11-08T06:04:06+00:00",
+      "published_ts": 1794117846.0
     },
     {
-      "title": "Lions holding edge in Korean Series bullpen battle despite missing star closer",
-      "link": "https://en.yna.co.kr/view/AEN20261106003500315",
-      "summary": "DAEGU, Nov. 6 (Yonhap) -- Before the Korean Series started this week, it appeare...",
-      "source": "Yonhap (EN)",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": true,
-      "published": "2026-11-06T01:55:51+00:00",
-      "published_ts": 1793930151.0
+      "title": "From flood-hit areas to crime scenes, Nepal’s police dogs sniff out vital clues",
+      "link": "https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues",
+      "summary": "One of 107 dogs in the police force, Leo located two bodies and human remains during a 20-day search after the Bhotekoshi floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
