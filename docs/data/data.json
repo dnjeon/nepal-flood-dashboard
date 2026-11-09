@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-08T23:59:54.810992+00:00",
-  "total": 2,
+  "updated_at": "2026-11-09T05:59:35.126422+00:00",
+  "total": 0,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -52,28 +52,5 @@
       "error": null
     }
   ],
-  "items": [
-    {
-      "title": "Uttargaya confirms 655 deaths linked to Rasuwa Flood",
-      "link": "https://english.onlinekhabar.com/uttargaya-confirms-655-deaths-linked-to-rasuwa-flood.html",
-      "summary": "Kathmandu, November 8 The number of people killed or missing in the flood that struck Uttargaya Rural Municipality in Rasuwa on August 26 has been established. Of those reported missing across the rural municipality, only 11 have been identified, while death registration proceedings are underway for 655 people. Uttargaya Rural Municipality Chairperson Madhav Aryal said […] The post Uttargaya confi",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-08T07:14:18+00:00",
-      "published_ts": 1794122058.0
-    },
-    {
-      "title": "From flood-hit areas to crime scenes, Nepal’s police dogs sniff out vital clues",
-      "link": "https://kathmandupost.com/national/2026/11/08/from-flood-hit-areas-to-crime-scenes-nepal-s-police-dogs-sniff-out-vital-clues",
-      "summary": "One of 107 dogs in the police force, Leo located two bodies and human remains during a 20-day search after the Bhotekoshi floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    }
-  ]
+  "items": []
 }
