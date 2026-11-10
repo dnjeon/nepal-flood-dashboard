@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T07:09:27.655486+00:00",
-  "total": 0,
+  "updated_at": "2026-11-10T15:34:35.862013+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Swarnim Wagle named among TIME’s 100 most influential people in climate action for 2026",
+      "link": "https://english.onlinekhabar.com/swarnim-wagle-time-climate-action.html",
+      "summary": "Kathmandu, November 10 Finance Minister Dr Swarnim Wagle has been named among TIME magazine’s 100 most influential people in climate action for 2026. TIME recognised Wagle for his advocacy for climate justice at international forums following the Bhotekoshi floods, his initiatives to mobilise climate finance and his views on resource management and systemic reforms in […] The post Swarnim Wagle na",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-10T08:43:43+00:00",
+      "published_ts": 1794300223.0
+    }
+  ]
 }
