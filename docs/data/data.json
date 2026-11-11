@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-11T08:01:41.587942+00:00",
-  "total": 2,
+  "updated_at": "2026-11-11T16:05:48.182694+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -63,17 +63,6 @@
       "highlight": false,
       "published": "2026-11-10T08:43:43+00:00",
       "published_ts": 1794300223.0
-    },
-    {
-      "title": "How many Nepalis are one flood away from poverty?",
-      "link": "https://kathmandupost.com/editorial/2026/11/09/one-disaster-away",
-      "summary": "Bhotekoshi flood pushed poverty up 2.7 percentage points. Prevention, not just relief, must be the answer.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
     }
   ]
 }
