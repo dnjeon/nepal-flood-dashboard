@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T00:17:20.251275+00:00",
-  "total": 1,
+  "updated_at": "2026-11-13T06:56:33.717972+00:00",
+  "total": 0,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -52,17 +52,5 @@
       "error": null
     }
   ],
-  "items": [
-    {
-      "title": "Tourist footfall gradually rises in Gosainkunda after floods",
-      "link": "https://english.onlinekhabar.com/tourist-footfall-gradually-rises-in-gosainkunda-after-floods.html",
-      "summary": "Rasuwa, November 12 The number of domestic and foreign tourists visiting Gosainkunda, a renowned religious and natural destination in Rasuwa, has started increasing again as road and trekking route access gradually improves following last September’s floods. Tourism activities had slowed after the Bhotekoshi River flood on August 26 damaged roads and trekking trails. However, the […] The post Tour",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-12T07:59:45+00:00",
-      "published_ts": 1794470385.0
-    }
-  ]
+  "items": []
 }
