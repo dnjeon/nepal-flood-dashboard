@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T07:59:21.139244+00:00",
-  "total": 0,
+  "updated_at": "2026-11-14T14:56:58.108348+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "NCRC appeals for support Bhotekoshi flood-affected children",
+      "link": "https://risingnepaldaily.com/news/88606",
+      "summary": "Kathmandu, Nov 14: The National Child Rights Council has invited charitable organizations and individuals to apply to ta...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-14T09:51:03+00:00",
+      "published_ts": 1794649863.0
+    }
+  ]
 }
