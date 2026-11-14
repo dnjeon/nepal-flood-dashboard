@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T21:25:35.824294+00:00",
-  "total": 0,
+  "updated_at": "2026-11-14T01:34:48.795936+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "한-네팔, 기후변화 협력 기본협정 체결…온실가스 감축 협력",
+      "link": "https://www.yna.co.kr/view/AKR20261114018800504",
+      "summary": "(서울=연합뉴스) 이은정 기자 = 한국과 네팔 정부가 '기후변화 협력을 위한 기본협정'을 체결하고 온실가스 감축과 기후변화 적응을 위한 협력을 ...",
+      "source": "Yonhap 연합뉴스",
+      "flag": "🇰🇷",
+      "country": "KR",
+      "highlight": false,
+      "published": "2026-11-13T23:13:28+00:00",
+      "published_ts": 1794611608.0
+    }
+  ]
 }
