@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T02:18:46.022790+00:00",
-  "total": 1,
+  "updated_at": "2026-11-17T10:51:17.229350+00:00",
+  "total": 0,
   "highlight_count": 0,
   "sources": [
     {
@@ -12,7 +12,7 @@
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -52,17 +52,5 @@
       "error": null
     }
   ],
-  "items": [
-    {
-      "title": "Closure of Tatopani and Rasuwagadhi border points pushes up Nepal-China trade costs",
-      "link": "https://english.onlinekhabar.com/closure-of-tatopani-and-rasuwagadhi-border-points-pushes-up-nepal-china-trade-costs.html",
-      "summary": "Kathmandu, November 16 Nepal’s two major trade points with China, Tatopani and Rasuwagadhi, are currently out of operation, forcing traders to rely increasingly on the Korala border point in Mustang. While the Rasuwagadhi crossing has been disrupted by flooding in the Bhotekoshi River, China has also suspended regular commercial movement through Tatopani. As a result, […] The post Closure of Tatop",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-16T13:35:28+00:00",
-      "published_ts": 1794836128.0
-    }
-  ]
+  "items": []
 }
