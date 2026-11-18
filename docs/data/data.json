@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17T19:37:16.936769+00:00",
-  "total": 0,
+  "updated_at": "2026-11-18T01:51:30.815752+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Flood victims occupy Nepal Electricity Authority land, erect tents",
+      "link": "https://kathmandupost.com/national/2026/11/18/flood-victims-occupy-nepal-electricity-authority-land-erect-tents",
+      "summary": "More than 250 displaced families from Trishuli Bazar cleared the land using an excavator, accusing the government of delaying their rehabilitation.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    }
+  ]
 }
