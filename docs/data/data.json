@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-18T01:51:30.815752+00:00",
-  "total": 1,
+  "updated_at": "2026-11-18T09:44:54.936868+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Flood-displaced families return to Timure and set up temporary tents",
+      "link": "https://english.onlinekhabar.com/flood-displaced-families-return-to-timure-and-set-up-temporary-tents.html",
+      "summary": "Rasuwa, November 18 People displaced by the flood in the Lhende River on August 26 have returned to their homes in Timure, Rasuwa, and begun living in temporary tents. Of the 68 displaced households, 48 people have been living in tents set up at Khaidi in Timure since November 17. Following the flood, some survivors […] The post Flood-displaced families return to Timure and set up temporary tents ",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-18T09:24:41+00:00",
+      "published_ts": 1794993881.0
+    },
+    {
+      "title": "Nepal urges China to reopen Tatopani border crossing",
+      "link": "https://kathmandupost.com/national/2026/11/18/nepal-urges-china-to-reopen-tatopani-border-crossing",
+      "summary": "Foreign Minister Shisir Khanal tells a visiting Chinese delegation that the crossing is crucial to connectivity, as the Rasuwagadhi route remains shut following the August floods.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
     {
       "title": "Flood victims occupy Nepal Electricity Authority land, erect tents",
       "link": "https://kathmandupost.com/national/2026/11/18/flood-victims-occupy-nepal-electricity-authority-land-erect-tents",
