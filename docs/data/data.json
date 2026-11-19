@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-19T07:56:16.783576+00:00",
+  "updated_at": "2026-11-19T17:07:27.640737+00:00",
   "total": 3,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -54,31 +54,31 @@
   ],
   "items": [
     {
-      "title": "WFN and HHRD jointly distribute winter relief to Bhotekoshi flood victims",
-      "link": "https://english.onlinekhabar.com/wfn-and-hhrd-winter-relief.html",
-      "summary": "Kathmandu, November 19 Work for Nepal has distributed winter relief materials to people affected by August’s Bhotekoshi flood, with support from Helping Hands for Relief and Development (HHRD). The relief was provided under the organisation’s winter relief programme. It reached Kalika Rural Municipality in Rasuwa, Gandaki Rural Municipality in Gorkha, and a holding centre in […] The post WFN and H",
+      "title": "Foreign Minister Khanal stresses immediate reopening of Tatopani border point",
+      "link": "https://risingnepaldaily.com/news/88790",
+      "summary": "Kathmandu, Nov 19: In the wake of Rasuwagadhi border point devastated after the August 26 glacial disaster that fully di...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-19T15:57:13+00:00",
+      "published_ts": 1795103833.0
+    },
+    {
+      "title": "China working to provide flood relief, rebuild infrastructure and reopen Kerung border point",
+      "link": "https://english.onlinekhabar.com/china-working-to-open-kerung.html",
+      "summary": "Kathmandu, November 19 China is working to provide relief to people affected by floods in the Rasuwa-Bhotekoshi area, advance reconstruction efforts and reopen the Kerung border point, Yang Wanming, president of the Chinese People’s Association for Friendship with Foreign Countries, has said. Wanming made the remarks during a friendly meeting with Bhaktapur Municipality Mayor Sunil […] The post Ch",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-19T06:52:03+00:00",
-      "published_ts": 1795071123.0
+      "published": "2026-11-19T12:03:43+00:00",
+      "published_ts": 1795089823.0
     },
     {
       "title": "Nepal urges China to reopen Tatopani border crossing",
       "link": "https://kathmandupost.com/national/2026/11/18/nepal-urges-china-to-reopen-tatopani-border-crossing",
       "summary": "Foreign Minister Shisir Khanal tells a visiting Chinese delegation that the crossing is crucial to connectivity, as the Rasuwagadhi route remains shut following the August floods.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Flood victims occupy Nepal Electricity Authority land, erect tents",
-      "link": "https://kathmandupost.com/national/2026/11/18/flood-victims-occupy-nepal-electricity-authority-land-erect-tents",
-      "summary": "More than 250 displaced families from Trishuli Bazar cleared the land using an excavator, accusing the government of delaying their rehabilitation.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
