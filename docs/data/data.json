@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-20T04:15:38.799399+00:00",
+  "updated_at": "2026-11-20T13:07:19.380702+00:00",
   "total": 1,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
   ],
   "items": [
     {
-      "title": "China working to provide flood relief, rebuild infrastructure and reopen Kerung border point",
-      "link": "https://english.onlinekhabar.com/china-working-to-open-kerung.html",
-      "summary": "Kathmandu, November 19 China is working to provide relief to people affected by floods in the Rasuwa-Bhotekoshi area, advance reconstruction efforts and reopen the Kerung border point, Yang Wanming, president of the Chinese People’s Association for Friendship with Foreign Countries, has said. Wanming made the remarks during a friendly meeting with Bhaktapur Municipality Mayor Sunil […] The post Ch",
-      "source": "Online Khabar (EN)",
+      "title": "Lack of verified data delays scholarships for flood-hit students",
+      "link": "https://kathmandupost.com/national/2026/11/20/lack-of-verified-data-delays-scholarships-for-flood-hit-students",
+      "summary": "Nearly three months after the Bhotekoshi catastrophe, the government has approved scholarships for 27 students, but the number of other children who lost their parents or homes remains unknown.",
+      "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-19T12:03:43+00:00",
-      "published_ts": 1795089823.0
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
