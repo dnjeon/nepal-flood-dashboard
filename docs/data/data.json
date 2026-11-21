@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-21T02:09:01.795233+00:00",
-  "total": 2,
+  "updated_at": "2026-11-21T09:46:10.511755+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -53,6 +53,28 @@
     }
   ],
   "items": [
+    {
+      "title": "Can Balen bring India and China together on climate cooperation?",
+      "link": "https://english.onlinekhabar.com/balen-india-and-china-together.html",
+      "summary": "In the aftermath of the catastrophic Rasuwa-Gyirong flash flood, Prime Minister Balendra Shah proposed that Nepal, India and China work together to address climate-related disasters in the Himalayas. In his address to the United Nations, he called for a Himalayan Climate Resilience Mechanism focused on mountain observation, information-sharing and early-warning systems. “Through this mechanism, le",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-21T04:15:00+00:00",
+      "published_ts": 1795234500.0
+    },
+    {
+      "title": "Resettling disaster survivors takes more than finding them new homes",
+      "link": "https://kathmandupost.com/national/2026/11/21/resettling-disaster-survivors-takes-more-than-finding-them-new-homes",
+      "summary": "Past relocation schemes have left families in unsafe settlements or driven them home. A 55-year-old settlement in Kanchanpur offers lessons as the government plans to relocate Bhotekoshi flood survivors.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
+    },
     {
       "title": "Months after Bhotekoshi floods, families still await bodies and closure",
       "link": "https://kathmandupost.com/national/2026/11/20/months-after-bhotekoshi-floods-families-still-await-bodies-and-closure",
