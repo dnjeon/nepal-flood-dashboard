@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-21T16:58:52.523381+00:00",
-  "total": 5,
+  "updated_at": "2026-11-21T22:07:05.828751+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
@@ -36,7 +36,7 @@
     {
       "name": "Yonhap 연합뉴스",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": null
     },
     {
@@ -53,17 +53,6 @@
     }
   ],
   "items": [
-    {
-      "title": "엄홍길휴먼재단, 네팔 휴먼스쿨 2곳에 교육물품 전달",
-      "link": "https://www.yna.co.kr/view/AKR20261121046500371",
-      "summary": "(서울=연합뉴스) 김지선 기자 = 엄홍길휴먼재단(이사장 이재후)은 네팔 휴먼스쿨 2곳을 차례로 방문해 교육 물품을 전달했다고 21일 밝혔다.",
-      "source": "Yonhap 연합뉴스",
-      "flag": "🇰🇷",
-      "country": "KR",
-      "highlight": false,
-      "published": "2026-11-21T09:53:21+00:00",
-      "published_ts": 1795254801.0
-    },
     {
       "title": "Can Balen bring India and China together on climate cooperation?",
       "link": "https://english.onlinekhabar.com/balen-india-and-china-together.html",
