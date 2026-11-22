@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-22T02:10:37.390403+00:00",
-  "total": 4,
+  "updated_at": "2026-11-22T09:53:25.690318+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 3,
+      "count": 1,
       "error": null
     },
     {
@@ -54,42 +54,20 @@
   ],
   "items": [
     {
-      "title": "Can Balen bring India and China together on climate cooperation?",
-      "link": "https://english.onlinekhabar.com/balen-india-and-china-together.html",
-      "summary": "In the aftermath of the catastrophic Rasuwa-Gyirong flash flood, Prime Minister Balendra Shah proposed that Nepal, India and China work together to address climate-related disasters in the Himalayas. In his address to the United Nations, he called for a Himalayan Climate Resilience Mechanism focused on mountain observation, information-sharing and early-warning systems. “Through this mechanism, le",
+      "title": "TU to waive 16 types of fees for Rasuwa flood-affected students",
+      "link": "https://english.onlinekhabar.com/tu-rasuwa-flood-affected-students.html",
+      "summary": "Kathmandu, November 22 Tribhuvan University (TU) has decided to waive fees for students displaced by the Bhotekoshi flood in Rasuwa. The waiver will apply to flood-affected students already studying in TU’s annual or semester systems, as well as those who wish to enrol newly. They will receive the waiver after the concerned local body recommends […] The post TU to waive 16 types of fees for Rasuwa",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-21T04:15:00+00:00",
-      "published_ts": 1795234500.0
+      "published": "2026-11-22T08:14:53+00:00",
+      "published_ts": 1795335293.0
     },
     {
       "title": "Nepal has failed disaster survivors before. Can Bhotekoshi be different?",
       "link": "https://kathmandupost.com/national/2026/11/21/resettling-disaster-survivors-takes-more-than-finding-them-new-homes",
       "summary": "Past relocation schemes have left families in unsafe settlements or driven them home. A 55-year-old settlement in Kanchanpur offers lessons as the government plans to relocate Bhotekoshi flood survivors.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Months after Bhotekoshi floods, families still await bodies and closure",
-      "link": "https://kathmandupost.com/national/2026/11/20/months-after-bhotekoshi-floods-families-still-await-bodies-and-closure",
-      "summary": "DNA matches alone cannot establish which missing family member the recovered remains belong to, and this has delayed identification and the return of bodies.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Lack of verified data delays scholarships for flood-hit students",
-      "link": "https://kathmandupost.com/national/2026/11/20/lack-of-verified-data-delays-scholarships-for-flood-hit-students",
-      "summary": "Nearly three months after the Bhotekoshi catastrophe, the government has approved scholarships for 27 students, but the number of other children who lost their parents or homes remains unknown.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
