@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26T04:31:11.101034+00:00",
-  "total": 0,
+  "updated_at": "2026-11-26T14:24:03.027445+00:00",
+  "total": 1,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
@@ -52,5 +52,17 @@
       "error": null
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Minister Badi reaches Rasuwa to check on condition of flood-affected communities",
+      "link": "https://risingnepaldaily.com/news/89058",
+      "summary": "Rasuwa, Nov 26: Minister for Women, Children, Gender and Sexual Minorities, and Social Security, Sita Badi, has come to...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-26T10:10:20+00:00",
+      "published_ts": 1795687820.0
+    }
+  ]
 }
