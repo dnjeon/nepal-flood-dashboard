@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-26T23:11:05.115841+00:00",
-  "total": 1,
+  "updated_at": "2026-11-27T05:07:07.005126+00:00",
+  "total": 4,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": null
     },
     {
@@ -54,15 +54,48 @@
   ],
   "items": [
     {
-      "title": "Minister Badi reaches Rasuwa to check on condition of flood-affected communities",
-      "link": "https://risingnepaldaily.com/news/89058",
-      "summary": "Rasuwa, Nov 26: Minister for Women, Children, Gender and Sexual Minorities, and Social Security, Sita Badi, has come to...",
+      "title": "Bhotekoshi flood: Affected children to receive Rs 17,500 in monthly assistance",
+      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-affected-children-to-receive-rs-17500-in-monthly-assistance.html",
+      "summary": "Rasuwa, November 27 The government has launched a long-term protection and care programme for children affected by the Bhotekoshi floods, beginning in Goljungbesi of Ward 5 of Aamachhodingmo Rural Municipality in Rasuwa. The programme was launched on Thursday with financial assistance provided to a 29-year-old postpartum woman who lost her husband in the floods and […] The post Bhotekoshi flood: A",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-27T04:34:21+00:00",
+      "published_ts": 1795754061.0
+    },
+    {
+      "title": "DNA matches offer hope to Rasuwa flood victims’ families, but body identification remains incomplete",
+      "link": "https://english.onlinekhabar.com/dna-flood-victims-identification-incomplete.html",
+      "summary": "Kathmandu, November 26 Three months after the devastating Bhotekoshi flood in Rasuwa, families of those who went missing are still waiting to receive their loved ones’ remains. DNA test results have offered some hope to families searching for missing relatives, but a DNA match alone is not enough to release a body. Authorities must establish […] The post DNA matches offer hope to Rasuwa flood vict",
+      "source": "Online Khabar (EN)",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-27T04:15:00+00:00",
+      "published_ts": 1795752900.0
+    },
+    {
+      "title": "Bhotekoshi: A Call For Climate Justice",
+      "link": "https://risingnepaldaily.com/news/89089",
+      "summary": "From Bhotekoshi to Antalya, Nepal is gaining recognition in global climate negotiations. But unless international commit...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-26T10:10:20+00:00",
-      "published_ts": 1795687820.0
+      "published": "2026-11-27T03:56:53+00:00",
+      "published_ts": 1795751813.0
+    },
+    {
+      "title": "Where the August floods began",
+      "link": "https://kathmandupost.com/visual-stories/2026/11/27/photos-where-the-august-floods-began",
+      "summary": "A massive ice and rock avalanche from Langtang Lirung plunged into the Lhende river on August 26, triggering devastating floods that swept through Rasuwa, Nuwakot and Dhading.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     }
   ]
 }
