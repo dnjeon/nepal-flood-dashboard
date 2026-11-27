@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-11-27T05:07:07.005126+00:00",
-  "total": 4,
+  "updated_at": "2026-11-27T14:58:44.930618+00:00",
+  "total": 5,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
       "name": "Online Khabar (EN)",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": null
     },
     {
@@ -54,37 +54,48 @@
   ],
   "items": [
     {
-      "title": "Bhotekoshi flood: Affected children to receive Rs 17,500 in monthly assistance",
-      "link": "https://english.onlinekhabar.com/bhotekoshi-flood-affected-children-to-receive-rs-17500-in-monthly-assistance.html",
-      "summary": "Rasuwa, November 27 The government has launched a long-term protection and care programme for children affected by the Bhotekoshi floods, beginning in Goljungbesi of Ward 5 of Aamachhodingmo Rural Municipality in Rasuwa. The programme was launched on Thursday with financial assistance provided to a 29-year-old postpartum woman who lost her husband in the floods and […] The post Bhotekoshi flood: A",
+      "title": "Insurance payouts complicated as vehicles damaged in Bhotekoshi floods remain missing",
+      "link": "https://english.onlinekhabar.com/insurance-payouts-complicated-as-vehicles-damaged-in-bhotekoshi-floods-remain-missing.html",
+      "summary": "Kathmandu, November 27 Legal and technical complications have emerged in the insurance claim process for vehicles swept away by the devastating Rasuwa-Bhotekoshi floods, as their physical remains have not been recovered. A total of 409 vehicles were found to have been damaged in the devastating floods that occurred on Bhadra 10. The disaster also resulted […] The post Insurance payouts complicated",
       "source": "Online Khabar (EN)",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-27T04:34:21+00:00",
-      "published_ts": 1795754061.0
+      "published": "2026-11-27T09:47:03+00:00",
+      "published_ts": 1795772823.0
     },
     {
-      "title": "DNA matches offer hope to Rasuwa flood victims’ families, but body identification remains incomplete",
-      "link": "https://english.onlinekhabar.com/dna-flood-victims-identification-incomplete.html",
-      "summary": "Kathmandu, November 26 Three months after the devastating Bhotekoshi flood in Rasuwa, families of those who went missing are still waiting to receive their loved ones’ remains. DNA test results have offered some hope to families searching for missing relatives, but a DNA match alone is not enough to release a body. Authorities must establish […] The post DNA matches offer hope to Rasuwa flood vict",
-      "source": "Online Khabar (EN)",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-27T04:15:00+00:00",
-      "published_ts": 1795752900.0
-    },
-    {
-      "title": "Bhotekoshi: A Call For Climate Justice",
-      "link": "https://risingnepaldaily.com/news/89089",
-      "summary": "From Bhotekoshi to Antalya, Nepal is gaining recognition in global climate negotiations. But unless international commit...",
+      "title": "Two Chinese nationals nabbed with unaccounted money",
+      "link": "https://risingnepaldaily.com/news/89107",
+      "summary": "Kathmandu, Nov 27: A police team on regular patrol arrested two Chinese citizens from Bhotekoshi Rural Municipality-2 in...",
       "source": "The Rising Nepal",
       "flag": "🇳🇵",
       "country": "NP",
       "highlight": false,
-      "published": "2026-11-27T03:56:53+00:00",
-      "published_ts": 1795751813.0
+      "published": "2026-11-27T08:34:44+00:00",
+      "published_ts": 1795768484.0
+    },
+    {
+      "title": "Bhotekoshi flood survivor children to receive monthly stipend of Rs 17,400",
+      "link": "https://risingnepaldaily.com/news/89103",
+      "summary": "Rasuwa, Nov 27: The government has launched a long-term plan for the protection, care, and support of children affected...",
+      "source": "The Rising Nepal",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": "2026-11-27T06:29:55+00:00",
+      "published_ts": 1795760995.0
+    },
+    {
+      "title": "Bhotekoshi flood victims may get up to Rs800,000 for new homes",
+      "link": "https://kathmandupost.com/national/2026/11/27/bhotekoshi-flood-victims-may-get-up-to-rs800-000-for-new-homes",
+      "summary": "The government plans to provide one-time housing grants based on geographical regions, while families who lost their land will be included in an integrated housing programme.",
+      "source": "The Kathmandu Post",
+      "flag": "🇳🇵",
+      "country": "NP",
+      "highlight": false,
+      "published": null,
+      "published_ts": 0
     },
     {
       "title": "Where the August floods began",
