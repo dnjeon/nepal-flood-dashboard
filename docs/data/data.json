@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-28T04:52:06.118230+00:00",
-  "total": 3,
+  "updated_at": "2026-11-28T13:53:36.216015+00:00",
+  "total": 2,
   "highlight_count": 0,
   "sources": [
     {
       "name": "The Kathmandu Post",
       "ok": true,
-      "count": 2,
+      "count": 1,
       "error": null
     },
     {
@@ -68,17 +68,6 @@
       "title": "Bhotekoshi flood victims may get up to Rs800,000 for new homes",
       "link": "https://kathmandupost.com/national/2026/11/27/bhotekoshi-flood-victims-may-get-up-to-rs800-000-for-new-homes",
       "summary": "The government plans to provide one-time housing grants based on geographical regions, while families who lost their land will be included in an integrated housing programme.",
-      "source": "The Kathmandu Post",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": null,
-      "published_ts": 0
-    },
-    {
-      "title": "Where the August floods began",
-      "link": "https://kathmandupost.com/visual-stories/2026/11/27/photos-where-the-august-floods-began",
-      "summary": "A massive ice and rock avalanche from Langtang Lirung plunged into the Lhende river on August 26, triggering devastating floods that swept through Rasuwa, Nuwakot and Dhading.",
       "source": "The Kathmandu Post",
       "flag": "🇳🇵",
       "country": "NP",
