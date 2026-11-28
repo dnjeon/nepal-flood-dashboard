@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T23:20:23.390579+00:00",
-  "total": 5,
+  "updated_at": "2026-11-28T04:52:06.118230+00:00",
+  "total": 3,
   "highlight_count": 0,
   "sources": [
     {
@@ -18,7 +18,7 @@
     {
       "name": "The Rising Nepal",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": null
     },
     {
@@ -63,28 +63,6 @@
       "highlight": false,
       "published": "2026-11-27T09:47:03+00:00",
       "published_ts": 1795772823.0
-    },
-    {
-      "title": "Two Chinese nationals nabbed with unaccounted money",
-      "link": "https://risingnepaldaily.com/news/89107",
-      "summary": "Kathmandu, Nov 27: A police team on regular patrol arrested two Chinese citizens from Bhotekoshi Rural Municipality-2 in...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-27T08:34:44+00:00",
-      "published_ts": 1795768484.0
-    },
-    {
-      "title": "Bhotekoshi flood survivor children to receive monthly stipend of Rs 17,400",
-      "link": "https://risingnepaldaily.com/news/89103",
-      "summary": "Rasuwa, Nov 27: The government has launched a long-term plan for the protection, care, and support of children affected...",
-      "source": "The Rising Nepal",
-      "flag": "🇳🇵",
-      "country": "NP",
-      "highlight": false,
-      "published": "2026-11-27T06:29:55+00:00",
-      "published_ts": 1795760995.0
     },
     {
       "title": "Bhotekoshi flood victims may get up to Rs800,000 for new homes",
